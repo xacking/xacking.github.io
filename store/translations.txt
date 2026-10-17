@@ -1,0 +1,541 @@
+Ontivo store listing translations (15 languages)
+
+=== Language: en-GB ===
+App name (title): UK Live TV, News & Radio
+Short description: Live TV channels, UK news headlines, radio stations & a daily news quiz
+Full description:
+Ontivo brings UK news, live radio and a daily news quiz together in one simple app, with live TV channels on the way. Read the latest headlines every hour, listen to live radio stations from across the UK, and test what you know with a 5-question quiz every day.
+
+TOP STORIES, UPDATED EVERY HOUR
+• Breaking UK news and headlines from hundreds of trusted publishers
+• Sections for UK, World, Business, Technology, Sport, Entertainment, Health and Science
+• "Catch up in 60 seconds": the key stories of each section at a glance
+• Swipe a story to save it for later or share it with friends
+• Search every story and station
+
+LIVE RADIO
+• Up to 80 live radio stations: news, talk, sport and music
+• Keeps playing in the background and on the lock screen
+• Sleep timer, mini player and quick station switching
+
+LIVE TV
+• Live TV channels are being added country by country. Picture-in-picture and full-screen viewing are built in and ready.
+
+DAILY NEWS QUIZ
+• Today's 5: five quick questions about today's headlines
+• Earn XP, level up and keep your daily streak going
+• Streak savers for the days you miss
+
+MADE FOR YOU
+• 20 editions, including the UK, the US, Canada, Australia, Germany, Japan and more, each in its own language
+• Breaking news alerts for the biggest stories only
+• Light and dark mode
+• No account or sign-up needed
+
+Ontivo shows headlines and links to the original publishers; tap any story to read it in full on the publisher's website. Radio streams come from each station.
+
+Questions or ideas? Write to verxion@proton.me
+
+=== Language: en-AU ===
+App name (title): Aussie Live TV, News & Radio
+Short description: Live TV, Australian news headlines, radio stations & a daily news quiz
+Full description:
+Ontivo brings Australian news, live radio and a daily news quiz together in one simple app, with live TV channels on the way. Read the latest headlines every hour, listen to live radio stations from across Australia, and test what you know with a 5-question quiz every day.
+
+TOP STORIES, UPDATED EVERY HOUR
+• Breaking Australian news and headlines from hundreds of trusted publishers
+• Sections for Australia, World, Business, Technology, Sport, Entertainment, Health and Science
+• "Catch up in 60 seconds": the key stories of each section at a glance
+• Swipe a story to save it for later or share it with friends
+• Search every story and station
+
+LIVE RADIO
+• Up to 80 live radio stations: news, talk, sport and music
+• Keeps playing in the background and on the lock screen
+• Sleep timer, mini player and quick station switching
+
+LIVE TV
+• Live TV channels are being added country by country. Picture-in-picture and full-screen viewing are built in and ready.
+
+DAILY NEWS QUIZ
+• Today's 5: five quick questions about today's headlines
+• Earn XP, level up and keep your daily streak going
+• Streak savers for the days you miss
+
+MADE FOR YOU
+• 20 editions, including Australia, the UK, the US, Canada, Germany, Japan and more, each in its own language
+• Breaking news alerts for the biggest stories only
+• Light and dark mode
+• No account or sign-up needed
+
+Ontivo shows headlines and links to the original publishers; tap any story to read it in full on the publisher's website. Radio streams come from each station.
+
+Questions or ideas? Write to verxion@proton.me
+
+=== Language: en-CA ===
+App name (title): Canada Live TV, News & Radio
+Short description: Live TV, Canadian news headlines, radio stations & a daily news quiz
+Full description:
+Ontivo brings Canadian news, live radio and a daily news quiz together in one simple app, with live TV channels on the way. Read the latest headlines every hour, listen to live radio stations from across Canada, and test what you know with a 5-question quiz every day.
+
+TOP STORIES, UPDATED EVERY HOUR
+• Breaking Canadian news and headlines from hundreds of trusted publishers
+• Sections for Canada, World, Business, Technology, Sports, Entertainment, Health and Science
+• "Catch up in 60 seconds": the key stories of each section at a glance
+• Swipe a story to save it for later or share it with friends
+• Search every story and station
+
+LIVE RADIO
+• Up to 80 live radio stations: news, talk, sports and music
+• Keeps playing in the background and on the lock screen
+• Sleep timer, mini player and quick station switching
+
+LIVE TV
+• Live TV channels are being added country by country. Picture-in-picture and full-screen viewing are built in and ready.
+
+DAILY NEWS QUIZ
+• Today's 5: five quick questions about today's headlines
+• Earn XP, level up and keep your daily streak going
+• Streak savers for the days you miss
+
+MADE FOR YOU
+• 20 editions, including Canada, the US, the UK, Australia, Germany, Japan and more, each in its own language
+• Breaking news alerts for the biggest stories only
+• Light and dark mode
+• No account or sign-up needed
+
+Ontivo shows headlines and links to the original publishers; tap any story to read it in full on the publisher's website. Radio streams come from each station.
+
+Questions or ideas? Write to verxion@proton.me
+
+=== Language: en-SG ===
+App name (title): Singapore TV, News & Radio
+Short description: Live TV, Singapore news headlines, radio stations & a daily news quiz
+Full description:
+Ontivo brings Singapore news, live radio and a daily news quiz together in one simple app, with live TV channels on the way. Read the latest headlines every hour, listen to live radio stations from across Singapore, and test what you know with a 5-question quiz every day.
+
+TOP STORIES, UPDATED EVERY HOUR
+• Breaking Singapore news and headlines from hundreds of trusted publishers
+• Sections for Singapore, World, Business, Technology, Sport, Entertainment, Health and Science
+• "Catch up in 60 seconds": the key stories of each section at a glance
+• Swipe a story to save it for later or share it with friends
+• Search every story and station
+
+LIVE RADIO
+• Up to 80 live radio stations: news, talk, sport and music
+• Keeps playing in the background and on the lock screen
+• Sleep timer, mini player and quick station switching
+
+LIVE TV
+• Live TV channels are being added country by country. Picture-in-picture and full-screen viewing are built in and ready.
+
+DAILY NEWS QUIZ
+• Today's 5: five quick questions about today's headlines
+• Earn XP, level up and keep your daily streak going
+• Streak savers for the days you miss
+
+MADE FOR YOU
+• 20 editions, including Singapore, the UK, the US, Australia, Canada, Japan and more, each in its own language
+• Breaking news alerts for the biggest stories only
+• Light and dark mode
+• No account or sign-up needed
+
+Ontivo shows headlines and links to the original publishers; tap any story to read it in full on the publisher's website. Radio streams come from each station.
+
+Questions or ideas? Write to verxion@proton.me
+
+=== Language: ja-JP ===
+App name (title): 日本のニュース・テレビ・ラジオ
+Short description: 最新ニュース、テレビ、ラジオをひとつに。毎日のニュースクイズで楽しく続く
+Full description:
+Ontivoは、日本のニュース、ラジオのライブ配信、毎日のニュースクイズをひとつにまとめたシンプルなアプリです。テレビのライブ配信チャンネルも順次追加予定。1時間ごとに更新される最新ニュースを読み、全国のラジオ局をライブで聴き、毎日5問のクイズで知識を試せます。
+
+1時間ごとに更新されるトップニュース
+• 数百の信頼できる配信元から届く、日本の速報ニュースと見出し
+• 国内、国際、経済、テクノロジー、スポーツ、エンタメ、健康、科学の各カテゴリー
+• 「60秒でキャッチアップ」：各カテゴリーの主要ニュースをひと目で
+• スワイプでニュースを「あとで読む」に保存、または友だちと共有
+• すべてのニュースとラジオ局を検索
+
+ラジオのライブ配信
+• 最大80のラジオ局をライブで：ニュース、トーク、スポーツ、音楽
+• バックグラウンドやロック画面でも再生を継続
+• スリープタイマー、ミニプレーヤー、すばやい局の切り替え
+
+テレビのライブ配信
+• テレビのライブチャンネルは国ごとに順次追加中です。ピクチャー・イン・ピクチャーと全画面表示にはすでに対応しています。
+
+毎日のニュースクイズ
+• 今日の5問：今日のニュースに関する5つのクイック問題
+• XPを獲得してレベルアップ、毎日の連続記録をキープ
+• 答えられなかった日も連続記録を守れる保護機能
+
+あなたのための機能
+• 日本、アメリカ、イギリス、カナダ、オーストラリア、ドイツなど20のエディションを、それぞれの言語で
+• 速報通知は大きなニュースのときだけ
+• ライトモードとダークモード
+• アカウント登録は不要
+
+Ontivoは見出しを表示し、元の配信元へリンクします。ニュースをタップすると、配信元のウェブサイトで全文を読めます。ラジオのストリームは各放送局から配信されています。
+
+ご質問やご意見は verxion@proton.me までお寄せください。
+
+=== Language: ko-KR ===
+App name (title): 한국 뉴스·실시간 TV·라디오
+Short description: 실시간 TV, 뉴스 속보, 라디오와 매일 뉴스 퀴즈를 한 앱에서
+Full description:
+Ontivo는 한국 뉴스, 실시간 라디오, 매일 뉴스 퀴즈를 하나의 간편한 앱에 담았습니다. 실시간 TV 채널도 순차적으로 추가될 예정입니다. 매시간 업데이트되는 주요 뉴스를 읽고, 전국의 라디오 방송을 실시간으로 듣고, 매일 5문제 퀴즈로 시사 상식을 확인해 보세요.
+
+매시간 업데이트되는 주요 뉴스
+• 수백 개의 신뢰할 수 있는 언론사가 전하는 한국 뉴스 속보와 헤드라인
+• 국내, 국제, 경제, 기술, 스포츠, 연예, 건강, 과학 섹션
+• '60초 따라잡기': 섹션별 핵심 뉴스를 한눈에
+• 기사를 스와이프해 나중에 읽도록 저장하거나 친구와 공유
+• 모든 기사와 방송국 검색
+
+실시간 라디오
+• 최대 80개의 실시간 라디오 방송: 뉴스, 시사·토크, 스포츠, 음악
+• 백그라운드와 잠금 화면에서도 계속 재생
+• 수면 타이머, 미니 플레이어, 빠른 방송국 전환
+
+실시간 TV
+• 실시간 TV 채널은 국가별로 순차 추가되고 있습니다. 화면 속 화면과 전체 화면 시청 기능은 이미 준비되어 있습니다.
+
+매일 뉴스 퀴즈
+• 오늘의 5문제: 오늘의 헤드라인에 관한 짧은 퀴즈 5개
+• XP를 모아 레벨업하고 매일 연속 기록을 이어가세요
+• 놓친 날을 위한 연속 기록 보호 기능
+
+나를 위한 기능
+• 한국, 미국, 영국, 캐나다, 호주, 독일, 일본 등 20개 에디션을 각 나라의 언어로
+• 중요한 뉴스만 알려주는 속보 알림
+• 라이트 모드와 다크 모드
+• 계정이나 회원가입 필요 없음
+
+Ontivo는 헤드라인을 보여주고 원래 언론사로 연결합니다. 기사를 탭하면 언론사 웹사이트에서 전문을 읽을 수 있습니다. 라디오 스트림은 각 방송국에서 제공합니다.
+
+문의나 아이디어가 있으면 verxion@proton.me로 보내주세요.
+
+=== Language: zh-HK ===
+App name (title): 香港新聞・直播電視・電台
+Short description: 香港即時新聞、直播電視、電台直播，加上每日新聞問答
+Full description:
+Ontivo 將香港新聞、電台直播及每日新聞問答集合於一個簡單易用的 App，直播電視頻道亦會陸續加入。每小時掌握最新頭條，收聽全港電台直播，每日以 5 條問題考考自己。
+
+每小時更新的頭條新聞
+• 來自數百個可信新聞機構的香港即時新聞及頭條
+• 本地、國際、財經、科技、體育、娛樂、健康及科學分類
+• 「60 秒追上進度」：一眼看清各分類的重點新聞
+• 向側掃動新聞即可儲存稍後再看，或與朋友分享
+• 搜尋所有新聞及電台
+
+電台直播
+• 多達 80 個電台直播：新聞、清談、體育及音樂
+• 可在背景及鎖定畫面持續播放
+• 睡眠定時器、迷你播放器及快速切換電台
+
+直播電視
+• 直播電視頻道正按國家及地區逐步加入。子母畫面及全螢幕觀看功能已準備就緒。
+
+每日新聞問答
+• 今日 5 題：五條關於今日頭條的快問快答
+• 賺取 XP、升級，保持每日連續紀錄
+• 錯過的日子也有連續紀錄保護
+
+為你而設
+• 20 個版本，包括香港、美國、英國、加拿大、澳洲、德國、日本等，各以當地語言呈現
+• 突發新聞通知只推送重大新聞
+• 淺色及深色模式
+• 毋須帳戶或登記
+
+Ontivo 顯示新聞標題並連結至原出版機構；點按任何新聞即可在出版機構網站閱讀全文。電台串流由各電台提供。
+
+如有問題或建議，歡迎電郵至 verxion@proton.me
+
+=== Language: de-DE ===
+App name (title): Deutschland: TV, News & Radio
+Short description: Live-TV, aktuelle Nachrichten, Radiosender & ein tägliches News-Quiz
+Full description:
+Ontivo vereint Nachrichten aus Deutschland, Live-Radio und ein tägliches News-Quiz in einer einfachen App – Live-TV-Sender folgen nach und nach. Lies stündlich die wichtigsten Schlagzeilen, höre Radiosender live aus ganz Deutschland und teste dein Wissen jeden Tag mit 5 Quizfragen.
+
+TOP-THEMEN, STÜNDLICH AKTUALISIERT
+• Aktuelle Nachrichten und Eilmeldungen aus Deutschland von Hunderten vertrauenswürdigen Medien
+• Ressorts: Inland, Ausland, Wirtschaft, Technik, Sport, Unterhaltung, Gesundheit und Wissenschaft
+• „In 60 Sekunden auf dem Laufenden“: die wichtigsten Meldungen jedes Ressorts auf einen Blick
+• Artikel wischen, um sie für später zu speichern oder mit Freunden zu teilen
+• Alle Artikel und Sender durchsuchen
+
+LIVE-RADIO
+• Bis zu 80 Radiosender live: Nachrichten, Talk, Sport und Musik
+• Läuft im Hintergrund und auf dem Sperrbildschirm weiter
+• Sleep-Timer, Mini-Player und schneller Senderwechsel
+
+LIVE-TV
+• Live-TV-Sender werden Land für Land hinzugefügt. Bild-im-Bild und Vollbild sind bereits integriert.
+
+TÄGLICHES NEWS-QUIZ
+• Die 5 des Tages: fünf schnelle Fragen zu den heutigen Schlagzeilen
+• Sammle XP, steige im Level auf und halte deine Tagesserie am Laufen
+• Serienschutz für Tage, an denen du aussetzt
+
+FÜR DICH GEMACHT
+• 20 Ausgaben, darunter Deutschland, Österreich und die Schweiz mit eigenen Ausgaben sowie die USA, Großbritannien, Japan und mehr, jeweils in der eigenen Sprache
+• Eilmeldungen nur bei den wichtigsten Nachrichten
+• Heller und dunkler Modus
+• Kein Konto und keine Registrierung nötig
+
+Ontivo zeigt Schlagzeilen und verlinkt auf die ursprünglichen Medien; tippe auf einen Artikel, um ihn vollständig auf der Website des Verlags zu lesen. Die Radiostreams stammen von den jeweiligen Sendern.
+
+Fragen oder Ideen? Schreib an verxion@proton.me
+
+=== Language: nl-NL ===
+App name (title): Nederland: Nieuws, TV & Radio
+Short description: Live tv, het laatste nieuws, radiozenders en een dagelijkse nieuwsquiz
+Full description:
+Ontivo brengt Nederlands nieuws, live radio en een dagelijkse nieuwsquiz samen in één eenvoudige app, en live tv-zenders komen eraan. Lees elk uur het laatste nieuws, luister live naar radiozenders uit heel Nederland en test je kennis elke dag met een quiz van 5 vragen.
+
+TOPNIEUWS, ELK UUR BIJGEWERKT
+• Het laatste nieuws en de belangrijkste koppen uit Nederland van honderden betrouwbare uitgevers
+• Rubrieken: Binnenland, Buitenland, Economie, Tech, Sport, Entertainment, Gezondheid en Wetenschap
+• "In 60 seconden bij": de belangrijkste verhalen per rubriek in één oogopslag
+• Veeg een artikel om het te bewaren voor later of te delen met vrienden
+• Zoek in alle artikelen en zenders
+
+LIVE RADIO
+• Tot 80 radiozenders live: nieuws, talk, sport en muziek
+• Speelt door op de achtergrond en op het vergrendelscherm
+• Slaaptimer, miniplayer en snel wisselen van zender
+
+LIVE TV
+• Live tv-zenders worden land voor land toegevoegd. Beeld-in-beeld en volledig scherm zijn al ingebouwd.
+
+DAGELIJKSE NIEUWSQUIZ
+• De 5 van vandaag: vijf snelle vragen over het nieuws van vandaag
+• Verdien XP, stijg in level en houd je dagelijkse reeks vast
+• Reeksbescherming voor de dagen dat je er niet aan toekomt
+
+VOOR JOU GEMAAKT
+• 20 edities, waaronder Nederland, België, de VS, het VK, Duitsland, Japan en meer, elk in de eigen taal
+• Pushmeldingen alleen bij groot nieuws
+• Lichte en donkere modus
+• Geen account of registratie nodig
+
+Ontivo toont koppen en linkt naar de oorspronkelijke uitgevers; tik op een artikel om het volledig te lezen op de website van de uitgever. Radiostreams komen van de zenders zelf.
+
+Vragen of ideeën? Mail naar verxion@proton.me
+
+=== Language: no-NO ===
+App name (title): Norge: Nyheter, TV og radio
+Short description: Siste nyheter, direkte-TV, radiokanaler og en daglig nyhetsquiz
+Full description:
+Ontivo samler norske nyheter, direkte radio og en daglig nyhetsquiz i én enkel app, og direkte-TV-kanaler er på vei. Les siste nytt hver time, lytt til radiokanaler direkte fra hele Norge, og test kunnskapene dine med en quiz på 5 spørsmål hver dag.
+
+SISTE NYTT, OPPDATERT HVER TIME
+• Nyheter og overskrifter fra Norge fra hundrevis av pålitelige utgivere
+• Seksjoner for Innenriks, Utenriks, Økonomi, Teknologi, Sport, Underholdning, Helse og Vitenskap
+• «Oppdatert på 60 sekunder»: de viktigste sakene i hver seksjon med ett blikk
+• Sveip en sak for å lagre den til senere eller dele den med venner
+• Søk i alle saker og kanaler
+
+DIREKTE RADIO
+• Opptil 80 radiokanaler direkte: nyheter, prat, sport og musikk
+• Spiller videre i bakgrunnen og på låseskjermen
+• Søvntimer, minispiller og rask kanalbytting
+
+DIREKTE-TV
+• Direkte-TV-kanaler legges til land for land. Bilde-i-bilde og fullskjerm er allerede innebygd.
+
+DAGLIG NYHETSQUIZ
+• Dagens 5: fem raske spørsmål om dagens nyheter
+• Samle XP, gå opp i nivå og hold rekken din i gang
+• Rekkebeskyttelse for dagene du går glipp av
+
+LAGET FOR DEG
+• 20 utgaver, blant annet Norge, Sverige, Danmark, USA, Storbritannia, Tyskland og flere, hver på sitt eget språk
+• Varsler om siste nytt kun for de største sakene
+• Lys og mørk modus
+• Ingen konto eller registrering nødvendig
+
+Ontivo viser overskrifter og lenker til de opprinnelige utgiverne; trykk på en sak for å lese hele saken på utgiverens nettsted. Radiostrømmene kommer fra hver enkelt kanal.
+
+Spørsmål eller ideer? Skriv til verxion@proton.me
+
+=== Language: sv-SE ===
+App name (title): Sverige: Nyheter, TV & radio
+Short description: Senaste nyheterna, live-TV, radiokanaler och ett dagligt nyhetsquiz
+Full description:
+Ontivo samlar svenska nyheter, radio direkt och ett dagligt nyhetsquiz i en enkel app, och live-TV-kanaler är på väg. Läs de senaste nyheterna varje timme, lyssna på radiokanaler live från hela Sverige och testa dina kunskaper med ett quiz på 5 frågor varje dag.
+
+SENASTE NYTT, UPPDATERAT VARJE TIMME
+• Nyheter och rubriker från Sverige från hundratals pålitliga utgivare
+• Avdelningar för Inrikes, Utrikes, Ekonomi, Teknik, Sport, Nöje, Hälsa och Vetenskap
+• ”Ikapp på 60 sekunder”: de viktigaste nyheterna i varje avdelning med en blick
+• Svep en artikel för att spara den till senare eller dela den med vänner
+• Sök bland alla artiklar och kanaler
+
+LIVE-RADIO
+• Upp till 80 radiokanaler live: nyheter, prat, sport och musik
+• Fortsätter spela i bakgrunden och på låsskärmen
+• Insomningstimer, minispelare och snabbt kanalbyte
+
+LIVE-TV
+• Live-TV-kanaler läggs till land för land. Bild-i-bild och helskärm finns redan inbyggt.
+
+DAGLIGT NYHETSQUIZ
+• Dagens 5: fem snabba frågor om dagens rubriker
+• Samla XP, gå upp i nivå och håll din dagliga svit vid liv
+• Svitskydd för dagarna du missar
+
+GJORT FÖR DIG
+• 20 utgåvor, bland annat Sverige, Norge, Danmark, Finland, USA, Storbritannien, Tyskland och fler, var och en på sitt eget språk
+• Nyhetsnotiser bara för de största nyheterna
+• Ljust och mörkt läge
+• Inget konto eller registrering behövs
+
+Ontivo visar rubriker och länkar till de ursprungliga utgivarna; tryck på en artikel för att läsa hela texten på utgivarens webbplats. Radioströmmarna kommer från respektive kanal.
+
+Frågor eller idéer? Skriv till verxion@proton.me
+
+=== Language: da-DK ===
+App name (title): Danmark: Nyheder, TV & radio
+Short description: Seneste nyheder, live-tv, radiokanaler og en daglig nyhedsquiz
+Full description:
+Ontivo samler danske nyheder, radio direkte og en daglig nyhedsquiz i én enkel app, og live-tv-kanaler er på vej. Læs de seneste nyheder hver time, lyt til radiokanaler direkte fra hele Danmark, og test din viden med en quiz på 5 spørgsmål hver dag.
+
+SENESTE NYT, OPDATERET HVER TIME
+• Nyheder og overskrifter fra Danmark fra hundredvis af pålidelige udgivere
+• Sektioner for Indland, Udland, Erhverv, Teknologi, Sport, Underholdning, Sundhed og Videnskab
+• "Opdateret på 60 sekunder": de vigtigste historier i hver sektion på et øjeblik
+• Swipe en historie for at gemme den til senere eller dele den med venner
+• Søg i alle historier og kanaler
+
+LIVE-RADIO
+• Op til 80 radiokanaler direkte: nyheder, debat, sport og musik
+• Spiller videre i baggrunden og på låseskærmen
+• Sleep-timer, miniafspiller og hurtigt kanalskift
+
+LIVE-TV
+• Live-tv-kanaler tilføjes land for land. Billede-i-billede og fuld skærm er allerede indbygget.
+
+DAGLIG NYHEDSQUIZ
+• Dagens 5: fem hurtige spørgsmål om dagens overskrifter
+• Optjen XP, stig i niveau og hold din daglige stime i gang
+• Stimebeskyttelse til de dage, du misser
+
+LAVET TIL DIG
+• 20 udgaver, blandt andet Danmark, Norge, Sverige, USA, Storbritannien, Tyskland og flere, hver på sit eget sprog
+• Nyhedsnotifikationer kun ved de største historier
+• Lyst og mørkt tema
+• Ingen konto eller tilmelding nødvendig
+
+Ontivo viser overskrifter og linker til de oprindelige udgivere; tryk på en historie for at læse den i fuld længde på udgiverens hjemmeside. Radiostreams kommer fra de enkelte kanaler.
+
+Spørgsmål eller idéer? Skriv til verxion@proton.me
+
+=== Language: fi-FI ===
+App name (title): Suomi: Uutiset, TV ja radio
+Short description: Tuoreet uutiset, suora TV, radiokanavat ja päivittäinen uutisvisa
+Full description:
+Ontivo kokoaa Suomen uutiset, suorat radiolähetykset ja päivittäisen uutisvisan yhteen helppoon sovellukseen, ja suoran TV:n kanavat ovat tulossa. Lue tuoreimmat uutiset joka tunti, kuuntele radiokanavia suorana kaikkialta Suomesta ja testaa tietosi joka päivä 5 kysymyksen visalla.
+
+PÄÄUUTISET JOKA TUNTI
+• Tuoreet uutiset ja otsikot Suomesta sadoilta luotettavilta julkaisijoilta
+• Osiot: Kotimaa, Ulkomaat, Talous, Teknologia, Urheilu, Viihde, Terveys ja Tiede
+• ”Ajan tasalle 60 sekunnissa”: kunkin osion tärkeimmät uutiset yhdellä silmäyksellä
+• Pyyhkäise uutista tallentaaksesi sen myöhemmäksi tai jakaaksesi sen ystävillesi
+• Hae kaikista uutisista ja kanavista
+
+SUORA RADIO
+• Jopa 80 radiokanavaa suorana: uutiset, keskustelu, urheilu ja musiikki
+• Soi taustalla ja lukitusnäytöllä
+• Uniajastin, minisoitin ja nopea kanavanvaihto
+
+SUORA TV
+• Suoran TV:n kanavia lisätään maa kerrallaan. Kuva kuvassa -tila ja koko näytön katselu ovat jo valmiina.
+
+PÄIVITTÄINEN UUTISVISA
+• Päivän 5: viisi nopeaa kysymystä päivän uutisista
+• Kerää XP:tä, nouse tasoissa ja pidä päivittäinen putkesi käynnissä
+• Putkisuoja päiville, jotka jäävät väliin
+
+SINUA VARTEN
+• 20 versiota, muun muassa Suomi, Ruotsi, Norja, Tanska, Yhdysvallat, Iso-Britannia ja Saksa, kukin omalla kielellään
+• Uutishälytykset vain suurimmista uutisista
+• Vaalea ja tumma tila
+• Ei tiliä eikä rekisteröitymistä
+
+Ontivo näyttää otsikot ja linkittää alkuperäisiin julkaisijoihin; napauta uutista lukeaksesi sen kokonaan julkaisijan verkkosivustolla. Radiolähetykset tulevat suoraan kultakin kanavalta.
+
+Kysymyksiä tai ideoita? Kirjoita osoitteeseen verxion@proton.me
+
+=== Language: ar ===
+App name (title): أخبار الإمارات، تلفزيون وراديو
+Short description: بث مباشر للقنوات، آخر الأخبار، محطات الراديو واختبار أخبار يومي
+Full description:
+يجمع Ontivo أخبار الإمارات والراديو المباشر واختبار الأخبار اليومي في تطبيق واحد سهل الاستخدام، مع قنوات تلفزيون مباشر تُضاف تباعًا. اقرأ آخر الأخبار كل ساعة، واستمع إلى محطات الراديو مباشرةً من مختلف أنحاء الإمارات، واختبر معلوماتك كل يوم بخمسة أسئلة.
+
+أهم الأخبار، تُحدَّث كل ساعة
+• آخر أخبار الإمارات والعناوين العاجلة من مئات الناشرين الموثوقين
+• أقسام للأخبار المحلية والعالمية والاقتصاد والتكنولوجيا والرياضة والترفيه والصحة والعلوم
+• «تابع في 60 ثانية»: أبرز أخبار كل قسم في لمحة
+• اسحب الخبر لحفظه لوقت لاحق أو مشاركته مع أصدقائك
+• ابحث في جميع الأخبار والمحطات
+
+راديو مباشر
+• ما يصل إلى 80 محطة راديو مباشرة: أخبار وحوارات ورياضة وموسيقى
+• يستمر التشغيل في الخلفية وعلى شاشة القفل
+• مؤقت النوم ومشغّل مصغّر وتبديل سريع بين المحطات
+
+تلفزيون مباشر
+• تُضاف قنوات التلفزيون المباشر دولةً تلو الأخرى. ميزتا صورة داخل صورة والعرض بملء الشاشة مدمجتان وجاهزتان.
+
+اختبار الأخبار اليومي
+• خماسية اليوم: خمسة أسئلة سريعة عن عناوين اليوم
+• اكسب نقاط XP وارتقِ في المستويات وحافظ على سلسلتك اليومية
+• حماية السلسلة للأيام التي تفوتك
+
+مصمَّم لك
+• 20 نسخة، منها الإمارات والولايات المتحدة والمملكة المتحدة وكندا وأستراليا وألمانيا واليابان وغيرها، كلٌّ منها بلغتها
+• تنبيهات الأخبار العاجلة لأهم الأحداث فقط
+• الوضع الفاتح والوضع الداكن
+• لا حاجة إلى حساب أو تسجيل
+
+يعرض Ontivo العناوين ويوفّر روابط إلى الناشرين الأصليين؛ اضغط على أي خبر لقراءته كاملًا على موقع الناشر. يأتي بث الراديو من كل محطة مباشرةً.
+
+لديك أسئلة أو أفكار؟ راسلنا على verxion@proton.me
+
+=== Language: fr-FR ===
+App name (title): Infos, TV en direct & Radio
+Short description: TV en direct, actualités, stations de radio et un quiz d’actu chaque jour
+Full description:
+Ontivo réunit l'actualité de votre pays, la radio en direct et un quiz d'actu quotidien dans une seule application simple, avec des chaînes de TV en direct bientôt disponibles. Lisez les infos de l'heure, écoutez des stations de radio en direct et testez vos connaissances chaque jour avec un quiz de 5 questions. Des éditions dédiées existent pour la Belgique et la Suisse.
+
+À LA UNE, MIS À JOUR CHAQUE HEURE
+• L'actualité et les gros titres de centaines d'éditeurs de confiance
+• Rubriques National, International, Économie, Tech, Sport, Divertissement, Santé et Sciences
+• « Rattrapez-vous en 60 secondes » : l'essentiel de chaque rubrique en un coup d'œil
+• Balayez un article pour le garder pour plus tard ou le partager avec vos amis
+• Recherchez parmi tous les articles et toutes les stations
+
+RADIO EN DIRECT
+• Jusqu'à 80 stations de radio en direct : info, débats, sport et musique
+• Lecture en arrière-plan et sur l'écran de verrouillage
+• Minuteur de mise en veille, mini-lecteur et changement rapide de station
+
+TV EN DIRECT
+• Les chaînes de TV en direct sont ajoutées pays par pays. L'image dans l'image et le plein écran sont déjà intégrés.
+
+QUIZ D'ACTU QUOTIDIEN
+• Les 5 du jour : cinq questions rapides sur l'actualité du jour
+• Gagnez des XP, montez de niveau et entretenez votre série quotidienne
+• Protections de série pour les jours où vous ne jouez pas
+
+PENSÉ POUR VOUS
+• 20 éditions, dont la Belgique, la Suisse, le Canada, les États-Unis, le Royaume-Uni et d'autres, chacune dans sa langue
+• Alertes info uniquement pour les grandes actualités
+• Mode clair et mode sombre
+• Aucun compte ni inscription nécessaire
+
+Ontivo affiche les titres et renvoie vers les éditeurs d'origine ; touchez un article pour le lire en entier sur le site de l'éditeur. Les flux radio proviennent de chaque station.
+
+Des questions ou des idées ? Écrivez à verxion@proton.me
