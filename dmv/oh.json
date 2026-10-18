@@ -1,0 +1,4264 @@
+{
+  "code": "oh",
+  "test": "Ohio BMV Driver License Knowledge Test (Class D / temporary permit)",
+  "edition": "Based on the Ohio Driver Manual – Digest of Ohio Motor Vehicle Laws (Ohio Department of Public Safety online edition, sections dated January 26, 2024, as published in October 2026), plus the Ohio Revised Code where noted",
+  "language": "en",
+  "exam": {
+    "questions": 40,
+    "passMark": 30,
+    "minutes": null,
+    "rules": "Ohio's knowledge test is required for a Temporary Instruction Permit Identification Card (TIPIC) and may be taken from age 15 years 6 months, either online through BMV Online Services (with a supervising adult if under 19; two attempts per six months) or in person at a Driver Exam Station or select Deputy Registrar agencies (unlimited attempts, one per day). It has 40 multiple-choice questions on motor vehicle laws and traffic signs and you need 75% (30 correct) to pass; under the Ohio Administrative Code the rules and signs portions are each scored at 75%. A vision screening is also required. If you fail, wait at least 24 hours before retesting. After passing, buy the TIPIC at a Deputy Registrar within 60 days. Applicants under 18 need a parent or guardian to co-sign; drivers under 21 must also complete driver education and 50 logged practice hours before the road test.",
+    "parts": [
+      {
+        "title": "Road rules",
+        "topics": [
+          "licensing",
+          "right-of-way",
+          "speed",
+          "turns",
+          "parking",
+          "sharing",
+          "safety",
+          "alcohol",
+          "emergencies"
+        ],
+        "questions": 20,
+        "passMark": 15
+      },
+      {
+        "title": "Road signs",
+        "topics": [
+          "signs"
+        ],
+        "questions": 20,
+        "passMark": 15
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Ohio Driver Manual – Digest of Motor Vehicle Laws (Ohio Department of Public Safety)",
+      "url": "https://publicsafety.ohio.gov/who-we-are/resources/digest-of-motor-vehicle-laws",
+      "licence": "state government publication (questions written in our own words)",
+      "note": "Primary study source; all 13 sections read (online edition). Section numbers/titles cited in each question's ref."
+    },
+    {
+      "title": "Ohio BMV – Driver License First Issuance / Temporary Permit pages",
+      "url": "https://bmv.ohio.gov/dl-gdl.aspx",
+      "licence": "state government publication (questions written in our own words)",
+      "note": "Current test format: 40 multiple-choice questions on regulations and traffic signs, 75% to pass; retest and online-attempt rules; TIPIC/probationary restrictions."
+    },
+    {
+      "title": "Ohio BMV – Sample Knowledge Test",
+      "url": "https://www.bmv.ohio.gov/dl-sample-test.aspx",
+      "licence": "state government publication (questions written in our own words)",
+      "note": "Used only to understand question style/topics; no sample questions copied."
+    },
+    {
+      "title": "Ohio Administrative Code 4501:1-1-08 (driver license examination)",
+      "url": "https://codes.ohio.gov/ohio-administrative-code/rule-4501:1-1-08",
+      "licence": "state law (public)",
+      "note": "Defines two separately scored written parts (laws/rules and signs), each at least 20 questions with 75% required; basis for exam.parts."
+    },
+    {
+      "title": "Ohio Revised Code 4511.21 (speed limits), 4511.68 (parking), 4511.75 (school bus), 4511.39 (signals), 4513.15 (headlights)",
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4511.21",
+      "licence": "state law (public)",
+      "note": "Used to confirm numbers (speed limits by road type, 30 ft stop-sign / 50 ft railroad parking distances, school bus rule)."
+    }
+  ],
+  "topics": [
+    {
+      "id": "licensing",
+      "title": "Permits & licensing"
+    },
+    {
+      "id": "signs",
+      "title": "Signs, signals & markings"
+    },
+    {
+      "id": "right-of-way",
+      "title": "Right of way"
+    },
+    {
+      "id": "speed",
+      "title": "Speed & following distance"
+    },
+    {
+      "id": "turns",
+      "title": "Turning, lanes & passing"
+    },
+    {
+      "id": "parking",
+      "title": "Parking"
+    },
+    {
+      "id": "sharing",
+      "title": "Sharing the road"
+    },
+    {
+      "id": "safety",
+      "title": "Safe driving & hazards"
+    },
+    {
+      "id": "alcohol",
+      "title": "Alcohol, drugs & penalties"
+    },
+    {
+      "id": "emergencies",
+      "title": "Emergencies & crashes"
+    }
+  ],
+  "questions": [
+    {
+      "id": "oh-001",
+      "topic": "licensing",
+      "q": "What is the youngest age at which you may take the Ohio knowledge test to begin the temporary permit process?",
+      "options": [
+        "14 years and 6 months",
+        "15 years and 6 months",
+        "15 years",
+        "16 years"
+      ],
+      "answer": 1,
+      "explain": "Ohio lets applicants take the vision screening and knowledge test once they reach 15 years and six months of age.",
+      "official": false,
+      "ref": "Ohio Driver Manual / Digest of Ohio Motor Vehicle Laws (ODPS online edition, accessed Oct 2026), Section 1: How to Get Your Driver License — 'Vision Screening and Knowledge Testing'; ORC 4507.05"
+    },
+    {
+      "id": "oh-002",
+      "topic": "licensing",
+      "q": "How many questions are on the Ohio driver license knowledge test?",
+      "options": [
+        "30",
+        "25",
+        "40",
+        "50"
+      ],
+      "answer": 2,
+      "explain": "The Ohio knowledge test has 40 multiple-choice questions covering traffic laws and traffic signs.",
+      "official": false,
+      "ref": "Ohio Driver Manual / Digest of Ohio Motor Vehicle Laws (ODPS online edition, accessed Oct 2026), Section 1: How to Get Your Driver License — 'Knowledge Testing'; bmv.ohio.gov First Issuance page"
+    },
+    {
+      "id": "oh-003",
+      "topic": "licensing",
+      "q": "What score do you need to pass the Ohio knowledge test?",
+      "options": [
+        "At least 75% correct",
+        "At least 85% correct",
+        "At least 80% correct",
+        "At least 70% correct"
+      ],
+      "answer": 0,
+      "explain": "Applicants must answer 75 percent of the questions correctly (30 of 40).",
+      "official": false,
+      "ref": "Ohio Driver Manual / Digest of Ohio Motor Vehicle Laws (ODPS online edition, accessed Oct 2026), Section 1: How to Get Your Driver License — 'Knowledge Testing'; OAC 4501:1-1-08"
+    },
+    {
+      "id": "oh-004",
+      "topic": "licensing",
+      "q": "If you fail the knowledge test at a Driver Exam Station, how soon may you retake it?",
+      "options": [
+        "After 7 days",
+        "Immediately, the same day",
+        "After 30 days",
+        "After waiting at least one day (24 hours)"
+      ],
+      "answer": 3,
+      "explain": "A failed applicant must wait one day before retesting; in-person testing is limited to one attempt per day.",
+      "official": false,
+      "ref": "Ohio Driver Manual / Digest of Ohio Motor Vehicle Laws (ODPS online edition, accessed Oct 2026), Section 1: How to Get Your Driver License — 'Vision Screening and Knowledge Testing'"
+    },
+    {
+      "id": "oh-005",
+      "topic": "licensing",
+      "q": "How many times may you attempt the Ohio knowledge test online?",
+      "options": [
+        "Two attempts in a six-month period",
+        "Unlimited, once per day",
+        "Three attempts in a 30-day period",
+        "One attempt per year"
+      ],
+      "answer": 0,
+      "explain": "Online knowledge testing through BMV Online Services is limited to two attempts in six months; in-person testing has no limit.",
+      "official": false,
+      "ref": "Ohio Driver Manual / Digest of Ohio Motor Vehicle Laws (ODPS online edition, accessed Oct 2026), Section 1: How to Get Your Driver License — 'Knowledge Testing is available in the following ways'"
+    },
+    {
+      "id": "oh-006",
+      "topic": "licensing",
+      "q": "After passing the knowledge test and vision screening, within how many days must you buy your temporary permit (TIPIC)?",
+      "options": [
+        "90 days",
+        "180 days",
+        "30 days",
+        "60 days"
+      ],
+      "answer": 3,
+      "explain": "The TIPIC must be purchased at a Deputy Registrar within 60 days, or the applicant must retake the vision screening and knowledge test.",
+      "official": false,
+      "ref": "Ohio Driver Manual / Digest of Ohio Motor Vehicle Laws (ODPS online edition, accessed Oct 2026), Section 1: How to Get Your Driver License — 'Temporary Instruction Permit Identification Card (TIPIC)'"
+    },
+    {
+      "id": "oh-007",
+      "topic": "licensing",
+      "q": "A 15-year-old permit holder wants to practice driving. Who may sit in the front passenger seat?",
+      "options": [
+        "Any passenger with a temporary permit",
+        "A parent, guardian, custodian, licensed driving instructor, or an adult 21+ acting in place of a parent",
+        "Any licensed driver age 18 or older",
+        "Nobody is required in daylight hours"
+      ],
+      "answer": 1,
+      "explain": "Under age 16, the permit holder must have a parent, guardian, custodian, licensed driving instructor, or a person 21+ acting in loco parentis beside them.",
+      "official": false,
+      "ref": "Ohio Driver Manual / Digest of Ohio Motor Vehicle Laws (ODPS online edition, accessed Oct 2026), Section 1: How to Get Your Driver License — 'TIPIC Restrictions'"
+    },
+    {
+      "id": "oh-008",
+      "topic": "licensing",
+      "q": "A 16-year-old with a temporary permit may practice driving with any licensed driver of what age, except between midnight and 6 a.m.?",
+      "options": [
+        "16 or older",
+        "18 or older",
+        "21 or older",
+        "25 or older"
+      ],
+      "answer": 2,
+      "explain": "Permit holders aged 16–17 may drive with any valid licensed driver 21 or older, except from midnight to 6 a.m., when a parent, guardian or custodian is required.",
+      "official": false,
+      "ref": "Ohio Driver Manual / Digest of Ohio Motor Vehicle Laws (ODPS online edition, accessed Oct 2026), Section 1: How to Get Your Driver License — 'TIPIC Restrictions'"
+    },
+    {
+      "id": "oh-009",
+      "topic": "licensing",
+      "q": "Which is TRUE for every Ohio temporary permit (TIPIC) holder, regardless of age?",
+      "options": [
+        "Only the driver must wear a seat belt",
+        "Back-seat passengers need not wear belts",
+        "Driving alone is allowed in daylight",
+        "Use of any mobile electronic device while driving is prohibited"
+      ],
+      "answer": 3,
+      "explain": "All TIPIC holders must carry the permit, may not use mobile electronic devices, and everyone must be belted; the supervising adult must not be intoxicated.",
+      "official": false,
+      "ref": "Ohio Driver Manual / Digest of Ohio Motor Vehicle Laws (ODPS online edition, accessed Oct 2026), Section 1: How to Get Your Driver License — 'TIPIC Restrictions'"
+    },
+    {
+      "id": "oh-010",
+      "topic": "licensing",
+      "q": "How long must a driver under 18 hold a temporary permit before getting a probationary license?",
+      "options": [
+        "At least three months",
+        "At least one year",
+        "At least six months",
+        "At least 30 days"
+      ],
+      "answer": 2,
+      "explain": "Drivers under age 18 must hold the TIPIC for at least six months before the driving test.",
+      "official": false,
+      "ref": "Ohio Driver Manual / Digest of Ohio Motor Vehicle Laws (ODPS online edition, accessed Oct 2026), Section 1: How to Get Your Driver License — 'Driver Education Requirements (Under Age 21)'"
+    },
+    {
+      "id": "oh-011",
+      "topic": "licensing",
+      "q": "How many hours of supervised practice driving must a driver under 21 log before getting an Ohio license?",
+      "options": [
+        "50 hours, including at least 10 at night",
+        "24 hours, all in daylight",
+        "40 hours, including 5 at night",
+        "60 hours, including 15 at night"
+      ],
+      "answer": 0,
+      "explain": "Drivers under 21 must log 50 hours of driving with an eligible adult, at least 10 of them at night, on form BMV 5791.",
+      "official": false,
+      "ref": "Ohio Driver Manual / Digest of Ohio Motor Vehicle Laws (ODPS online edition, accessed Oct 2026), Section 1: How to Get Your Driver License — 'Driver Education Requirements (Under Age 21)'"
+    },
+    {
+      "id": "oh-012",
+      "topic": "licensing",
+      "q": "Ohio driver education for new drivers under 21 includes how much instruction?",
+      "options": [
+        "4 hours online and 4 hours behind the wheel",
+        "24 hours of classroom/online instruction and 8 hours of driving with an instructor",
+        "8 hours of classroom and 24 hours of driving",
+        "12 hours of classroom only"
+      ],
+      "answer": 1,
+      "explain": "A licensed driver training school course has 24 hours of classroom or online instruction plus 8 hours of driving time.",
+      "official": false,
+      "ref": "Ohio Driver Manual / Digest of Ohio Motor Vehicle Laws (ODPS online edition, accessed Oct 2026), Section 1: How to Get Your Driver License — 'Driver Education Requirements (Under Age 21)'"
+    },
+    {
+      "id": "oh-013",
+      "topic": "licensing",
+      "q": "During the first 12 months with a probationary license, a driver under 18 may not drive during which hours unless an exception applies?",
+      "options": [
+        "1 a.m. to 5 a.m.",
+        "11 p.m. to 6 a.m.",
+        "Midnight to 6 a.m.",
+        "10 p.m. to 5 a.m."
+      ],
+      "answer": 2,
+      "explain": "For the first 12 months, the curfew is midnight to 6 a.m. unless with a parent/guardian or driving to/from work, school or religious events with documentation.",
+      "official": false,
+      "ref": "Ohio Driver Manual / Digest of Ohio Motor Vehicle Laws (ODPS online edition, accessed Oct 2026), Section 12: Purchase Your Driver License — 'Class D Operator's License — New drivers under age 18'"
+    },
+    {
+      "id": "oh-014",
+      "topic": "licensing",
+      "q": "After holding a probationary license for 12 months, a driver who is still under 18 may not drive during which hours (unless an exception applies)?",
+      "options": [
+        "1 a.m. to 5 a.m.",
+        "Midnight to 6 a.m.",
+        "11 p.m. to 5 a.m.",
+        "There are no hour limits after 12 months"
+      ],
+      "answer": 0,
+      "explain": "After the first 12 months and until age 18, the restricted hours shrink to 1 a.m.–5 a.m.",
+      "official": false,
+      "ref": "Ohio Driver Manual / Digest of Ohio Motor Vehicle Laws (ODPS online edition, accessed Oct 2026), Section 12: Purchase Your Driver License — 'Class D Operator's License — After the first 12 months'"
+    },
+    {
+      "id": "oh-015",
+      "topic": "licensing",
+      "q": "During the first 12 months of a probationary license, how many non-family passengers may a driver under 18 carry without a parent or guardian present?",
+      "options": [
+        "None",
+        "One",
+        "Two",
+        "Three"
+      ],
+      "answer": 1,
+      "explain": "Until the first 12 months are up, a driver under 18 may carry only one passenger from outside the family, unless a parent or guardian is riding along.",
+      "official": false,
+      "ref": "Ohio Driver Manual / Digest of Ohio Motor Vehicle Laws (ODPS online edition, accessed Oct 2026), Section 12: Purchase Your Driver License — 'Class D Operator's License — New drivers under age 18'"
+    },
+    {
+      "id": "oh-016",
+      "topic": "licensing",
+      "q": "A 16-year-old probationary driver is convicted of a traffic offense within the first six months of licensure. What may result?",
+      "options": [
+        "Only a written warning is sent",
+        "The license is permanently revoked",
+        "The driver must retake only the vision test",
+        "A parent or guardian may have to accompany the driver for six months or until age 17"
+      ],
+      "answer": 3,
+      "explain": "A conviction in the first six months can require a parent or guardian to ride along for six months or until the driver turns 17.",
+      "official": false,
+      "ref": "Ohio Driver Manual / Digest of Ohio Motor Vehicle Laws (ODPS online edition, accessed Oct 2026), Section 12: Purchase Your Driver License — 'Class D Operator's License'"
+    },
+    {
+      "id": "oh-017",
+      "topic": "licensing",
+      "q": "Who must co-sign the license or permit application of an applicant under 18?",
+      "options": [
+        "A school official",
+        "A parent or legal guardian",
+        "Any licensed adult",
+        "A driving school instructor"
+      ],
+      "answer": 1,
+      "explain": "A parent or guardian must be present to co-sign for an applicant under 18, and is jointly liable for the minor's negligent driving until age 18.",
+      "official": false,
+      "ref": "Ohio Driver Manual / Digest of Ohio Motor Vehicle Laws (ODPS online edition, accessed Oct 2026), Section 12: Purchase Your Driver License — 'Co-signer Responsibility'; ORC 4507.07"
+    },
+    {
+      "id": "oh-018",
+      "topic": "licensing",
+      "q": "When does an Ohio driver license issued to someone under 21 expire?",
+      "options": [
+        "Four years after issue regardless of age",
+        "On the 18th birthday",
+        "On the 25th birthday",
+        "On the driver's 21st birthday"
+      ],
+      "answer": 3,
+      "explain": "A license issued to a driver under 21 expires on the 21st birthday and must be renewed in person.",
+      "official": false,
+      "ref": "Ohio Driver Manual / Digest of Ohio Motor Vehicle Laws (ODPS online edition, accessed Oct 2026), Section 12: Purchase Your Driver License — 'Renewing Your Driver License'"
+    },
+    {
+      "id": "oh-019",
+      "topic": "licensing",
+      "q": "New residents of Ohio must obtain an Ohio driver license within how many days of establishing residency?",
+      "options": [
+        "30 days",
+        "60 days",
+        "10 days",
+        "6 months"
+      ],
+      "answer": 0,
+      "explain": "Ohio requires new residents to get an Ohio-issued driver license within 30 days of establishing residency.",
+      "official": false,
+      "ref": "Ohio Driver Manual / Digest of Ohio Motor Vehicle Laws (ODPS online edition, accessed Oct 2026), Section 13: What Else Should I Know? — 'New Ohio Residents'"
+    },
+    {
+      "id": "oh-020",
+      "topic": "licensing",
+      "q": "An applicant age 21 or older fails the Ohio driving (road/maneuverability) test on the first try. What is generally required before the second attempt?",
+      "options": [
+        "Retake the knowledge test",
+        "Wait one full year",
+        "Complete an abbreviated adult driver training course",
+        "Nothing; retest the next day"
+      ],
+      "answer": 2,
+      "explain": "Applicants 21+ who fail the first driving test must complete the Abbreviated Adult Driver Training Course unless they took approved driver education within the past year.",
+      "official": false,
+      "ref": "Ohio Driver Manual / Digest of Ohio Motor Vehicle Laws (ODPS online edition, accessed Oct 2026), Section 11: Taking the Driving Test — 'Abbreviated Adult Driver Training Course'; OAC 4501-8"
+    },
+    {
+      "id": "oh-021",
+      "topic": "licensing",
+      "q": "What is the minimum tire tread depth Ohio considers safe?",
+      "options": [
+        "1/4 inch",
+        "1/32 inch",
+        "1/16 inch",
+        "1/8 inch"
+      ],
+      "answer": 2,
+      "explain": "A tire in safe condition has at least 1/16-inch of tread and no major bumps, bulges or damage.",
+      "official": false,
+      "ref": "Ohio Driver Manual / Digest of Ohio Motor Vehicle Laws (ODPS online edition, accessed Oct 2026), Section 2: Before You Drive — 'Tire Safety'"
+    },
+    {
+      "id": "oh-022",
+      "topic": "licensing",
+      "q": "During which period are studded tires legal in Ohio?",
+      "options": [
+        "November 1 through April 15",
+        "All year",
+        "December 1 through March 1",
+        "October 1 through May 1"
+      ],
+      "answer": 0,
+      "explain": "Studded tires may be used in Ohio from November 1 through April 15.",
+      "official": false,
+      "ref": "Ohio Driver Manual / Digest of Ohio Motor Vehicle Laws (ODPS online edition, accessed Oct 2026), Section 2: Before You Drive — 'Tire Safety'"
+    },
+    {
+      "id": "oh-023",
+      "topic": "licensing",
+      "q": "In Ohio, what are the minimum liability insurance limits?",
+      "options": [
+        "$15,000 / $30,000 / $5,000",
+        "$50,000 / $100,000 / $50,000",
+        "$10,000 / $20,000 / $10,000",
+        "$25,000 per person, $50,000 per crash for injury/death, $25,000 property damage"
+      ],
+      "answer": 3,
+      "explain": "Ohio's minimum financial responsibility is 25/50/25.",
+      "official": false,
+      "ref": "Ohio Driver Manual / Digest of Ohio Motor Vehicle Laws (ODPS online edition, accessed Oct 2026), Section 6: State Laws and Penalties — 'Insurance - Financial Responsibility'; ORC 4509.101"
+    },
+    {
+      "id": "oh-024",
+      "topic": "signs",
+      "q": "What does this sign require you to do?",
+      "options": [
+        "Stop only if other vehicles are present",
+        "Come to a complete stop, then go when it is safe",
+        "Stop only for pedestrians",
+        "Slow down and go without stopping if clear"
+      ],
+      "answer": 1,
+      "explain": "This red octagon requires all traffic in the lane to stop completely before proceeding.",
+      "official": false,
+      "ref": "Ohio Driver Manual / Digest of Ohio Motor Vehicle Laws (ODPS online edition, accessed Oct 2026), Section 4: Rules of the Road — 'Traffic Signs — Regulatory Signs'",
+      "image": "signs/stop.png"
+    },
+    {
+      "id": "oh-025",
+      "topic": "signs",
+      "q": "What should you do when you reach this sign?",
+      "options": [
+        "Speed up to merge ahead of traffic",
+        "Slow down, yield to traffic and pedestrians, and stop if necessary",
+        "Proceed without slowing; others must yield to you",
+        "Always come to a full stop"
+      ],
+      "answer": 1,
+      "explain": "The triangular sign means you stop only if other traffic is affected and must yield to oncoming/crossing traffic.",
+      "official": false,
+      "ref": "Ohio Driver Manual / Digest of Ohio Motor Vehicle Laws (ODPS online edition, accessed Oct 2026), Section 4: Rules of the Road — 'Traffic Signs — Regulatory Signs'",
+      "image": "signs/yield.png"
+    },
+    {
+      "id": "oh-026",
+      "topic": "signs",
+      "q": "What does this sign mean?",
+      "options": [
+        "One-way traffic coming toward you; enter with caution",
+        "Road closed for construction ahead",
+        "No parking at any time",
+        "You may not enter this road from your direction"
+      ],
+      "answer": 3,
+      "explain": "This sign is used at one-way roads and freeway exit ramps to stop drivers entering against traffic.",
+      "official": false,
+      "ref": "Ohio Driver Manual / Digest of Ohio Motor Vehicle Laws (ODPS online edition, accessed Oct 2026), Section 4: Rules of the Road — 'Traffic Signs — Regulatory Signs'",
+      "image": "signs/do-not-enter.png"
+    },
+    {
+      "id": "oh-027",
+      "topic": "signs",
+      "q": "You see this sign facing you. What does it tell you?",
+      "options": [
+        "You are on the wrong exit; continue to the next one",
+        "The lane ahead is closed",
+        "You are traveling against traffic and must safely turn around or exit",
+        "Traffic ahead is stopped"
+      ],
+      "answer": 2,
+      "explain": "This sign warns that you have entered a one-way roadway or ramp in the wrong direction.",
+      "official": false,
+      "ref": "MUTCD regulatory sign (R5-1a), as used on Ohio roads; Ohio Driver Manual / Digest of Ohio Motor Vehicle Laws (ODPS online edition, accessed Oct 2026), Section 4: Rules of the Road — 'Traffic Signs'",
+      "image": "signs/wrong-way.png"
+    },
+    {
+      "id": "oh-028",
+      "topic": "signs",
+      "q": "What does this sign mean?",
+      "options": [
+        "The maximum lawful speed under good conditions is 55 mph",
+        "The minimum speed is 55 mph",
+        "The recommended speed in curves is 55 mph",
+        "You must always drive exactly 55 mph"
+      ],
+      "answer": 0,
+      "explain": "Posted limits are the maximum reasonable speed in good conditions; Ohio's assured-clear-distance rule may require going slower.",
+      "official": false,
+      "ref": "Ohio Driver Manual / Digest of Ohio Motor Vehicle Laws (ODPS online edition, accessed Oct 2026), Section 4: Rules of the Road — 'Speed Limits'; ORC 4511.21",
+      "image": "signs/speed-limit-55.png"
+    },
+    {
+      "id": "oh-029",
+      "topic": "signs",
+      "q": "What does this sign prohibit?",
+      "options": [
+        "Turning right",
+        "Turning left",
+        "Making a U-turn",
+        "Changing lanes to the left"
+      ],
+      "answer": 1,
+      "explain": "A red circle with a slash means 'no'; the arrow shows the prohibited move—here, a left turn.",
+      "official": false,
+      "ref": "Ohio Driver Manual / Digest of Ohio Motor Vehicle Laws (ODPS online edition, accessed Oct 2026), Section 4: Rules of the Road — 'Traffic Signs — Prohibitory Signs'",
+      "image": "signs/no-left-turn.png"
+    },
+    {
+      "id": "oh-030",
+      "topic": "signs",
+      "q": "What does this sign mean?",
+      "options": [
+        "Left turns only",
+        "Turn around area ahead",
+        "U-turns are not allowed",
+        "A sharp curve ahead"
+      ],
+      "answer": 2,
+      "explain": "The red circle and slash over a U-shaped arrow prohibits U-turns.",
+      "official": false,
+      "ref": "Ohio Driver Manual / Digest of Ohio Motor Vehicle Laws (ODPS online edition, accessed Oct 2026), Section 4: Rules of the Road — 'Traffic Signs — Prohibitory Signs'",
+      "image": "signs/no-u-turn.png"
+    },
+    {
+      "id": "oh-031",
+      "topic": "signs",
+      "q": "At an intersection with this sign and a red light, what must you do?",
+      "options": [
+        "Turn right after a full stop",
+        "Turn left after a full stop",
+        "Turn right without stopping if clear",
+        "Wait for a green signal before turning"
+      ],
+      "answer": 3,
+      "explain": "Ohio normally allows a right turn on red after a full stop, but not where a sign prohibits it.",
+      "official": false,
+      "ref": "Ohio Driver Manual / Digest of Ohio Motor Vehicle Laws (ODPS online edition, accessed Oct 2026), Section 5: Learning to Drive — 'Turning on a Red Traffic Signal'",
+      "image": "signs/no-turn-on-red.png"
+    },
+    {
+      "id": "oh-032",
+      "topic": "signs",
+      "q": "What does this sign tell you?",
+      "options": [
+        "Traffic on this road moves only in the direction of the arrow",
+        "Detour in the direction of the arrow",
+        "The road ahead curves in that direction",
+        "You must turn in the direction of the arrow"
+      ],
+      "answer": 0,
+      "explain": "This sign indicates a one-way road.",
+      "official": false,
+      "ref": "Ohio Driver Manual / Digest of Ohio Motor Vehicle Laws (ODPS online edition, accessed Oct 2026), Section 4: Rules of the Road — 'Traffic Signs — Regulatory Signs'",
+      "image": "signs/one-way.png"
+    },
+    {
+      "id": "oh-033",
+      "topic": "signs",
+      "q": "What does this sign mean?",
+      "options": [
+        "Trucks may not pass",
+        "Passing other vehicles is not allowed here",
+        "Do not pass bicycles only",
+        "Passing is allowed with care"
+      ],
+      "answer": 1,
+      "explain": "This regulatory sign marks a section where passing is prohibited, usually backed by a solid yellow line on your side.",
+      "official": false,
+      "ref": "Ohio Driver Manual / Digest of Ohio Motor Vehicle Laws (ODPS online edition, accessed Oct 2026), Section 5: Learning to Drive — 'Passing'",
+      "image": "signs/do-not-pass.png"
+    },
+    {
+      "id": "oh-034",
+      "topic": "signs",
+      "q": "What does this sign tell you when your light is a solid green ball?",
+      "options": [
+        "Oncoming traffic must stop for you",
+        "Left turns are prohibited on green",
+        "You have the right-of-way to turn left",
+        "You may turn left but must yield to oncoming traffic"
+      ],
+      "answer": 3,
+      "explain": "A green ball is not a protected turn; when turning left, yield to oncoming traffic.",
+      "official": false,
+      "ref": "Ohio Driver Manual / Digest of Ohio Motor Vehicle Laws (ODPS online edition, accessed Oct 2026), Section 5: Learning to Drive — 'Left Turns'",
+      "image": "signs/left-turn-yield-green.png"
+    },
+    {
+      "id": "oh-035",
+      "topic": "signs",
+      "q": "What should you do when you see this sign at a crossing?",
+      "options": [
+        "Yield only to pedestrians",
+        "Speed up to clear the tracks quickly",
+        "Slow down, look and listen, and be prepared to stop for a train",
+        "Stop every time, even if no train is near"
+      ],
+      "answer": 2,
+      "explain": "The white crossbuck marks a railroad grade crossing; slow down and be ready to stop if you see or hear a train.",
+      "official": false,
+      "ref": "Ohio Driver Manual / Digest of Ohio Motor Vehicle Laws (ODPS online edition, accessed Oct 2026), Section 5: Learning to Drive — 'Railroad Crossings'",
+      "image": "signs/railroad-crossbuck.png"
+    },
+    {
+      "id": "oh-036",
+      "topic": "signs",
+      "q": "What does this round yellow sign warn you about?",
+      "options": [
+        "A railroad crossing ahead",
+        "A school crossing ahead",
+        "A road closure ahead",
+        "A rest area ahead"
+      ],
+      "answer": 0,
+      "explain": "The round yellow sign with an X and 'RR' gives advance warning of a highway-railroad crossing.",
+      "official": false,
+      "ref": "Ohio Driver Manual / Digest of Ohio Motor Vehicle Laws (ODPS online edition, accessed Oct 2026), Section 5: Learning to Drive — 'Railroad Crossings'",
+      "image": "signs/railroad-advance.png"
+    },
+    {
+      "id": "oh-037",
+      "topic": "signs",
+      "q": "What does this sign warn you about?",
+      "options": [
+        "Right lane ends",
+        "A sharp right turn at an intersection",
+        "Side road enters from the right",
+        "The road curves to the right ahead"
+      ],
+      "answer": 3,
+      "explain": "This warning sign shows a curve ahead; reduce speed before entering the curve.",
+      "official": false,
+      "ref": "Ohio Driver Manual / Digest of Ohio Motor Vehicle Laws (ODPS online edition, accessed Oct 2026), Section 8: Safe Driving Tips — 'Curves'",
+      "image": "signs/curve-right.png"
+    },
+    {
+      "id": "oh-038",
+      "topic": "signs",
+      "q": "What does this sign warn of?",
+      "options": [
+        "A detour to the right",
+        "A sharp right turn ahead",
+        "Right turn only lane",
+        "A gentle curve ahead"
+      ],
+      "answer": 1,
+      "explain": "The right-angle arrow warns of a sharp right turn; slow down significantly.",
+      "official": false,
+      "ref": "Ohio Driver Manual / Digest of Ohio Motor Vehicle Laws (ODPS online edition, accessed Oct 2026), Section 4: Rules of the Road — 'Warning Signs'",
+      "image": "signs/sharp-turn-right.png"
+    },
+    {
+      "id": "oh-039",
+      "topic": "signs",
+      "q": "What does this sign mean?",
+      "options": [
+        "The road you are on ends ahead; you must turn left or right",
+        "Divided highway begins",
+        "Dead end with a turnaround",
+        "A side road joins from both sides; continue straight"
+      ],
+      "answer": 0,
+      "explain": "The T-shaped symbol warns of an intersection where you must turn left or right.",
+      "official": false,
+      "ref": "Ohio Driver Manual / Digest of Ohio Motor Vehicle Laws (ODPS online edition, accessed Oct 2026), Section 4: Rules of the Road — 'Warning Signs — Intersection ahead; Turn left or right'",
+      "image": "signs/t-intersection.png"
+    },
+    {
+      "id": "oh-040",
+      "topic": "signs",
+      "q": "What does this sign warn of?",
+      "options": [
+        "A side road on the right is closed",
+        "Your lane ends and you must merge right",
+        "Traffic will be merging into your road from the right",
+        "A right turn is required"
+      ],
+      "answer": 2,
+      "explain": "This warning sign alerts you to traffic merging from the right; adjust speed or position to let it merge.",
+      "official": false,
+      "ref": "Ohio Driver Manual / Digest of Ohio Motor Vehicle Laws (ODPS online edition, accessed Oct 2026), Section 8: Safe Driving Tips — 'Space to the Side'",
+      "image": "signs/merge-right.png"
+    },
+    {
+      "id": "oh-041",
+      "topic": "signs",
+      "q": "What does this sign mean?",
+      "options": [
+        "Divided highway begins",
+        "The right lane ends ahead; traffic must merge left",
+        "A new lane is added on the right",
+        "The left lane ends ahead"
+      ],
+      "answer": 1,
+      "explain": "This warning sign shows the right lane ending; drivers in that lane must merge left when safe.",
+      "official": false,
+      "ref": "MUTCD warning sign (W4-2); Ohio Driver Manual / Digest of Ohio Motor Vehicle Laws (ODPS online edition, accessed Oct 2026), Section 5: Learning to Drive — 'Changing Lanes'",
+      "image": "signs/lane-ends-left.png"
+    },
+    {
+      "id": "oh-042",
+      "topic": "signs",
+      "q": "What does this sign warn you about?",
+      "options": [
+        "One-way traffic ahead",
+        "Two lanes merge into one",
+        "Passing lane ahead",
+        "Two-way traffic ahead; oncoming traffic will share the road"
+      ],
+      "answer": 3,
+      "explain": "This sign warns that traffic travels in opposite directions ahead.",
+      "official": false,
+      "ref": "Ohio Driver Manual / Digest of Ohio Motor Vehicle Laws (ODPS online edition, accessed Oct 2026), Section 4: Rules of the Road — 'Warning Signs — Traffic travels in opposite directions'",
+      "image": "signs/two-way-traffic.png"
+    },
+    {
+      "id": "oh-043",
+      "topic": "signs",
+      "q": "What does this sign warn of?",
+      "options": [
+        "A traffic signal ahead",
+        "A railroad crossing ahead",
+        "A fire station ahead",
+        "A stop sign at the next corner only"
+      ],
+      "answer": 0,
+      "explain": "This warning sign tells you there is a traffic signal ahead; be prepared to stop.",
+      "official": false,
+      "ref": "Ohio Driver Manual / Digest of Ohio Motor Vehicle Laws (ODPS online edition, accessed Oct 2026), Section 4: Rules of the Road — 'Warning Signs'",
+      "image": "signs/signal-ahead.png"
+    },
+    {
+      "id": "oh-044",
+      "topic": "signs",
+      "q": "What does this sign warn you about?",
+      "options": [
+        "Winding road ahead",
+        "Car wash ahead",
+        "The road can be slippery when it is wet",
+        "Loose gravel shoulder only"
+      ],
+      "answer": 2,
+      "explain": "Reduce speed and avoid sudden braking or turning; wet roads reduce tire grip.",
+      "official": false,
+      "ref": "Ohio Driver Manual / Digest of Ohio Motor Vehicle Laws (ODPS online edition, accessed Oct 2026), Section 8: Safe Driving Tips — 'Slippery Roads'",
+      "image": "signs/slippery-when-wet.png"
+    },
+    {
+      "id": "oh-045",
+      "topic": "signs",
+      "q": "What does this sign warn of?",
+      "options": [
+        "A truck stop ahead",
+        "Truck crossing ahead",
+        "A steep downhill grade ahead",
+        "Trucks must use the left lane"
+      ],
+      "answer": 2,
+      "explain": "This sign warns of a downhill grade; check your speed and be ready to use a lower gear.",
+      "official": false,
+      "ref": "Ohio Driver Manual / Digest of Ohio Motor Vehicle Laws (ODPS online edition, accessed Oct 2026), Section 4: Rules of the Road — 'Warning Signs — Downhill grade ahead'",
+      "image": "signs/hill.png"
+    },
+    {
+      "id": "oh-046",
+      "topic": "signs",
+      "q": "What does this sign warn of?",
+      "options": [
+        "No pedestrians allowed",
+        "A hiking trail ahead",
+        "A school bus stop",
+        "A pedestrian crossing ahead"
+      ],
+      "answer": 3,
+      "explain": "This warning sign alerts you that pedestrians may be crossing; be ready to yield.",
+      "official": false,
+      "ref": "Ohio Driver Manual / Digest of Ohio Motor Vehicle Laws (ODPS online edition, accessed Oct 2026), Section 4: Rules of the Road — 'Warning Signs — Pedestrian crossing ahead'",
+      "image": "signs/pedestrian-crossing.png"
+    },
+    {
+      "id": "oh-047",
+      "topic": "signs",
+      "q": "What does this five-sided sign warn you about?",
+      "options": [
+        "A school zone or school crossing ahead",
+        "A playground with no speed rules",
+        "A pedestrian mall",
+        "A hospital zone"
+      ],
+      "answer": 0,
+      "explain": "The pentagon shape is used for school zones and crossings; in Ohio, school zones commonly have a 20 mph limit during restricted hours.",
+      "official": false,
+      "ref": "Ohio Driver Manual / Digest of Ohio Motor Vehicle Laws (ODPS online edition, accessed Oct 2026), Section 4: Rules of the Road — 'Speed Limits; Regulatory Signs'; ORC 4511.21(B)(1)",
+      "image": "signs/school-zone.png"
+    },
+    {
+      "id": "oh-048",
+      "topic": "signs",
+      "q": "What does this sign warn of?",
+      "options": [
+        "Bike lane ends",
+        "A bicycle crossing ahead",
+        "Bike shop ahead",
+        "Bicycles are prohibited"
+      ],
+      "answer": 1,
+      "explain": "This warning sign means bicyclists may be crossing or entering the roadway.",
+      "official": false,
+      "ref": "Ohio Driver Manual / Digest of Ohio Motor Vehicle Laws (ODPS online edition, accessed Oct 2026), Section 4: Rules of the Road — 'Warning Signs — Bicycle crossing'",
+      "image": "signs/bicycle-crossing.png"
+    },
+    {
+      "id": "oh-049",
+      "topic": "signs",
+      "q": "What does this sign warn of?",
+      "options": [
+        "Limited overhead clearance ahead",
+        "A lane width of 12 feet 6 inches",
+        "A road that narrows ahead",
+        "A weight limit for bridges"
+      ],
+      "answer": 0,
+      "explain": "This sign gives the height of a low overpass or structure; taller vehicles must not pass under it.",
+      "official": false,
+      "ref": "Ohio Driver Manual / Digest of Ohio Motor Vehicle Laws (ODPS online edition, accessed Oct 2026), Section 4: Rules of the Road — 'Warning Signs — Limited clearance ahead'",
+      "image": "signs/low-clearance.png"
+    },
+    {
+      "id": "oh-050",
+      "topic": "signs",
+      "q": "Where is this pennant-shaped sign placed, and what does it mean?",
+      "options": [
+        "Over the road; it marks a toll",
+        "On the left side of the road; it marks the start of a no-passing zone",
+        "On the left; it means passing is allowed with care",
+        "On the right side; it marks the end of a no-passing zone"
+      ],
+      "answer": 1,
+      "explain": "The yellow pennant on the left side of the road marks the beginning of a no-passing zone.",
+      "official": false,
+      "ref": "Ohio Driver Manual / Digest of Ohio Motor Vehicle Laws (ODPS online edition, accessed Oct 2026), Section 4: Rules of the Road — 'Warning Signs — Passing is prohibited'",
+      "image": "signs/no-passing-zone.png"
+    },
+    {
+      "id": "oh-051",
+      "topic": "signs",
+      "q": "This yellow plaque is posted under a curve sign. What does it mean?",
+      "options": [
+        "The minimum speed is 35 mph",
+        "The speed limit for trucks only",
+        "The legal limit for the next 35 miles",
+        "The recommended safe speed through the curve is 35 mph"
+      ],
+      "answer": 3,
+      "explain": "An advisory speed plaque shows the safe speed for the hazard under normal conditions.",
+      "official": false,
+      "ref": "Ohio Driver Manual / Digest of Ohio Motor Vehicle Laws (ODPS online edition, accessed Oct 2026), Section 8: Safe Driving Tips — 'Curves'",
+      "image": "signs/advisory-speed-35.png"
+    },
+    {
+      "id": "oh-052",
+      "topic": "signs",
+      "q": "What should you do when you see this orange sign?",
+      "options": [
+        "Use the shoulder to pass slow traffic",
+        "Ignore it if no workers are visible",
+        "Be alert, slow down, and watch for workers and equipment",
+        "Speed up to clear the area quickly"
+      ],
+      "answer": 2,
+      "explain": "Orange signs mark work zones; reduce speed even if no workers are present—speeding fines can be doubled.",
+      "official": false,
+      "ref": "Ohio Driver Manual / Digest of Ohio Motor Vehicle Laws (ODPS online edition, accessed Oct 2026), Section 7: Special Driving Situations — 'Work Zones'",
+      "image": "signs/road-work-ahead.png"
+    },
+    {
+      "id": "oh-053",
+      "topic": "signs",
+      "q": "A vehicle displays this emblem on its rear. What does it tell you?",
+      "options": [
+        "The vehicle carries hazardous materials",
+        "The vehicle is towing a wide load",
+        "The vehicle travels at less than 25 mph",
+        "The vehicle is an emergency vehicle"
+      ],
+      "answer": 2,
+      "explain": "The orange-and-red triangle marks slow-moving vehicles (farm, construction, animal-drawn) traveling under 25 mph.",
+      "official": false,
+      "ref": "Ohio Driver Manual / Digest of Ohio Motor Vehicle Laws (ODPS online edition, accessed Oct 2026), Section 9: Sharing the Road — 'Slow Moving Vehicles'; ORC 4511.31",
+      "image": "signs/slow-moving-vehicle.png"
+    },
+    {
+      "id": "oh-054",
+      "topic": "signs",
+      "q": "What does this sign indicate?",
+      "options": [
+        "Free parking for anyone for 15 minutes",
+        "Parking reserved for people with a disability placard or plate",
+        "Wheelchair crossing ahead",
+        "A hospital is nearby"
+      ],
+      "answer": 1,
+      "explain": "You may not park in a space marked with the wheelchair symbol without an issued placard or accessible plate.",
+      "official": false,
+      "ref": "Ohio Driver Manual / Digest of Ohio Motor Vehicle Laws (ODPS online edition, accessed Oct 2026), Section 5: Learning to Drive — 'No-Parking Zones / Handicapped Spaces'",
+      "image": "signs/handicapped-parking.png"
+    },
+    {
+      "id": "oh-055",
+      "topic": "signs",
+      "q": "What must you do at this signal?",
+      "options": [
+        "Stop completely, then proceed when the way is clear",
+        "Stop only if cross traffic is present",
+        "Wait for the light to turn green",
+        "Slow down and proceed without stopping"
+      ],
+      "answer": 0,
+      "explain": "A flashing red light is treated like a stop sign.",
+      "official": false,
+      "ref": "Ohio Driver Manual / Digest of Ohio Motor Vehicle Laws (ODPS online edition, accessed Oct 2026), Section 4: Rules of the Road — 'Traffic Signals — Flashing Red'; ORC 4511.13",
+      "image": "signs/signal-flashing-red.png"
+    },
+    {
+      "id": "oh-056",
+      "topic": "signs",
+      "q": "What does this signal mean?",
+      "options": [
+        "The signal is broken; treat it as a four-way stop",
+        "Pedestrians have a walk signal",
+        "Stop and wait for green",
+        "Slow down and proceed with caution"
+      ],
+      "answer": 3,
+      "explain": "A flashing yellow light means slow down, proceed with caution, and be ready to stop for entering traffic.",
+      "official": false,
+      "ref": "Ohio Driver Manual / Digest of Ohio Motor Vehicle Laws (ODPS online edition, accessed Oct 2026), Section 4: Rules of the Road — 'Traffic Signals — Flashing Yellow'",
+      "image": "signs/signal-flashing-yellow.png"
+    },
+    {
+      "id": "oh-057",
+      "topic": "signs",
+      "q": "What does a steady signal like this mean?",
+      "options": [
+        "The light is about to turn red; prepare to stop",
+        "Speed up to beat the red light",
+        "Stop only if a pedestrian is crossing",
+        "The same as a flashing yellow light"
+      ],
+      "answer": 0,
+      "explain": "A steady yellow light warns that the signal is about to change to red.",
+      "official": false,
+      "ref": "Ohio Driver Manual / Digest of Ohio Motor Vehicle Laws (ODPS online edition, accessed Oct 2026), Section 4: Rules of the Road — 'Traffic Signals — Yellow'",
+      "image": "signs/signal-yellow.png"
+    },
+    {
+      "id": "oh-058",
+      "topic": "signs",
+      "q": "What does this signal allow?",
+      "options": [
+        "U-turns only",
+        "Turning left only after yielding to oncoming traffic that has a green light",
+        "Going straight only",
+        "Turning left in the direction of the arrow without stopping"
+      ],
+      "answer": 3,
+      "explain": "A green arrow means you may turn in the direction of the arrow; oncoming traffic is held. Still yield to anyone already in the intersection.",
+      "official": false,
+      "ref": "Ohio Driver Manual / Digest of Ohio Motor Vehicle Laws (ODPS online edition, accessed Oct 2026), Section 4: Rules of the Road — 'Traffic Signals — Green'",
+      "image": "signs/signal-green-arrow-left.png"
+    },
+    {
+      "id": "oh-059",
+      "topic": "signs",
+      "q": "Unless a sign prohibits it, what may you do at this signal?",
+      "options": [
+        "Turn right without stopping",
+        "Turn right after a complete stop, yielding to pedestrians and cross traffic",
+        "Turn left onto a two-way street after stopping",
+        "Go straight after stopping if clear"
+      ],
+      "answer": 1,
+      "explain": "Ohio allows a right turn on red after a full stop, yielding to all crossing traffic and pedestrians, unless posted otherwise.",
+      "official": false,
+      "ref": "Ohio Driver Manual / Digest of Ohio Motor Vehicle Laws (ODPS online edition, accessed Oct 2026), Section 5: Learning to Drive — 'Turning on a Red Traffic Signal'",
+      "image": "signs/signal-red.png"
+    },
+    {
+      "id": "oh-060",
+      "topic": "signs",
+      "q": "What do these center lines mean?",
+      "options": [
+        "Passing is allowed only for the lane on the right",
+        "Passing is allowed with care in both directions",
+        "Passing is not allowed in either direction",
+        "The lanes are for left turns only"
+      ],
+      "answer": 2,
+      "explain": "A double solid yellow line prohibits passing; you may cross it only to turn left or to pass a slow-moving vehicle where allowed.",
+      "official": false,
+      "ref": "Ohio Driver Manual / Digest of Ohio Motor Vehicle Laws (ODPS online edition, accessed Oct 2026), Section 4: Rules of the Road — 'Lane Pavement Markings — Yellow Solid Double Line'",
+      "image": "signs/lines-double-yellow.png"
+    },
+    {
+      "id": "oh-061",
+      "topic": "signs",
+      "q": "What does this center line mean on a two-lane road?",
+      "options": [
+        "Traffic travels in one direction only",
+        "Drivers in either direction may pass when it is safe",
+        "This is a two-way left-turn lane",
+        "No passing in either direction"
+      ],
+      "answer": 1,
+      "explain": "A broken yellow center line lets vehicles in either direction pass when safe.",
+      "official": false,
+      "ref": "Ohio Driver Manual / Digest of Ohio Motor Vehicle Laws (ODPS online edition, accessed Oct 2026), Section 4: Rules of the Road — 'Lane Pavement Markings — Yellow Broken Line'",
+      "image": "signs/lines-broken-yellow.png"
+    },
+    {
+      "id": "oh-062",
+      "topic": "signs",
+      "q": "What is the center lane marked like this used for?",
+      "options": [
+        "Travel by buses only",
+        "Emergency stopping only",
+        "Passing slower vehicles",
+        "Left turns by traffic from either direction"
+      ],
+      "answer": 3,
+      "explain": "A two-way left-turn lane is only for vehicles about to turn left—not for traveling or passing.",
+      "official": false,
+      "ref": "Ohio Driver Manual / Digest of Ohio Motor Vehicle Laws (ODPS online edition, accessed Oct 2026), Section 4: Rules of the Road — 'Two-way Left Turn Only Lane'",
+      "image": "signs/lines-two-way-left-turn.png"
+    },
+    {
+      "id": "oh-063",
+      "topic": "signs",
+      "q": "Warning signs on Ohio roads are usually what shape and color?",
+      "options": [
+        "Yellow diamonds with black symbols or letters",
+        "Green rectangles with white letters",
+        "Red rectangles with white letters",
+        "White squares with black letters"
+      ],
+      "answer": 0,
+      "explain": "Warning signs are generally yellow with black lettering or symbols and diamond shaped.",
+      "official": false,
+      "ref": "Ohio Driver Manual / Digest of Ohio Motor Vehicle Laws (ODPS online edition, accessed Oct 2026), Section 4: Rules of the Road — 'Warning Signs'"
+    },
+    {
+      "id": "oh-064",
+      "topic": "signs",
+      "q": "Signs with an orange background are used for:",
+      "options": [
+        "Hospitals and services",
+        "Recreational areas",
+        "Work zones and construction",
+        "School zones"
+      ],
+      "answer": 2,
+      "explain": "Work zone signs have a distinctive orange background with black letters or symbols.",
+      "official": false,
+      "ref": "Ohio Driver Manual / Digest of Ohio Motor Vehicle Laws (ODPS online edition, accessed Oct 2026), Section 4: Rules of the Road — 'Work Zone Signs'"
+    },
+    {
+      "id": "oh-065",
+      "topic": "signs",
+      "q": "A red circle with a diagonal slash on a sign means:",
+      "options": [
+        "The action shown is prohibited",
+        "Caution: the action is dangerous",
+        "The action is allowed only at night",
+        "The action shown is recommended"
+      ],
+      "answer": 0,
+      "explain": "The red circle with a slash represents the word 'NO'.",
+      "official": false,
+      "ref": "Ohio Driver Manual / Digest of Ohio Motor Vehicle Laws (ODPS online edition, accessed Oct 2026), Section 4: Rules of the Road — 'Prohibitory Signs'"
+    },
+    {
+      "id": "oh-066",
+      "topic": "signs",
+      "q": "Blue guide signs along the highway usually tell you about:",
+      "options": [
+        "Construction zones",
+        "Route numbers of interstates",
+        "Recreation and historic sites",
+        "Motorist services such as gas, food, lodging or hospitals"
+      ],
+      "answer": 3,
+      "explain": "Guide signs may be green, brown or blue; blue signs show services like gas stations, hotels and hospitals.",
+      "official": false,
+      "ref": "Ohio Driver Manual / Digest of Ohio Motor Vehicle Laws (ODPS online edition, accessed Oct 2026), Section 4: Rules of the Road — 'Guide Signs'"
+    },
+    {
+      "id": "oh-067",
+      "topic": "signs",
+      "q": "A traffic signal at an intersection is dark because of a power outage and no officer is directing traffic. What must you do?",
+      "options": [
+        "Proceed without stopping if you are on the larger road",
+        "Yield only to traffic on your right without stopping",
+        "Treat the intersection as a four-way stop",
+        "Honk and proceed"
+      ],
+      "answer": 2,
+      "explain": "By law, a non-working signal is treated as a four-way (all-way) stop unless an officer is directing traffic.",
+      "official": false,
+      "ref": "Ohio Driver Manual / Digest of Ohio Motor Vehicle Laws (ODPS online edition, accessed Oct 2026), Section 10: Emergency Situations — 'Inoperable Traffic Signals'"
+    },
+    {
+      "id": "oh-068",
+      "topic": "signs",
+      "q": "On a two-lane road the center has a solid yellow line on your side and a broken yellow line on the other side. What does this mean for you?",
+      "options": [
+        "You may pass only trucks",
+        "You may not pass",
+        "Only oncoming traffic must not pass",
+        "You may pass when safe"
+      ],
+      "answer": 1,
+      "explain": "Passing is prohibited for drivers on the side with the solid line; drivers on the broken-line side may pass when safe.",
+      "official": false,
+      "ref": "Ohio Driver Manual / Digest of Ohio Motor Vehicle Laws (ODPS online edition, accessed Oct 2026), Section 4: Rules of the Road — 'Lane Pavement Markings — Yellow Solid Line with a Broken Line'"
+    },
+    {
+      "id": "oh-069",
+      "topic": "right-of-way",
+      "q": "Two vehicles reach a four-way stop at the same time. Who should go first?",
+      "options": [
+        "The vehicle on the right",
+        "The vehicle on the left",
+        "The larger vehicle",
+        "The driver who honks first"
+      ],
+      "answer": 0,
+      "explain": "When both arrive at the same time, yield to the driver on your right.",
+      "official": false,
+      "ref": "Ohio Driver Manual / Digest of Ohio Motor Vehicle Laws (ODPS online edition, accessed Oct 2026), Section 4: Rules of the Road — 'Right-of-Way'"
+    },
+    {
+      "id": "oh-070",
+      "topic": "right-of-way",
+      "q": "At an intersection, who should generally get the right-of-way?",
+      "options": [
+        "The driver turning left",
+        "The driver on the wider road always",
+        "The driver who arrived at the intersection first",
+        "The driver going the fastest"
+      ],
+      "answer": 2,
+      "explain": "Yield to a driver who is already at, or who arrives before you at, the intersection.",
+      "official": false,
+      "ref": "Ohio Driver Manual / Digest of Ohio Motor Vehicle Laws (ODPS online edition, accessed Oct 2026), Section 4: Rules of the Road — 'Right-of-Way'"
+    },
+    {
+      "id": "oh-071",
+      "topic": "right-of-way",
+      "q": "You are turning left at an intersection with a green light (no arrow). Whom must you yield to?",
+      "options": [
+        "Only vehicles turning right",
+        "Oncoming traffic and pedestrians in the crosswalk",
+        "No one; green gives you the right-of-way",
+        "Only emergency vehicles"
+      ],
+      "answer": 1,
+      "explain": "When turning left, yield to drivers in the opposing lanes and to pedestrians.",
+      "official": false,
+      "ref": "Ohio Driver Manual / Digest of Ohio Motor Vehicle Laws (ODPS online edition, accessed Oct 2026), Section 5: Learning to Drive — 'Left Turns'"
+    },
+    {
+      "id": "oh-072",
+      "topic": "right-of-way",
+      "q": "You are pulling out of a private driveway onto a public road. Who has the right-of-way?",
+      "options": [
+        "Whoever is going faster",
+        "You, if you signal first",
+        "You, because you are entering",
+        "Traffic already on the public road"
+      ],
+      "answer": 3,
+      "explain": "Drivers entering from a driveway or private road must yield to drivers on the public highway.",
+      "official": false,
+      "ref": "Ohio Driver Manual / Digest of Ohio Motor Vehicle Laws (ODPS online edition, accessed Oct 2026), Section 4: Rules of the Road — 'Right-of-Way'"
+    },
+    {
+      "id": "oh-073",
+      "topic": "right-of-way",
+      "q": "When emerging from an alley or driveway in a business or residential district, you must:",
+      "options": [
+        "Sound your horn and drive across the sidewalk",
+        "Slow down but stopping is not required",
+        "Stop before the sidewalk (or before the roadway if there is no sidewalk) and yield to pedestrians",
+        "Stop only if a car is coming"
+      ],
+      "answer": 2,
+      "explain": "Ohio law requires a stop at the sidewalk area, or before entering the roadway if none, and yielding to pedestrians.",
+      "official": false,
+      "ref": "Ohio Driver Manual / Digest of Ohio Motor Vehicle Laws (ODPS online edition, accessed Oct 2026), Section 5: Learning to Drive — 'Stopping the Vehicle — A driver must stop'"
+    },
+    {
+      "id": "oh-074",
+      "topic": "right-of-way",
+      "q": "On a freeway entrance ramp, who has the right-of-way?",
+      "options": [
+        "Vehicles already traveling on the freeway",
+        "Whichever vehicle is larger",
+        "Vehicles in the left lane only",
+        "Vehicles on the ramp"
+      ],
+      "answer": 0,
+      "explain": "Drivers on an entrance or acceleration ramp must yield to drivers already on the limited-access highway.",
+      "official": false,
+      "ref": "Ohio Driver Manual / Digest of Ohio Motor Vehicle Laws (ODPS online edition, accessed Oct 2026), Section 4: Rules of the Road — 'Right-of-Way'"
+    },
+    {
+      "id": "oh-075",
+      "topic": "right-of-way",
+      "q": "A police car, fire truck or ambulance with flashing lights and siren approaches from behind. What should you do?",
+      "options": [
+        "Pull to the left shoulder",
+        "Pull to the right edge of the road, stop, and stay there until it passes",
+        "Speed up to clear the way",
+        "Stop immediately in your lane"
+      ],
+      "answer": 1,
+      "explain": "Move as far right as possible and remain stopped until the emergency vehicle has passed, without blocking intersections.",
+      "official": false,
+      "ref": "Ohio Driver Manual / Digest of Ohio Motor Vehicle Laws (ODPS online edition, accessed Oct 2026), Section 9: Sharing the Road — 'Emergency Vehicles'; ORC 4511.45"
+    },
+    {
+      "id": "oh-076",
+      "topic": "right-of-way",
+      "q": "An emergency vehicle with lights and siren is approaching from the opposite direction on a divided highway. What does Ohio law say?",
+      "options": [
+        "You must pull right and stop",
+        "You must stop in your lane",
+        "You must pull to the left shoulder",
+        "You are not required to stop for it"
+      ],
+      "answer": 3,
+      "explain": "The duty to pull over and stop does not apply to an emergency vehicle traveling in the opposite direction on a divided highway.",
+      "official": false,
+      "ref": "Ohio Driver Manual / Digest of Ohio Motor Vehicle Laws (ODPS online edition, accessed Oct 2026), Section 5: Learning to Drive — 'Stopping the Vehicle — A driver must stop'"
+    },
+    {
+      "id": "oh-077",
+      "topic": "right-of-way",
+      "q": "A funeral procession is passing through an intersection where your light is green. What should you do?",
+      "options": [
+        "Honk so they let you through",
+        "Proceed because you have a green light",
+        "Cut into the procession when there is a gap",
+        "Yield to the procession"
+      ],
+      "answer": 3,
+      "explain": "Ohio drivers are told to yield the right-of-way to funeral processions.",
+      "official": false,
+      "ref": "Ohio Driver Manual / Digest of Ohio Motor Vehicle Laws (ODPS online edition, accessed Oct 2026), Section 4: Rules of the Road — 'Right-of-Way'"
+    },
+    {
+      "id": "oh-078",
+      "topic": "right-of-way",
+      "q": "Your light turns green, but a pedestrian is still crossing in front of you. What should you do?",
+      "options": [
+        "Wait until the pedestrian has cleared your path",
+        "Drive around the pedestrian",
+        "Proceed; the pedestrian must yield to green",
+        "Honk to hurry the pedestrian"
+      ],
+      "answer": 0,
+      "explain": "You must yield to pedestrians, bicyclists and drivers still in the intersection.",
+      "official": false,
+      "ref": "Ohio Driver Manual / Digest of Ohio Motor Vehicle Laws (ODPS online edition, accessed Oct 2026), Section 4: Rules of the Road — 'Right-of-Way'"
+    },
+    {
+      "id": "oh-079",
+      "topic": "right-of-way",
+      "q": "A pedestrian using a white cane or a guide dog is about to cross. What should you do?",
+      "options": [
+        "Honk to warn them",
+        "Yield; the pedestrian has the right-of-way",
+        "Proceed slowly around them",
+        "Flash your headlights to signal them to cross"
+      ],
+      "answer": 1,
+      "explain": "Pedestrians who are blind or visually impaired (white cane or guide dog) have the right-of-way.",
+      "official": false,
+      "ref": "Ohio Driver Manual / Digest of Ohio Motor Vehicle Laws (ODPS online edition, accessed Oct 2026), Section 9: Sharing the Road — 'Pedestrians'"
+    },
+    {
+      "id": "oh-080",
+      "topic": "right-of-way",
+      "q": "When entering a roundabout, you must yield to:",
+      "options": [
+        "Traffic on your right that is entering",
+        "No one; entering traffic has priority",
+        "Traffic already circulating in the roundabout",
+        "Traffic waiting to enter behind you"
+      ],
+      "answer": 2,
+      "explain": "Entering traffic yields to circulating traffic; look left and enter when the lane is clear.",
+      "official": false,
+      "ref": "Ohio Driver Manual / Digest of Ohio Motor Vehicle Laws (ODPS online edition, accessed Oct 2026), Section 5: Learning to Drive — 'Roundabouts and Traffic Circles'"
+    },
+    {
+      "id": "oh-081",
+      "topic": "right-of-way",
+      "q": "In which direction do vehicles travel around a roundabout in Ohio?",
+      "options": [
+        "Whichever way the first car goes",
+        "Clockwise",
+        "Counterclockwise",
+        "Either direction"
+      ],
+      "answer": 2,
+      "explain": "Vehicles travel counterclockwise around the center island.",
+      "official": false,
+      "ref": "Ohio Driver Manual / Digest of Ohio Motor Vehicle Laws (ODPS online edition, accessed Oct 2026), Section 5: Learning to Drive — 'Roundabouts and Traffic Circles'"
+    },
+    {
+      "id": "oh-082",
+      "topic": "right-of-way",
+      "q": "Once you are inside a roundabout, you should:",
+      "options": [
+        "Stop at each exit to check traffic",
+        "Stop to let entering traffic in",
+        "Change lanes as needed to pass",
+        "Keep moving and not change lanes until you exit"
+      ],
+      "answer": 3,
+      "explain": "Once in the roundabout, keep moving; do not stop or change lanes.",
+      "official": false,
+      "ref": "Ohio Driver Manual / Digest of Ohio Motor Vehicle Laws (ODPS online edition, accessed Oct 2026), Section 5: Learning to Drive — 'Roundabouts and Traffic Circles'"
+    },
+    {
+      "id": "oh-083",
+      "topic": "right-of-way",
+      "q": "In a typical four-exit roundabout, which exit do you use to make a left turn?",
+      "options": [
+        "The third exit",
+        "The first exit",
+        "The second exit",
+        "The fourth exit"
+      ],
+      "answer": 0,
+      "explain": "First exit = right, second = straight, third = left, fourth = U-turn.",
+      "official": false,
+      "ref": "Ohio Driver Manual / Digest of Ohio Motor Vehicle Laws (ODPS online edition, accessed Oct 2026), Section 5: Learning to Drive — 'Roundabouts and Traffic Circles'"
+    },
+    {
+      "id": "oh-084",
+      "topic": "right-of-way",
+      "q": "Your light is green, but traffic is backed up on the other side of the intersection. What should you do?",
+      "options": [
+        "Sound your horn and proceed",
+        "Wait before the intersection until there is room for your vehicle on the other side",
+        "Go around the stopped traffic",
+        "Enter the intersection and wait"
+      ],
+      "answer": 1,
+      "explain": "You must stop before entering an intersection if there is not enough space on the other side, even with a green light.",
+      "official": false,
+      "ref": "Ohio Driver Manual / Digest of Ohio Motor Vehicle Laws (ODPS online edition, accessed Oct 2026), Section 5: Learning to Drive — 'Stopping the Vehicle; Tips'"
+    },
+    {
+      "id": "oh-085",
+      "topic": "right-of-way",
+      "q": "You are at a stop sign and cannot see cross traffic because of parked cars. What should you do?",
+      "options": [
+        "After stopping, edge forward slowly until you can see, then proceed when clear",
+        "Honk and go",
+        "Back up and find another route",
+        "Proceed quickly to cut your exposure time"
+      ],
+      "answer": 0,
+      "explain": "Stop first, then creep forward to check for traffic before entering the intersection.",
+      "official": false,
+      "ref": "Ohio Driver Manual / Digest of Ohio Motor Vehicle Laws (ODPS online edition, accessed Oct 2026), Section 5: Learning to Drive — 'Tips'"
+    },
+    {
+      "id": "oh-086",
+      "topic": "right-of-way",
+      "q": "A stop is required but there is no stop line or crosswalk. Where should you stop?",
+      "options": [
+        "In the middle of the intersection",
+        "At the point nearest the intersecting road where you can see approaching traffic, before entering it",
+        "You need not stop if there is no line",
+        "Anywhere within 100 feet of the corner"
+      ],
+      "answer": 1,
+      "explain": "Without a line or crosswalk, stop where you can see traffic on the intersecting roadway before actually entering it.",
+      "official": false,
+      "ref": "Ohio Driver Manual / Digest of Ohio Motor Vehicle Laws (ODPS online edition, accessed Oct 2026), Section 5: Learning to Drive — 'Stopping the Vehicle'; ORC 4511.43; BMV Sample Knowledge Test topic"
+    },
+    {
+      "id": "oh-087",
+      "topic": "right-of-way",
+      "q": "On a one-lane bridge or roadway with a sign saying the nearest vehicle has the right-of-way, who goes first?",
+      "options": [
+        "The vehicle that flashes its headlights",
+        "The larger vehicle",
+        "The vehicle going uphill",
+        "The vehicle that is nearest the bridge"
+      ],
+      "answer": 3,
+      "explain": "Ohio's warning sign for a one-lane bridge indicates that the vehicle nearest the bridge has the right-of-way.",
+      "official": false,
+      "ref": "Ohio Driver Manual / Digest of Ohio Motor Vehicle Laws (ODPS online edition, accessed Oct 2026), Section 4: Rules of the Road — 'Warning Signs — Vehicle nearest the bridge has the right-of-way'"
+    },
+    {
+      "id": "oh-088",
+      "topic": "right-of-way",
+      "q": "You approach a stopped police car with its lights flashing on the shoulder of a multi-lane highway. What does Ohio's move-over law require?",
+      "options": [
+        "Use the shoulder on the other side",
+        "Maintain speed and stay in your lane",
+        "Move to a lane not next to it if safe; if not, slow down and proceed with caution",
+        "Stop beside it"
+      ],
+      "answer": 2,
+      "explain": "Ohio requires moving over a lane when safe, or slowing down and proceeding with caution if a lane change is not safe.",
+      "official": false,
+      "ref": "Ohio Driver Manual / Digest of Ohio Motor Vehicle Laws (ODPS online edition, accessed Oct 2026), Section 9: Sharing the Road — 'Move Over Laws'; ORC 4511.213"
+    },
+    {
+      "id": "oh-089",
+      "topic": "right-of-way",
+      "q": "Ohio's move-over law applies to which of these when stopped with warning lights on?",
+      "options": [
+        "A parked delivery van with hazard lights",
+        "A school bus loading children (different rule)",
+        "A waste collection vehicle",
+        "Any car with a flat tire"
+      ],
+      "answer": 2,
+      "explain": "The law covers emergency vehicles, road service vehicles (tow trucks, snowplows), waste collection, highway maintenance and PUCO vehicles with lights activated.",
+      "official": false,
+      "ref": "Ohio Driver Manual / Digest of Ohio Motor Vehicle Laws (ODPS online edition, accessed Oct 2026), Section 9: Sharing the Road — 'Move Over Laws'; ORC 4511.213"
+    },
+    {
+      "id": "oh-090",
+      "topic": "right-of-way",
+      "q": "You are driving on a two-lane road and meet a school bus stopped with red lights flashing. What must you do?",
+      "options": [
+        "Stop only if children are visible",
+        "Slow to 20 mph and pass carefully",
+        "Stop only if you are behind the bus",
+        "Stop at least 10 feet from the bus, whichever direction you are traveling"
+      ],
+      "answer": 3,
+      "explain": "On roads with fewer than four lanes, traffic from both directions must stop at least 10 feet from the bus until it moves or the driver signals.",
+      "official": false,
+      "ref": "Ohio Driver Manual / Digest of Ohio Motor Vehicle Laws (ODPS online edition, accessed Oct 2026), Section 5: Learning to Drive — 'Stopping for a School Bus'; ORC 4511.75"
+    },
+    {
+      "id": "oh-091",
+      "topic": "right-of-way",
+      "q": "A school bus is stopped with red lights flashing on a highway with four or more lanes. Which vehicles must stop?",
+      "options": [
+        "Only vehicles traveling in the same direction as the bus",
+        "All vehicles in both directions",
+        "Only vehicles in the lane next to the bus",
+        "No vehicles, because the road is wide"
+      ],
+      "answer": 0,
+      "explain": "On a road with four or more traffic lanes, only traffic moving in the same direction as the bus must stop.",
+      "official": false,
+      "ref": "Ohio Driver Manual / Digest of Ohio Motor Vehicle Laws (ODPS online edition, accessed Oct 2026), Section 5: Learning to Drive — 'Stopping for a School Bus'; ORC 4511.75(C)"
+    },
+    {
+      "id": "oh-092",
+      "topic": "right-of-way",
+      "q": "A school bus begins flashing its amber (yellow) lights. What do they mean?",
+      "options": [
+        "You may pass the bus quickly",
+        "The bus is preparing to stop; get ready to stop",
+        "The bus has finished loading",
+        "You must stop immediately"
+      ],
+      "answer": 1,
+      "explain": "Amber lights warn that the bus is about to stop; you are not required to stop yet but should prepare to.",
+      "official": false,
+      "ref": "Ohio Driver Manual / Digest of Ohio Motor Vehicle Laws (ODPS online edition, accessed Oct 2026), Section 5: Learning to Drive — 'Stopping for a School Bus'"
+    },
+    {
+      "id": "oh-093",
+      "topic": "right-of-way",
+      "q": "A stopped school bus with flashing red lights has no stop arm extended. Must you stop?",
+      "options": [
+        "Only if children are crossing",
+        "No, only the stop arm requires a stop",
+        "Only in school zones",
+        "Yes, you must still stop"
+      ],
+      "answer": 3,
+      "explain": "Even if the bus has no stop arm, you are still required to stop.",
+      "official": false,
+      "ref": "Ohio Driver Manual / Digest of Ohio Motor Vehicle Laws (ODPS online edition, accessed Oct 2026), Section 5: Learning to Drive — 'Stopping for a School Bus'; ORC 4511.75(A)"
+    },
+    {
+      "id": "oh-094",
+      "topic": "right-of-way",
+      "q": "After stopping for a school bus with red lights flashing, when may you proceed?",
+      "options": [
+        "When no children are on the road",
+        "When the bus starts moving or the bus driver signals you to go",
+        "After 30 seconds",
+        "When the stop arm starts to fold"
+      ],
+      "answer": 1,
+      "explain": "Remain stopped until the bus resumes motion or the driver signals motorists to proceed.",
+      "official": false,
+      "ref": "Ohio Driver Manual / Digest of Ohio Motor Vehicle Laws (ODPS online edition, accessed Oct 2026), Section 5: Learning to Drive — 'Stopping for a School Bus'; ORC 4511.75"
+    },
+    {
+      "id": "oh-095",
+      "topic": "speed",
+      "q": "Unless posted otherwise, what is the speed limit on streets within an Ohio municipality (city or village)?",
+      "options": [
+        "30 mph",
+        "35 mph",
+        "25 mph",
+        "20 mph"
+      ],
+      "answer": 2,
+      "explain": "The prima-facie limit for streets within a municipal corporation is 25 mph.",
+      "official": false,
+      "ref": "Ohio Driver Manual / Digest of Ohio Motor Vehicle Laws (ODPS online edition, accessed Oct 2026), Section 4: Rules of the Road — 'Speed Limits'; ORC 4511.21(B)(2)"
+    },
+    {
+      "id": "oh-096",
+      "topic": "speed",
+      "q": "What is the speed limit in an Ohio school zone during recess and while children are going to or leaving school?",
+      "options": [
+        "20 mph",
+        "15 mph",
+        "25 mph",
+        "10 mph"
+      ],
+      "answer": 0,
+      "explain": "School zones have a 20 mph limit during the restricted times when posted.",
+      "official": false,
+      "ref": "Ohio Driver Manual / Digest of Ohio Motor Vehicle Laws (ODPS online edition, accessed Oct 2026), Section 4: Rules of the Road — 'Speed Limits'; ORC 4511.21(B)(1)(a)"
+    },
+    {
+      "id": "oh-097",
+      "topic": "speed",
+      "q": "What is the speed limit in an alley within an Ohio municipality?",
+      "options": [
+        "10 mph",
+        "15 mph",
+        "25 mph",
+        "20 mph"
+      ],
+      "answer": 1,
+      "explain": "Alleys within a municipal corporation have a 15 mph limit.",
+      "official": false,
+      "ref": "Ohio Driver Manual / Digest of Ohio Motor Vehicle Laws (ODPS online edition, accessed Oct 2026), Section 4: Rules of the Road — 'Speed Limits'; ORC 4511.21(B)(7)"
+    },
+    {
+      "id": "oh-098",
+      "topic": "speed",
+      "q": "What is the maximum speed limit on Ohio's rural freeways (such as rural interstates)?",
+      "options": [
+        "60 mph",
+        "75 mph",
+        "70 mph",
+        "65 mph"
+      ],
+      "answer": 2,
+      "explain": "Rural freeways have a 70 mph limit.",
+      "official": false,
+      "ref": "Ohio Driver Manual / Digest of Ohio Motor Vehicle Laws (ODPS online edition, accessed Oct 2026), Section 4: Rules of the Road — 'Speed Limits'; ORC 4511.21(B)(14)"
+    },
+    {
+      "id": "oh-099",
+      "topic": "speed",
+      "q": "Unless otherwise posted, what is the speed limit on freeways with paved shoulders inside an Ohio municipality?",
+      "options": [
+        "55 mph",
+        "70 mph",
+        "65 mph",
+        "45 mph"
+      ],
+      "answer": 0,
+      "explain": "Freeways with paved shoulders inside municipal corporations are limited to 55 mph unless posted otherwise.",
+      "official": false,
+      "ref": "Ohio Driver Manual / Digest of Ohio Motor Vehicle Laws (ODPS online edition, accessed Oct 2026), Section 4: Rules of the Road — 'Speed Limits'; ORC 4511.21(B)(11)"
+    },
+    {
+      "id": "oh-100",
+      "topic": "speed",
+      "q": "Unless otherwise posted, what is the speed limit on state routes or through highways within a municipality, outside business districts?",
+      "options": [
+        "25 mph",
+        "50 mph",
+        "45 mph",
+        "35 mph"
+      ],
+      "answer": 3,
+      "explain": "State routes or through highways within municipalities outside business districts have a 35 mph limit.",
+      "official": false,
+      "ref": "Ohio Driver Manual / Digest of Ohio Motor Vehicle Laws (ODPS online edition, accessed Oct 2026), Section 4: Rules of the Road — 'Speed Limits'; ORC 4511.21(B)(3)"
+    },
+    {
+      "id": "oh-101",
+      "topic": "speed",
+      "q": "Unless otherwise posted, what is the speed limit on state routes within a municipality but outside urban districts?",
+      "options": [
+        "45 mph",
+        "50 mph",
+        "55 mph",
+        "35 mph"
+      ],
+      "answer": 1,
+      "explain": "State routes inside municipal corporations but outside urban districts are 50 mph unless a lower limit is set.",
+      "official": false,
+      "ref": "Ohio Driver Manual / Digest of Ohio Motor Vehicle Laws (ODPS online edition, accessed Oct 2026), Section 4: Rules of the Road — 'Speed Limits'; ORC 4511.21(B)(6)"
+    },
+    {
+      "id": "oh-102",
+      "topic": "speed",
+      "q": "Unless otherwise posted, what is the general speed limit on highways outside municipalities (not freeways or expressways)?",
+      "options": [
+        "65 mph",
+        "50 mph",
+        "55 mph",
+        "60 mph"
+      ],
+      "answer": 2,
+      "explain": "Ohio's general limit on highways outside municipal corporations is 55 mph.",
+      "official": false,
+      "ref": "ORC 4511.21(B)(5); Ohio Driver Manual / Digest of Ohio Motor Vehicle Laws (ODPS online edition, accessed Oct 2026), Section 4: Rules of the Road — 'Speed Limits'"
+    },
+    {
+      "id": "oh-103",
+      "topic": "speed",
+      "q": "Ohio's 'assured clear distance ahead' rule means you must:",
+      "options": [
+        "Always drive at the posted limit",
+        "Keep at least 100 feet behind any vehicle",
+        "Never exceed 55 mph at night",
+        "Drive no faster than lets you stop within the distance you can see ahead"
+      ],
+      "answer": 3,
+      "explain": "Regardless of the posted limit, Ohio law prohibits a speed greater than will let you stop in the distance available.",
+      "official": false,
+      "ref": "Ohio Driver Manual / Digest of Ohio Motor Vehicle Laws (ODPS online edition, accessed Oct 2026), Section 4: Rules of the Road — 'Speed Limits'; ORC 4511.21(A)"
+    },
+    {
+      "id": "oh-104",
+      "topic": "speed",
+      "q": "Posted speed limits are set for which conditions?",
+      "options": [
+        "Dry weather, good visibility and expected traffic",
+        "Night driving only",
+        "Rain and fog",
+        "Heavy traffic and snow"
+      ],
+      "answer": 0,
+      "explain": "Limits assume dry weather without fog; in poor conditions a reasonable speed may be lower than the limit.",
+      "official": false,
+      "ref": "Ohio Driver Manual / Digest of Ohio Motor Vehicle Laws (ODPS online edition, accessed Oct 2026), Section 4: Rules of the Road — 'Speed Limits'"
+    },
+    {
+      "id": "oh-105",
+      "topic": "speed",
+      "q": "What minimum following distance does the Ohio Driver Manual recommend behind the vehicle ahead?",
+      "options": [
+        "Two seconds",
+        "Half a car length",
+        "One second",
+        "Four seconds"
+      ],
+      "answer": 3,
+      "explain": "Keep at least four seconds (or one vehicle length per 10 mph) between you and the vehicle ahead.",
+      "official": false,
+      "ref": "Ohio Driver Manual / Digest of Ohio Motor Vehicle Laws (ODPS online edition, accessed Oct 2026), Section 8: Safe Driving Tips — 'Space to the Front'"
+    },
+    {
+      "id": "oh-106",
+      "topic": "speed",
+      "q": "Besides the four-second rule, the Ohio manual suggests a following distance of at least:",
+      "options": [
+        "One vehicle length for every 10 mph of speed",
+        "50 feet at any speed",
+        "Two vehicle lengths at any speed",
+        "One vehicle length for every 20 mph"
+      ],
+      "answer": 0,
+      "explain": "The manual's rule of thumb is one vehicle length per 10 mph, or four seconds.",
+      "official": false,
+      "ref": "Ohio Driver Manual / Digest of Ohio Motor Vehicle Laws (ODPS online edition, accessed Oct 2026), Section 8: Safe Driving Tips — 'Space to the Front'"
+    },
+    {
+      "id": "oh-107",
+      "topic": "speed",
+      "q": "How do you check a four-second following distance?",
+      "options": [
+        "Watch your speedometer for four seconds",
+        "Count seconds from when the vehicle ahead passes a fixed object until you reach it",
+        "Count the dashes on the road between you",
+        "Count the cars ahead of you"
+      ],
+      "answer": 1,
+      "explain": "When the rear of the vehicle ahead passes a fixed point, count; if you reach it before four seconds, you are too close.",
+      "official": false,
+      "ref": "Ohio Driver Manual / Digest of Ohio Motor Vehicle Laws (ODPS online edition, accessed Oct 2026), Section 8: Safe Driving Tips — 'Space to the Front'"
+    },
+    {
+      "id": "oh-108",
+      "topic": "speed",
+      "q": "In which situation should you increase your following distance beyond four seconds?",
+      "options": [
+        "When driving below the speed limit",
+        "Driving on a dry road in daylight",
+        "Following a vehicle that must stop at railroad crossings, such as a bus",
+        "When the car behind you is far back"
+      ],
+      "answer": 2,
+      "explain": "Increase distance in bad weather or at night, on slippery roads, behind large vehicles, and behind vehicles that must stop at railroad crossings.",
+      "official": false,
+      "ref": "Ohio Driver Manual / Digest of Ohio Motor Vehicle Laws (ODPS online edition, accessed Oct 2026), Section 8: Safe Driving Tips — 'Space to the Front'"
+    },
+    {
+      "id": "oh-109",
+      "topic": "speed",
+      "q": "How far ahead should you try to look while driving?",
+      "options": [
+        "2 to 3 seconds ahead",
+        "About 20 to 30 seconds ahead",
+        "About 5 seconds ahead",
+        "Only to the car directly ahead"
+      ],
+      "answer": 1,
+      "explain": "The manual recommends looking 20–30 seconds ahead to plan your movements.",
+      "official": false,
+      "ref": "Ohio Driver Manual / Digest of Ohio Motor Vehicle Laws (ODPS online edition, accessed Oct 2026), Section 8: Safe Driving Tips — 'Look Ahead'"
+    },
+    {
+      "id": "oh-110",
+      "topic": "speed",
+      "q": "According to the Ohio manual, about how far does it take to brake to a stop from 50 mph on dry pavement with good brakes (braking distance only)?",
+      "options": [
+        "About 400 feet",
+        "About 50 feet",
+        "About 80 feet",
+        "About 158 feet"
+      ],
+      "answer": 3,
+      "explain": "At 50 mph on dry pavement, braking alone can take about 158 feet—before adding perception and reaction distance.",
+      "official": false,
+      "ref": "Ohio Driver Manual / Digest of Ohio Motor Vehicle Laws (ODPS online edition, accessed Oct 2026), Section 8: Safe Driving Tips — 'Stopping Distance = Space Cushion'"
+    },
+    {
+      "id": "oh-111",
+      "topic": "speed",
+      "q": "What is the average perception time for an alert driver?",
+      "options": [
+        "About 3 seconds",
+        "About 5 seconds",
+        "About 3/4 second to 1 second",
+        "About 1/10 second"
+      ],
+      "answer": 2,
+      "explain": "Both average perception time and reaction time are about 3/4 to 1 second.",
+      "official": false,
+      "ref": "Ohio Driver Manual / Digest of Ohio Motor Vehicle Laws (ODPS online edition, accessed Oct 2026), Section 8: Safe Driving Tips — 'Stopping Distance = Space Cushion'"
+    },
+    {
+      "id": "oh-112",
+      "topic": "speed",
+      "q": "You should reduce your speed before entering a curve so that you can:",
+      "options": [
+        "Use slight, steady acceleration through the curve",
+        "Coast with the engine off",
+        "Shift to neutral through the curve",
+        "Brake hard in the middle of the curve"
+      ],
+      "answer": 0,
+      "explain": "Slow before the curve, then apply slight and constant acceleration through it.",
+      "official": false,
+      "ref": "Ohio Driver Manual / Digest of Ohio Motor Vehicle Laws (ODPS online edition, accessed Oct 2026), Section 8: Safe Driving Tips — 'Curves'"
+    },
+    {
+      "id": "oh-113",
+      "topic": "speed",
+      "q": "Speeding in an Ohio work zone can result in:",
+      "options": [
+        "Doubled fines and possible jail time",
+        "A fine only if workers are hurt",
+        "No extra penalty",
+        "A warning only"
+      ],
+      "answer": 0,
+      "explain": "Ohio treats work-zone speeding seriously: the fine can be doubled and jail time is possible.",
+      "official": false,
+      "ref": "Ohio Driver Manual / Digest of Ohio Motor Vehicle Laws (ODPS online edition, accessed Oct 2026), Section 4: Rules of the Road — 'Work Zone Signs'"
+    },
+    {
+      "id": "oh-114",
+      "topic": "speed",
+      "q": "Which places ice first in winter?",
+      "options": [
+        "Sunny straight roads",
+        "Uphill grades in sunlight",
+        "Roads near busy intersections",
+        "Bridges, overpasses and shaded spots"
+      ],
+      "answer": 3,
+      "explain": "Bridges, overpasses and shaded areas freeze before the rest of the road.",
+      "official": false,
+      "ref": "Ohio Driver Manual / Digest of Ohio Motor Vehicle Laws (ODPS online edition, accessed Oct 2026), Section 7: Special Driving Situations — 'Winter Driving'"
+    },
+    {
+      "id": "oh-115",
+      "topic": "speed",
+      "q": "What is the most important thing to do to avoid crashes on snowy or icy roads?",
+      "options": [
+        "Use cruise control",
+        "Engage four-wheel drive and keep normal speed",
+        "Reduce speed and increase following distance",
+        "Drive close to the car ahead to follow its tracks"
+      ],
+      "answer": 2,
+      "explain": "Slower speeds and greater following distance are needed because stopping distances grow on slippery roads.",
+      "official": false,
+      "ref": "Ohio Driver Manual / Digest of Ohio Motor Vehicle Laws (ODPS online edition, accessed Oct 2026), Section 7: Special Driving Situations — 'Winter Driving'; BMV Sample Knowledge Test topic"
+    },
+    {
+      "id": "oh-116",
+      "topic": "speed",
+      "q": "What is the best way to avoid hydroplaning?",
+      "options": [
+        "Speed up to get through water quickly",
+        "Slow down when the road is wet or has standing water",
+        "Brake hard when you see puddles",
+        "Inflate tires above the recommended pressure"
+      ],
+      "answer": 1,
+      "explain": "Hydroplaning is avoided mainly by slowing down on wet roads with pooled water.",
+      "official": false,
+      "ref": "Ohio Driver Manual / Digest of Ohio Motor Vehicle Laws (ODPS online edition, accessed Oct 2026), Section 8: Safe Driving Tips — 'Hydroplaning'"
+    },
+    {
+      "id": "oh-117",
+      "topic": "turns",
+      "q": "How far before a turn must you signal in Ohio?",
+      "options": [
+        "At least 200 feet",
+        "At least 500 feet",
+        "At least 100 feet",
+        "At least 50 feet"
+      ],
+      "answer": 2,
+      "explain": "A turn signal must be given continuously for at least the last 100 feet before turning.",
+      "official": false,
+      "ref": "Ohio Driver Manual / Digest of Ohio Motor Vehicle Laws (ODPS online edition, accessed Oct 2026), Section 5: Learning to Drive — 'Turn Signal'; ORC 4511.39"
+    },
+    {
+      "id": "oh-118",
+      "topic": "turns",
+      "q": "What does a driver's left arm extended straight out the window mean?",
+      "options": [
+        "Left turn",
+        "Slow or stop",
+        "Right turn",
+        "Pass me"
+      ],
+      "answer": 0,
+      "explain": "Arm straight out is the hand signal for a left turn.",
+      "official": false,
+      "ref": "Ohio Driver Manual / Digest of Ohio Motor Vehicle Laws (ODPS online edition, accessed Oct 2026), Section 5: Learning to Drive — 'Turn Signal'"
+    },
+    {
+      "id": "oh-119",
+      "topic": "turns",
+      "q": "What does a driver's left arm bent upward at a 90-degree angle mean?",
+      "options": [
+        "Left turn",
+        "Slow or stop",
+        "Go ahead",
+        "Right turn"
+      ],
+      "answer": 3,
+      "explain": "Arm bent upward signals a right turn.",
+      "official": false,
+      "ref": "Ohio Driver Manual / Digest of Ohio Motor Vehicle Laws (ODPS online edition, accessed Oct 2026), Section 5: Learning to Drive — 'Turn Signal'"
+    },
+    {
+      "id": "oh-120",
+      "topic": "turns",
+      "q": "What does a driver's left arm extended downward mean?",
+      "options": [
+        "Right turn",
+        "Slowing or stopping",
+        "Parking on the left",
+        "Left turn"
+      ],
+      "answer": 1,
+      "explain": "Arm pointing downward signals slow or stop.",
+      "official": false,
+      "ref": "Ohio Driver Manual / Digest of Ohio Motor Vehicle Laws (ODPS online edition, accessed Oct 2026), Section 5: Learning to Drive — 'Turn Signal'"
+    },
+    {
+      "id": "oh-121",
+      "topic": "turns",
+      "q": "When making a right turn, you should:",
+      "options": [
+        "Turn into the far left lane",
+        "Turn from the right-most part of your lane into the right-most part of the new street",
+        "Swing wide to the left first",
+        "Turn from the center lane"
+      ],
+      "answer": 1,
+      "explain": "Avoid swinging wide; turn from the right portion of your lane into the right portion of the new road.",
+      "official": false,
+      "ref": "Ohio Driver Manual / Digest of Ohio Motor Vehicle Laws (ODPS online edition, accessed Oct 2026), Section 5: Learning to Drive — 'Right Turns'"
+    },
+    {
+      "id": "oh-122",
+      "topic": "turns",
+      "q": "When making a left turn onto a two-way street, you should turn into:",
+      "options": [
+        "The oncoming lane briefly",
+        "Any open lane",
+        "The far right lane",
+        "The lane just to the right of the center line"
+      ],
+      "answer": 3,
+      "explain": "Turn from the left-most part of your lane into the left-most lane just right of the center line.",
+      "official": false,
+      "ref": "Ohio Driver Manual / Digest of Ohio Motor Vehicle Laws (ODPS online edition, accessed Oct 2026), Section 5: Learning to Drive — 'Left Turns'"
+    },
+    {
+      "id": "oh-123",
+      "topic": "turns",
+      "q": "While waiting to turn left at a green light with heavy oncoming traffic, you should:",
+      "options": [
+        "Position the front of the car slightly past the stop bar and turn when it is safe",
+        "Turn your wheels left while waiting",
+        "Go around the left side of the oncoming traffic",
+        "Wait behind the stop line until the light turns red, then go straight"
+      ],
+      "answer": 0,
+      "explain": "If oncoming traffic leaves no gap, pull just past the stop bar, keep yielding to oncoming cars and pedestrians, and complete the turn once it is safe.",
+      "official": false,
+      "ref": "Ohio Driver Manual / Digest of Ohio Motor Vehicle Laws (ODPS online edition, accessed Oct 2026), Section 5: Learning to Drive — 'Left Turns'"
+    },
+    {
+      "id": "oh-124",
+      "topic": "turns",
+      "q": "When is a left turn on a red light permitted in Ohio?",
+      "options": [
+        "Never",
+        "Only when a police officer is absent",
+        "From the far-left lane of a one-way street onto another one-way street, after stopping, unless prohibited",
+        "From any street after a full stop"
+      ],
+      "answer": 2,
+      "explain": "Ohio permits a left on red only when you are in the leftmost lane of a one-way street turning onto another one-way street, after a full stop and only if no sign prohibits it.",
+      "official": false,
+      "ref": "Ohio Driver Manual / Digest of Ohio Motor Vehicle Laws (ODPS online edition, accessed Oct 2026), Section 5: Learning to Drive — 'Left Turn on Red'"
+    },
+    {
+      "id": "oh-125",
+      "topic": "turns",
+      "q": "Before turning right on a red light, you must:",
+      "options": [
+        "Sound your horn",
+        "Come to a complete stop and let all crossing traffic and pedestrians clear",
+        "Wait for a green arrow",
+        "Slow to 5 mph and turn"
+      ],
+      "answer": 1,
+      "explain": "A right turn on red requires a full stop and yielding to all crossing traffic and pedestrians.",
+      "official": false,
+      "ref": "Ohio Driver Manual / Digest of Ohio Motor Vehicle Laws (ODPS online edition, accessed Oct 2026), Section 5: Learning to Drive — 'Right Turn on Red'"
+    },
+    {
+      "id": "oh-126",
+      "topic": "turns",
+      "q": "At an intersection with two left-turn lanes, you should:",
+      "options": [
+        "Use only the inside lane",
+        "Use either lane but end in the right lane",
+        "Pick a lane and stay in it until the turn is complete",
+        "Switch lanes during the turn if the other is clear"
+      ],
+      "answer": 2,
+      "explain": "For multiple-lane turns, enter the lane you will turn from and stay in that lane through the turn.",
+      "official": false,
+      "ref": "Ohio Driver Manual / Digest of Ohio Motor Vehicle Laws (ODPS online edition, accessed Oct 2026), Section 5: Learning to Drive — 'Multiple Lane Turning'"
+    },
+    {
+      "id": "oh-127",
+      "topic": "turns",
+      "q": "On a road with four or more lanes, which lane should you normally drive in?",
+      "options": [
+        "The right lane, using the lane just right of center to pass or turn left",
+        "The center lanes only",
+        "The left lane",
+        "Any lane at any time"
+      ],
+      "answer": 0,
+      "explain": "On roads with four or more lanes, normal driving belongs in the right lane; the lane next to the center is for passing and left turns.",
+      "official": false,
+      "ref": "Ohio Driver Manual / Digest of Ohio Motor Vehicle Laws (ODPS online edition, accessed Oct 2026), Section 5: Learning to Drive — 'Lane Travel'"
+    },
+    {
+      "id": "oh-128",
+      "topic": "turns",
+      "q": "When changing lanes, how do you check your blind spot?",
+      "options": [
+        "Ask a passenger",
+        "Rely on the side mirror only",
+        "Use only the inside mirror",
+        "Turn your head and look over your shoulder in the direction you plan to move"
+      ],
+      "answer": 3,
+      "explain": "Mirrors leave blind spots; turn your head and look before moving over.",
+      "official": false,
+      "ref": "Ohio Driver Manual / Digest of Ohio Motor Vehicle Laws (ODPS online edition, accessed Oct 2026), Section 5: Learning to Drive — 'Changing Lanes'"
+    },
+    {
+      "id": "oh-129",
+      "topic": "turns",
+      "q": "When passing another vehicle, return to your lane when:",
+      "options": [
+        "The other driver flashes their lights",
+        "You have traveled 100 feet past it",
+        "Your rear bumper clears its front bumper",
+        "You can see both headlights of the passed vehicle in your rear-view mirror"
+      ],
+      "answer": 3,
+      "explain": "Continue until both headlights of the vehicle you passed are visible in the inside mirror.",
+      "official": false,
+      "ref": "Ohio Driver Manual / Digest of Ohio Motor Vehicle Laws (ODPS online edition, accessed Oct 2026), Section 5: Learning to Drive — 'Passing'"
+    },
+    {
+      "id": "oh-130",
+      "topic": "turns",
+      "q": "Where is passing NOT permitted?",
+      "options": [
+        "On a multi-lane highway in the left lane",
+        "On a straight road with a broken yellow line",
+        "Within an intersection or approaching a railroad crossing",
+        "On a one-way street with two lanes, when safe"
+      ],
+      "answer": 2,
+      "explain": "Do not pass at intersections, before a railroad crossing or bridge, on curves or hills, or with oncoming traffic approaching.",
+      "official": false,
+      "ref": "Ohio Driver Manual / Digest of Ohio Motor Vehicle Laws (ODPS online edition, accessed Oct 2026), Section 5: Learning to Drive — 'Passing'"
+    },
+    {
+      "id": "oh-131",
+      "topic": "turns",
+      "q": "Is passing on the shoulder of the road allowed?",
+      "options": [
+        "No, never—whether the shoulder is paved or not",
+        "Yes, to pass a left-turning vehicle",
+        "Yes, in heavy traffic",
+        "Yes, if it is paved"
+      ],
+      "answer": 0,
+      "explain": "The Ohio manual says never pass on the shoulder, paved or unpaved.",
+      "official": false,
+      "ref": "Ohio Driver Manual / Digest of Ohio Motor Vehicle Laws (ODPS online edition, accessed Oct 2026), Section 5: Learning to Drive — 'Multi-Lane, Two-Way Roadway'"
+    },
+    {
+      "id": "oh-132",
+      "topic": "turns",
+      "q": "When another vehicle is passing you, you should:",
+      "options": [
+        "Move onto the shoulder",
+        "Stay in your lane and keep a steady speed",
+        "Brake sharply",
+        "Speed up"
+      ],
+      "answer": 1,
+      "explain": "Stay in your lane and maintain a constant speed so the other driver can pass.",
+      "official": false,
+      "ref": "Ohio Driver Manual / Digest of Ohio Motor Vehicle Laws (ODPS online edition, accessed Oct 2026), Section 5: Learning to Drive — 'Passing'"
+    },
+    {
+      "id": "oh-133",
+      "topic": "turns",
+      "q": "When may you cross a double solid yellow center line?",
+      "options": [
+        "To pass any vehicle going under the limit",
+        "To turn left into a driveway, or to pass a slow-moving vehicle when safe",
+        "Never under any circumstances",
+        "Whenever no traffic is visible"
+      ],
+      "answer": 1,
+      "explain": "Crossing is permitted only to turn left into a driveway or to pass a slow-moving vehicle (e.g., bicycle or SMV) when safe.",
+      "official": false,
+      "ref": "Ohio Driver Manual / Digest of Ohio Motor Vehicle Laws (ODPS online edition, accessed Oct 2026), Section 5: Learning to Drive — 'Solid Double Yellow Lines'"
+    },
+    {
+      "id": "oh-134",
+      "topic": "turns",
+      "q": "You may cross a solid yellow line to pass a slow-moving vehicle only if it is going less than what speed?",
+      "options": [
+        "10 mph below the limit",
+        "Any speed below the limit",
+        "Half the posted speed limit",
+        "25 mph exactly"
+      ],
+      "answer": 2,
+      "explain": "You may pass a slow-moving vehicle across a solid yellow line if it travels less than half the posted limit, you do not exceed the limit, and there is enough clear space.",
+      "official": false,
+      "ref": "Ohio Driver Manual / Digest of Ohio Motor Vehicle Laws (ODPS online edition, accessed Oct 2026), Section 9: Sharing the Road — 'Slow Moving Vehicles'; ORC 4511.31"
+    },
+    {
+      "id": "oh-135",
+      "topic": "turns",
+      "q": "A two-way center left-turn lane may be used for:",
+      "options": [
+        "Left turns only, immediately before turning",
+        "Merging into traffic from the right",
+        "Passing slow traffic",
+        "Traveling for long distances"
+      ],
+      "answer": 0,
+      "explain": "This lane is reserved for left-turning vehicles and is not used for passing, merging or traveling.",
+      "official": false,
+      "ref": "Ohio Driver Manual / Digest of Ohio Motor Vehicle Laws (ODPS online edition, accessed Oct 2026), Section 5: Learning to Drive — 'Center Two-Way Left Turn Lane'"
+    },
+    {
+      "id": "oh-136",
+      "topic": "turns",
+      "q": "When entering a freeway, you should:",
+      "options": [
+        "Enter without signaling if traffic is light",
+        "Merge slowly below traffic speed",
+        "Stop at the end of the ramp and wait",
+        "Signal and use the acceleration lane to reach the speed of traffic, then merge into a gap"
+      ],
+      "answer": 3,
+      "explain": "Use the acceleration lane to match traffic speed, find a gap, signal and merge, then cancel the signal.",
+      "official": false,
+      "ref": "Ohio Driver Manual / Digest of Ohio Motor Vehicle Laws (ODPS online edition, accessed Oct 2026), Section 5: Learning to Drive — 'Entering a Multi-lane Highway'"
+    },
+    {
+      "id": "oh-137",
+      "topic": "turns",
+      "q": "You missed your freeway exit. What should you do?",
+      "options": [
+        "Back up on the shoulder",
+        "Stop and wait for a gap to cut across",
+        "Use a median crossover to turn around",
+        "Continue to the next exit"
+      ],
+      "answer": 3,
+      "explain": "Take the next exit; median openings are only for emergency and public safety vehicles.",
+      "official": false,
+      "ref": "Ohio Driver Manual / Digest of Ohio Motor Vehicle Laws (ODPS online edition, accessed Oct 2026), Section 5: Learning to Drive — 'Exiting a Roadway'"
+    },
+    {
+      "id": "oh-138",
+      "topic": "turns",
+      "q": "When exiting a freeway, where should you begin to slow down?",
+      "options": [
+        "In the left lane",
+        "In the deceleration (exit) lane",
+        "On the shoulder",
+        "On the main roadway before the exit"
+      ],
+      "answer": 1,
+      "explain": "Maintain speed on the main road, signal, move into the deceleration lane, then slow down.",
+      "official": false,
+      "ref": "Ohio Driver Manual / Digest of Ohio Motor Vehicle Laws (ODPS online edition, accessed Oct 2026), Section 5: Learning to Drive — 'Exiting a Roadway'"
+    },
+    {
+      "id": "oh-139",
+      "topic": "turns",
+      "q": "Ohio law requires you to drive on the right half of the road EXCEPT when:",
+      "options": [
+        "The right lane is bumpy",
+        "You are about to turn right",
+        "Passing a vehicle going the same direction when it is safe",
+        "You are in a hurry"
+      ],
+      "answer": 2,
+      "explain": "Exceptions include passing, roads with three or more marked lanes, one-way roads, obstructions, or direction by an officer.",
+      "official": false,
+      "ref": "Ohio Driver Manual / Digest of Ohio Motor Vehicle Laws (ODPS online edition, accessed Oct 2026), Section 5: Learning to Drive — 'Lane Travel'; ORC 4511.25"
+    },
+    {
+      "id": "oh-140",
+      "topic": "turns",
+      "q": "When backing up, where should you place your hands and look?",
+      "options": [
+        "Left hand at 12 o'clock on the wheel, turn and look through the rear window",
+        "Watch only the side mirrors",
+        "Both hands at 9 and 3 while watching the backup camera only",
+        "Look forward and use the horn"
+      ],
+      "answer": 0,
+      "explain": "Grasp the wheel at 12 o'clock with your left hand, put your right arm on the passenger seat, and look directly back.",
+      "official": false,
+      "ref": "Ohio Driver Manual / Digest of Ohio Motor Vehicle Laws (ODPS online edition, accessed Oct 2026), Section 5: Learning to Drive — 'Backing Up'"
+    },
+    {
+      "id": "oh-141",
+      "topic": "turns",
+      "q": "Where does the Ohio Driver Manual recommend placing your hands on the steering wheel?",
+      "options": [
+        "At about the 4 and 8 o'clock positions",
+        "At 10 and 2 o'clock",
+        "One hand at 6 o'clock",
+        "At 12 o'clock only"
+      ],
+      "answer": 0,
+      "explain": "The manual recommends hands at 4 and 8 o'clock for control and to stay clear of a deploying air bag.",
+      "official": false,
+      "ref": "Ohio Driver Manual / Digest of Ohio Motor Vehicle Laws (ODPS online edition, accessed Oct 2026), Section 5: Learning to Drive — 'Steering'"
+    },
+    {
+      "id": "oh-142",
+      "topic": "parking",
+      "q": "How close to a fire hydrant may you park in Ohio?",
+      "options": [
+        "No closer than 15 feet",
+        "No closer than 10 feet",
+        "No closer than 20 feet",
+        "No closer than 5 feet"
+      ],
+      "answer": 1,
+      "explain": "Ohio prohibits stopping, standing or parking within 10 feet of a fire hydrant.",
+      "official": false,
+      "ref": "Ohio Driver Manual / Digest of Ohio Motor Vehicle Laws (ODPS online edition, accessed Oct 2026), Section 5: Learning to Drive — 'Stopping, Parking, or Standing Prohibited'; ORC 4511.68(A)(4)"
+    },
+    {
+      "id": "oh-143",
+      "topic": "parking",
+      "q": "You may not park within how many feet of a crosswalk at an intersection?",
+      "options": [
+        "10 feet",
+        "30 feet",
+        "15 feet",
+        "20 feet"
+      ],
+      "answer": 3,
+      "explain": "Parking is prohibited within 20 feet of an intersection or crosswalk.",
+      "official": false,
+      "ref": "Ohio Driver Manual / Digest of Ohio Motor Vehicle Laws (ODPS online edition, accessed Oct 2026), Section 5: Learning to Drive — 'Stopping, Parking, or Standing Prohibited'; ORC 4511.68(A)(6)"
+    },
+    {
+      "id": "oh-144",
+      "topic": "parking",
+      "q": "When parallel parking, your vehicle must be no more than how far from the curb?",
+      "options": [
+        "6 inches",
+        "18 inches",
+        "12 inches",
+        "24 inches"
+      ],
+      "answer": 2,
+      "explain": "Park parallel to and not more than 12 inches from the curb, facing the direction of traffic.",
+      "official": false,
+      "ref": "Ohio Driver Manual / Digest of Ohio Motor Vehicle Laws (ODPS online edition, accessed Oct 2026), Section 5: Learning to Drive — 'Parking'"
+    },
+    {
+      "id": "oh-145",
+      "topic": "parking",
+      "q": "On a two-way street, which way must your parked vehicle face?",
+      "options": [
+        "Either direction",
+        "In the direction of traffic on that side of the street",
+        "Toward the nearest intersection",
+        "Against traffic"
+      ],
+      "answer": 1,
+      "explain": "Vehicles must be parked facing the direction of traffic, parallel to the right curb.",
+      "official": false,
+      "ref": "Ohio Driver Manual / Digest of Ohio Motor Vehicle Laws (ODPS online edition, accessed Oct 2026), Section 5: Learning to Drive — 'Parking'"
+    },
+    {
+      "id": "oh-146",
+      "topic": "parking",
+      "q": "On a one-way street, where may you parallel park?",
+      "options": [
+        "Within 12 inches of either the right or left curb",
+        "Only along the right curb",
+        "Only along the left curb",
+        "Only in the center"
+      ],
+      "answer": 0,
+      "explain": "On one-way streets, you may park within 12 inches of the right or left curb.",
+      "official": false,
+      "ref": "Ohio Driver Manual / Digest of Ohio Motor Vehicle Laws (ODPS online edition, accessed Oct 2026), Section 5: Learning to Drive — 'Parking'"
+    },
+    {
+      "id": "oh-147",
+      "topic": "parking",
+      "q": "How close may you park to the nearest rail of a railroad crossing?",
+      "options": [
+        "No closer than 25 feet",
+        "No closer than 100 feet",
+        "No closer than 50 feet",
+        "No closer than 15 feet"
+      ],
+      "answer": 2,
+      "explain": "Ohio law prohibits parking within 50 feet of the nearest rail of a railroad crossing.",
+      "official": false,
+      "ref": "ORC 4511.68(A)(9); Ohio Driver Manual / Digest of Ohio Motor Vehicle Laws (ODPS online edition, accessed Oct 2026), Section 5: Learning to Drive — 'Stopping, Parking, or Standing Prohibited'"
+    },
+    {
+      "id": "oh-148",
+      "topic": "parking",
+      "q": "You may not park within how many feet of the approach to a stop sign, yield sign, or traffic signal?",
+      "options": [
+        "10 feet",
+        "50 feet",
+        "20 feet",
+        "30 feet"
+      ],
+      "answer": 3,
+      "explain": "Ohio law prohibits standing or parking within 30 feet of, and on the approach to, a stop sign, yield sign or traffic signal.",
+      "official": false,
+      "ref": "ORC 4511.68(A)(7); Ohio Driver Manual / Digest of Ohio Motor Vehicle Laws (ODPS online edition, accessed Oct 2026), Section 5: Learning to Drive — 'Stopping, Parking, or Standing Prohibited'"
+    },
+    {
+      "id": "oh-149",
+      "topic": "parking",
+      "q": "Which of these is a place where you may NOT stop, stand or park?",
+      "options": [
+        "In a driveway on your own property",
+        "In a marked parking space along the curb",
+        "In a public lot space",
+        "Alongside a vehicle already parked at the curb (double parking)"
+      ],
+      "answer": 3,
+      "explain": "Ohio prohibits stopping or parking alongside a vehicle stopped or parked at the curb.",
+      "official": false,
+      "ref": "Ohio Driver Manual / Digest of Ohio Motor Vehicle Laws (ODPS online edition, accessed Oct 2026), Section 5: Learning to Drive — 'Stopping, Parking, or Standing Prohibited'; ORC 4511.68"
+    },
+    {
+      "id": "oh-150",
+      "topic": "parking",
+      "q": "Which of these vehicles may be parked on a sidewalk in Ohio if it does not block pedestrians?",
+      "options": [
+        "A bicycle",
+        "A pickup truck",
+        "A compact car",
+        "A motorcycle with a 600 cc engine"
+      ],
+      "answer": 0,
+      "explain": "Bicycles, e-bikes, mopeds, scooters of 150 cc or less and micro-mobility devices may park on a sidewalk if pedestrian flow is not impeded.",
+      "official": false,
+      "ref": "Ohio Driver Manual / Digest of Ohio Motor Vehicle Laws (ODPS online edition, accessed Oct 2026), Section 5: Learning to Drive — 'Stopping, Parking, or Standing Prohibited'; ORC 4511.68(B)"
+    },
+    {
+      "id": "oh-151",
+      "topic": "parking",
+      "q": "When parking on a hill next to a curb, the Ohio manual says you should turn your front wheels:",
+      "options": [
+        "Away from any curb in all cases",
+        "Toward the curb side of the road, then shift to park and set the parking brake",
+        "Straight ahead",
+        "It does not matter if the parking brake is set"
+      ],
+      "answer": 1,
+      "explain": "Turn the front wheels toward the curb side, shift to PARK, set the parking brake and turn off the engine.",
+      "official": false,
+      "ref": "Ohio Driver Manual / Digest of Ohio Motor Vehicle Laws (ODPS online edition, accessed Oct 2026), Section 5: Learning to Drive — 'Parking on a Hill or Grade'"
+    },
+    {
+      "id": "oh-152",
+      "topic": "parking",
+      "q": "May you park in front of a public or private driveway?",
+      "options": [
+        "Yes, if you stay in the car",
+        "Yes, for up to 15 minutes",
+        "No, it is prohibited",
+        "Yes, at night only"
+      ],
+      "answer": 2,
+      "explain": "Stopping, standing or parking in front of a public or private driveway is prohibited.",
+      "official": false,
+      "ref": "Ohio Driver Manual / Digest of Ohio Motor Vehicle Laws (ODPS online edition, accessed Oct 2026), Section 5: Learning to Drive — 'Stopping, Parking, or Standing Prohibited'; ORC 4511.68(A)(2)"
+    },
+    {
+      "id": "oh-153",
+      "topic": "parking",
+      "q": "How close may you park to another parked vehicle?",
+      "options": [
+        "No closer than 5 feet",
+        "No closer than 6 inches",
+        "Touching bumpers is allowed",
+        "No closer than one foot"
+      ],
+      "answer": 3,
+      "explain": "Ohio prohibits parking within one foot of another parked vehicle.",
+      "official": false,
+      "ref": "Ohio Driver Manual / Digest of Ohio Motor Vehicle Laws (ODPS online edition, accessed Oct 2026), Section 5: Learning to Drive — 'Stopping, Parking, or Standing Prohibited'; ORC 4511.68(A)(15)"
+    },
+    {
+      "id": "oh-154",
+      "topic": "parking",
+      "q": "Who may park in a space marked with the wheelchair symbol?",
+      "options": [
+        "Anyone for less than 10 minutes",
+        "Only a vehicle displaying an issued disability placard or accessible license plate",
+        "Anyone with hazard lights on",
+        "Delivery vehicles"
+      ],
+      "answer": 1,
+      "explain": "Spaces with the wheelchair symbol are reserved; you need an issued disability placard or accessible plate to use one.",
+      "official": false,
+      "ref": "Ohio Driver Manual / Digest of Ohio Motor Vehicle Laws (ODPS online edition, accessed Oct 2026), Section 5: Learning to Drive — 'No-Parking Zones / Handicapped Spaces'"
+    },
+    {
+      "id": "oh-155",
+      "topic": "parking",
+      "q": "Is it legal to park on a bridge or in a highway tunnel in Ohio?",
+      "options": [
+        "No, unless directed by an officer or traffic control device",
+        "Yes, if hazard lights are on",
+        "Yes, for up to 5 minutes",
+        "Yes, at night"
+      ],
+      "answer": 0,
+      "explain": "ORC 4511.68 lists bridges, elevated structures and highway tunnels as no-stopping/parking places.",
+      "official": false,
+      "ref": "ORC 4511.68(A)(13)"
+    },
+    {
+      "id": "oh-156",
+      "topic": "sharing",
+      "q": "When passing a bicyclist, Ohio law requires you to leave at least how much space?",
+      "options": [
+        "2 feet",
+        "1 foot",
+        "3 feet",
+        "6 feet"
+      ],
+      "answer": 2,
+      "explain": "Maintain a safety zone of at least three feet between your vehicle and a bicycle.",
+      "official": false,
+      "ref": "Ohio Driver Manual / Digest of Ohio Motor Vehicle Laws (ODPS online edition, accessed Oct 2026), Section 9: Sharing the Road — 'Bicyclists'; ORC 4511.27"
+    },
+    {
+      "id": "oh-157",
+      "topic": "sharing",
+      "q": "On Ohio roadways, bicycles are considered:",
+      "options": [
+        "Pedestrians",
+        "Allowed to ride against traffic",
+        "Vehicles that must ride with traffic and obey the same rules",
+        "Exempt from traffic signals"
+      ],
+      "answer": 2,
+      "explain": "Bicycles are vehicles on the roadway and must ride with, not against, traffic.",
+      "official": false,
+      "ref": "Ohio Driver Manual / Digest of Ohio Motor Vehicle Laws (ODPS online edition, accessed Oct 2026), Section 9: Sharing the Road — 'Bicyclists'; ORC 4511.52"
+    },
+    {
+      "id": "oh-158",
+      "topic": "sharing",
+      "q": "How much lane space should you give a motorcyclist?",
+      "options": [
+        "The motorcycle should share with your car",
+        "A full lane width",
+        "Half a lane",
+        "Only the right third of the lane"
+      ],
+      "answer": 1,
+      "explain": "Allow motorcycles a full lane width; they need space to react to traffic.",
+      "official": false,
+      "ref": "Ohio Driver Manual / Digest of Ohio Motor Vehicle Laws (ODPS online edition, accessed Oct 2026), Section 9: Sharing the Road — 'Motorcyclists'"
+    },
+    {
+      "id": "oh-159",
+      "topic": "sharing",
+      "q": "A motorcycle ahead has its turn signal flashing. What should you assume?",
+      "options": [
+        "It is about to stop",
+        "It will definitely turn",
+        "It wants you to pass",
+        "It may not be turning—motorcycle signals may not self-cancel"
+      ],
+      "answer": 3,
+      "explain": "Motorcycle turn signals may not self-cancel; do not assume the rider is turning.",
+      "official": false,
+      "ref": "Ohio Driver Manual / Digest of Ohio Motor Vehicle Laws (ODPS online edition, accessed Oct 2026), Section 9: Sharing the Road — 'Motorcyclists'"
+    },
+    {
+      "id": "oh-160",
+      "topic": "sharing",
+      "q": "In ideal conditions at low speed, what minimum following distance should you keep behind a motorcycle?",
+      "options": [
+        "Three seconds, increasing to four or more in poor conditions",
+        "Two car lengths",
+        "Ten seconds",
+        "One second"
+      ],
+      "answer": 0,
+      "explain": "Keep at least three seconds in ideal low-speed conditions and four or more when conditions are less than ideal.",
+      "official": false,
+      "ref": "Ohio Driver Manual / Digest of Ohio Motor Vehicle Laws (ODPS online edition, accessed Oct 2026), Section 9: Sharing the Road — 'Motorcyclists'"
+    },
+    {
+      "id": "oh-161",
+      "topic": "sharing",
+      "q": "If you cannot see a truck driver's face in the truck's side mirror:",
+      "options": [
+        "The truck driver cannot see you",
+        "The truck driver can see you clearly",
+        "You should honk and stay there",
+        "You are at a safe distance"
+      ],
+      "answer": 0,
+      "explain": "If you can't see the driver in the side mirror, you are in the driver's 'No Zone' blind spot.",
+      "official": false,
+      "ref": "Ohio Driver Manual / Digest of Ohio Motor Vehicle Laws (ODPS online edition, accessed Oct 2026), Section 9: Sharing the Road — 'Side No Zones'"
+    },
+    {
+      "id": "oh-162",
+      "topic": "sharing",
+      "q": "Behind a large truck, its blind spot can extend up to how far?",
+      "options": [
+        "500 feet",
+        "200 feet",
+        "50 feet",
+        "20 feet"
+      ],
+      "answer": 1,
+      "explain": "Large vehicles have rear blind spots that extend up to 200 feet.",
+      "official": false,
+      "ref": "Ohio Driver Manual / Digest of Ohio Motor Vehicle Laws (ODPS online edition, accessed Oct 2026), Section 9: Sharing the Road — 'Rear No Zones'"
+    },
+    {
+      "id": "oh-163",
+      "topic": "sharing",
+      "q": "A loaded truck at 55 mph under ideal conditions needs about how far to stop?",
+      "options": [
+        "About 100 feet",
+        "About 1,000 feet",
+        "At least 335 feet",
+        "About 200 feet"
+      ],
+      "answer": 2,
+      "explain": "A loaded truck needs a minimum of about 335 feet—over 1½ times a passenger car's stopping distance.",
+      "official": false,
+      "ref": "Ohio Driver Manual / Digest of Ohio Motor Vehicle Laws (ODPS online edition, accessed Oct 2026), Section 9: Sharing the Road — 'Front No Zones'"
+    },
+    {
+      "id": "oh-164",
+      "topic": "sharing",
+      "q": "After passing a large truck, when is it safe to move back in front of it?",
+      "options": [
+        "As soon as your rear bumper passes its cab",
+        "Immediately, then brake to signal",
+        "When the truck driver honks",
+        "When you can see the whole front of the truck in your rear-view mirror"
+      ],
+      "answer": 3,
+      "explain": "Wait until you see the entire front of the truck in your inside mirror and keep your speed.",
+      "official": false,
+      "ref": "Ohio Driver Manual / Digest of Ohio Motor Vehicle Laws (ODPS online edition, accessed Oct 2026), Section 9: Sharing the Road — 'Front No Zones'"
+    },
+    {
+      "id": "oh-165",
+      "topic": "sharing",
+      "q": "A truck in front of you swings left before making a right turn. What should you do?",
+      "options": [
+        "Move into the space it left",
+        "Pass it on the right",
+        "Honk and pass on the left",
+        "Stay back and do not squeeze between the truck and the curb"
+      ],
+      "answer": 3,
+      "explain": "Large vehicles may swing wide to turn right; never squeeze between the truck and the curb.",
+      "official": false,
+      "ref": "Ohio Driver Manual / Digest of Ohio Motor Vehicle Laws (ODPS online edition, accessed Oct 2026), Section 9: Sharing the Road — 'Turning'"
+    },
+    {
+      "id": "oh-166",
+      "topic": "sharing",
+      "q": "According to the Ohio manual, how much longer does it take commercial trucks to stop than cars?",
+      "options": [
+        "About 40% longer",
+        "The same distance",
+        "About 5% longer",
+        "Twice as long in all cases"
+      ],
+      "answer": 0,
+      "explain": "Don't cut in front of trucks; they take about 40 percent longer to stop.",
+      "official": false,
+      "ref": "Ohio Driver Manual / Digest of Ohio Motor Vehicle Laws (ODPS online edition, accessed Oct 2026), Section 9: Sharing the Road — 'Commercial Vehicles'"
+    },
+    {
+      "id": "oh-167",
+      "topic": "sharing",
+      "q": "Why are you told to stop behind the stop line at intersections?",
+      "options": [
+        "Only so cameras can read your plate",
+        "It gives large vehicles more room to turn",
+        "To see pedestrians behind you",
+        "To make it easier to run the light"
+      ],
+      "answer": 1,
+      "explain": "Stop lines set you back far enough for larger vehicles to have turning space.",
+      "official": false,
+      "ref": "Ohio Driver Manual / Digest of Ohio Motor Vehicle Laws (ODPS online edition, accessed Oct 2026), Section 9: Sharing the Road — 'Turning'"
+    },
+    {
+      "id": "oh-168",
+      "topic": "sharing",
+      "q": "When should you avoid using your horn near a bicyclist?",
+      "options": [
+        "Only in school zones",
+        "Only at night",
+        "When you are close to the bicyclist",
+        "Never—always honk when passing"
+      ],
+      "answer": 2,
+      "explain": "Avoid sounding your horn close to a bicyclist; it can startle the rider.",
+      "official": false,
+      "ref": "Ohio Driver Manual / Digest of Ohio Motor Vehicle Laws (ODPS online edition, accessed Oct 2026), Section 9: Sharing the Road — 'Bicyclists'"
+    },
+    {
+      "id": "oh-169",
+      "topic": "sharing",
+      "q": "Farm machinery traveling on the road at night must display:",
+      "options": [
+        "Only white headlights",
+        "A blue flashing light",
+        "No lights if it stays on the shoulder",
+        "A slow-moving-vehicle emblem and a red flashing light"
+      ],
+      "answer": 3,
+      "explain": "Farm machinery must display the SMV emblem and use a red flashing light at night.",
+      "official": false,
+      "ref": "Ohio Driver Manual / Digest of Ohio Motor Vehicle Laws (ODPS online edition, accessed Oct 2026), Section 9: Sharing the Road — 'Farm Machinery'"
+    },
+    {
+      "id": "oh-170",
+      "topic": "sharing",
+      "q": "Horse-drawn buggies and horseback riders on Ohio roads:",
+      "options": [
+        "Must stay off all state routes",
+        "Are not allowed on public roads",
+        "Have the same rights as motor vehicles and must follow the same rules",
+        "Always have the right-of-way"
+      ],
+      "answer": 2,
+      "explain": "Animal-drawn vehicles and horseback riders have the same rights and duties as motor vehicles.",
+      "official": false,
+      "ref": "Ohio Driver Manual / Digest of Ohio Motor Vehicle Laws (ODPS online edition, accessed Oct 2026), Section 9: Sharing the Road — 'Animal-Drawn Vehicles and Horseback Riders'"
+    },
+    {
+      "id": "oh-171",
+      "topic": "sharing",
+      "q": "Vehicles moving slower than the flow of traffic must:",
+      "options": [
+        "Use the center turn lane",
+        "Use the right lane or stay as close as possible to the right edge",
+        "Use the left lane",
+        "Turn on high beams"
+      ],
+      "answer": 1,
+      "explain": "Slower vehicles must use the available right lane or keep close to the right-hand curb or edge.",
+      "official": false,
+      "ref": "Ohio Driver Manual / Digest of Ohio Motor Vehicle Laws (ODPS online edition, accessed Oct 2026), Section 9: Sharing the Road — 'Slow Moving Vehicles'; ORC 4511.31"
+    },
+    {
+      "id": "oh-172",
+      "topic": "sharing",
+      "q": "Pedestrians often do not obey signals or use crosswalks. As a driver you should:",
+      "options": [
+        "Be ready to yield to them anyway",
+        "Honk until they move",
+        "Proceed because they are breaking the law",
+        "Speed up to pass before they step out"
+      ],
+      "answer": 0,
+      "explain": "Pedestrians can be hard to see and unpredictable; drivers must yield to them.",
+      "official": false,
+      "ref": "Ohio Driver Manual / Digest of Ohio Motor Vehicle Laws (ODPS online edition, accessed Oct 2026), Section 9: Sharing the Road — 'Pedestrians'"
+    },
+    {
+      "id": "oh-173",
+      "topic": "sharing",
+      "q": "When a large tractor-trailer passes you, you can make more space by:",
+      "options": [
+        "Moving to the outside portion of your lane, away from the truck",
+        "Braking hard",
+        "Moving toward the truck",
+        "Speeding up alongside it"
+      ],
+      "answer": 0,
+      "explain": "Leave extra room by moving to the side of your lane away from a passing tractor-trailer.",
+      "official": false,
+      "ref": "Ohio Driver Manual / Digest of Ohio Motor Vehicle Laws (ODPS online edition, accessed Oct 2026), Section 8: Safe Driving Tips — 'Space to the Side'"
+    },
+    {
+      "id": "oh-174",
+      "topic": "sharing",
+      "q": "Near weigh stations or on steep hills behind large trucks, the Ohio manual suggests:",
+      "options": [
+        "Passing on the shoulder",
+        "Avoiding the right lane where trucks may be re-entering traffic",
+        "Following closely to draft",
+        "Driving in the right lane"
+      ],
+      "answer": 1,
+      "explain": "Avoid the right lanes on steep grades and near weigh stations where trucks may merge back into faster traffic.",
+      "official": false,
+      "ref": "Ohio Driver Manual / Digest of Ohio Motor Vehicle Laws (ODPS online edition, accessed Oct 2026), Section 9: Sharing the Road — 'Rear No Zones'"
+    },
+    {
+      "id": "oh-175",
+      "topic": "sharing",
+      "q": "What should you do when approaching school zones with flashing lights or children present?",
+      "options": [
+        "Maintain the regular limit",
+        "Pass slower cars to clear the zone quickly",
+        "Honk to warn children",
+        "Obey the lower school speed limit and the crossing guards"
+      ],
+      "answer": 3,
+      "explain": "When lights are flashing or children are present, obey the slower limit and follow crossing guards.",
+      "official": false,
+      "ref": "Ohio Driver Manual / Digest of Ohio Motor Vehicle Laws (ODPS online edition, accessed Oct 2026), Section 9: Sharing the Road — 'Pedestrians — School Zones'"
+    },
+    {
+      "id": "oh-176",
+      "topic": "sharing",
+      "q": "Wet roads, sand or gravel affect bicyclists:",
+      "options": [
+        "Exactly the same as cars",
+        "Less than cars",
+        "Much more than motor vehicles, so give them extra care",
+        "Only at night"
+      ],
+      "answer": 2,
+      "explain": "These conditions affect bicycles much more than motor vehicles; be especially careful.",
+      "official": false,
+      "ref": "Ohio Driver Manual / Digest of Ohio Motor Vehicle Laws (ODPS online edition, accessed Oct 2026), Section 9: Sharing the Road — 'Bicyclists'"
+    },
+    {
+      "id": "oh-177",
+      "topic": "sharing",
+      "q": "When in doubt about the speed of an approaching truck or bus, you should:",
+      "options": [
+        "Flash your lights and turn",
+        "Not turn left in front of it",
+        "Honk and turn",
+        "Turn quickly in front of it"
+      ],
+      "answer": 1,
+      "explain": "Drivers often misjudge truck speed; don't turn left in its path when unsure.",
+      "official": false,
+      "ref": "Ohio Driver Manual / Digest of Ohio Motor Vehicle Laws (ODPS online edition, accessed Oct 2026), Section 9: Sharing the Road — 'Turning'"
+    },
+    {
+      "id": "oh-178",
+      "topic": "safety",
+      "q": "Under Ohio law, when must your headlights be on?",
+      "options": [
+        "Only on highways",
+        "Only after 10 p.m.",
+        "From sunset to sunrise, in rain/snow/fog, and whenever your wipers are on due to weather",
+        "Only when it is completely dark"
+      ],
+      "answer": 2,
+      "explain": "Headlights are required sunset to sunrise, whenever visibility is poor, and any time wipers are used for precipitation.",
+      "official": false,
+      "ref": "Ohio Driver Manual / Digest of Ohio Motor Vehicle Laws (ODPS online edition, accessed Oct 2026), Section 7: Special Driving Situations — 'When to Use Headlights'; ORC 4513.03"
+    },
+    {
+      "id": "oh-179",
+      "topic": "safety",
+      "q": "Headlights must also be on when you cannot clearly see objects how far ahead?",
+      "options": [
+        "1,000 feet",
+        "500 feet",
+        "2,000 feet",
+        "200 feet"
+      ],
+      "answer": 0,
+      "explain": "Lights are required whenever natural light does not allow you to clearly see objects 1,000 feet ahead.",
+      "official": false,
+      "ref": "Ohio Driver Manual / Digest of Ohio Motor Vehicle Laws (ODPS online edition, accessed Oct 2026), Section 7: Special Driving Situations — 'When to Use Headlights'"
+    },
+    {
+      "id": "oh-180",
+      "topic": "safety",
+      "q": "When must you switch from high beams to low beams?",
+      "options": [
+        "Never at night on rural roads",
+        "Only when it is raining",
+        "Only in a city",
+        "When approaching an oncoming vehicle"
+      ],
+      "answer": 3,
+      "explain": "Ohio law requires you to dim your high beams for oncoming traffic; otherwise high beams may be used whenever your headlights are on.",
+      "official": false,
+      "ref": "Ohio Driver Manual / Digest of Ohio Motor Vehicle Laws (ODPS online edition, accessed Oct 2026), Section 7: Special Driving Situations — 'Night Driving'; ORC 4513.15"
+    },
+    {
+      "id": "oh-181",
+      "topic": "safety",
+      "q": "Which headlights should you use when driving in fog?",
+      "options": [
+        "Low beams",
+        "High beams",
+        "No lights",
+        "Parking lights only"
+      ],
+      "answer": 0,
+      "explain": "Use low beams in fog; high beams reflect off the fog and reduce visibility.",
+      "official": false,
+      "ref": "Ohio Driver Manual / Digest of Ohio Motor Vehicle Laws (ODPS online edition, accessed Oct 2026), Section 7: Special Driving Situations — 'Driving in Fog'"
+    },
+    {
+      "id": "oh-182",
+      "topic": "safety",
+      "q": "To avoid being blinded by an oncoming vehicle's headlights at night, you should look:",
+      "options": [
+        "At your dashboard",
+        "To the left side of the road",
+        "Directly at the headlights",
+        "Toward the right edge of the road"
+      ],
+      "answer": 3,
+      "explain": "Look toward the right side of the road to avoid momentary blindness.",
+      "official": false,
+      "ref": "Ohio Driver Manual / Digest of Ohio Motor Vehicle Laws (ODPS online edition, accessed Oct 2026), Section 7: Special Driving Situations — 'Night Driving'"
+    },
+    {
+      "id": "oh-183",
+      "topic": "safety",
+      "q": "For drivers 18 and older, which use of a cell phone while driving is generally legal in Ohio?",
+      "options": [
+        "Typing a text message while creeping along in slow traffic",
+        "Watching a video in a cup holder",
+        "A hands-free call started or ended with a single touch or swipe",
+        "Holding the phone to type a text"
+      ],
+      "answer": 2,
+      "explain": "Ohio's distracted driving law bans holding or supporting a device; hands-free use activated with a single touch or swipe is allowed.",
+      "official": false,
+      "ref": "Ohio Driver Manual / Digest of Ohio Motor Vehicle Laws (ODPS online edition, accessed Oct 2026), Section 3: Be Alert — 'Distracted Driving — Drivers Age 18 and Older'; ORC 4511.204"
+    },
+    {
+      "id": "oh-184",
+      "topic": "safety",
+      "q": "What is the penalty for a first violation of Ohio's hand-held device law (age 18+) within two years?",
+      "options": [
+        "A warning only",
+        "Up to a $150 fine and 2 points",
+        "Up to $500 and 6 points",
+        "Automatic 1-year suspension"
+      ],
+      "answer": 1,
+      "explain": "First offense: 2 points and up to $150; a distracted-driving course can avoid the fine and points.",
+      "official": false,
+      "ref": "Ohio Driver Manual / Digest of Ohio Motor Vehicle Laws (ODPS online edition, accessed Oct 2026), Section 3: Be Alert — 'Distracted Driving'"
+    },
+    {
+      "id": "oh-185",
+      "topic": "safety",
+      "q": "A third (or later) hand-held device violation within two years can bring:",
+      "options": [
+        "4 points, up to a $500 fine, and a possible 90-day suspension",
+        "A warning letter",
+        "Permanent revocation",
+        "2 points and a $50 fine"
+      ],
+      "answer": 0,
+      "explain": "Third or more offenses in two years: 4 points, up to $500 fine, possible 90-day suspension.",
+      "official": false,
+      "ref": "Ohio Driver Manual / Digest of Ohio Motor Vehicle Laws (ODPS online edition, accessed Oct 2026), Section 3: Be Alert — 'Distracted Driving'"
+    },
+    {
+      "id": "oh-186",
+      "topic": "safety",
+      "q": "Fines for distracted driving violations are doubled when the violation occurs:",
+      "options": [
+        "On a rural road",
+        "At night",
+        "In a work zone",
+        "On weekends"
+      ],
+      "answer": 2,
+      "explain": "Distracted driving fines double in work zones.",
+      "official": false,
+      "ref": "Ohio Driver Manual / Digest of Ohio Motor Vehicle Laws (ODPS online edition, accessed Oct 2026), Section 3: Be Alert — 'Distracted Driving'"
+    },
+    {
+      "id": "oh-187",
+      "topic": "safety",
+      "q": "Drivers under 18 in Ohio may NOT use an electronic device while driving, even:",
+      "options": [
+        "When parked off the road",
+        "Hands-free",
+        "For calling 911 in an emergency",
+        "As a built-in navigation device"
+      ],
+      "answer": 1,
+      "explain": "Under-18 drivers may not use any electronic device, even hands-free; exceptions are navigation and emergency calls.",
+      "official": false,
+      "ref": "Ohio Driver Manual / Digest of Ohio Motor Vehicle Laws (ODPS online edition, accessed Oct 2026), Section 3: Be Alert — 'Distracted Driving — Drivers Under Age 18'; ORC 4511.205"
+    },
+    {
+      "id": "oh-188",
+      "topic": "safety",
+      "q": "What is the penalty for a driver under 18 caught using an electronic device for the first time?",
+      "options": [
+        "A $25 fine",
+        "A warning only",
+        "A permanent ban until 21",
+        "A 60-day license suspension and a $150 fine"
+      ],
+      "answer": 3,
+      "explain": "First violation: 60-day suspension and $150 fine; second: 1-year suspension and $300 fine.",
+      "official": false,
+      "ref": "Ohio Driver Manual / Digest of Ohio Motor Vehicle Laws (ODPS online edition, accessed Oct 2026), Section 3: Be Alert — 'Distracted Driving — Drivers Under Age 18'"
+    },
+    {
+      "id": "oh-189",
+      "topic": "safety",
+      "q": "Which statement about Ohio's seat belt law is correct for adult drivers?",
+      "options": [
+        "Drivers and front-seat passengers must wear safety belts",
+        "Only rear passengers must be belted",
+        "Belts are optional if the car has air bags",
+        "Only the driver must be belted"
+      ],
+      "answer": 0,
+      "explain": "Ohio requires drivers and front-seat occupants to wear safety belts; air bags supplement, not replace, belts.",
+      "official": false,
+      "ref": "Ohio Driver Manual / Digest of Ohio Motor Vehicle Laws (ODPS online edition, accessed Oct 2026), Section 2: Before You Drive — 'Safety Belts'; ORC 4513.263"
+    },
+    {
+      "id": "oh-190",
+      "topic": "safety",
+      "q": "For drivers under 18, what is the rule about vehicle occupants?",
+      "options": [
+        "Only front-seat passengers need belts",
+        "No passengers are allowed at all",
+        "Occupants are limited to the number of seat belts, and everyone must be belted",
+        "Up to two extra unbelted passengers are allowed"
+      ],
+      "answer": 2,
+      "explain": "For drivers under 18, occupants may not exceed the number of installed belts and all must wear them.",
+      "official": false,
+      "ref": "Ohio Driver Manual / Digest of Ohio Motor Vehicle Laws (ODPS online edition, accessed Oct 2026), Section 2: Before You Drive — 'Safety Belts'"
+    },
+    {
+      "id": "oh-191",
+      "topic": "safety",
+      "q": "How should a lap belt be worn?",
+      "options": [
+        "Across the stomach",
+        "Under the arms",
+        "Loose for comfort",
+        "Snug and low across the hips"
+      ],
+      "answer": 3,
+      "explain": "Adjust the lap belt snug and low across the hips; otherwise you could slide out in a crash.",
+      "official": false,
+      "ref": "Ohio Driver Manual / Digest of Ohio Motor Vehicle Laws (ODPS online edition, accessed Oct 2026), Section 2: Before You Drive — 'Safety Belts'"
+    },
+    {
+      "id": "oh-192",
+      "topic": "safety",
+      "q": "Where should the shoulder belt be worn?",
+      "options": [
+        "Under the arm",
+        "Across the shoulder and chest with little slack",
+        "Across the neck",
+        "Behind the back"
+      ],
+      "answer": 1,
+      "explain": "The shoulder belt goes across your shoulder and chest with little slack; wearing it under your arm or behind your back can cause serious internal injuries in a crash.",
+      "official": false,
+      "ref": "Ohio Driver Manual / Digest of Ohio Motor Vehicle Laws (ODPS online edition, accessed Oct 2026), Section 2: Before You Drive — 'Safety Belts'"
+    },
+    {
+      "id": "oh-193",
+      "topic": "safety",
+      "q": "In Ohio, a child who is under age 4 OR weighs less than 40 pounds must ride in:",
+      "options": [
+        "A child safety seat meeting federal standards",
+        "A booster seat",
+        "An adult seat belt",
+        "The front seat on a parent's lap"
+      ],
+      "answer": 0,
+      "explain": "Children under 4 and/or under 40 pounds must be restrained in an approved child safety seat.",
+      "official": false,
+      "ref": "Ohio Driver Manual / Digest of Ohio Motor Vehicle Laws (ODPS online edition, accessed Oct 2026), Section 6: State Laws and Penalties — 'Child Passenger Restraints'; ORC 4511.81"
+    },
+    {
+      "id": "oh-194",
+      "topic": "safety",
+      "q": "In Ohio, a child aged 4 to 7 must ride in a booster seat unless the child is at least how tall?",
+      "options": [
+        "5 feet 0 inches",
+        "4 feet 9 inches",
+        "3 feet 9 inches",
+        "4 feet 0 inches"
+      ],
+      "answer": 1,
+      "explain": "Children at least 4 but under 8 must use a booster seat unless 4'9\" or taller.",
+      "official": false,
+      "ref": "Ohio Driver Manual / Digest of Ohio Motor Vehicle Laws (ODPS online edition, accessed Oct 2026), Section 6: State Laws and Penalties — 'Child Passenger Restraints'; ORC 4511.81"
+    },
+    {
+      "id": "oh-195",
+      "topic": "safety",
+      "q": "Under Ohio law, children ages 8 through 15 must be:",
+      "options": [
+        "Belted only in the front seat",
+        "In a rear-facing seat",
+        "Restrained with a safety belt",
+        "In a booster seat"
+      ],
+      "answer": 2,
+      "explain": "Children at least 8 but not older than 15 must be properly restrained with a safety belt.",
+      "official": false,
+      "ref": "Ohio Driver Manual / Digest of Ohio Motor Vehicle Laws (ODPS online edition, accessed Oct 2026), Section 6: State Laws and Penalties — 'Child Passenger Restraints'"
+    },
+    {
+      "id": "oh-196",
+      "topic": "safety",
+      "q": "Children of what age should ride in the back seat to avoid air bag injuries?",
+      "options": [
+        "16 and younger",
+        "5 and younger",
+        "8 and younger",
+        "12 and younger"
+      ],
+      "answer": 3,
+      "explain": "Children 12 and younger should sit in the rear seat; never put a rear-facing seat in front of an active air bag.",
+      "official": false,
+      "ref": "Ohio Driver Manual / Digest of Ohio Motor Vehicle Laws (ODPS online edition, accessed Oct 2026), Section 6: State Laws and Penalties — 'Child Passenger Restraints'"
+    },
+    {
+      "id": "oh-197",
+      "topic": "safety",
+      "q": "How far should your chest be from the steering wheel to allow for air bag deployment?",
+      "options": [
+        "It does not matter",
+        "At least 2 feet",
+        "At least 10 inches",
+        "At least 4 inches"
+      ],
+      "answer": 2,
+      "explain": "Sit far enough back to leave 10 inches or more between your chest and the wheel, giving the air bag room to deploy.",
+      "official": false,
+      "ref": "Ohio Driver Manual / Digest of Ohio Motor Vehicle Laws (ODPS online edition, accessed Oct 2026), Section 2: Before You Drive — 'Adjusting the Driver's Seat'"
+    },
+    {
+      "id": "oh-198",
+      "topic": "safety",
+      "q": "Your vehicle's horn must be audible from at least how far?",
+      "options": [
+        "200 feet",
+        "100 feet",
+        "50 feet",
+        "500 feet"
+      ],
+      "answer": 0,
+      "explain": "A horn in good working order must be audible from 200 feet.",
+      "official": false,
+      "ref": "Ohio Driver Manual / Digest of Ohio Motor Vehicle Laws (ODPS online edition, accessed Oct 2026), Section 2: Before You Drive — 'Vehicle Equipment Regulations'; ORC 4513.21"
+    },
+    {
+      "id": "oh-199",
+      "topic": "safety",
+      "q": "Your vehicle's brake lights must be visible from at least how far when the brakes are applied?",
+      "options": [
+        "1,000 feet",
+        "500 feet",
+        "100 feet",
+        "200 feet"
+      ],
+      "answer": 1,
+      "explain": "Two red stop lights must be visible from 500 feet; the taillight must also be visible from 500 feet.",
+      "official": false,
+      "ref": "Ohio Driver Manual / Digest of Ohio Motor Vehicle Laws (ODPS online edition, accessed Oct 2026), Section 2: Before You Drive — 'Vehicle Equipment Regulations'"
+    },
+    {
+      "id": "oh-200",
+      "topic": "safety",
+      "q": "Which of these is an example of aggressive driving?",
+      "options": [
+        "Leaving a four-second gap",
+        "Driving below the limit in fog",
+        "Signaling 100 feet before turning",
+        "Following too closely and making unsafe lane changes"
+      ],
+      "answer": 3,
+      "explain": "Aggressive driving includes speeding, tailgating, unsafe lane changes, improper signaling, and ignoring signals or signs.",
+      "official": false,
+      "ref": "Ohio Driver Manual / Digest of Ohio Motor Vehicle Laws (ODPS online edition, accessed Oct 2026), Section 3: Be Alert — 'Aggressive Driving'"
+    },
+    {
+      "id": "oh-201",
+      "topic": "safety",
+      "q": "If your license shows a corrective-lens restriction, you must:",
+      "options": [
+        "Carry them in the car but wearing them is optional",
+        "Always wear your glasses or contacts when driving",
+        "Wear them only on highways",
+        "Wear them only at night"
+      ],
+      "answer": 1,
+      "explain": "A vision restriction means you must always wear corrective lenses when driving.",
+      "official": false,
+      "ref": "Ohio Driver Manual / Digest of Ohio Motor Vehicle Laws (ODPS online edition, accessed Oct 2026), Section 3: Be Alert — 'Vision'"
+    },
+    {
+      "id": "oh-202",
+      "topic": "safety",
+      "q": "Should you wear sunglasses when driving at night?",
+      "options": [
+        "Only if it is raining",
+        "Yes, on highways only",
+        "Yes, to reduce glare",
+        "No—tinted or colored lenses reduce your vision"
+      ],
+      "answer": 3,
+      "explain": "Do not wear sunglasses or colored lenses at night; they reduce what you can see.",
+      "official": false,
+      "ref": "Ohio Driver Manual / Digest of Ohio Motor Vehicle Laws (ODPS online edition, accessed Oct 2026), Section 7: Special Driving Situations — 'Night Driving'"
+    },
+    {
+      "id": "oh-203",
+      "topic": "safety",
+      "q": "When is it appropriate to tap your horn?",
+      "options": [
+        "When a pedestrian or bicyclist seems about to move into your path",
+        "To hurry slow drivers",
+        "To express anger at another driver",
+        "To greet friends"
+      ],
+      "answer": 0,
+      "explain": "Use the horn lightly to communicate when someone may not see you; using it inappropriately can scare or anger others.",
+      "official": false,
+      "ref": "Ohio Driver Manual / Digest of Ohio Motor Vehicle Laws (ODPS online edition, accessed Oct 2026), Section 8: Safe Driving Tips — 'Use Your Horn'"
+    },
+    {
+      "id": "oh-204",
+      "topic": "safety",
+      "q": "You see a young child alone in a hot, locked car and the child is unresponsive. What should you do?",
+      "options": [
+        "Only call the store manager",
+        "Wait for the parent to return",
+        "Call 911 and, if necessary, act to remove the child, even by breaking a window",
+        "Leave a note on the windshield"
+      ],
+      "answer": 2,
+      "explain": "Call 911 right away; if the child is in distress, take action to remove them. Ohio has Good Samaritan protections.",
+      "official": false,
+      "ref": "Ohio Driver Manual / Digest of Ohio Motor Vehicle Laws (ODPS online edition, accessed Oct 2026), Section 8: Safe Driving Tips — 'Preventing Injury from Hot Vehicles'"
+    },
+    {
+      "id": "oh-205",
+      "topic": "safety",
+      "q": "If you are pulled over by police, what should you do?",
+      "options": [
+        "Get out and walk to the police car",
+        "Pull over safely to the right, turn off the engine, stay in the car with hands visible",
+        "Keep driving to a gas station several miles away",
+        "Search your glovebox before the officer arrives"
+      ],
+      "answer": 1,
+      "explain": "Stop safely, shift to park, turn the engine off, lower the window, stay in the car and keep your hands on the wheel.",
+      "official": false,
+      "ref": "Ohio Driver Manual / Digest of Ohio Motor Vehicle Laws (ODPS online edition, accessed Oct 2026), Section 7: Special Driving Situations — 'Police and Traffic Stops'"
+    },
+    {
+      "id": "oh-206",
+      "topic": "safety",
+      "q": "At every intersection, which scanning pattern does the manual recommend?",
+      "options": [
+        "Look left, right, then left again",
+        "Look straight ahead only",
+        "Look left only",
+        "Look right only"
+      ],
+      "answer": 0,
+      "explain": "Search for cross traffic by looking left, right, then left again.",
+      "official": false,
+      "ref": "Ohio Driver Manual / Digest of Ohio Motor Vehicle Laws (ODPS online edition, accessed Oct 2026), Section 5: Learning to Drive — 'Intersections and Turning'"
+    },
+    {
+      "id": "oh-207",
+      "topic": "safety",
+      "q": "A vehicle approaching from the side has its turn signal on. What should you do?",
+      "options": [
+        "Flash your headlights",
+        "Assume it is turning",
+        "Pull out immediately",
+        "Wait until you are sure it is actually turning before pulling out"
+      ],
+      "answer": 3,
+      "explain": "Don't assume the driver will turn—they may turn later or have forgotten to cancel the signal.",
+      "official": false,
+      "ref": "Ohio Driver Manual / Digest of Ohio Motor Vehicle Laws (ODPS online edition, accessed Oct 2026), Section 5: Learning to Drive — 'Tips'"
+    },
+    {
+      "id": "oh-208",
+      "topic": "safety",
+      "q": "You must activate your turn signal before which of these?",
+      "options": [
+        "Accelerating on a straight road",
+        "Going straight through a green light",
+        "Changing lanes",
+        "Stopping at a red light in your lane"
+      ],
+      "answer": 2,
+      "explain": "Use a turn signal when changing lanes, merging, or turning left or right.",
+      "official": false,
+      "ref": "Ohio Driver Manual / Digest of Ohio Motor Vehicle Laws (ODPS online edition, accessed Oct 2026), Section 8: Safe Driving Tips — 'Signal Before Changing Direction'"
+    },
+    {
+      "id": "oh-209",
+      "topic": "alcohol",
+      "q": "If you drive while your license is suspended in Ohio, you may face:",
+      "options": [
+        "A first-degree misdemeanor with a fine up to $1,000 and possibly another 1-year suspension",
+        "A written warning",
+        "A $50 fine only",
+        "Only points on your license"
+      ],
+      "answer": 0,
+      "explain": "Driving under suspension is a first-degree misdemeanor with a fine up to $1,000 and possible additional one-year suspension.",
+      "official": false,
+      "ref": "Ohio Driver Manual / Digest of Ohio Motor Vehicle Laws (ODPS online edition, accessed Oct 2026), Section 6: State Laws and Penalties — 'Driving Under Suspension'"
+    },
+    {
+      "id": "oh-210",
+      "topic": "safety",
+      "q": "Can a person under 16 ride in the open bed of a pickup truck traveling over 25 mph?",
+      "options": [
+        "Yes, on rural roads",
+        "No, unless a specific exception applies (e.g., a secured seat with a safety belt)",
+        "Yes, if the tailgate is closed",
+        "Yes, if an adult is with them"
+      ],
+      "answer": 1,
+      "explain": "Drivers may not knowingly let a person under 16 ride in an open cargo area over 25 mph except in listed situations.",
+      "official": false,
+      "ref": "Ohio Driver Manual / Digest of Ohio Motor Vehicle Laws (ODPS online edition, accessed Oct 2026), Section 6: State Laws and Penalties — 'Riding on the Outside of a Vehicle'; ORC 4511.51"
+    },
+    {
+      "id": "oh-211",
+      "topic": "alcohol",
+      "q": "If a driver accumulates six points within two years, the BMV will:",
+      "options": [
+        "Revoke the license",
+        "Suspend the license for 6 months",
+        "Send a warning letter",
+        "Take no action"
+      ],
+      "answer": 2,
+      "explain": "Six points in two years triggers a warning letter from the BMV.",
+      "official": false,
+      "ref": "Ohio Driver Manual / Digest of Ohio Motor Vehicle Laws (ODPS online edition, accessed Oct 2026), Section 6: State Laws and Penalties — 'Point Assessment on Driver License'"
+    },
+    {
+      "id": "oh-212",
+      "topic": "alcohol",
+      "q": "How many points within two years lead to a license suspension in Ohio?",
+      "options": [
+        "18 or more",
+        "8 or more",
+        "6 or more",
+        "12 or more"
+      ],
+      "answer": 3,
+      "explain": "Accumulating 12 or more points within two years results in a 12-point suspension.",
+      "official": false,
+      "ref": "Ohio Driver Manual / Digest of Ohio Motor Vehicle Laws (ODPS online edition, accessed Oct 2026), Section 6: State Laws and Penalties — 'Point Assessment on Driver License'; ORC 4510.037"
+    },
+    {
+      "id": "oh-213",
+      "topic": "alcohol",
+      "q": "Failing to stop and identify yourself after a crash (hit-skip) carries how many points?",
+      "options": [
+        "6 points",
+        "4 points",
+        "0 points",
+        "2 points"
+      ],
+      "answer": 0,
+      "explain": "Failure to stop and disclose identity after a crash is a 6-point offense.",
+      "official": false,
+      "ref": "Ohio Driver Manual / Digest of Ohio Motor Vehicle Laws (ODPS online edition, accessed Oct 2026), Section 6: State Laws and Penalties — 'Point Violations'"
+    },
+    {
+      "id": "oh-214",
+      "topic": "alcohol",
+      "q": "Willful or wanton disregard for the safety of persons or property (reckless operation) is assessed:",
+      "options": [
+        "6 points",
+        "4 points",
+        "12 points",
+        "2 points"
+      ],
+      "answer": 1,
+      "explain": "Willful or wanton disregard for safety is a 4-point violation.",
+      "official": false,
+      "ref": "Ohio Driver Manual / Digest of Ohio Motor Vehicle Laws (ODPS online edition, accessed Oct 2026), Section 6: State Laws and Penalties — 'Point Violations'"
+    },
+    {
+      "id": "oh-215",
+      "topic": "alcohol",
+      "q": "A driver under 18 is convicted of two moving violations. What automatic suspension follows?",
+      "options": [
+        "One week",
+        "One year",
+        "Three months",
+        "No suspension"
+      ],
+      "answer": 2,
+      "explain": "Two moving violations: automatic three-month suspension; three violations: one year.",
+      "official": false,
+      "ref": "Ohio Driver Manual / Digest of Ohio Motor Vehicle Laws (ODPS online edition, accessed Oct 2026), Section 6: State Laws and Penalties — 'Suspension of Probationary License (Under Age 18)'"
+    },
+    {
+      "id": "oh-216",
+      "topic": "alcohol",
+      "q": "A driver under 18 who is convicted of three moving violations faces:",
+      "options": [
+        "Only a fine",
+        "A 30-day suspension",
+        "A warning letter",
+        "An automatic one-year suspension"
+      ],
+      "answer": 3,
+      "explain": "Three moving violations result in an automatic one-year license suspension for a probationary driver.",
+      "official": false,
+      "ref": "Ohio Driver Manual / Digest of Ohio Motor Vehicle Laws (ODPS online edition, accessed Oct 2026), Section 6: State Laws and Penalties — 'Suspension of Probationary License (Under Age 18)'"
+    },
+    {
+      "id": "oh-217",
+      "topic": "alcohol",
+      "q": "For drivers 21 and older, Ohio law makes it illegal to drive with a blood-alcohol concentration (BAC) of:",
+      "options": [
+        ".12% or higher",
+        ".10% or higher",
+        ".08% or higher",
+        ".05% or higher"
+      ],
+      "answer": 2,
+      "explain": "It is illegal at any age to drive with a BAC of .08% or higher.",
+      "official": false,
+      "ref": "Ohio Driver Manual / Digest of Ohio Motor Vehicle Laws (ODPS online edition, accessed Oct 2026), Section 6: State Laws and Penalties — 'Alcohol and the Law'; ORC 4511.19"
+    },
+    {
+      "id": "oh-218",
+      "topic": "alcohol",
+      "q": "For drivers under 21, it is illegal to drive in Ohio with a BAC of:",
+      "options": [
+        ".08% or higher",
+        ".10% or higher",
+        ".05% or higher",
+        ".02% or higher"
+      ],
+      "answer": 3,
+      "explain": "Drivers under 21 may not drive with a BAC of .02% or more.",
+      "official": false,
+      "ref": "Ohio Driver Manual / Digest of Ohio Motor Vehicle Laws (ODPS online edition, accessed Oct 2026), Section 6: State Laws and Penalties — 'Alcohol and the Law'; ORC 4511.19(B)"
+    },
+    {
+      "id": "oh-219",
+      "topic": "alcohol",
+      "q": "What BAC limit applies to commercial drivers in Ohio?",
+      "options": [
+        ".04%",
+        ".02%",
+        ".10%",
+        ".08%"
+      ],
+      "answer": 0,
+      "explain": "Commercial drivers may not operate with a BAC of .04% or higher.",
+      "official": false,
+      "ref": "Ohio Driver Manual / Digest of Ohio Motor Vehicle Laws (ODPS online edition, accessed Oct 2026), Section 6: State Laws and Penalties — 'Alcohol and the Law'"
+    },
+    {
+      "id": "oh-220",
+      "topic": "alcohol",
+      "q": "What is the only thing that sobers up a person who has been drinking?",
+      "options": [
+        "A cold shower",
+        "Time",
+        "Fresh air",
+        "Black coffee"
+      ],
+      "answer": 1,
+      "explain": "Only time lets the body eliminate alcohol; coffee, showers and fresh air do not lower BAC.",
+      "official": false,
+      "ref": "Ohio Driver Manual / Digest of Ohio Motor Vehicle Laws (ODPS online edition, accessed Oct 2026), Section 6: State Laws and Penalties — 'Alcohol, Drugs, and Driving'; BMV Sample Knowledge Test topic"
+    },
+    {
+      "id": "oh-221",
+      "topic": "alcohol",
+      "q": "What is the legal drinking age in Ohio?",
+      "options": [
+        "18",
+        "20",
+        "19",
+        "21"
+      ],
+      "answer": 3,
+      "explain": "Ohio's legal drinking age is 21 or older.",
+      "official": false,
+      "ref": "Ohio Driver Manual / Digest of Ohio Motor Vehicle Laws (ODPS online edition, accessed Oct 2026), Section 6: State Laws and Penalties — 'Alcohol and the Law'"
+    },
+    {
+      "id": "oh-222",
+      "topic": "alcohol",
+      "q": "In Ohio, 'OVI' stands for:",
+      "options": [
+        "Over Velocity Infraction",
+        "Official Vehicle Inspection",
+        "Operating a Vehicle while Impaired",
+        "Operating Violations Index"
+      ],
+      "answer": 2,
+      "explain": "OVI is Ohio's term for impaired driving (alcohol and/or drugs).",
+      "official": false,
+      "ref": "Ohio Driver Manual / Digest of Ohio Motor Vehicle Laws (ODPS online edition, accessed Oct 2026), Section 6: State Laws and Penalties — 'Administrative License Suspension'"
+    },
+    {
+      "id": "oh-223",
+      "topic": "alcohol",
+      "q": "Under Ohio's implied consent rules, what happens if you refuse a chemical test for the first time?",
+      "options": [
+        "A 30-day suspension",
+        "An immediate administrative license suspension of one year",
+        "Nothing unless you are convicted",
+        "A fine only"
+      ],
+      "answer": 1,
+      "explain": "A first refusal brings an immediate one-year Administrative License Suspension, even if you are later acquitted of OVI.",
+      "official": false,
+      "ref": "Ohio Driver Manual / Digest of Ohio Motor Vehicle Laws (ODPS online edition, accessed Oct 2026), Section 6: State Laws and Penalties — 'ALS — Refusal to Test'; ORC 4511.191"
+    },
+    {
+      "id": "oh-224",
+      "topic": "alcohol",
+      "q": "A first-time OVI suspect takes a chemical test and is at .08 or higher. What administrative suspension applies?",
+      "options": [
+        "90 days (three months)",
+        "No suspension until conviction",
+        "One year",
+        "Two years"
+      ],
+      "answer": 0,
+      "explain": "A first test over the limit results in a three-month (90-day) ALS.",
+      "official": false,
+      "ref": "Ohio Driver Manual / Digest of Ohio Motor Vehicle Laws (ODPS online edition, accessed Oct 2026), Section 6: State Laws and Penalties — 'ALS — Testing Over the Limit'"
+    },
+    {
+      "id": "oh-225",
+      "topic": "alcohol",
+      "q": "With one prior refusal or OVI conviction in 10 years, refusing a chemical test brings a suspension of:",
+      "options": [
+        "Five years",
+        "One year",
+        "Three years",
+        "Two years"
+      ],
+      "answer": 3,
+      "explain": "Refusal with one prior refusal or OVI/drug conviction: two-year ALS.",
+      "official": false,
+      "ref": "Ohio Driver Manual / Digest of Ohio Motor Vehicle Laws (ODPS online edition, accessed Oct 2026), Section 6: State Laws and Penalties — 'ALS — Refusal to Test'"
+    },
+    {
+      "id": "oh-226",
+      "topic": "alcohol",
+      "q": "With three or more prior refusals or OVI convictions, refusing a chemical test brings a suspension of:",
+      "options": [
+        "Five years",
+        "Ten years",
+        "One year",
+        "Two years"
+      ],
+      "answer": 0,
+      "explain": "Three or more priors with a refusal: five-year ALS.",
+      "official": false,
+      "ref": "Ohio Driver Manual / Digest of Ohio Motor Vehicle Laws (ODPS online edition, accessed Oct 2026), Section 6: State Laws and Penalties — 'ALS — Refusal to Test'"
+    },
+    {
+      "id": "oh-227",
+      "topic": "alcohol",
+      "q": "A driver with one prior OVI conviction tests over the limit. What ALS applies?",
+      "options": [
+        "90 days",
+        "One year",
+        "Five years",
+        "Three years"
+      ],
+      "answer": 1,
+      "explain": "Testing over the limit with one prior OVI/drug conviction: one-year suspension.",
+      "official": false,
+      "ref": "Ohio Driver Manual / Digest of Ohio Motor Vehicle Laws (ODPS online edition, accessed Oct 2026), Section 6: State Laws and Penalties — 'ALS — Testing Over the Limit'"
+    },
+    {
+      "id": "oh-228",
+      "topic": "alcohol",
+      "q": "Ohio's ALS (Administrative License Suspension) look-back period for prior refusals or OVI convictions is:",
+      "options": [
+        "2 years",
+        "20 years",
+        "10 years",
+        "5 years"
+      ],
+      "answer": 2,
+      "explain": "ALS length is based on prior refusals or OVI/drug convictions within the previous 10 years.",
+      "official": false,
+      "ref": "Ohio Driver Manual / Digest of Ohio Motor Vehicle Laws (ODPS online edition, accessed Oct 2026), Section 6: State Laws and Penalties — 'Alcohol and Drug Penalties'"
+    },
+    {
+      "id": "oh-229",
+      "topic": "alcohol",
+      "q": "Under the ALS rules in the Ohio manual, a chemical test is consented to or refused within what period after arrest?",
+      "options": [
+        "Within 30 minutes",
+        "Within two hours",
+        "Within 24 hours",
+        "Within 7 days"
+      ],
+      "answer": 1,
+      "explain": "The manual describes consent or refusal to a chemical test within two hours of arrest.",
+      "official": false,
+      "ref": "Ohio Driver Manual / Digest of Ohio Motor Vehicle Laws (ODPS online edition, accessed Oct 2026), Section 6: State Laws and Penalties — 'Administrative License Suspension (ALS)'"
+    },
+    {
+      "id": "oh-230",
+      "topic": "alcohol",
+      "q": "If you refuse a chemical test and are later found not guilty of OVI, what happens to the refusal suspension?",
+      "options": [
+        "It still stands",
+        "It is cut in half",
+        "It is automatically erased",
+        "It converts to points"
+      ],
+      "answer": 0,
+      "explain": "The ALS for refusal stands even if you are acquitted of the OVI charge.",
+      "official": false,
+      "ref": "Ohio Driver Manual / Digest of Ohio Motor Vehicle Laws (ODPS online edition, accessed Oct 2026), Section 6: State Laws and Penalties — 'ALS Test Refusal'"
+    },
+    {
+      "id": "oh-231",
+      "topic": "alcohol",
+      "q": "After testing over the limit, you have the right to:",
+      "options": [
+        "A free retest at the BMV",
+        "Keep driving until court",
+        "An independent chemical test at your own expense",
+        "Refuse the suspension"
+      ],
+      "answer": 2,
+      "explain": "You may have an independent chemical test taken at your own expense.",
+      "official": false,
+      "ref": "Ohio Driver Manual / Digest of Ohio Motor Vehicle Laws (ODPS online edition, accessed Oct 2026), Section 6: State Laws and Penalties — 'ALS Test Over the Limit'"
+    },
+    {
+      "id": "oh-232",
+      "topic": "alcohol",
+      "q": "An Ohio driver under 21 convicted of Operating a Vehicle after Underage Alcohol Consumption (OVUAC) faces a suspension of:",
+      "options": [
+        "Exactly 30 days",
+        "Ten years",
+        "One week",
+        "Three months to two years"
+      ],
+      "answer": 3,
+      "explain": "OVUAC can bring a 3-month to 2-year suspension, a remedial course, reinstatement fees and retesting.",
+      "official": false,
+      "ref": "Ohio Driver Manual / Digest of Ohio Motor Vehicle Laws (ODPS online edition, accessed Oct 2026), Section 6: State Laws and Penalties — 'OVUAC (Under age 21)'"
+    },
+    {
+      "id": "oh-233",
+      "topic": "alcohol",
+      "q": "A probationary driver under 18 convicted of an alcohol-related offense will have the license suspended for at least:",
+      "options": [
+        "One month",
+        "Five years",
+        "Two weeks",
+        "Six months"
+      ],
+      "answer": 3,
+      "explain": "Probationary OVI results in at least a six-month suspension.",
+      "official": false,
+      "ref": "Ohio Driver Manual / Digest of Ohio Motor Vehicle Laws (ODPS online edition, accessed Oct 2026), Section 6: State Laws and Penalties — 'Suspension of Probationary License'; ORC 4511.19"
+    },
+    {
+      "id": "oh-234",
+      "topic": "alcohol",
+      "q": "A person convicted of OVI five or more times in 20 years will:",
+      "options": [
+        "Be placed on Ohio's Habitual OVI/OMWI Offender Registry, among other penalties",
+        "Lose only 2 points",
+        "Get a warning letter",
+        "Only pay a larger fine"
+      ],
+      "answer": 0,
+      "explain": "Five or more OVI convictions in 20 years bring jail, possible vehicle immobilization/forfeiture and placement on the registry.",
+      "official": false,
+      "ref": "Ohio Driver Manual / Digest of Ohio Motor Vehicle Laws (ODPS online edition, accessed Oct 2026), Section 6: State Laws and Penalties — 'Alcohol and Drug Penalties'"
+    },
+    {
+      "id": "oh-235",
+      "topic": "alcohol",
+      "q": "Which statement about prescription and over-the-counter medicines is correct?",
+      "options": [
+        "They never affect driving",
+        "They can impair driving, and driving impaired by them is illegal",
+        "Only illegal drugs can lead to an OVI",
+        "They are legal to use while driving in any amount"
+      ],
+      "answer": 1,
+      "explain": "Even legal medications can impair driving; check labels or ask a doctor/pharmacist.",
+      "official": false,
+      "ref": "Ohio Driver Manual / Digest of Ohio Motor Vehicle Laws (ODPS online edition, accessed Oct 2026), Section 6: State Laws and Penalties — 'Impairing Drugs and Driving'"
+    },
+    {
+      "id": "oh-236",
+      "topic": "alcohol",
+      "q": "Combining alcohol with other drugs:",
+      "options": [
+        "Cancels out the alcohol",
+        "Is safe if the drug is prescribed",
+        "Can increase the effects of the alcohol",
+        "Has no effect on driving"
+      ],
+      "answer": 2,
+      "explain": "Drugs may increase alcohol's effects or add their own; never combine them.",
+      "official": false,
+      "ref": "Ohio Driver Manual / Digest of Ohio Motor Vehicle Laws (ODPS online edition, accessed Oct 2026), Section 6: State Laws and Penalties — 'Impairing Drugs and Driving'"
+    },
+    {
+      "id": "oh-237",
+      "topic": "alcohol",
+      "q": "Alcohol affects driving by:",
+      "options": [
+        "Improving reaction time",
+        "Reducing judgment, slowing reaction time and blurring vision",
+        "Making drivers more cautious",
+        "Only affecting coordination after .15%"
+      ],
+      "answer": 1,
+      "explain": "Alcohol and drugs impair vision, reaction time and judgment.",
+      "official": false,
+      "ref": "Ohio Driver Manual / Digest of Ohio Motor Vehicle Laws (ODPS online edition, accessed Oct 2026), Section 6: State Laws and Penalties — 'Effects of Alcohol and Drugs'"
+    },
+    {
+      "id": "oh-238",
+      "topic": "alcohol",
+      "q": "The adult supervising a temporary permit holder:",
+      "options": [
+        "May have been drinking as long as they feel fine",
+        "May sleep during the drive",
+        "May ride in the back seat",
+        "Must not be intoxicated"
+      ],
+      "answer": 3,
+      "explain": "The eligible adult in the front passenger seat must not be intoxicated.",
+      "official": false,
+      "ref": "Ohio Driver Manual / Digest of Ohio Motor Vehicle Laws (ODPS online edition, accessed Oct 2026), Section 1: How to Get Your Driver License — 'TIPIC Restrictions'"
+    },
+    {
+      "id": "oh-239",
+      "topic": "alcohol",
+      "q": "When an officer suspects impaired driving, what evidence can be used?",
+      "options": [
+        "Only a breath test",
+        "Only video from the car",
+        "Officer's observations plus blood, breath, urine, plasma or oral fluid test results",
+        "Only the driver's own statement"
+      ],
+      "answer": 2,
+      "explain": "Evidence includes the officer's findings and chemical test results (blood, breath, plasma, urine, or oral fluid).",
+      "official": false,
+      "ref": "Ohio Driver Manual / Digest of Ohio Motor Vehicle Laws (ODPS online edition, accessed Oct 2026), Section 6: State Laws and Penalties — 'Alcohol and the Law'"
+    },
+    {
+      "id": "oh-240",
+      "topic": "alcohol",
+      "q": "A first-time chemical test refusal suspension in Ohio begins:",
+      "options": [
+        "Immediately",
+        "After a court conviction",
+        "At the next license renewal",
+        "30 days later"
+      ],
+      "answer": 0,
+      "explain": "The officer confiscates the license and the ALS starts immediately.",
+      "official": false,
+      "ref": "Ohio Driver Manual / Digest of Ohio Motor Vehicle Laws (ODPS online edition, accessed Oct 2026), Section 6: State Laws and Penalties — 'ALS Test Refusal'"
+    },
+    {
+      "id": "oh-241",
+      "topic": "alcohol",
+      "q": "Drivers who reach 12 points, commit serious offenses or crash without insurance may be required to file:",
+      "options": [
+        "An SR-22 certificate of financial responsibility",
+        "A medical form only",
+        "A new birth certificate",
+        "A vehicle inspection report"
+      ],
+      "answer": 0,
+      "explain": "An SR-22 is a form proving your insurance meets minimum limits; it is often required for reinstatement.",
+      "official": false,
+      "ref": "Ohio Driver Manual / Digest of Ohio Motor Vehicle Laws (ODPS online edition, accessed Oct 2026), Section 6: State Laws and Penalties — 'Point Assessment; Insurance'"
+    },
+    {
+      "id": "oh-242",
+      "topic": "emergencies",
+      "q": "If your vehicle begins to skid, you should:",
+      "options": [
+        "Shift into reverse",
+        "Slam on the brakes",
+        "Steer hard in the opposite direction",
+        "Ease off the brake and accelerator and steer in the direction of the skid"
+      ],
+      "answer": 3,
+      "explain": "Take your foot off the brake or gas and steer in the direction the rear of the car is sliding until you regain control.",
+      "official": false,
+      "ref": "Ohio Driver Manual / Digest of Ohio Motor Vehicle Laws (ODPS online edition, accessed Oct 2026), Section 10: Emergency Situations — 'Skids'"
+    },
+    {
+      "id": "oh-243",
+      "topic": "emergencies",
+      "q": "If your brakes fail while driving, what should you try first?",
+      "options": [
+        "Shift into reverse",
+        "Jump out of the car",
+        "Apply the parking brake slowly so the wheels do not lock",
+        "Turn off the engine immediately"
+      ],
+      "answer": 2,
+      "explain": "Use the parking brake gradually; if that fails, turn off the engine, pull off and use flashers.",
+      "official": false,
+      "ref": "Ohio Driver Manual / Digest of Ohio Motor Vehicle Laws (ODPS online edition, accessed Oct 2026), Section 10: Emergency Situations — 'Brake Failure'"
+    },
+    {
+      "id": "oh-244",
+      "topic": "emergencies",
+      "q": "If your accelerator sticks, you should:",
+      "options": [
+        "Shift into park immediately",
+        "Turn on flashers, shift to neutral, steer to safety and brake gradually",
+        "Pump the gas pedal",
+        "Turn the engine off while moving fast"
+      ],
+      "answer": 1,
+      "explain": "Shift to NEUTRAL, look for an escape route, brake gradually, pull off, then shift to PARK and turn off the engine.",
+      "official": false,
+      "ref": "Ohio Driver Manual / Digest of Ohio Motor Vehicle Laws (ODPS online edition, accessed Oct 2026), Section 10: Emergency Situations — 'Stuck Accelerator'"
+    },
+    {
+      "id": "oh-245",
+      "topic": "emergencies",
+      "q": "If a front tire blows out, what should you do?",
+      "options": [
+        "Grip the wheel firmly, keep the car straight, and slow down gradually without braking hard",
+        "Steer sharply toward the shoulder",
+        "Speed up to stabilize",
+        "Brake hard immediately"
+      ],
+      "answer": 0,
+      "explain": "A front blowout pulls the car toward the flat tire; hold straight, don't brake, slow gradually and pull off.",
+      "official": false,
+      "ref": "Ohio Driver Manual / Digest of Ohio Motor Vehicle Laws (ODPS online edition, accessed Oct 2026), Section 10: Emergency Situations — 'Tire Blowout'"
+    },
+    {
+      "id": "oh-246",
+      "topic": "emergencies",
+      "q": "If your engine stops while you are driving, what happens to the steering?",
+      "options": [
+        "It locks completely",
+        "It becomes harder to turn, but you can still steer",
+        "It becomes easier",
+        "It is unaffected"
+      ],
+      "answer": 1,
+      "explain": "Keep a strong grip; power steering assistance is lost but the wheel can still be turned.",
+      "official": false,
+      "ref": "Ohio Driver Manual / Digest of Ohio Motor Vehicle Laws (ODPS online edition, accessed Oct 2026), Section 10: Emergency Situations — 'Power Failure'"
+    },
+    {
+      "id": "oh-247",
+      "topic": "emergencies",
+      "q": "If your car breaks down on the road and you have flares, where should you place them?",
+      "options": [
+        "One mile behind the vehicle",
+        "About 50 feet in front of the car",
+        "Directly beside the car",
+        "About 200 to 300 feet behind the vehicle"
+      ],
+      "answer": 3,
+      "explain": "Place flares about 200–300 feet behind to give other drivers time to change lanes.",
+      "official": false,
+      "ref": "Ohio Driver Manual / Digest of Ohio Motor Vehicle Laws (ODPS online edition, accessed Oct 2026), Section 10: Emergency Situations — 'Vehicle Breakdown'"
+    },
+    {
+      "id": "oh-248",
+      "topic": "emergencies",
+      "q": "If your wheels drop off the pavement onto the shoulder, you should:",
+      "options": [
+        "Brake hard",
+        "Speed up to get back on",
+        "Ease off the accelerator, slow gradually, and return to the pavement when safe",
+        "Jerk the wheel back immediately"
+      ],
+      "answer": 2,
+      "explain": "Let off the gas, slow down gradually and return to the pavement when safe.",
+      "official": false,
+      "ref": "Ohio Driver Manual / Digest of Ohio Motor Vehicle Laws (ODPS online edition, accessed Oct 2026), Section 10: Emergency Situations — 'Uneven Surface Drop-Offs'"
+    },
+    {
+      "id": "oh-249",
+      "topic": "emergencies",
+      "q": "You are involved in a crash in which someone is injured. Which action is correct?",
+      "options": [
+        "Leave to find help",
+        "Exchange insurance information before calling anyone",
+        "Move the injured into your car",
+        "Call 911 and do not move the injured person unless necessary"
+      ],
+      "answer": 3,
+      "explain": "Stop, warn traffic, check for injuries, call 911, and don't move the injured; keep them warm.",
+      "official": false,
+      "ref": "Ohio Driver Manual / Digest of Ohio Motor Vehicle Laws (ODPS online edition, accessed Oct 2026), Section 10: Emergency Situations — 'In the Event of a Crash'; ORC 4549.02"
+    },
+    {
+      "id": "oh-250",
+      "topic": "emergencies",
+      "q": "After a minor crash with no injuries, if it is safe to do so you should:",
+      "options": [
+        "Stand in the travel lane to direct traffic",
+        "Drive away and report later",
+        "Move your vehicle out of the flow of traffic",
+        "Leave the cars where they are until police arrive no matter what"
+      ],
+      "answer": 2,
+      "explain": "In minor crashes, remove your vehicle from traffic if possible and safe.",
+      "official": false,
+      "ref": "Ohio Driver Manual / Digest of Ohio Motor Vehicle Laws (ODPS online edition, accessed Oct 2026), Section 10: Emergency Situations — 'Stay Calm and Remain at the Scene'"
+    },
+    {
+      "id": "oh-251",
+      "topic": "emergencies",
+      "q": "You hit an unattended parked car. What must you do?",
+      "options": [
+        "Nothing if the damage is small",
+        "Report it to police or leave your contact information at the scene",
+        "Drive away and mail a letter within a year",
+        "Only tell your insurance company"
+      ],
+      "answer": 1,
+      "explain": "You must report a crash with an unattended vehicle to police or leave the necessary information at the scene.",
+      "official": false,
+      "ref": "Ohio Driver Manual / Digest of Ohio Motor Vehicle Laws (ODPS online edition, accessed Oct 2026), Section 10: Emergency Situations — 'Report the Crash'; ORC 4549.03"
+    },
+    {
+      "id": "oh-252",
+      "topic": "emergencies",
+      "q": "At a crash scene, what should you avoid discussing with the other driver?",
+      "options": [
+        "Who was at fault",
+        "Your license plate number",
+        "Your insurance company and policy number",
+        "Your name and address"
+      ],
+      "answer": 0,
+      "explain": "Exchange information, but do not discuss fault or insurance coverage.",
+      "official": false,
+      "ref": "Ohio Driver Manual / Digest of Ohio Motor Vehicle Laws (ODPS online edition, accessed Oct 2026), Section 10: Emergency Situations — 'Crash Details and Contact Information'"
+    },
+    {
+      "id": "oh-253",
+      "topic": "emergencies",
+      "q": "When may you file a crash report (BMV 3303) with the Ohio BMV?",
+      "options": [
+        "Within six months, if damage exceeded $400 or someone was hurt and the other party was uninsured",
+        "Never—only insurers file reports",
+        "Only if police did not come",
+        "Only within 24 hours of every crash"
+      ],
+      "answer": 0,
+      "explain": "Form BMV 3303 may be filed within six months when damage exceeded $400 or there was injury and the other party lacked coverage.",
+      "official": false,
+      "ref": "Ohio Driver Manual / Digest of Ohio Motor Vehicle Laws (ODPS online edition, accessed Oct 2026), Section 10: Emergency Situations — 'Report the Crash'; ORC 4509.06"
+    },
+    {
+      "id": "oh-254",
+      "topic": "emergencies",
+      "q": "If you must swerve to avoid a crash, you should:",
+      "options": [
+        "Close your eyes",
+        "Steer onto the opposite sidewalk",
+        "Grip the wheel with both hands, steer around the problem, then countersteer to straighten",
+        "Swerve with one hand while braking hard"
+      ],
+      "answer": 2,
+      "explain": "Steer in the direction to avoid traffic, then steer the other way to straighten and regain control.",
+      "official": false,
+      "ref": "Ohio Driver Manual / Digest of Ohio Motor Vehicle Laws (ODPS online edition, accessed Oct 2026), Section 10: Emergency Situations — 'Steering'"
+    },
+    {
+      "id": "oh-255",
+      "topic": "emergencies",
+      "q": "A train is approaching a crossing. How close to the tracks should you stop?",
+      "options": [
+        "No closer than 5 feet",
+        "Right at the tracks",
+        "At least 100 feet away",
+        "No closer than 15 feet and no farther than 50 feet"
+      ],
+      "answer": 3,
+      "explain": "Stop between 15 and 50 feet from the crossing when a train is approaching.",
+      "official": false,
+      "ref": "Ohio Driver Manual / Digest of Ohio Motor Vehicle Laws (ODPS online edition, accessed Oct 2026), Section 5: Learning to Drive — 'Railroad Crossings'; ORC 4511.62"
+    },
+    {
+      "id": "oh-256",
+      "topic": "emergencies",
+      "q": "Which vehicles must always stop at railroad crossings before proceeding?",
+      "options": [
+        "All passenger cars",
+        "School buses, passenger-for-hire vehicles, and vehicles carrying explosives or flammable liquids",
+        "Pickup trucks",
+        "Motorcycles only"
+      ],
+      "answer": 1,
+      "explain": "These vehicles must stop, listen and look for trains at every crossing.",
+      "official": false,
+      "ref": "Ohio Driver Manual / Digest of Ohio Motor Vehicle Laws (ODPS online edition, accessed Oct 2026), Section 5: Learning to Drive — 'Railroad Crossings'; ORC 4511.63"
+    },
+    {
+      "id": "oh-257",
+      "topic": "emergencies",
+      "q": "You should drive through a road covered by flood water only if:",
+      "options": [
+        "Never—find another route",
+        "Other cars are getting through",
+        "The water looks shallow",
+        "You have a truck"
+      ],
+      "answer": 0,
+      "explain": "Do not drive through large bodies of standing water; find another route.",
+      "official": false,
+      "ref": "Ohio Driver Manual / Digest of Ohio Motor Vehicle Laws (ODPS online edition, accessed Oct 2026), Section 8: Safe Driving Tips — 'Flooded Roadways'"
+    },
+    {
+      "id": "oh-258",
+      "topic": "emergencies",
+      "q": "If you become involved in a crash in fog and the car cannot be moved, you should:",
+      "options": [
+        "Turn off all lights",
+        "Leave flashers and lights on and set out flares if possible",
+        "Turn on high beams and leave",
+        "Stand behind the car to wave traffic"
+      ],
+      "answer": 1,
+      "explain": "Get off the road if you can; if not, leave your flashers and lights on and set up flares.",
+      "official": false,
+      "ref": "Ohio Driver Manual / Digest of Ohio Motor Vehicle Laws (ODPS online edition, accessed Oct 2026), Section 7: Special Driving Situations — 'Driving in Fog'"
+    },
+    {
+      "id": "oh-259",
+      "topic": "emergencies",
+      "q": "If you have a breakdown, after warning other drivers the Ohio manual advises you to:",
+      "options": [
+        "Try to push the car across lanes",
+        "Walk along the freeway to find a phone",
+        "Stand in front of the car",
+        "Stay in your vehicle until help arrives"
+      ],
+      "answer": 3,
+      "explain": "Get off the road, turn on flashers, warn others with flares, and stay in your vehicle until help arrives.",
+      "official": false,
+      "ref": "Ohio Driver Manual / Digest of Ohio Motor Vehicle Laws (ODPS online edition, accessed Oct 2026), Section 10: Emergency Situations — 'Vehicle Breakdown'"
+    },
+    {
+      "id": "oh-260",
+      "topic": "emergencies",
+      "q": "What should you do if your vehicle has anti-lock brakes (ABS) and you must stop quickly?",
+      "options": [
+        "Shift to neutral and coast",
+        "Pump the brakes rapidly",
+        "Follow the owner's manual—typically press firmly and hold steady pressure",
+        "Use only the parking brake"
+      ],
+      "answer": 2,
+      "explain": "ABS helps stop without skidding; check your owner's manual for the proper braking method.",
+      "official": false,
+      "ref": "Ohio Driver Manual / Digest of Ohio Motor Vehicle Laws (ODPS online edition, accessed Oct 2026), Section 10: Emergency Situations — 'Braking'"
+    },
+    {
+      "id": "oh-261",
+      "topic": "licensing",
+      "q": "Which of these is a requirement for a Class D license applicant under 18?",
+      "options": [
+        "Pass both the maneuverability and on-road driving tests",
+        "Hold the permit for only 14 days",
+        "Skip driver education if 50 hours are logged",
+        "Pass only the knowledge test"
+      ],
+      "answer": 0,
+      "explain": "Minors must complete driver ed, 50 logged hours, hold the TIPIC 6 months and pass both skills tests.",
+      "official": false,
+      "ref": "Ohio Driver Manual / Digest of Ohio Motor Vehicle Laws (ODPS online edition, accessed Oct 2026), Section 11: Taking the Driving Test — 'Maneuverability and On-Road Skills Testing'"
+    },
+    {
+      "id": "oh-262",
+      "topic": "licensing",
+      "q": "A permit holder age 18 or older may practice driving only when accompanied by:",
+      "options": [
+        "Nobody, after 30 days",
+        "A licensed driver age 21 or older",
+        "A licensed driver age 18 or older",
+        "Any licensed driver"
+      ],
+      "answer": 1,
+      "explain": "TIPIC holders 18 and over may drive only with a licensed driver 21 or older.",
+      "official": false,
+      "ref": "Ohio Driver Manual / Digest of Ohio Motor Vehicle Laws (ODPS online edition, accessed Oct 2026), Section 1: How to Get Your Driver License — 'TIPIC Restrictions'"
+    },
+    {
+      "id": "oh-263",
+      "topic": "right-of-way",
+      "q": "Which of these must you yield to at an intersection even if you have a green light?",
+      "options": [
+        "Vehicles waiting at a red light",
+        "Vehicles behind you",
+        "Parked cars",
+        "A pedestrian, bicyclist or vehicle still in the intersection"
+      ],
+      "answer": 3,
+      "explain": "Always yield to pedestrians, bicyclists and other drivers still in the intersection.",
+      "official": false,
+      "ref": "Ohio Driver Manual / Digest of Ohio Motor Vehicle Laws (ODPS online edition, accessed Oct 2026), Section 4: Rules of the Road — 'Right-of-Way'"
+    },
+    {
+      "id": "oh-264",
+      "topic": "right-of-way",
+      "q": "At a work zone, a flagger holds up a STOP paddle. What must you do?",
+      "options": [
+        "Go around the flagger",
+        "Honk and proceed",
+        "Stop and follow the flagger's instructions",
+        "Slow down and continue"
+      ],
+      "answer": 2,
+      "explain": "In work zones you must follow the instructions of the person directing traffic.",
+      "official": false,
+      "ref": "Ohio Driver Manual / Digest of Ohio Motor Vehicle Laws (ODPS online edition, accessed Oct 2026), Section 4: Rules of the Road — 'Work Zone Signs'"
+    },
+    {
+      "id": "oh-265",
+      "topic": "speed",
+      "q": "Unless otherwise posted, what is the speed limit on Ohio rural expressways that have no traffic signals?",
+      "options": [
+        "60 mph",
+        "65 mph",
+        "55 mph",
+        "70 mph"
+      ],
+      "answer": 1,
+      "explain": "ORC sets 65 mph on rural expressways without traffic control signals.",
+      "official": false,
+      "ref": "ORC 4511.21(B)(13)"
+    },
+    {
+      "id": "oh-266",
+      "topic": "speed",
+      "q": "In winter, if the road looks clear but the temperature is near freezing, you should:",
+      "options": [
+        "Follow closer to see the road better",
+        "Drive at normal speed",
+        "Use cruise control",
+        "Still slow down and leave extra distance because ice may be present"
+      ],
+      "answer": 3,
+      "explain": "Slower speeds and greater following distance are needed in winter regardless of conditions.",
+      "official": false,
+      "ref": "Ohio Driver Manual / Digest of Ohio Motor Vehicle Laws (ODPS online edition, accessed Oct 2026), Section 7: Special Driving Situations — 'Winter Driving'"
+    },
+    {
+      "id": "oh-267",
+      "topic": "turns",
+      "q": "When turning, where should you look?",
+      "options": [
+        "In the rear-view mirror only",
+        "At your hands on the wheel",
+        "Through the turn to the farthest point along your intended path",
+        "At the curb right beside your car"
+      ],
+      "answer": 2,
+      "explain": "Look through the turn to the farthest point possible along your intended path.",
+      "official": false,
+      "ref": "Ohio Driver Manual / Digest of Ohio Motor Vehicle Laws (ODPS online edition, accessed Oct 2026), Section 5: Learning to Drive — 'Turns'"
+    },
+    {
+      "id": "oh-268",
+      "topic": "turns",
+      "q": "After completing a turn or lane change, you should:",
+      "options": [
+        "Make sure your turn signal is canceled",
+        "Leave the signal on for the next turn",
+        "Honk to show you finished",
+        "Turn on hazard lights"
+      ],
+      "answer": 0,
+      "explain": "Cancel your turn signal so other drivers are not confused.",
+      "official": false,
+      "ref": "Ohio Driver Manual / Digest of Ohio Motor Vehicle Laws (ODPS online edition, accessed Oct 2026), Section 5: Learning to Drive — 'Turns; Changing Lanes'"
+    },
+    {
+      "id": "oh-269",
+      "topic": "safety",
+      "q": "How should you adjust your left outside mirror to reduce blind spots?",
+      "options": [
+        "Pointed at the ground",
+        "So it matches the inside mirror exactly",
+        "With your head against the driver's window, set it so the car's left edge is barely visible",
+        "So you see mostly your own car"
+      ],
+      "answer": 2,
+      "explain": "Rest your head against the window and adjust until the vehicle's left edge is barely visible.",
+      "official": false,
+      "ref": "Ohio Driver Manual / Digest of Ohio Motor Vehicle Laws (ODPS online edition, accessed Oct 2026), Section 2: Before You Drive — 'Adjusting the Mirrors'"
+    },
+    {
+      "id": "oh-270",
+      "topic": "sharing",
+      "q": "Motorcycles need what compared with cars when stopping?",
+      "options": [
+        "A greater stopping distance",
+        "No more distance than a bicycle",
+        "The same distance as a loaded truck",
+        "A much shorter stopping distance"
+      ],
+      "answer": 0,
+      "explain": "The Ohio manual notes motorcycles require a greater stopping distance than cars.",
+      "official": false,
+      "ref": "Ohio Driver Manual / Digest of Ohio Motor Vehicle Laws (ODPS online edition, accessed Oct 2026), Section 9: Sharing the Road — 'Motorcyclists'"
+    },
+    {
+      "id": "oh-271",
+      "topic": "alcohol",
+      "q": "Before taking an over-the-counter medicine and driving, you should:",
+      "options": [
+        "Drink coffee with it",
+        "Check the warning label or ask a pharmacist about side effects",
+        "Nothing; OTC medicine is always safe",
+        "Take double the dose to be sure"
+      ],
+      "answer": 1,
+      "explain": "Over-the-counter drugs can affect driving; read labels or ask your doctor or pharmacist.",
+      "official": false,
+      "ref": "Ohio Driver Manual / Digest of Ohio Motor Vehicle Laws (ODPS online edition, accessed Oct 2026), Section 6: State Laws and Penalties — 'Impairing Drugs and Driving'"
+    },
+    {
+      "id": "oh-272",
+      "topic": "parking",
+      "q": "May you park on the roadway portion of a freeway in Ohio (other than in an emergency)?",
+      "options": [
+        "Yes, if your hazard lights are on",
+        "Yes, at night",
+        "Yes, for up to 15 minutes",
+        "No"
+      ],
+      "answer": 3,
+      "explain": "Ohio law prohibits standing or parking on the roadway portion of a freeway, expressway or thruway.",
+      "official": false,
+      "ref": "ORC 4511.68(A)(16)"
+    },
+    {
+      "id": "oh-273",
+      "topic": "parking",
+      "q": "Is it legal to park in a marked bicycle lane in Ohio?",
+      "options": [
+        "Yes, with flashers on",
+        "No",
+        "Yes, at night",
+        "Yes, for loading"
+      ],
+      "answer": 1,
+      "explain": "ORC 4511.68 lists bicycle lanes as places where parking is prohibited.",
+      "official": false,
+      "ref": "ORC 4511.68(A)(17); Ohio Driver Manual / Digest of Ohio Motor Vehicle Laws (ODPS online edition, accessed Oct 2026), Section 5: Learning to Drive — 'No-Parking Zones'"
+    },
+    {
+      "id": "oh-274",
+      "topic": "emergencies",
+      "q": "When a rear tire blows out, the vehicle will usually:",
+      "options": [
+        "Stop immediately",
+        "Speed up",
+        "Wobble and pull somewhat toward the blowout",
+        "Pull sharply away from the blowout"
+      ],
+      "answer": 2,
+      "explain": "A rear blowout causes wobbling and some pull toward the flat; hold straight and slow gradually.",
+      "official": false,
+      "ref": "Ohio Driver Manual / Digest of Ohio Motor Vehicle Laws (ODPS online edition, accessed Oct 2026), Section 10: Emergency Situations — 'Tire Blowout'"
+    }
+  ],
+  "version": 1
+}

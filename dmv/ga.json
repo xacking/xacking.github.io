@@ -1,0 +1,4318 @@
+{
+  "code": "ga",
+  "test": "Georgia DDS Knowledge Exam (Class C Instructional Permit / Class C License)",
+  "edition": "Based on the Georgia Department of Driver Services Drivers Manual, online edition at dds.georgia.gov/drivers-manual (page last updated July 2026, accessed October 2026); the downloadable PDF on the DDS site is labelled 2023-2024",
+  "language": "en",
+  "exam": {
+    "questions": 40,
+    "passMark": 30,
+    "minutes": null,
+    "rules": "Georgia's knowledge exam is taken by first-time applicants for a Class C Instructional Permit (from age 15) and by new adult drivers without a valid license from another US state; applicants under 18 need a parent, guardian or responsible adult to sign and must show school enrollment. It is given on a walk-in basis at any DDS Customer Service Center (start at least 30 minutes before closing) and has two separately scored parts: a Road Signs test (20 questions, English only, at least 15 correct) and a Road Rules test (20 questions, some other languages available, at least 15 correct). You must pass both parts. The $10 permit/test fee is paid before every attempt and is not refunded. After a first failure you may retake the failed part the next day; after a second or later failure you must wait 7 days. Phones, notes or talking during the test count as a failure.",
+    "parts": [
+      {
+        "title": "Road Rules",
+        "topics": [
+          "licensing",
+          "right-of-way",
+          "speed",
+          "turns",
+          "parking",
+          "sharing",
+          "safety",
+          "alcohol",
+          "emergencies"
+        ],
+        "questions": 20,
+        "passMark": 15
+      },
+      {
+        "title": "Road Signs",
+        "topics": [
+          "signs"
+        ],
+        "questions": 20,
+        "passMark": 15
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Georgia Department of Driver Services Drivers Manual (online edition)",
+      "url": "https://dds.georgia.gov/drivers-manual",
+      "licence": "state government publication (questions written in our own words)",
+      "note": "Primary source for every question; Section 3 'Knowledge Exam' gives the 20-question / 15-correct format for both parts. Page metadata shows last update July 2026."
+    },
+    {
+      "title": "Georgia Drivers Manual 2023-2024 (PDF)",
+      "url": "https://dds.georgia.gov/document/document/ga-drivers-manual-2023-2024/download",
+      "licence": "state government publication (questions written in our own words)",
+      "note": "Downloadable PDF version linked from the DDS Manuals page; used to cross-check."
+    },
+    {
+      "title": "DDS - Learner's Permit (Class CP) requirements",
+      "url": "https://dds.georgia.gov/how-do-i-learners-permit",
+      "licence": "state government publication (questions written in our own words)",
+      "note": "Confirms minimum age 15, supervising driver 21+, vision and knowledge exams, $10 permit fee."
+    },
+    {
+      "title": "DDS - Forms/Manuals: Manuals",
+      "url": "https://dds.georgia.gov/dds-forms-and-manuals/manuals",
+      "licence": "state government publication",
+      "note": "Lists the current official Driver's Manual and ADAP manual."
+    }
+  ],
+  "topics": [
+    {
+      "id": "licensing",
+      "title": "Permits & licensing"
+    },
+    {
+      "id": "signs",
+      "title": "Signs, signals & markings"
+    },
+    {
+      "id": "right-of-way",
+      "title": "Right of way"
+    },
+    {
+      "id": "speed",
+      "title": "Speed & following distance"
+    },
+    {
+      "id": "turns",
+      "title": "Turning, lanes & passing"
+    },
+    {
+      "id": "parking",
+      "title": "Parking"
+    },
+    {
+      "id": "sharing",
+      "title": "Sharing the road"
+    },
+    {
+      "id": "safety",
+      "title": "Safe driving & hazards"
+    },
+    {
+      "id": "alcohol",
+      "title": "Alcohol, drugs & penalties"
+    },
+    {
+      "id": "emergencies",
+      "title": "Emergencies & crashes"
+    }
+  ],
+  "questions": [
+    {
+      "id": "ga-001",
+      "topic": "signs",
+      "q": "What must you do when you come to this sign?",
+      "options": [
+        "Yield only to pedestrians",
+        "Come to a complete stop, then yield before going on",
+        "Slow down and go if no cars are coming",
+        "Stop only if other traffic is present"
+      ],
+      "answer": 1,
+      "explain": "An eight-sided sign always means stop: make a full stop at the stop line (or before the crosswalk), then yield to pedestrians and close traffic.",
+      "official": false,
+      "ref": "Georgia Drivers Manual (DDS online edition, 2026), Section 7 'Signs, Signals & Markings': 'Shapes of Signs: Octagon signs'",
+      "image": "signs/stop.png"
+    },
+    {
+      "id": "ga-002",
+      "topic": "signs",
+      "q": "What does this sign require you to do?",
+      "options": [
+        "Speed up to merge ahead of traffic",
+        "Stop only when a train is coming",
+        "Always come to a full stop",
+        "Slow down, stop if necessary, and give the right-of-way"
+      ],
+      "answer": 3,
+      "explain": "A triangle means yield: slow to a reasonable speed, stop if needed, and let traffic in or near the intersection go first.",
+      "official": false,
+      "ref": "Georgia Drivers Manual (DDS online edition, 2026), Section 7 'Signs, Signals & Markings': 'Shapes of Signs: Triangle signs'",
+      "image": "signs/yield.png"
+    },
+    {
+      "id": "ga-003",
+      "topic": "signs",
+      "q": "If you see this sign facing you, what does it tell you?",
+      "options": [
+        "Traffic on this road comes toward you; you must not go down it",
+        "The road is closed for construction ahead",
+        "You may enter only to turn right",
+        "Parking is not allowed here"
+      ],
+      "answer": 0,
+      "explain": "The do-not-enter sign marks a one-way road with traffic coming toward you; you must not continue down that road.",
+      "official": false,
+      "ref": "Georgia Drivers Manual (DDS online edition, 2026), Section 7 'Signs, Signals & Markings': 'Regulatory Signs: Do not enter sign'",
+      "image": "signs/do-not-enter.png"
+    },
+    {
+      "id": "ga-004",
+      "topic": "signs",
+      "q": "You see this sign while entering a ramp. What does it mean?",
+      "options": [
+        "The ramp curves sharply ahead",
+        "The ramp is closed to trucks",
+        "You are going against the allowed direction of a one-way road or ramp",
+        "You must merge to the left"
+      ],
+      "answer": 2,
+      "explain": "The wrong-way sign warns that driving on that highway or ramp in your direction is not allowed. Stop and turn around safely.",
+      "official": false,
+      "ref": "Georgia Drivers Manual (DDS online edition, 2026), Section 7 'Signs, Signals & Markings': 'Regulatory Signs: Wrong way sign'",
+      "image": "signs/wrong-way.png"
+    },
+    {
+      "id": "ga-005",
+      "topic": "signs",
+      "q": "What does this sign mean?",
+      "options": [
+        "You may not turn around to go the opposite way here",
+        "The road curves back sharply ahead",
+        "Left turns are not allowed",
+        "U-turns are allowed only on green"
+      ],
+      "answer": 0,
+      "explain": "A red circle and slash means 'no'; the U-shaped arrow shows that U-turns are prohibited at this location.",
+      "official": false,
+      "ref": "Georgia Drivers Manual (DDS online edition, 2026), Section 7 'Signs, Signals & Markings': 'Regulatory Signs: No U turn sign'",
+      "image": "signs/no-u-turn.png"
+    },
+    {
+      "id": "ga-006",
+      "topic": "signs",
+      "q": "What does this sign tell you?",
+      "options": [
+        "Turn right only",
+        "Right turns allowed after stopping",
+        "Right lane ends ahead",
+        "You may not make a right turn at this intersection"
+      ],
+      "answer": 3,
+      "explain": "The black right arrow inside a red circle-slash means right turns are not permitted at this intersection.",
+      "official": false,
+      "ref": "Georgia Drivers Manual (DDS online edition, 2026), Section 7 'Signs, Signals & Markings': 'Regulatory Signs: No right turn sign'",
+      "image": "signs/no-right-turn.png"
+    },
+    {
+      "id": "ga-007",
+      "topic": "signs",
+      "q": "At an intersection with this sign and a red light, what are you allowed to do?",
+      "options": [
+        "Turn right without stopping if clear",
+        "Turn right after a full stop",
+        "Wait for the green light; turning on red is prohibited even after stopping",
+        "Turn left onto a one-way street after stopping"
+      ],
+      "answer": 2,
+      "explain": "This sign cancels the usual right-turn-on-red rule: you may not turn while the light is red, even after a complete stop.",
+      "official": false,
+      "ref": "Georgia Drivers Manual (DDS online edition, 2026), Section 7 'Signs, Signals & Markings': 'Regulatory Signs: No right turn on red after stop sign'",
+      "image": "signs/no-turn-on-red.png"
+    },
+    {
+      "id": "ga-008",
+      "topic": "signs",
+      "q": "What does this sign mean?",
+      "options": [
+        "The road ahead curves",
+        "Traffic may travel only in the direction of the arrow",
+        "Turn in the direction of the arrow now",
+        "Detour in the direction of the arrow"
+      ],
+      "answer": 1,
+      "explain": "The one-way sign means traffic on that street may travel only in the direction the arrow points.",
+      "official": false,
+      "ref": "Georgia Drivers Manual (DDS online edition, 2026), Section 7 'Signs, Signals & Markings': 'Regulatory Signs: One way sign'",
+      "image": "signs/one-way.png"
+    },
+    {
+      "id": "ga-009",
+      "topic": "signs",
+      "q": "What does this sign tell you to do?",
+      "options": [
+        "Keep to the right of the median or obstruction",
+        "Slower traffic must exit right",
+        "Right lane ends",
+        "Turn right at the next street"
+      ],
+      "answer": 0,
+      "explain": "The keep-right sign requires traffic to pass on the right side of a median, island or obstruction.",
+      "official": false,
+      "ref": "Georgia Drivers Manual (DDS online edition, 2026), Section 7 'Signs, Signals & Markings': 'Regulatory Signs: Keep right sign'",
+      "image": "signs/keep-right.png"
+    },
+    {
+      "id": "ga-010",
+      "topic": "signs",
+      "q": "What does this sign mean?",
+      "options": [
+        "55 mph is a suggested speed for a curve",
+        "55 mph is the minimum speed",
+        "55 mph is the highest legal speed in this area under ideal conditions",
+        "You must drive exactly 55 mph"
+      ],
+      "answer": 2,
+      "explain": "A white speed limit sign is regulatory: 55 mph is the maximum permitted speed in that area. Drive slower when conditions require.",
+      "official": false,
+      "ref": "Georgia Drivers Manual (DDS online edition, 2026), Section 7 'Signs, Signals & Markings': 'Regulatory Signs: Speed limit 55 sign'",
+      "image": "signs/speed-limit-55.png"
+    },
+    {
+      "id": "ga-011",
+      "topic": "signs",
+      "q": "On a road with two or more lanes in your direction, what does this sign mean?",
+      "options": [
+        "The left lane is closed",
+        "Slower vehicles should use the right lane(s)",
+        "Only trucks may use the right lane",
+        "Slow down because a curve is ahead"
+      ],
+      "answer": 1,
+      "explain": "When two or more lanes go your way, slower traffic should travel in the right (outside) lanes, leaving the left lane for passing.",
+      "official": false,
+      "ref": "Georgia Drivers Manual (DDS online edition, 2026), Section 7 'Signs, Signals & Markings': 'Regulatory Signs: Slower traffic keep right sign'",
+      "image": "signs/slower-traffic-keep-right.png"
+    },
+    {
+      "id": "ga-012",
+      "topic": "signs",
+      "q": "This yellow pennant-shaped sign is posted on the left side of the road. What does it mark?",
+      "options": [
+        "A one-lane bridge ahead",
+        "A left curve ahead",
+        "The end of a no-passing zone",
+        "The start of a no-passing zone; finish any pass before you reach it"
+      ],
+      "answer": 3,
+      "explain": "The pennant sits on the left side of the highway at the beginning of a no-passing zone; any passing must be completed before reaching it.",
+      "official": false,
+      "ref": "Georgia Drivers Manual (DDS online edition, 2026), Section 7 'Signs, Signals & Markings': 'Warning Signs: No passing zone sign'",
+      "image": "signs/no-passing-zone.png"
+    },
+    {
+      "id": "ga-013",
+      "topic": "signs",
+      "q": "What does this round yellow sign warn you about?",
+      "options": [
+        "A railroad crossing ahead; slow down, look, listen and be ready to stop",
+        "A hospital entrance ahead",
+        "A traffic circle ahead",
+        "A school crossing ahead"
+      ],
+      "answer": 0,
+      "explain": "A round sign is the railroad advance warning sign, posted a few hundred feet before the tracks.",
+      "official": false,
+      "ref": "Georgia Drivers Manual (DDS online edition, 2026), Section 7 'Signs, Signals & Markings': 'Shapes of Signs: Round signs'",
+      "image": "signs/railroad-advance.png"
+    },
+    {
+      "id": "ga-014",
+      "topic": "signs",
+      "q": "What should you do when you see this sign?",
+      "options": [
+        "Always stop, even if no train is coming",
+        "Yield to any approaching train; slow down, look and listen before crossing",
+        "It is a guide sign with no action required",
+        "Speed up to clear the tracks quickly"
+      ],
+      "answer": 1,
+      "explain": "The crossbuck is placed at all railroad crossings and means yield to trains. A full stop is required when red lights flash.",
+      "official": false,
+      "ref": "Georgia Drivers Manual (DDS online edition, 2026), Section 7 'Signs, Signals & Markings': 'Guide Signs: Railroad crossing sign'",
+      "image": "signs/railroad-crossbuck.png"
+    },
+    {
+      "id": "ga-015",
+      "topic": "signs",
+      "q": "What does this five-sided sign mean?",
+      "options": [
+        "A playground parking area",
+        "A railroad crossing ahead",
+        "A pedestrian-only street",
+        "You are approaching a school zone or school crossing"
+      ],
+      "answer": 3,
+      "explain": "Pentagon-shaped signs mark a school zone and/or school crossing, posted 150 to 700 feet ahead of the school grounds or crossing.",
+      "official": false,
+      "ref": "Georgia Drivers Manual (DDS online edition, 2026), Section 7 'Signs, Signals & Markings': 'Shapes of Signs: Pentagon signs'",
+      "image": "signs/school-zone.png"
+    },
+    {
+      "id": "ga-016",
+      "topic": "signs",
+      "q": "What does this sign warn you about?",
+      "options": [
+        "A right turn is required",
+        "A gentle curve to the right",
+        "A sharp turn to the right ahead",
+        "A side road on the right"
+      ],
+      "answer": 2,
+      "explain": "The bent-arrow warning sign means the road makes a sharp turn to the right ahead. Slow down before the turn.",
+      "official": false,
+      "ref": "Georgia Drivers Manual (DDS online edition, 2026), Section 7 'Signs, Signals & Markings': 'Warning Signs: Sharp right turn sign'",
+      "image": "signs/sharp-turn-right.png"
+    },
+    {
+      "id": "ga-017",
+      "topic": "signs",
+      "q": "What does this sign warn you about?",
+      "options": [
+        "A dead-end parking area",
+        "A divided highway begins",
+        "A railroad crossing",
+        "The road you are on ends ahead; prepare to turn left or right"
+      ],
+      "answer": 3,
+      "explain": "A T-shaped symbol means your road ends at a crossing road ahead. Slow down and prepare to yield or stop before turning.",
+      "official": false,
+      "ref": "Georgia Drivers Manual (DDS online edition, 2026), Section 7 'Signs, Signals & Markings': 'Warning Signs: Road ends sign'",
+      "image": "signs/t-intersection.png"
+    },
+    {
+      "id": "ga-018",
+      "topic": "signs",
+      "q": "What does this sign mean?",
+      "options": [
+        "Keep right",
+        "Traffic is merging from the right; be ready to let it in",
+        "A divided highway begins",
+        "Your lane ends and you must merge right"
+      ],
+      "answer": 1,
+      "explain": "The merge sign warns of traffic joining from the right. Adjust speed or position so it can merge safely.",
+      "official": false,
+      "ref": "Georgia Drivers Manual (DDS online edition, 2026), Section 7 'Signs, Signals & Markings': 'Warning Signs: Merge sign'",
+      "image": "signs/merge-right.png"
+    },
+    {
+      "id": "ga-019",
+      "topic": "signs",
+      "q": "What does this sign warn you about?",
+      "options": [
+        "Two-way traffic ahead",
+        "An added lane begins",
+        "The number of lanes is reduced ahead",
+        "A narrow bridge"
+      ],
+      "answer": 2,
+      "explain": "This sign shows a lane ending; the number of lanes is reduced ahead, so be ready to merge.",
+      "official": false,
+      "ref": "Georgia Drivers Manual (DDS online edition, 2026), Section 7 'Signs, Signals & Markings': 'Warning Signs: Lanes reduced sign'",
+      "image": "signs/lane-ends-left.png"
+    },
+    {
+      "id": "ga-020",
+      "topic": "signs",
+      "q": "What does this sign warn you about?",
+      "options": [
+        "The divided highway ends; traffic will travel in both directions without a median",
+        "A lane is added on the right",
+        "You are entering a one-way street",
+        "A divided highway begins"
+      ],
+      "answer": 0,
+      "explain": "The divided-highway-ends sign means the median ends ahead. Be ready to change lanes or shift lane position.",
+      "official": false,
+      "ref": "Georgia Drivers Manual (DDS online edition, 2026), Section 7 'Signs, Signals & Markings': 'Warning Signs: Divided highway ends sign'",
+      "image": "signs/divided-hwy-ends.png"
+    },
+    {
+      "id": "ga-021",
+      "topic": "signs",
+      "q": "What does this warning sign mean?",
+      "options": [
+        "Passing is allowed in both directions",
+        "You are leaving a one-way roadway; two-way traffic is ahead",
+        "Lanes merge ahead",
+        "A divided highway begins"
+      ],
+      "answer": 1,
+      "explain": "The two-way-traffic sign warns that you are leaving a separated one-way highway and will soon share the road with oncoming traffic.",
+      "official": false,
+      "ref": "Georgia Drivers Manual (DDS online edition, 2026), Section 7 'Signs, Signals & Markings': 'Warning Signs: Two way traffic sign'",
+      "image": "signs/two-way-traffic.png"
+    },
+    {
+      "id": "ga-022",
+      "topic": "signs",
+      "q": "What does this sign warn you about?",
+      "options": [
+        "A fire station ahead",
+        "A road work zone",
+        "Traffic signals at the intersection ahead",
+        "A railroad crossing with lights"
+      ],
+      "answer": 2,
+      "explain": "The signal-ahead sign warns that there are traffic signals at the intersection ahead. Slow down.",
+      "official": false,
+      "ref": "Georgia Drivers Manual (DDS online edition, 2026), Section 7 'Signs, Signals & Markings': 'Warning Signs: Signal ahead sign'",
+      "image": "signs/signal-ahead.png"
+    },
+    {
+      "id": "ga-023",
+      "topic": "signs",
+      "q": "What does this sign mean?",
+      "options": [
+        "A stop sign is ahead; begin slowing and be ready to stop",
+        "A school bus stop is ahead",
+        "A four-way stop is behind you",
+        "Stop here immediately"
+      ],
+      "answer": 0,
+      "explain": "The stop-ahead sign warns of a stop sign ahead that may be hard to see. Slow down and prepare to stop.",
+      "official": false,
+      "ref": "Georgia Drivers Manual (DDS online edition, 2026), Section 7 'Signs, Signals & Markings': 'Warning Signs: Stop ahead sign'",
+      "image": "signs/stop-ahead.png"
+    },
+    {
+      "id": "ga-024",
+      "topic": "signs",
+      "q": "What does this sign warn you about?",
+      "options": [
+        "A sharp curve",
+        "Gravel road ahead",
+        "Drunk drivers in the area",
+        "The road is slippery when wet"
+      ],
+      "answer": 3,
+      "explain": "The skid-mark symbol means the roadway is slippery when wet. The first half-hour of rain is the most hazardous.",
+      "official": false,
+      "ref": "Georgia Drivers Manual (DDS online edition, 2026), Section 7 'Signs, Signals & Markings': 'Warning Signs: Slippery when wet sign'",
+      "image": "signs/slippery-when-wet.png"
+    },
+    {
+      "id": "ga-025",
+      "topic": "signs",
+      "q": "What does this sign warn you about?",
+      "options": [
+        "A toll booth ahead",
+        "The bridge ahead is narrower than the road",
+        "A drawbridge ahead",
+        "The road ends ahead"
+      ],
+      "answer": 1,
+      "explain": "The narrow-bridge sign means the bridge allows room for only two lanes of traffic. Approach with caution.",
+      "official": false,
+      "ref": "Georgia Drivers Manual (DDS online edition, 2026), Section 7 'Signs, Signals & Markings': 'Warning Signs: Narrow bridge sign'",
+      "image": "signs/narrow-bridge.png"
+    },
+    {
+      "id": "ga-026",
+      "topic": "signs",
+      "q": "What does this sign mean?",
+      "options": [
+        "Do not enter if your vehicle or load is taller than the height shown",
+        "A bridge is 12 feet wide",
+        "Trucks over 12 tons prohibited",
+        "Minimum speed is 12 mph"
+      ],
+      "answer": 0,
+      "explain": "This sign warns of a low underpass ahead. If your vehicle or its load is taller than the height shown, do not go under it.",
+      "official": false,
+      "ref": "Georgia Drivers Manual (DDS online edition, 2026), Section 7 'Signs, Signals & Markings': 'Warning Signs: Low clearance sign'",
+      "image": "signs/low-clearance.png"
+    },
+    {
+      "id": "ga-027",
+      "topic": "signs",
+      "q": "What should you expect when you see this sign?",
+      "options": [
+        "A school bus stop",
+        "A sidewalk ends",
+        "People may be crossing the road ahead",
+        "A playground with no traffic"
+      ],
+      "answer": 2,
+      "explain": "Pedestrian crossing signs alert drivers in advance of areas where people may be crossing.",
+      "official": false,
+      "ref": "Georgia Drivers Manual (DDS online edition, 2026), Section 7 'Signs, Signals & Markings': 'Warning Signs: Pedestrian and animal crossing signs'",
+      "image": "signs/pedestrian-crossing.png"
+    },
+    {
+      "id": "ga-028",
+      "topic": "signs",
+      "q": "This orange sign tells you that you are approaching:",
+      "options": [
+        "A school zone",
+        "A hospital zone",
+        "A toll plaza",
+        "A road construction or maintenance area"
+      ],
+      "answer": 3,
+      "explain": "Construction and maintenance warning signs are orange with black markings. Watch for orange: it means road work.",
+      "official": false,
+      "ref": "Georgia Drivers Manual (DDS online edition, 2026), Section 7 'Signs, Signals & Markings': 'Construction and Maintenance Warning Signs'",
+      "image": "signs/road-work-ahead.png"
+    },
+    {
+      "id": "ga-029",
+      "topic": "signs",
+      "q": "A vehicle displaying this orange triangle with a red border is:",
+      "options": [
+        "A vehicle that is about to stop",
+        "A slow-moving vehicle traveling under 25 mph",
+        "An emergency vehicle",
+        "Carrying hazardous materials"
+      ],
+      "answer": 1,
+      "explain": "This emblem marks a slow-moving vehicle, defined as one moving less than 25 mph. Such vehicles must display it.",
+      "official": false,
+      "ref": "Georgia Drivers Manual (DDS online edition, 2026), Section 7 'Signs, Signals & Markings': 'Guide Signs: Caution sign'",
+      "image": "signs/slow-moving-vehicle.png"
+    },
+    {
+      "id": "ga-030",
+      "topic": "signs",
+      "q": "What does this yellow plaque below a warning sign tell you?",
+      "options": [
+        "The distance to the next exit",
+        "The minimum speed on the highway",
+        "The maximum legal speed on all nearby roads",
+        "The suggested safe speed for the curve or hazard ahead"
+      ],
+      "answer": 3,
+      "explain": "Advisory speed plaques show a recommended speed for a specific condition, usually lower than the posted limit.",
+      "official": false,
+      "ref": "Georgia Drivers Manual (DDS online edition, 2026), Section 8 'Safety Guidelines': 'Curves'",
+      "image": "signs/advisory-speed-35.png"
+    },
+    {
+      "id": "ga-031",
+      "topic": "signs",
+      "q": "What must you do when facing this signal?",
+      "options": [
+        "Slow down and proceed with caution",
+        "Stop only if cars are coming",
+        "Make a complete stop before the crosswalk or intersection and wait for green",
+        "Speed up to clear the intersection"
+      ],
+      "answer": 2,
+      "explain": "A steady red light means stop completely before the crosswalk or intersection and wait until it turns green (unless a legal turn on red is allowed).",
+      "official": false,
+      "ref": "Georgia Drivers Manual (DDS online edition, 2026), Section 7 'Signs, Signals & Markings': 'Traffic Signals and Signs: Red light'",
+      "image": "signs/signal-red.png"
+    },
+    {
+      "id": "ga-032",
+      "topic": "signs",
+      "q": "When facing this signal, you may go:",
+      "options": [
+        "Only if it is safe, after yielding to pedestrians and vehicles still in the intersection",
+        "Immediately, because you have the right-of-way",
+        "Only straight ahead",
+        "Only after a complete stop"
+      ],
+      "answer": 0,
+      "explain": "A green light means proceed if safe; do not go 'just because' the light is green while the intersection is not clear.",
+      "official": false,
+      "ref": "Georgia Drivers Manual (DDS online edition, 2026), Section 7 'Signs, Signals & Markings': 'Traffic Signals and Signs: Green light'",
+      "image": "signs/signal-green.png"
+    },
+    {
+      "id": "ga-033",
+      "topic": "signs",
+      "q": "What does this green arrow allow?",
+      "options": [
+        "Going straight or turning left",
+        "U-turns only",
+        "Turning left only after first coming to a complete stop",
+        "Turning left in the direction of the arrow after yielding to pedestrians and vehicles in the intersection"
+      ],
+      "answer": 3,
+      "explain": "A green arrow allows movement only in the arrow's direction, after yielding to pedestrians and vehicles already in the intersection.",
+      "official": false,
+      "ref": "Georgia Drivers Manual (DDS online edition, 2026), Section 7 'Signs, Signals & Markings': 'Traffic Signals and Signs: Green left arrow'",
+      "image": "signs/signal-green-arrow-left.png"
+    },
+    {
+      "id": "ga-034",
+      "topic": "signs",
+      "q": "How should you treat this flashing signal?",
+      "options": [
+        "The signal is off; go through",
+        "Like a stop sign: stop completely, then proceed when safe",
+        "Stop and wait for the light to turn green",
+        "Like a yield sign: slow down only"
+      ],
+      "answer": 1,
+      "explain": "A flashing red light means stop completely as at a stop sign, then proceed after yielding to pedestrians and other vehicles.",
+      "official": false,
+      "ref": "Georgia Drivers Manual (DDS online edition, 2026), Section 7 'Signs, Signals & Markings': 'Traffic Signals and Signs: Flashing red light'",
+      "image": "signs/signal-flashing-red.png"
+    },
+    {
+      "id": "ga-035",
+      "topic": "signs",
+      "q": "What does this flashing signal mean?",
+      "options": [
+        "Slow down and proceed with caution",
+        "Stop completely and wait",
+        "The road is closed",
+        "Pedestrians must stop"
+      ],
+      "answer": 0,
+      "explain": "A flashing yellow light means slow down and use caution before proceeding through the intersection.",
+      "official": false,
+      "ref": "Georgia Drivers Manual (DDS online edition, 2026), Section 7 'Signs, Signals & Markings': 'Traffic Signals and Signs: Flashing yellow light'",
+      "image": "signs/signal-flashing-yellow.png"
+    },
+    {
+      "id": "ga-036",
+      "topic": "signs",
+      "q": "What do these pavement markings in the center of a two-lane road mean?",
+      "options": [
+        "Passing is allowed only on the left side",
+        "Passing is allowed with care",
+        "Passing is not allowed in either direction",
+        "The lanes carry traffic in the same direction"
+      ],
+      "answer": 2,
+      "explain": "When both center yellow lines are solid, it is not safe to pass in either direction.",
+      "official": false,
+      "ref": "Georgia Drivers Manual (DDS online edition, 2026), Section 7 'Signs, Signals & Markings': 'Pavement Markings: No Passing Lines'",
+      "image": "signs/lines-double-yellow.png"
+    },
+    {
+      "id": "ga-037",
+      "topic": "signs",
+      "q": "A single broken yellow center line on a two-lane road means:",
+      "options": [
+        "Passing is never allowed",
+        "The lane is reserved for left turns",
+        "Passing is allowed in either direction when it is safe",
+        "Traffic moves in the same direction"
+      ],
+      "answer": 2,
+      "explain": "Broken yellow center lines are used where there are only two lanes and passing is safe in either direction.",
+      "official": false,
+      "ref": "Georgia Drivers Manual (DDS online edition, 2026), Section 7 'Signs, Signals & Markings': 'Pavement Markings: Center Lines'",
+      "image": "signs/lines-broken-yellow.png"
+    },
+    {
+      "id": "ga-038",
+      "topic": "signs",
+      "q": "You are driving the blue car on this two-lane road. Based on the center lines, may you pass the vehicle ahead?",
+      "options": [
+        "No; any solid yellow line means no passing in either direction",
+        "Yes, when it is safe, because the broken line is on your side",
+        "Yes, but only on hills or curves",
+        "Only if the driver ahead signals you to pass"
+      ],
+      "answer": 1,
+      "explain": "Each driver obeys the yellow line closest to their own lane. Here the broken line is on your side, so you may pass when it is safe; drivers on the other side, facing the solid line, may not.",
+      "official": false,
+      "ref": "Georgia Drivers Manual (DDS online edition, 2026), Section 5 'Traffic Laws': 'Passing: How To Pass On A Two-Lane Road'",
+      "image": "signs/lines-solid-and-broken-yellow.png"
+    },
+    {
+      "id": "ga-039",
+      "topic": "signs",
+      "q": "A center lane marked like this may be used:",
+      "options": [
+        "Only for making left turns, entering it no more than 300 feet before the turn",
+        "For parking during rush hour",
+        "For passing slower vehicles",
+        "As an acceleration lane"
+      ],
+      "answer": 0,
+      "explain": "Georgia law prohibits using a center turn lane for any purpose other than a left turn, and you may enter it no more than 300 feet before the turn.",
+      "official": false,
+      "ref": "Georgia Drivers Manual (DDS online edition, 2026), Section 7 'Signs, Signals & Markings': 'Pavement Markings: Turn Lanes'",
+      "image": "signs/lines-two-way-left-turn.png"
+    },
+    {
+      "id": "ga-040",
+      "topic": "signs",
+      "q": "In Georgia, how many basic sign shapes are used to convey traffic control instructions?",
+      "options": [
+        "Ten",
+        "Four",
+        "Five",
+        "Seven"
+      ],
+      "answer": 3,
+      "explain": "The manual states that Georgia uses seven basic sign shapes so drivers can recognize signs from a distance.",
+      "official": false,
+      "ref": "Georgia Drivers Manual (DDS online edition, 2026), Section 7 'Signs, Signals & Markings': 'Shapes of Signs'"
+    },
+    {
+      "id": "ga-041",
+      "topic": "signs",
+      "q": "If a traffic signal at an intersection is completely dark (not working), you must:",
+      "options": [
+        "Yield only to vehicles on your left",
+        "Treat it like a flashing yellow light",
+        "Proceed without stopping if you are on the larger road",
+        "Treat the intersection as an all-way stop"
+      ],
+      "answer": 3,
+      "explain": "When a signal is not functioning at all, every driver must treat the intersection as if stop signs were posted in all directions.",
+      "official": false,
+      "ref": "Georgia Drivers Manual (DDS online edition, 2026), Section 7 'Signs, Signals & Markings': 'Traffic Signals and Signs'"
+    },
+    {
+      "id": "ga-042",
+      "topic": "signs",
+      "q": "A flashing yellow left-turn arrow means you may turn left:",
+      "options": [
+        "After yielding to oncoming traffic and pedestrians, since oncoming traffic has a green light",
+        "Only when the arrow turns steady",
+        "Without yielding, because you have a protected turn",
+        "Only after stopping completely"
+      ],
+      "answer": 0,
+      "explain": "A flashing yellow arrow allows a left turn after yielding; oncoming traffic still has a green light.",
+      "official": false,
+      "ref": "Georgia Drivers Manual (DDS online edition, 2026), Section 7 'Signs, Signals & Markings': 'Traffic Signals and Signs: Flashing yellow arrow'"
+    },
+    {
+      "id": "ga-043",
+      "topic": "signs",
+      "q": "At a Pedestrian Hybrid Beacon (PHB), the alternating flashing red lights mean drivers must:",
+      "options": [
+        "Slow down only",
+        "Wait until the beacon goes dark even if the crosswalk is empty",
+        "Stop fully, then go once pedestrians have cleared the crosswalk",
+        "Proceed without stopping"
+      ],
+      "answer": 2,
+      "explain": "During alternating flashing red, drivers must stop and may proceed once pedestrians have cleared the crosswalk.",
+      "official": false,
+      "ref": "Georgia Drivers Manual (DDS online edition, 2026), Section 7 'Signs, Signals & Markings': 'Pedestrian-Hybrid Beacons (PHB)'"
+    },
+    {
+      "id": "ga-044",
+      "topic": "signs",
+      "q": "When a stop line is painted at an intersection, where must you stop?",
+      "options": [
+        "In the crosswalk",
+        "At the stop line",
+        "At the stop sign post",
+        "Wherever you can see best, even past the line"
+      ],
+      "answer": 1,
+      "explain": "When a stop line is painted, that is where you must stop completely, not at the sign or signal itself.",
+      "official": false,
+      "ref": "Georgia Drivers Manual (DDS online edition, 2026), Section 7 'Signs, Signals & Markings': 'Pavement Markings: Stop Lines'"
+    },
+    {
+      "id": "ga-045",
+      "topic": "signs",
+      "q": "Solid double white lines between lanes mean:",
+      "options": [
+        "Lane changes across them are prohibited",
+        "They mark a bicycle lane",
+        "The lanes carry opposing traffic",
+        "You may cross them with care"
+      ],
+      "answer": 0,
+      "explain": "Solid double white lines prohibit lane changes; dashed double white lines allow crossing to the adjacent lane.",
+      "official": false,
+      "ref": "Georgia Drivers Manual (DDS online edition, 2026), Section 7 'Signs, Signals & Markings': 'Pavement Markings: No Passing Lines'"
+    },
+    {
+      "id": "ga-046",
+      "topic": "right-of-way",
+      "q": "Two vehicles reach an uncontrolled intersection (no signs or signals) at the same time. Who must yield?",
+      "options": [
+        "The driver on the right yields to the driver on the left",
+        "The driver going faster has the right-of-way",
+        "The driver on the left yields to the driver on the right",
+        "The larger vehicle has the right-of-way"
+      ],
+      "answer": 2,
+      "explain": "At intersections without signs or signals, when two vehicles arrive together the vehicle on the left yields to the one on the right.",
+      "official": false,
+      "ref": "Georgia Drivers Manual (DDS online edition, 2026), Section 5 'Traffic Laws': 'Laws Governing Right-of-Way'"
+    },
+    {
+      "id": "ga-047",
+      "topic": "right-of-way",
+      "q": "At a four-way stop, in what order should vehicles proceed?",
+      "options": [
+        "Largest vehicle first",
+        "First to arrive, first to proceed, after yielding to pedestrians",
+        "Vehicles turning left first",
+        "Vehicles on the busier street first"
+      ],
+      "answer": 1,
+      "explain": "Where all approaches have stop signs, yield to pedestrians, then go in first-to-arrive, first-to-proceed order.",
+      "official": false,
+      "ref": "Georgia Drivers Manual (DDS online edition, 2026), Section 5 'Traffic Laws': 'Laws Governing Right-of-Way'"
+    },
+    {
+      "id": "ga-048",
+      "topic": "right-of-way",
+      "q": "At a four-way stop, you and another driver arrive at about the same time. The other car is on your right. What should you do?",
+      "options": [
+        "Go first because you are on the left",
+        "Both drivers should go at once",
+        "Go first if you are going straight",
+        "Yield to the car on your right"
+      ],
+      "answer": 3,
+      "explain": "If two vehicles reach an all-way stop at about the same time, yield to the vehicle on your right.",
+      "official": false,
+      "ref": "Georgia Drivers Manual (DDS online edition, 2026), Section 5 'Traffic Laws': 'Laws Governing Right-of-Way'"
+    },
+    {
+      "id": "ga-049",
+      "topic": "right-of-way",
+      "q": "When turning left at an intersection or into a driveway, you must yield to:",
+      "options": [
+        "Only vehicles behind you",
+        "Only vehicles turning right",
+        "All traffic coming from the opposite direction",
+        "No one if your signal is on"
+      ],
+      "answer": 2,
+      "explain": "A left-turning driver must yield the right-of-way to all oncoming traffic, including bicycles, and to pedestrians crossing.",
+      "official": false,
+      "ref": "Georgia Drivers Manual (DDS online edition, 2026), Section 5 'Traffic Laws': 'Laws Governing Right-of-Way'"
+    },
+    {
+      "id": "ga-050",
+      "topic": "right-of-way",
+      "q": "You are entering a road from a private driveway or alley. What must you do?",
+      "options": [
+        "Yield only to vehicles on your left",
+        "Enter quickly to match traffic speed",
+        "Sound your horn and pull out",
+        "Stop and yield to all pedestrians and vehicles already on the road or sidewalk"
+      ],
+      "answer": 3,
+      "explain": "When entering or crossing a highway from an alley, private road or driveway, stop and yield to all pedestrians and vehicles already there.",
+      "official": false,
+      "ref": "Georgia Drivers Manual (DDS online edition, 2026), Section 5 'Traffic Laws': 'Laws Governing Right-of-Way'"
+    },
+    {
+      "id": "ga-051",
+      "topic": "right-of-way",
+      "q": "An emergency vehicle with lights and siren is approaching. What should you do?",
+      "options": [
+        "Speed up to get out of its way",
+        "Slow down, move to the right edge or shoulder, and stop without blocking an intersection",
+        "Stop immediately where you are, even in an intersection",
+        "Move to the left lane"
+      ],
+      "answer": 1,
+      "explain": "Pull to the shoulder or as far right as possible and stop, taking care not to block an intersection or endanger others.",
+      "official": false,
+      "ref": "Georgia Drivers Manual (DDS online edition, 2026), Section 5 'Traffic Laws': 'Laws Governing Right-of-Way'"
+    },
+    {
+      "id": "ga-052",
+      "topic": "right-of-way",
+      "q": "Your light turns green but cars are still in the intersection. What should you do?",
+      "options": [
+        "Wait until the intersection is clear before entering",
+        "Go immediately; you have the right-of-way",
+        "Sound your horn and proceed",
+        "Go around the cars on the shoulder"
+      ],
+      "answer": 0,
+      "explain": "Do not proceed 'just because' you have a green light; wait until the intersection is clear of traffic.",
+      "official": false,
+      "ref": "Georgia Drivers Manual (DDS online edition, 2026), Section 5 'Traffic Laws': 'Laws Governing Right-of-Way'"
+    },
+    {
+      "id": "ga-053",
+      "topic": "right-of-way",
+      "q": "Another driver tries to take your turn at an intersection even though you have the right-of-way. What should you do?",
+      "options": [
+        "Let the other driver go to avoid a crash",
+        "Honk and keep going",
+        "Proceed anyway since you have the right-of-way",
+        "Follow closely behind them through the intersection"
+      ],
+      "answer": 0,
+      "explain": "Right-of-way is given, not taken. Letting the other driver proceed may prevent a crash.",
+      "official": false,
+      "ref": "Georgia Drivers Manual (DDS online edition, 2026), Section 5 'Traffic Laws': 'Laws Governing Right-of-Way'"
+    },
+    {
+      "id": "ga-054",
+      "topic": "right-of-way",
+      "q": "In Georgia, when may you turn right on a red light?",
+      "options": [
+        "Without stopping if no cars are coming",
+        "Only when a green arrow is showing",
+        "After a complete stop, yielding to traffic and pedestrians, unless a sign prohibits it",
+        "Never in Georgia"
+      ],
+      "answer": 2,
+      "explain": "Right on red is allowed unless posted otherwise, but only after a full stop and yielding to all traffic and pedestrians.",
+      "official": false,
+      "ref": "Georgia Drivers Manual (DDS online edition, 2026), Section 5 'Traffic Laws': 'Laws Governing Right-of-Way'"
+    },
+    {
+      "id": "ga-055",
+      "topic": "right-of-way",
+      "q": "When is a left turn on red allowed in Georgia?",
+      "options": [
+        "Never",
+        "From the left lane of a one-way street onto a one-way street whose traffic moves to the left, after stopping",
+        "Only from a center turn lane",
+        "From any street onto a two-way street after stopping"
+      ],
+      "answer": 1,
+      "explain": "Unless a sign prohibits it, you may turn left on red from a one-way street onto a one-way street going left, after a complete stop and yielding.",
+      "official": false,
+      "ref": "Georgia Drivers Manual (DDS online edition, 2026), Section 5 'Traffic Laws': 'Laws Governing Right-of-Way'"
+    },
+    {
+      "id": "ga-056",
+      "topic": "right-of-way",
+      "q": "When you approach a yield sign, you must:",
+      "options": [
+        "Speed up to merge ahead",
+        "Merge without changing speed",
+        "Always stop completely",
+        "Slow down, be ready to stop, and let other traffic go first"
+      ],
+      "answer": 3,
+      "explain": "At a yield sign, slow to a safe speed and stop if needed; proceed only when it is safe.",
+      "official": false,
+      "ref": "Georgia Drivers Manual (DDS online edition, 2026), Section 5 'Traffic Laws': 'Laws Governing Right-of-Way'"
+    },
+    {
+      "id": "ga-057",
+      "topic": "right-of-way",
+      "q": "Who has the right-of-way when you enter a roundabout?",
+      "options": [
+        "Vehicles entering the roundabout",
+        "The largest vehicle",
+        "The vehicle on the right",
+        "Vehicles already circulating in the roundabout"
+      ],
+      "answer": 3,
+      "explain": "When entering a roundabout you must yield to all circulating traffic, then merge into a gap.",
+      "official": false,
+      "ref": "Georgia Drivers Manual (DDS online edition, 2026), Section 7 'Signs, Signals & Markings': 'Roundabouts'"
+    },
+    {
+      "id": "ga-058",
+      "topic": "right-of-way",
+      "q": "In which direction does traffic travel inside a roundabout?",
+      "options": [
+        "Counterclockwise",
+        "Clockwise",
+        "Whichever way the first car goes",
+        "Either direction"
+      ],
+      "answer": 0,
+      "explain": "Traffic in a roundabout always circulates counterclockwise; you enter and exit to the right.",
+      "official": false,
+      "ref": "Georgia Drivers Manual (DDS online edition, 2026), Section 7 'Signs, Signals & Markings': 'Roundabouts'"
+    },
+    {
+      "id": "ga-059",
+      "topic": "right-of-way",
+      "q": "In a multilane roundabout, which of these is correct?",
+      "options": [
+        "Stop inside the roundabout to let cars enter",
+        "Change lanes freely to reach your exit",
+        "Choose your lane before entering and do not change lanes inside",
+        "Always use the outer lane to turn left"
+      ],
+      "answer": 2,
+      "explain": "Get into the correct lane before entering, maintain your lane, and do not change lanes in the roundabout.",
+      "official": false,
+      "ref": "Georgia Drivers Manual (DDS online edition, 2026), Section 7 'Signs, Signals & Markings': 'Roundabouts: Navigating a Multilane Roundabout'"
+    },
+    {
+      "id": "ga-060",
+      "topic": "right-of-way",
+      "q": "A school bus has stopped with red lights flashing and stop arm out on a two-lane road. What must drivers do?",
+      "options": [
+        "Only oncoming traffic must stop",
+        "Traffic in both directions must stop",
+        "Only traffic behind the bus must stop",
+        "Drivers may pass slowly at 10 mph"
+      ],
+      "answer": 1,
+      "explain": "On a two-lane road, all traffic from both directions must stop for a school bus loading or unloading passengers.",
+      "official": false,
+      "ref": "Georgia Drivers Manual (DDS online edition, 2026), Section 9 'Sharing the Road': 'Sharing the Road With School Buses'"
+    },
+    {
+      "id": "ga-061",
+      "topic": "right-of-way",
+      "q": "A school bus stops to load children on a four-lane road with no median. Which drivers must stop?",
+      "options": [
+        "Only traffic in the lane next to the bus",
+        "Traffic in both directions",
+        "No one, if the children are on the sidewalk",
+        "Only traffic following the bus"
+      ],
+      "answer": 1,
+      "explain": "On a four-lane road without a median separation, all traffic from both directions must stop.",
+      "official": false,
+      "ref": "Georgia Drivers Manual (DDS online edition, 2026), Section 9 'Sharing the Road': 'Sharing the Road With School Buses'"
+    },
+    {
+      "id": "ga-062",
+      "topic": "right-of-way",
+      "q": "A school bus stops on a road with a center turning lane. Who must stop?",
+      "options": [
+        "All traffic in both directions",
+        "Only traffic going the opposite way",
+        "Only traffic in the turning lane",
+        "Only traffic behind the bus"
+      ],
+      "answer": 0,
+      "explain": "A center turn lane is not a median; with a turning lane, all traffic in both directions must stop.",
+      "official": false,
+      "ref": "Georgia Drivers Manual (DDS online edition, 2026), Section 9 'Sharing the Road': 'Sharing the Road With School Buses'"
+    },
+    {
+      "id": "ga-063",
+      "topic": "right-of-way",
+      "q": "On a divided highway of four or more lanes with a median, a school bus stops on the other side. What must you do?",
+      "options": [
+        "You must stop until the bus moves",
+        "You must stop only if children are crossing",
+        "You are not required to stop, but watch for children",
+        "Slow to 10 mph and pass"
+      ],
+      "answer": 2,
+      "explain": "On a highway divided by a median, only traffic following the bus must stop; oncoming traffic should still watch for children.",
+      "official": false,
+      "ref": "Georgia Drivers Manual (DDS online edition, 2026), Section 9 'Sharing the Road': 'Sharing the Road With School Buses'"
+    },
+    {
+      "id": "ga-064",
+      "topic": "right-of-way",
+      "q": "After stopping for a school bus, you may go again when:",
+      "options": [
+        "You have waited 30 seconds",
+        "The driver waves you around",
+        "The stop arm starts to fold, even if children are crossing",
+        "The bus moves or turns off its warning signals and all children have cleared the roadway"
+      ],
+      "answer": 3,
+      "explain": "Stay stopped until the bus resumes motion or deactivates its signals AND all loading or unloading passengers are off the roadway.",
+      "official": false,
+      "ref": "Georgia Drivers Manual (DDS online edition, 2026), Section 9 'Sharing the Road': 'Sharing the Road With School Buses'"
+    },
+    {
+      "id": "ga-065",
+      "topic": "right-of-way",
+      "q": "What do flashing yellow lights on a school bus mean?",
+      "options": [
+        "Children have finished crossing",
+        "You may pass quickly",
+        "The bus is broken down",
+        "The bus is preparing to stop; slow down and be ready to stop"
+      ],
+      "answer": 3,
+      "explain": "Flashing yellow lights mean the bus is about to stop to load or unload; slow down and watch for children.",
+      "official": false,
+      "ref": "Georgia Drivers Manual (DDS online edition, 2026), Section 5 'Traffic Laws': 'Laws Governing Right-of-Way'"
+    },
+    {
+      "id": "ga-066",
+      "topic": "right-of-way",
+      "q": "In a highway work zone, vehicles with flashing or revolving amber lights:",
+      "options": [
+        "Can be passed at normal speed",
+        "Must yield to you",
+        "Must be given the right-of-way",
+        "Are only parked and can be ignored"
+      ],
+      "answer": 2,
+      "explain": "Work vehicles and equipment with amber lights must be given the right-of-way; reduce speed as you approach.",
+      "official": false,
+      "ref": "Georgia Drivers Manual (DDS online edition, 2026), Section 5 'Traffic Laws': 'Highway Work Zones: Yield to Amber Lights in Work Zones'"
+    },
+    {
+      "id": "ga-067",
+      "topic": "right-of-way",
+      "q": "A pedestrian who is blind and carrying a white cane or using a guide dog is crossing. You must:",
+      "options": [
+        "Proceed slowly around them",
+        "Yield the right-of-way at all times",
+        "Honk to warn them",
+        "Yield only in a marked crosswalk"
+      ],
+      "answer": 1,
+      "explain": "Pedestrians using guide dogs or white canes must be given the right-of-way at all times.",
+      "official": false,
+      "ref": "Georgia Drivers Manual (DDS online edition, 2026), Section 9 'Sharing the Road': 'Blind Pedestrians'"
+    },
+    {
+      "id": "ga-068",
+      "topic": "right-of-way",
+      "q": "At a crosswalk without a signal, when must you stop and remain stopped for a pedestrian?",
+      "options": [
+        "When the pedestrian is on your half of the road or within one lane of it",
+        "Only if a police officer is present",
+        "Only when the pedestrian is directly in front of your car",
+        "Only at marked mid-block crosswalks"
+      ],
+      "answer": 0,
+      "explain": "Stop and stay stopped when the pedestrian is on the half of the roadway you are on, or approaching and within one lane of it.",
+      "official": false,
+      "ref": "Georgia Drivers Manual (DDS online edition, 2026), Section 9 'Sharing the Road': 'Respect Crosswalks'"
+    },
+    {
+      "id": "ga-069",
+      "topic": "right-of-way",
+      "q": "Where do crosswalks exist at intersections?",
+      "options": [
+        "Only where there is a walk signal",
+        "On all four corners, even if they are not painted",
+        "Only where lines are painted",
+        "Only near schools"
+      ],
+      "answer": 1,
+      "explain": "Crosswalks exist at all four corners of intersections even when unmarked; marked mid-block crosswalks also exist.",
+      "official": false,
+      "ref": "Georgia Drivers Manual (DDS online edition, 2026), Section 9 'Sharing the Road': 'Crosswalks'"
+    },
+    {
+      "id": "ga-070",
+      "topic": "right-of-way",
+      "q": "You are turning on a green light and pedestrians are crossing the street you are turning onto. You must:",
+      "options": [
+        "Turn behind them while they are still in your lane",
+        "Turn ahead of them since you have a green light",
+        "Stop and remain stopped until they clear your lanes",
+        "Honk to make them hurry"
+      ],
+      "answer": 2,
+      "explain": "The Walk signal usually runs with your green, so stop for pedestrians in the crosswalk of the road you are turning onto.",
+      "official": false,
+      "ref": "Georgia Drivers Manual (DDS online edition, 2026), Section 5 'Traffic Laws': 'Watching for Pedestrians When Making Turns'"
+    },
+    {
+      "id": "ga-071",
+      "topic": "right-of-way",
+      "q": "A vehicle ahead of you in the next lane has stopped at a crosswalk. What should you do?",
+      "options": [
+        "Do not pass it; a pedestrian may be crossing",
+        "Pass it carefully on the left",
+        "Pass it quickly before the pedestrian appears",
+        "Honk and pass"
+      ],
+      "answer": 0,
+      "explain": "It is illegal to overtake and pass a vehicle stopped to let a pedestrian cross at a marked or unmarked crosswalk.",
+      "official": false,
+      "ref": "Georgia Drivers Manual (DDS online edition, 2026), Section 5 'Traffic Laws': 'Passing Stopped Cars'"
+    },
+    {
+      "id": "ga-072",
+      "topic": "right-of-way",
+      "q": "When entering an expressway from an acceleration lane, who has the right-of-way?",
+      "options": [
+        "Whichever vehicle is larger",
+        "Whichever vehicle is going faster",
+        "The vehicle entering",
+        "Vehicles already on the expressway"
+      ],
+      "answer": 3,
+      "explain": "Vehicles on the expressway have the right-of-way; adjust speed in the acceleration lane and merge when safe.",
+      "official": false,
+      "ref": "Georgia Drivers Manual (DDS online edition, 2026), Section 8 'Safety Guidelines': 'Entering Expressways'"
+    },
+    {
+      "id": "ga-073",
+      "topic": "right-of-way",
+      "q": "Whose directions take priority over traffic lights and signs?",
+      "options": [
+        "The traffic signal always takes priority",
+        "Pedestrians",
+        "A law enforcement officer or firefighter directing traffic",
+        "The driver with the largest vehicle"
+      ],
+      "answer": 2,
+      "explain": "One of the three most basic laws: obey an officer or firefighter's directions even when they conflict with traffic control devices.",
+      "official": false,
+      "ref": "Georgia Drivers Manual (DDS online edition, 2026), Section 5 'Traffic Laws': '3 Most Basic Traffic Laws'"
+    },
+    {
+      "id": "ga-074",
+      "topic": "speed",
+      "q": "Unless another limit is posted, what is the maximum speed in an urban or residential district in Georgia?",
+      "options": [
+        "25 mph",
+        "35 mph",
+        "45 mph",
+        "30 mph"
+      ],
+      "answer": 3,
+      "explain": "Georgia's general limit in any urban or residential district is 30 mph unless posted otherwise.",
+      "official": false,
+      "ref": "Georgia Drivers Manual (DDS online edition, 2026), Section 5 'Traffic Laws': 'Speed Limits'"
+    },
+    {
+      "id": "ga-075",
+      "topic": "speed",
+      "q": "Unless otherwise posted, what is the speed limit on an unpaved county road in Georgia?",
+      "options": [
+        "35 mph",
+        "45 mph",
+        "25 mph",
+        "55 mph"
+      ],
+      "answer": 0,
+      "explain": "The general limit on an unpaved county road is 35 mph.",
+      "official": false,
+      "ref": "Georgia Drivers Manual (DDS online edition, 2026), Section 5 'Traffic Laws': 'Speed Limits'"
+    },
+    {
+      "id": "ga-076",
+      "topic": "speed",
+      "q": "What is the general maximum speed on a rural interstate in Georgia unless posted otherwise?",
+      "options": [
+        "60 mph",
+        "70 mph",
+        "75 mph",
+        "65 mph"
+      ],
+      "answer": 1,
+      "explain": "Georgia's general limit on rural interstates is 70 mph.",
+      "official": false,
+      "ref": "Georgia Drivers Manual (DDS online edition, 2026), Section 5 'Traffic Laws': 'Speed Limits'"
+    },
+    {
+      "id": "ga-077",
+      "topic": "speed",
+      "q": "Unless posted otherwise, what is the maximum speed on an urban interstate or a multi-lane divided highway in Georgia?",
+      "options": [
+        "65 mph",
+        "60 mph",
+        "55 mph",
+        "70 mph"
+      ],
+      "answer": 0,
+      "explain": "The general limit is 65 mph on urban interstates and multi-lane divided highways.",
+      "official": false,
+      "ref": "Georgia Drivers Manual (DDS online edition, 2026), Section 5 'Traffic Laws': 'Speed Limits'"
+    },
+    {
+      "id": "ga-078",
+      "topic": "speed",
+      "q": "Where no other limit applies or is posted, Georgia's default maximum speed is:",
+      "options": [
+        "65 mph",
+        "50 mph",
+        "55 mph",
+        "60 mph"
+      ],
+      "answer": 2,
+      "explain": "In all other areas not covered by a specific rule, the general limit is 55 mph.",
+      "official": false,
+      "ref": "Georgia Drivers Manual (DDS online edition, 2026), Section 5 'Traffic Laws': 'Speed Limits'"
+    },
+    {
+      "id": "ga-079",
+      "topic": "speed",
+      "q": "Georgia's 'Super Speeder' fee applies to a driver convicted of going:",
+      "options": [
+        "20 mph or more over any limit",
+        "75 mph or more on a two-lane road, or 85 mph or more on any road",
+        "65 mph or more on any road",
+        "80 mph or more on an interstate only"
+      ],
+      "answer": 1,
+      "explain": "Super Speeder applies to 75+ mph on a two-lane road or 85+ mph on any Georgia road.",
+      "official": false,
+      "ref": "Georgia Drivers Manual (DDS online edition, 2026), Section 5 'Traffic Laws': 'Super Speeder'"
+    },
+    {
+      "id": "ga-080",
+      "topic": "speed",
+      "q": "How much is Georgia's state Super Speeder fee, added to any local fine?",
+      "options": [
+        "$500",
+        "$50",
+        "$100",
+        "$200"
+      ],
+      "answer": 3,
+      "explain": "A $200 state fee is assessed in addition to local fines. Not paying on time leads to suspension and a $50 reinstatement fee.",
+      "official": false,
+      "ref": "Georgia Drivers Manual (DDS online edition, 2026), Section 5 'Traffic Laws': 'Super Speeder'"
+    },
+    {
+      "id": "ga-081",
+      "topic": "speed",
+      "q": "What happens if you do not pay the Super Speeder fee on time?",
+      "options": [
+        "You get 2 points only",
+        "Your license is suspended and an extra $50 reinstatement fee applies",
+        "The fee is waived after 90 days",
+        "Nothing; it is optional"
+      ],
+      "answer": 1,
+      "explain": "Failure to pay the state fee on time results in a license suspension and an additional $50 reinstatement fee.",
+      "official": false,
+      "ref": "Georgia Drivers Manual (DDS online edition, 2026), Section 5 'Traffic Laws': 'Super Speeder'"
+    },
+    {
+      "id": "ga-082",
+      "topic": "speed",
+      "q": "Which following-distance check does the Georgia manual recommend?",
+      "options": [
+        "Stay at least 50 feet back at all speeds",
+        "Keep the car ahead's rear tires visible",
+        "Keep one car length for every 20 mph",
+        "Count 'one-thousand-one, one-thousand-two' after the car ahead passes a fixed point"
+      ],
+      "answer": 3,
+      "explain": "Use a reference point and count two seconds; if you reach the point before you finish counting, you are too close.",
+      "official": false,
+      "ref": "Georgia Drivers Manual (DDS online edition, 2026), Section 8 'Safety Guidelines': 'Following Too Closely'"
+    },
+    {
+      "id": "ga-083",
+      "topic": "speed",
+      "q": "When should you leave more than the normal following distance?",
+      "options": [
+        "Only when following trucks",
+        "Only when your car is loaded",
+        "In bad weather, heavy traffic, construction and always at night",
+        "Only on interstates"
+      ],
+      "answer": 2,
+      "explain": "Increase the gap during inclement weather, construction, heavy traffic, and always at night.",
+      "official": false,
+      "ref": "Georgia Drivers Manual (DDS online edition, 2026), Section 8 'Safety Guidelines': 'Following Too Closely'"
+    },
+    {
+      "id": "ga-084",
+      "topic": "speed",
+      "q": "How much following distance should you allow behind a motorcycle?",
+      "options": [
+        "Three or four seconds",
+        "Half a second per 10 mph",
+        "One second",
+        "Two car lengths"
+      ],
+      "answer": 0,
+      "explain": "Allow more following distance, three or four seconds, so the rider can maneuver or stop in an emergency.",
+      "official": false,
+      "ref": "Georgia Drivers Manual (DDS online edition, 2026), Section 9 'Sharing the Road': 'Sharing the Road With Motorcycles: Following Too Close'"
+    },
+    {
+      "id": "ga-085",
+      "topic": "speed",
+      "q": "Georgia's law against driving too slowly can result in:",
+      "options": [
+        "A warning only",
+        "A fine up to $1,000 and/or 3 points",
+        "Loss of license for one year",
+        "A $25 fine with no points"
+      ],
+      "answer": 1,
+      "explain": "Impeding the normal flow of traffic, including staying in the passing lane when overtaken, can bring a fine up to $1,000 and/or 3 points.",
+      "official": false,
+      "ref": "Georgia Drivers Manual (DDS online edition, 2026), Section 5 'Traffic Laws': 'Driving Too Slowly'"
+    },
+    {
+      "id": "ga-086",
+      "topic": "speed",
+      "q": "If you cannot keep up with a posted minimum speed on a highway, you should:",
+      "options": [
+        "Turn on hazard lights and continue",
+        "Drive in the left lane",
+        "Drive on the shoulder",
+        "Use an alternate route"
+      ],
+      "answer": 3,
+      "explain": "Minimum speeds are posted on certain highways; if you cannot drive at the minimum, seek an alternate route.",
+      "official": false,
+      "ref": "Georgia Drivers Manual (DDS online edition, 2026), Section 5 'Traffic Laws': 'Driving Too Slowly'"
+    },
+    {
+      "id": "ga-087",
+      "topic": "speed",
+      "q": "Under Georgia's 'Slow Poke' law, a driver in the left (passing) lane who is being overtaken by faster traffic must:",
+      "options": [
+        "Move right to let faster traffic pass, regardless of their own speed",
+        "Brake to warn the driver behind",
+        "Speed up to match the faster vehicle",
+        "Stay in the lane if driving at the speed limit"
+      ],
+      "answer": 0,
+      "explain": "Slower drivers must move out of the passing lane when faster traffic approaches, whatever speed they are going, except in listed situations.",
+      "official": false,
+      "ref": "Georgia Drivers Manual (DDS online edition, 2026), Section 5 'Traffic Laws': 'Keep Right, Except to Pass'"
+    },
+    {
+      "id": "ga-088",
+      "topic": "speed",
+      "q": "Which is an exception to Georgia's 'keep right except to pass' rule?",
+      "options": [
+        "You prefer the left lane",
+        "It is nighttime",
+        "You must use the left lane to exit or turn left",
+        "You are driving at the speed limit"
+      ],
+      "answer": 2,
+      "explain": "Exceptions include traffic or weather conditions, exiting or turning left, paying a toll, and emergency or road-work vehicles.",
+      "official": false,
+      "ref": "Georgia Drivers Manual (DDS online edition, 2026), Section 5 'Traffic Laws': 'Keep Right, Except to Pass'"
+    },
+    {
+      "id": "ga-089",
+      "topic": "speed",
+      "q": "Disobeying a regulatory speed limit in a work zone can result in a fine of:",
+      "options": [
+        "Exactly $500",
+        "Up to $50",
+        "$100 to $2,000, up to 12 months in jail, or both",
+        "No fine, only points"
+      ],
+      "answer": 2,
+      "explain": "Work-zone speeding is a high and aggravated misdemeanor: a fine of $100 to $2,000 and/or up to 12 months imprisonment.",
+      "official": false,
+      "ref": "Georgia Drivers Manual (DDS online edition, 2026), Section 5 'Traffic Laws': 'Highway Work Zones: Reduce Your Speed'"
+    },
+    {
+      "id": "ga-090",
+      "topic": "speed",
+      "q": "In a work zone where no reduced speed limit is posted, you should:",
+      "options": [
+        "Obey the normal posted limit but drive with extra caution",
+        "Drive 10 mph below the limit by law",
+        "Drive at 45 mph",
+        "Drive at 25 mph"
+      ],
+      "answer": 0,
+      "explain": "If the limit is not reduced, obey the normal posted limit, but be more careful about conditions, lane position and workers.",
+      "official": false,
+      "ref": "Georgia Drivers Manual (DDS online edition, 2026), Section 5 'Traffic Laws': 'Highway Work Zones: Reduce Your Speed'"
+    },
+    {
+      "id": "ga-091",
+      "topic": "speed",
+      "q": "Black-on-orange advisory speed signs in a work zone:",
+      "options": [
+        "Apply only to trucks",
+        "Mean the work zone has ended",
+        "Set the legal maximum speed",
+        "Suggest a safe speed and are used with warning signs"
+      ],
+      "answer": 3,
+      "explain": "Advisory speeds are black and orange; official speed limit reductions use the standard black and white speed limit signs.",
+      "official": false,
+      "ref": "Georgia Drivers Manual (DDS online edition, 2026), Section 5 'Traffic Laws': 'Highway Work Zones: Reduce Your Speed'"
+    },
+    {
+      "id": "ga-092",
+      "topic": "speed",
+      "q": "To avoid 'overdriving' your headlights at night, you should:",
+      "options": [
+        "Follow another car's taillights closely",
+        "Drive slowly enough to stop within the distance your headlights light up",
+        "Use high beams at all times",
+        "Drive in the left lane"
+      ],
+      "answer": 1,
+      "explain": "Do not drive at a speed that needs more stopping distance than your headlights illuminate.",
+      "official": false,
+      "ref": "Georgia Drivers Manual (DDS online edition, 2026), Section 5 'Traffic Laws': 'Night Driving'"
+    },
+    {
+      "id": "ga-093",
+      "topic": "speed",
+      "q": "At about what speed can partial hydroplaning begin in a standard passenger car?",
+      "options": [
+        "65 mph",
+        "35 mph",
+        "15 mph",
+        "55 mph"
+      ],
+      "answer": 1,
+      "explain": "Partial hydroplaning can start at around 35 mph, and by 55 mph the tires can lose contact with the road entirely.",
+      "official": false,
+      "ref": "Georgia Drivers Manual (DDS online edition, 2026), Section 8 'Safety Guidelines': 'Hydroplaning'"
+    },
+    {
+      "id": "ga-094",
+      "topic": "speed",
+      "q": "If you realize you are going too fast in the middle of a curve, you should:",
+      "options": [
+        "Shift into neutral",
+        "Brake hard immediately",
+        "Ease off the accelerator, brake carefully, and keep steering in your lane",
+        "Accelerate through the curve"
+      ],
+      "answer": 2,
+      "explain": "Reduce speed before curves. If already in one too fast, take your foot off the gas, brake carefully and keep steering; hard braking may cause a skid.",
+      "official": false,
+      "ref": "Georgia Drivers Manual (DDS online edition, 2026), Section 8 'Safety Guidelines': 'Curves'"
+    },
+    {
+      "id": "ga-095",
+      "topic": "speed",
+      "q": "When a pedestrian is hit by a vehicle going 40 mph, the risk of death is about:",
+      "options": [
+        "About 50%",
+        "About 25%",
+        "About 10%",
+        "At least 80%"
+      ],
+      "answer": 3,
+      "explain": "The manual's vehicle speed chart shows at least an 80% risk of pedestrian death at 40 mph.",
+      "official": false,
+      "ref": "Georgia Drivers Manual (DDS online edition, 2026), Section 9 'Sharing the Road': 'Vehicle Speed'"
+    },
+    {
+      "id": "ga-096",
+      "topic": "speed",
+      "q": "Compared with a car, how much distance does a fully loaded tractor-trailer at 55 mph need to stop?",
+      "options": [
+        "About 3 times as much",
+        "About 10 times as much",
+        "About half as much",
+        "The same"
+      ],
+      "answer": 0,
+      "explain": "A fully loaded tractor-trailer at 55 mph needs about three times the distance a car needs to stop.",
+      "official": false,
+      "ref": "Georgia Drivers Manual (DDS online edition, 2026), Section 9 'Sharing the Road': 'Sharing the Road With Commercial Motor Vehicles'"
+    },
+    {
+      "id": "ga-097",
+      "topic": "turns",
+      "q": "When passing on a two-lane road, you must be completely back in the right lane before oncoming traffic comes within:",
+      "options": [
+        "50 feet",
+        "100 feet",
+        "200 feet",
+        "500 feet"
+      ],
+      "answer": 2,
+      "explain": "You need enough time and space to return to the right lane before oncoming traffic is within 200 feet of your vehicle.",
+      "official": false,
+      "ref": "Georgia Drivers Manual (DDS online edition, 2026), Section 5 'Traffic Laws': 'Passing: How To Pass On A Two-Lane Road'"
+    },
+    {
+      "id": "ga-098",
+      "topic": "turns",
+      "q": "On a two-lane road, passing is prohibited within how many feet of a railroad crossing?",
+      "options": [
+        "500 feet",
+        "100 feet",
+        "50 feet",
+        "200 feet"
+      ],
+      "answer": 1,
+      "explain": "Passing is not allowed within 100 feet of a railroad crossing.",
+      "official": false,
+      "ref": "Georgia Drivers Manual (DDS online edition, 2026), Section 5 'Traffic Laws': 'Passing is prohibited on two-lane roads'"
+    },
+    {
+      "id": "ga-099",
+      "topic": "turns",
+      "q": "On a two-lane road, you may not pass within 100 feet of:",
+      "options": [
+        "A bridge, viaduct or tunnel",
+        "A mailbox",
+        "A speed limit sign",
+        "A gas station"
+      ],
+      "answer": 0,
+      "explain": "Passing is prohibited within 100 feet of a bridge, viaduct or tunnel, and within 100 feet of a railroad crossing.",
+      "official": false,
+      "ref": "Georgia Drivers Manual (DDS online edition, 2026), Section 5 'Traffic Laws': 'Passing is prohibited on two-lane roads'"
+    },
+    {
+      "id": "ga-100",
+      "topic": "turns",
+      "q": "Which of these is a place where passing is NOT allowed on a two-lane road?",
+      "options": [
+        "On a straight road with a broken yellow line and clear view",
+        "When the vehicle ahead is going well below the limit with a clear road ahead",
+        "Where the line on your side is broken",
+        "On a hill or curve where you cannot see oncoming traffic"
+      ],
+      "answer": 3,
+      "explain": "You may not pass on a hill or curve where you cannot see oncoming vehicles that may be close enough to be a hazard.",
+      "official": false,
+      "ref": "Georgia Drivers Manual (DDS online edition, 2026), Section 5 'Traffic Laws': 'Passing is prohibited on two-lane roads'"
+    },
+    {
+      "id": "ga-101",
+      "topic": "turns",
+      "q": "Is it legal to pass another vehicle by driving on the shoulder?",
+      "options": [
+        "No, passing on the shoulder is prohibited",
+        "Yes, at speeds under 25 mph",
+        "Yes, if the car ahead is turning left",
+        "Yes, if the shoulder is paved"
+      ],
+      "answer": 0,
+      "explain": "Passing on the shoulder of the road is prohibited.",
+      "official": false,
+      "ref": "Georgia Drivers Manual (DDS online edition, 2026), Section 5 'Traffic Laws': 'Passing is prohibited on two-lane roads'"
+    },
+    {
+      "id": "ga-102",
+      "topic": "turns",
+      "q": "When may you pass another vehicle on the right?",
+      "options": [
+        "Never in Georgia",
+        "Whenever the car ahead is slow",
+        "When it is turning left and there is enough pavement, or on a road with two or more lanes in your direction",
+        "On the shoulder if it is paved"
+      ],
+      "answer": 2,
+      "explain": "Passing on the right is allowed beside a left-turning vehicle with enough pavement width, or on multi-lane roads going your way.",
+      "official": false,
+      "ref": "Georgia Drivers Manual (DDS online edition, 2026), Section 5 'Traffic Laws': 'Passing On The Right'"
+    },
+    {
+      "id": "ga-103",
+      "topic": "turns",
+      "q": "When you have finished passing, when should you return to the right lane?",
+      "options": [
+        "When the other driver flashes headlights",
+        "When you can see the passed vehicle in your rearview mirror",
+        "After counting one second",
+        "As soon as your front bumper clears it"
+      ],
+      "answer": 1,
+      "explain": "Do not return until you are safely clear; wait until you can see the car you passed in your rearview mirror, and signal right.",
+      "official": false,
+      "ref": "Georgia Drivers Manual (DDS online edition, 2026), Section 5 'Traffic Laws': 'Passing: How To Pass On A Two-Lane Road'"
+    },
+    {
+      "id": "ga-104",
+      "topic": "turns",
+      "q": "Another vehicle is passing you. What does the law say?",
+      "options": [
+        "You must speed up to help it pass faster",
+        "You must pull onto the shoulder",
+        "You must flash your lights",
+        "You must not speed up until it has completely passed"
+      ],
+      "answer": 3,
+      "explain": "It is unlawful to increase your speed before the overtaking vehicle has passed you completely; slowing slightly is courteous.",
+      "official": false,
+      "ref": "Georgia Drivers Manual (DDS online edition, 2026), Section 5 'Traffic Laws': 'When Someone Passes You'"
+    },
+    {
+      "id": "ga-105",
+      "topic": "turns",
+      "q": "Flashing your turn signal to tell a driver behind you that it is safe to pass is:",
+      "options": [
+        "Required by law",
+        "Recommended courtesy",
+        "Legal only on two-lane roads",
+        "Illegal in Georgia"
+      ],
+      "answer": 3,
+      "explain": "Georgia law forbids using your turn signals as a courtesy 'go ahead and pass' signal to drivers behind you.",
+      "official": false,
+      "ref": "Georgia Drivers Manual (DDS online edition, 2026), Section 5 'Traffic Laws': 'Illegal Signals'"
+    },
+    {
+      "id": "ga-106",
+      "topic": "turns",
+      "q": "Weaving from lane to lane to move faster than traffic is:",
+      "options": [
+        "Allowed if you signal each time",
+        "Allowed below 45 mph",
+        "Unlawful",
+        "Allowed on interstates"
+      ],
+      "answer": 2,
+      "explain": "It is unlawful to weave between lanes to move faster than the flow of traffic.",
+      "official": false,
+      "ref": "Georgia Drivers Manual (DDS online edition, 2026), Section 5 'Traffic Laws': 'Weaving'"
+    },
+    {
+      "id": "ga-107",
+      "topic": "turns",
+      "q": "When making a right turn, you should approach the turn:",
+      "options": [
+        "In the right lane, as close as practical to the curb or road edge",
+        "From the center of the road",
+        "From any lane if you signal",
+        "From the left lane"
+      ],
+      "answer": 0,
+      "explain": "Signal, then approach in the right lane close to the curb, and finish in the right lane of the new street.",
+      "official": false,
+      "ref": "Georgia Drivers Manual (DDS online edition, 2026), Section 5 'Traffic Laws': 'How To Make A Right Turn'"
+    },
+    {
+      "id": "ga-108",
+      "topic": "turns",
+      "q": "You are about to turn right across a bicycle lane. A cyclist is going straight through the intersection. You must:",
+      "options": [
+        "Honk to warn the cyclist",
+        "Yield to the cyclist before turning",
+        "Turn first since cars have priority",
+        "Speed up to turn ahead of the cyclist"
+      ],
+      "answer": 1,
+      "explain": "If there is a bicycle lane, yield to bicyclists going straight before making a right turn.",
+      "official": false,
+      "ref": "Georgia Drivers Manual (DDS online edition, 2026), Section 5 'Traffic Laws': 'How To Make A Right Turn'"
+    },
+    {
+      "id": "ga-109",
+      "topic": "turns",
+      "q": "While waiting to turn left, how should you keep your front wheels?",
+      "options": [
+        "It doesn't matter",
+        "Turned right toward the curb",
+        "Turned left so you are ready",
+        "Straight until you begin the turn"
+      ],
+      "answer": 3,
+      "explain": "Keep wheels straight; if hit from behind, turned wheels could push you into oncoming traffic.",
+      "official": false,
+      "ref": "Georgia Drivers Manual (DDS online edition, 2026), Section 5 'Traffic Laws': 'How To Make A Left Turn'"
+    },
+    {
+      "id": "ga-110",
+      "topic": "turns",
+      "q": "When turning left from a two-way street onto a multi-lane street, you should end the turn in:",
+      "options": [
+        "Any open lane",
+        "The lane closest to the center line in your direction",
+        "The far right lane",
+        "The center turn lane"
+      ],
+      "answer": 1,
+      "explain": "Finish a left turn in the lane closest to the center (or center line) in your direction on the new street.",
+      "official": false,
+      "ref": "Georgia Drivers Manual (DDS online edition, 2026), Section 5 'Traffic Laws': 'How To Make A Left Turn'"
+    },
+    {
+      "id": "ga-111",
+      "topic": "turns",
+      "q": "If there are two left-turn lanes, a driver in the second (outer) turn lane should finish the turn in:",
+      "options": [
+        "The right lane, then change lanes",
+        "Any lane that is open",
+        "The corresponding lane on the new street",
+        "The far left lane"
+      ],
+      "answer": 2,
+      "explain": "With multiple turning lanes, complete the turn into the corresponding lane on the street you are entering.",
+      "official": false,
+      "ref": "Georgia Drivers Manual (DDS online edition, 2026), Section 5 'Traffic Laws': 'How To Make A Left Turn'"
+    },
+    {
+      "id": "ga-112",
+      "topic": "turns",
+      "q": "Once you have entered an intersection to make a left turn, can you change lanes in the intersection?",
+      "options": [
+        "No",
+        "Yes, if you signal",
+        "Only on a green arrow",
+        "Yes, if no cars are near"
+      ],
+      "answer": 0,
+      "explain": "Once in the intersection to turn left, you may not change lanes within it.",
+      "official": false,
+      "ref": "Georgia Drivers Manual (DDS online edition, 2026), Section 5 'Traffic Laws': 'How To Make A Left Turn'"
+    },
+    {
+      "id": "ga-113",
+      "topic": "turns",
+      "q": "Where should you avoid making a U-turn?",
+      "options": [
+        "In an empty parking lot",
+        "At an intersection where it is allowed and safe",
+        "On a curve or near the top of a hill where others cannot see you",
+        "On a wide residential street with clear views"
+      ],
+      "answer": 2,
+      "explain": "Do not U-turn on a curve or near a hilltop where drivers from either direction cannot see you, or where signs prohibit it.",
+      "official": false,
+      "ref": "Georgia Drivers Manual (DDS online edition, 2026), Section 5 'Traffic Laws': 'U-Turns'"
+    },
+    {
+      "id": "ga-114",
+      "topic": "turns",
+      "q": "You must give a turn signal:",
+      "options": [
+        "Continuously for an adequate distance before every turn",
+        "Only on highways",
+        "Only when other cars are present",
+        "Only after you start turning"
+      ],
+      "answer": 0,
+      "explain": "A continuous turn signal must be given for an adequate distance before any right or left turn.",
+      "official": false,
+      "ref": "Georgia Drivers Manual (DDS online edition, 2026), Section 5 'Traffic Laws': 'Turn Signals and Making Turns Safely'"
+    },
+    {
+      "id": "ga-115",
+      "topic": "turns",
+      "q": "Which hand-and-arm signal means a left turn?",
+      "options": [
+        "Left arm bent upward",
+        "Right arm out the passenger window",
+        "Left arm bent downward",
+        "Left arm extended straight out"
+      ],
+      "answer": 3,
+      "explain": "A left turn is shown with the left arm straight out; arm up means right turn, arm down means stop or slow.",
+      "official": false,
+      "ref": "Georgia Drivers Manual (DDS online edition, 2026), Section 5 'Traffic Laws': 'Turn Signals and Making Turns Safely'"
+    },
+    {
+      "id": "ga-116",
+      "topic": "turns",
+      "q": "Which hand-and-arm signal means a right turn?",
+      "options": [
+        "Waving the left hand",
+        "Left arm bent upward at the elbow",
+        "Left arm pointing down",
+        "Left arm extended straight out"
+      ],
+      "answer": 1,
+      "explain": "Right turn: left arm bent up at the elbow. Stop or slow: left arm bent down.",
+      "official": false,
+      "ref": "Georgia Drivers Manual (DDS online edition, 2026), Section 5 'Traffic Laws': 'Turn Signals and Making Turns Safely'"
+    },
+    {
+      "id": "ga-117",
+      "topic": "turns",
+      "q": "A hand-and-arm signal with the left arm pointing downward means the driver is:",
+      "options": [
+        "Allowing you to pass",
+        "Turning right",
+        "Stopping or slowing down",
+        "Turning left"
+      ],
+      "answer": 2,
+      "explain": "The left arm bent downward signals a stop or a decrease in speed.",
+      "official": false,
+      "ref": "Georgia Drivers Manual (DDS online edition, 2026), Section 5 'Traffic Laws': 'Turn Signals and Making Turns Safely'"
+    },
+    {
+      "id": "ga-118",
+      "topic": "turns",
+      "q": "On a multi-lane two-way highway, when may you drive to the left of the center line?",
+      "options": [
+        "When traffic is heavy",
+        "When you are driving slowly",
+        "Whenever you are passing",
+        "Only when making a left turn or when signs or signals allow it"
+      ],
+      "answer": 3,
+      "explain": "On a multi-lane two-way highway you must never cross to the left of center except to turn left or when authorized by signals or signs.",
+      "official": false,
+      "ref": "Georgia Drivers Manual (DDS online edition, 2026), Section 5 'Traffic Laws': 'Making Turns on Multi-Lane Highways'"
+    },
+    {
+      "id": "ga-119",
+      "topic": "turns",
+      "q": "On a two-way road with four or more lanes and two solid yellow center lines, you may cross the center lines:",
+      "options": [
+        "Only to turn left into or from an alley, driveway, private road or street",
+        "To make a U-turn anywhere",
+        "Never",
+        "To pass slow vehicles"
+      ],
+      "answer": 0,
+      "explain": "Two solid yellow center lines on a four-plus-lane road may be crossed only when turning left into or out of a driveway, alley, private road or another street.",
+      "official": false,
+      "ref": "Georgia Drivers Manual (DDS online edition, 2026), Section 7 'Signs, Signals & Markings': 'Pavement Markings: Lane Lines'"
+    },
+    {
+      "id": "ga-120",
+      "topic": "turns",
+      "q": "When entering an expressway, the solid white lines of the 'gore' area between the acceleration lane and the travel lane:",
+      "options": [
+        "Mark a parking area",
+        "May not be crossed; stay in the acceleration lane until the line ends",
+        "Show where to stop and wait",
+        "May be crossed if traffic is light"
+      ],
+      "answer": 1,
+      "explain": "Drivers entering a controlled-access highway may not cross the solid white gore line and must continue in the acceleration lane until it disappears.",
+      "official": false,
+      "ref": "Georgia Drivers Manual (DDS online edition, 2026), Section 8 'Safety Guidelines': 'Gores'"
+    },
+    {
+      "id": "ga-121",
+      "topic": "turns",
+      "q": "To exit an expressway on the right, you should:",
+      "options": [
+        "Move into the right lane in advance and slow down in the deceleration lane",
+        "Stop on the shoulder and then exit",
+        "Cross several lanes at the last moment",
+        "Slow down sharply in the left lane"
+      ],
+      "answer": 0,
+      "explain": "Move to the right lane early for a right exit and use the deceleration lane to slow down.",
+      "official": false,
+      "ref": "Georgia Drivers Manual (DDS online edition, 2026), Section 8 'Safety Guidelines': 'Exiting Expressways'"
+    },
+    {
+      "id": "ga-122",
+      "topic": "turns",
+      "q": "If you miss your exit on an expressway, you should:",
+      "options": [
+        "Back up carefully on the shoulder",
+        "Continue to the next exit; never back up",
+        "Stop and wait for a gap to reverse",
+        "Make a U-turn through the median"
+      ],
+      "answer": 1,
+      "explain": "Backing up on a controlled-access roadway is prohibited under any circumstances, and crossing the median is unlawful except at authorized crossovers.",
+      "official": false,
+      "ref": "Georgia Drivers Manual (DDS online edition, 2026), Section 5 'Traffic Laws': 'Controlled-Access Roadways'"
+    },
+    {
+      "id": "ga-123",
+      "topic": "turns",
+      "q": "Before backing up, you should:",
+      "options": [
+        "Open the door and look down",
+        "Honk and back quickly",
+        "Rely on your mirrors only",
+        "Check all around and look over your right shoulder, not just in mirrors"
+      ],
+      "answer": 3,
+      "explain": "Check every side of the car first, then look back over your right shoulder as you reverse rather than relying on mirrors alone.",
+      "official": false,
+      "ref": "Georgia Drivers Manual (DDS online edition, 2026), Section 5 'Traffic Laws': 'Backing Up'"
+    },
+    {
+      "id": "ga-124",
+      "topic": "parking",
+      "q": "In Georgia, you may not park within how many feet of a fire hydrant?",
+      "options": [
+        "20 feet",
+        "30 feet",
+        "15 feet",
+        "10 feet"
+      ],
+      "answer": 2,
+      "explain": "Stopping or parking within 15 feet of a fire hydrant is limited to momentarily picking up or dropping off passengers.",
+      "official": false,
+      "ref": "Georgia Drivers Manual (DDS online edition, 2026), Section 5 'Traffic Laws': 'Stopping, Standing, and Parking'"
+    },
+    {
+      "id": "ga-125",
+      "topic": "parking",
+      "q": "How close may you park to a crosswalk at an intersection in Georgia?",
+      "options": [
+        "No closer than 20 feet",
+        "No closer than 15 feet",
+        "No closer than 50 feet",
+        "No closer than 10 feet"
+      ],
+      "answer": 0,
+      "explain": "Parking within 20 feet of a crosswalk at an intersection is not allowed (only momentary passenger pick-up or drop-off).",
+      "official": false,
+      "ref": "Georgia Drivers Manual (DDS online edition, 2026), Section 5 'Traffic Laws': 'Stopping, Standing, and Parking'"
+    },
+    {
+      "id": "ga-126",
+      "topic": "parking",
+      "q": "You may not park within how many feet of a stop sign, yield sign or traffic signal?",
+      "options": [
+        "50 feet",
+        "20 feet",
+        "15 feet",
+        "30 feet"
+      ],
+      "answer": 3,
+      "explain": "The limit is 30 feet from a stop sign, yield sign or traffic control signal.",
+      "official": false,
+      "ref": "Georgia Drivers Manual (DDS online edition, 2026), Section 5 'Traffic Laws': 'Stopping, Standing, and Parking'"
+    },
+    {
+      "id": "ga-127",
+      "topic": "parking",
+      "q": "You may not park within how many feet of a railroad crossing?",
+      "options": [
+        "15 feet",
+        "100 feet",
+        "50 feet",
+        "30 feet"
+      ],
+      "answer": 2,
+      "explain": "Parking within 50 feet of a railroad crossing is not allowed.",
+      "official": false,
+      "ref": "Georgia Drivers Manual (DDS online edition, 2026), Section 5 'Traffic Laws': 'Stopping, Standing, and Parking'"
+    },
+    {
+      "id": "ga-128",
+      "topic": "parking",
+      "q": "On the same side of the street as a fire station driveway, you may not park within:",
+      "options": [
+        "10 feet of the driveway",
+        "20 feet of the driveway",
+        "50 feet of the driveway",
+        "100 feet of the driveway"
+      ],
+      "answer": 1,
+      "explain": "Do not park within 20 feet of a fire station driveway (or within 75 feet of the spot across the street from it).",
+      "official": false,
+      "ref": "Georgia Drivers Manual (DDS online edition, 2026), Section 5 'Traffic Laws': 'Stopping, Standing, and Parking'"
+    },
+    {
+      "id": "ga-129",
+      "topic": "parking",
+      "q": "When parking on the opposite side of the street from a fire station driveway, you must stay at least:",
+      "options": [
+        "15 feet away",
+        "75 feet from the spot across from the driveway",
+        "20 feet away",
+        "30 feet away"
+      ],
+      "answer": 1,
+      "explain": "Across the street from a fire station driveway, keep at least 75 feet from the point directly opposite the driveway.",
+      "official": false,
+      "ref": "Georgia Drivers Manual (DDS online edition, 2026), Section 5 'Traffic Laws': 'Stopping, Standing, and Parking'"
+    },
+    {
+      "id": "ga-130",
+      "topic": "parking",
+      "q": "Where is stopping, standing or parking NOT allowed at any time?",
+      "options": [
+        "Along a curb 40 feet from a hydrant",
+        "In a marked parking space",
+        "On a bridge or overpass",
+        "In a driveway you own, off the street"
+      ],
+      "answer": 2,
+      "explain": "You may never stop, stand or park on a bridge, overpass, or in a tunnel, among other places.",
+      "official": false,
+      "ref": "Georgia Drivers Manual (DDS online edition, 2026), Section 5 'Traffic Laws': 'Stopping, Standing, and Parking'"
+    },
+    {
+      "id": "ga-131",
+      "topic": "parking",
+      "q": "Double parking (stopping on the street side of a parked vehicle) is:",
+      "options": [
+        "Allowed with hazard lights on",
+        "Allowed at night",
+        "Allowed for under 5 minutes",
+        "Never allowed"
+      ],
+      "answer": 3,
+      "explain": "Stopping, standing or parking on the street side of any parked vehicle is prohibited at all times.",
+      "official": false,
+      "ref": "Georgia Drivers Manual (DDS online edition, 2026), Section 5 'Traffic Laws': 'Stopping, Standing, and Parking'"
+    },
+    {
+      "id": "ga-132",
+      "topic": "parking",
+      "q": "Which of these places is a prohibited parking location at all times?",
+      "options": [
+        "On a crosswalk or sidewalk",
+        "In a public lot",
+        "In a marked space on a residential street",
+        "On the shoulder of your own private driveway"
+      ],
+      "answer": 0,
+      "explain": "Parking on a sidewalk, within an intersection, on a crosswalk, on railroad tracks, or on a controlled-access roadway is never allowed.",
+      "official": false,
+      "ref": "Georgia Drivers Manual (DDS online edition, 2026), Section 5 'Traffic Laws': 'Stopping, Standing, and Parking'"
+    },
+    {
+      "id": "ga-133",
+      "topic": "parking",
+      "q": "If your vehicle breaks down on a highway, you should try to park it off the road so that it can be seen from:",
+      "options": [
+        "50 feet behind",
+        "100 feet ahead",
+        "500 feet in each direction",
+        "200 feet in each direction"
+      ],
+      "answer": 3,
+      "explain": "Get a disabled vehicle off the highway if at all possible, leaving traffic room to pass and keeping it visible from 200 feet away in both directions.",
+      "official": false,
+      "ref": "Georgia Drivers Manual (DDS online edition, 2026), Section 5 'Traffic Laws': 'Stopping, Standing, and Parking'"
+    },
+    {
+      "id": "ga-134",
+      "topic": "parking",
+      "q": "When you parallel park, you should begin by stopping beside the car in front of the space about how far from it?",
+      "options": [
+        "About 5 feet",
+        "About 2 feet",
+        "About 8 feet",
+        "About 6 inches"
+      ],
+      "answer": 1,
+      "explain": "Pull up even with the car ahead of the space, about 2 feet away, before backing in.",
+      "official": false,
+      "ref": "Georgia Drivers Manual (DDS online edition, 2026), Section 5 'Traffic Laws': 'Steps to Parallel Parking'"
+    },
+    {
+      "id": "ga-135",
+      "topic": "parking",
+      "q": "On the Georgia road test, a parallel-parked car must be no more than how far from the curb?",
+      "options": [
+        "12 inches",
+        "6 inches",
+        "18 inches",
+        "24 inches"
+      ],
+      "answer": 2,
+      "explain": "For the road test you must park midway between the standards and not more than 18 inches from the curb.",
+      "official": false,
+      "ref": "Georgia Drivers Manual (DDS online edition, 2026), Section 3 'Testing Information': 'Road Test For Class C or D'"
+    },
+    {
+      "id": "ga-136",
+      "topic": "parking",
+      "q": "You may not park a vehicle within how many feet of a fire truck stopped in answer to a fire alarm?",
+      "options": [
+        "500 feet",
+        "50 feet",
+        "100 feet",
+        "200 feet"
+      ],
+      "answer": 0,
+      "explain": "Do not park within 500 feet of fire apparatus stopped in answer to an alarm.",
+      "official": false,
+      "ref": "Georgia Drivers Manual (DDS online edition, 2026), Section 5 'Traffic Laws': 'Following Emergency Vehicles'"
+    },
+    {
+      "id": "ga-137",
+      "topic": "parking",
+      "q": "Before opening your car door on the traffic side, you must:",
+      "options": [
+        "Make sure it is safe and will not interfere with traffic, including bicyclists",
+        "Turn on your hazard lights",
+        "Sound your horn",
+        "Signal left"
+      ],
+      "answer": 0,
+      "explain": "Opening a door on the traffic side is prohibited unless it is safe and does not interfere with other traffic, including cyclists near parked cars.",
+      "official": false,
+      "ref": "Georgia Drivers Manual (DDS online edition, 2026), Section 5 'Traffic Laws': 'Opening Vehicle Doors'"
+    },
+    {
+      "id": "ga-138",
+      "topic": "sharing",
+      "q": "What is the minimum space Georgia law requires when passing a bicyclist?",
+      "options": [
+        "5 feet",
+        "6 feet",
+        "2 feet",
+        "3 feet"
+      ],
+      "answer": 3,
+      "explain": "If you cannot move to a non-adjacent lane, you must pass with at least three feet between your vehicle and the bicycle.",
+      "official": false,
+      "ref": "Georgia Drivers Manual (DDS online edition, 2026), Section 9 'Sharing the Road': 'Important Reminders Concerning Bicycle Riders'"
+    },
+    {
+      "id": "ga-139",
+      "topic": "sharing",
+      "q": "If you cannot change lanes to pass a bicyclist, how fast may you go when passing?",
+      "options": [
+        "The posted speed limit",
+        "5 mph under the posted limit",
+        "At least 10 mph under the posted limit or 25 mph, whichever is more",
+        "No more than 15 mph"
+      ],
+      "answer": 2,
+      "explain": "Slow to a speed at least 10 mph below the limit or 25 mph, whichever is greater, and keep 3 feet of space.",
+      "official": false,
+      "ref": "Georgia Drivers Manual (DDS online edition, 2026), Section 9 'Sharing the Road': 'Important Reminders Concerning Bicycle Riders'"
+    },
+    {
+      "id": "ga-140",
+      "topic": "sharing",
+      "q": "Violating Georgia's safe-passing law for bicycles is a misdemeanor with a fine of up to:",
+      "options": [
+        "$2,000",
+        "$250",
+        "$1,000",
+        "$50"
+      ],
+      "answer": 1,
+      "explain": "A violation of the bicycle passing law is punishable by a fine up to $250.",
+      "official": false,
+      "ref": "Georgia Drivers Manual (DDS online edition, 2026), Section 9 'Sharing the Road': 'Important Reminders Concerning Bicycle Riders'"
+    },
+    {
+      "id": "ga-141",
+      "topic": "sharing",
+      "q": "On which roads in Georgia are bicyclists NOT allowed?",
+      "options": [
+        "Interstates and interstate-like limited-access highways",
+        "Two-lane rural roads",
+        "City streets",
+        "Roads without bike lanes"
+      ],
+      "answer": 0,
+      "explain": "Bicyclists may use every Georgia road except interstates and limited-access highways.",
+      "official": false,
+      "ref": "Georgia Drivers Manual (DDS online edition, 2026), Section 9 'Sharing the Road': 'Sharing the Road With Bicycles'"
+    },
+    {
+      "id": "ga-142",
+      "topic": "sharing",
+      "q": "A bicyclist is riding in the middle of the lane even though a bike lane is nearby. This is:",
+      "options": [
+        "Illegal unless the cyclist is turning",
+        "Legal only on weekends",
+        "Legal; cyclists may use the full lane and are not required to use the bike lane",
+        "Illegal; cyclists must use the bike lane"
+      ],
+      "answer": 2,
+      "explain": "Georgia law allows bicyclists to use the full lane, and they are not required to ride in a bike lane even when one exists.",
+      "official": false,
+      "ref": "Georgia Drivers Manual (DDS online edition, 2026), Section 9 'Sharing the Road': 'Sharing the Road With Bicycles'"
+    },
+    {
+      "id": "ga-143",
+      "topic": "sharing",
+      "q": "May a car drive or park in a bicycle lane?",
+      "options": [
+        "Yes, at night",
+        "Yes, if no bicycles are present",
+        "Yes, for up to 5 minutes",
+        "No, except to cross it to make a turn, yielding to bicyclists"
+      ],
+      "answer": 3,
+      "explain": "Motorists may not drive or park in a bike lane except to cross it for a turn, and must yield to cyclists when doing so.",
+      "official": false,
+      "ref": "Georgia Drivers Manual (DDS online edition, 2026), Section 7 'Signs, Signals & Markings': 'Pavement Markings: Bicycle Lanes'"
+    },
+    {
+      "id": "ga-144",
+      "topic": "sharing",
+      "q": "You meet a bicyclist at night while your high beams are on. You should:",
+      "options": [
+        "Honk to warn the cyclist",
+        "Dim your headlights",
+        "Keep high beams on so the cyclist can see",
+        "Flash your lights"
+      ],
+      "answer": 1,
+      "explain": "Dim your lights for an oncoming bicyclist to avoid blinding the rider.",
+      "official": false,
+      "ref": "Georgia Drivers Manual (DDS online edition, 2026), Section 9 'Sharing the Road': 'Important Reminders Concerning Bicycle Riders'"
+    },
+    {
+      "id": "ga-145",
+      "topic": "sharing",
+      "q": "Where is a bicycle lane placed when there is a right-turn-only lane?",
+      "options": [
+        "To the left of the right-turn-only lane",
+        "On the sidewalk",
+        "In the center of the road",
+        "To the right of the turn lane, next to the curb"
+      ],
+      "answer": 0,
+      "explain": "With a right-turn-only lane, the bike lane is to its left so straight-through cyclists are not in the turning path.",
+      "official": false,
+      "ref": "Georgia Drivers Manual (DDS online edition, 2026), Section 7 'Signs, Signals & Markings': 'Pavement Markings: Bicycle Lanes'"
+    },
+    {
+      "id": "ga-146",
+      "topic": "sharing",
+      "q": "When passing a motorcyclist, you must:",
+      "options": [
+        "Honk as you pass",
+        "Pass on the right shoulder",
+        "Pass within the same lane if there is room",
+        "Pass using the adjacent lane and never share the motorcycle's lane"
+      ],
+      "answer": 3,
+      "explain": "A motorcycle is entitled to the full width of a lane; drivers may not occupy the same lane while passing.",
+      "official": false,
+      "ref": "Georgia Drivers Manual (DDS online edition, 2026), Section 5 'Traffic Laws': 'Passing Motorcyclists'"
+    },
+    {
+      "id": "ga-147",
+      "topic": "sharing",
+      "q": "Why might a motorcyclist change position within a lane?",
+      "options": [
+        "To show off",
+        "Because they want you to pass in the same lane",
+        "To be seen more easily or avoid road hazards",
+        "Because they are about to stop"
+      ],
+      "answer": 2,
+      "explain": "Riders adjust lane position for visibility and to avoid debris, potholes and other hazards, not to be reckless.",
+      "official": false,
+      "ref": "Georgia Drivers Manual (DDS online edition, 2026), Section 9 'Sharing the Road': 'Sharing the Road With Motorcycles: Allow a Full Lane'"
+    },
+    {
+      "id": "ga-148",
+      "topic": "sharing",
+      "q": "Where are car-motorcycle crashes most likely to happen?",
+      "options": [
+        "On straight interstates",
+        "At intersections",
+        "On bridges",
+        "In parking lots"
+      ],
+      "answer": 1,
+      "explain": "Intersections are the most likely place, usually because a driver fails to see the motorcycle and turns into its path.",
+      "official": false,
+      "ref": "Georgia Drivers Manual (DDS online edition, 2026), Section 9 'Sharing the Road': 'Sharing the Road With Motorcycles: Intersections'"
+    },
+    {
+      "id": "ga-149",
+      "topic": "sharing",
+      "q": "A motorcycle's turn signal is flashing as it approaches an intersection. You should:",
+      "options": [
+        "Honk to confirm",
+        "Flash your lights",
+        "Wait to be sure the rider is actually turning before you proceed",
+        "Assume it is turning and pull out"
+      ],
+      "answer": 2,
+      "explain": "Motorcycle signals may not self-cancel; do not assume the rider will turn until the maneuver has clearly started.",
+      "official": false,
+      "ref": "Georgia Drivers Manual (DDS online edition, 2026), Section 9 'Sharing the Road': 'Sharing the Road With Motorcycles: Intersections'"
+    },
+    {
+      "id": "ga-150",
+      "topic": "sharing",
+      "q": "If you cannot see a truck driver's face in the truck's side mirror:",
+      "options": [
+        "The truck driver cannot see you",
+        "You are in the best place to pass",
+        "The driver can see you through the rear window",
+        "You are at a safe distance"
+      ],
+      "answer": 0,
+      "explain": "Trucks have large side No-Zones; if you can't see the driver's face in the mirror, the driver can't see you.",
+      "official": false,
+      "ref": "Georgia Drivers Manual (DDS online edition, 2026), Section 9 'Sharing the Road': 'Sharing the Road With Commercial Motor Vehicles'"
+    },
+    {
+      "id": "ga-151",
+      "topic": "sharing",
+      "q": "Which side No-Zone of a truck is especially dangerous?",
+      "options": [
+        "The left side only",
+        "The right side, because trucks make wide right turns",
+        "The front bumper",
+        "There are no side blind spots on trucks"
+      ],
+      "answer": 1,
+      "explain": "Trucks and buses swing wide to make right turns, so their right-side blind spot is the most dangerous place to be.",
+      "official": false,
+      "ref": "Georgia Drivers Manual (DDS online edition, 2026), Section 9 'Sharing the Road': 'Sharing the Road With Commercial Motor Vehicles'"
+    },
+    {
+      "id": "ga-152",
+      "topic": "sharing",
+      "q": "After passing a large truck, it is safe to move back in front of it when:",
+      "options": [
+        "Your rear bumper clears its front bumper",
+        "You are one car length ahead",
+        "The truck flashes its lights",
+        "You can see the entire front of the truck in your rearview mirror"
+      ],
+      "answer": 3,
+      "explain": "To avoid the Front No-Zone, make sure you can see the whole front of the truck in your rearview mirror before pulling in.",
+      "official": false,
+      "ref": "Georgia Drivers Manual (DDS online edition, 2026), Section 9 'Sharing the Road': 'Sharing the Road With Commercial Motor Vehicles'"
+    },
+    {
+      "id": "ga-153",
+      "topic": "sharing",
+      "q": "Why is following a large truck closely dangerous?",
+      "options": [
+        "Trucks stop faster than cars",
+        "It is only dangerous at night",
+        "It improves your fuel mileage, which is safe",
+        "The truck has a big rear blind spot and blocks your view of traffic ahead"
+      ],
+      "answer": 3,
+      "explain": "Trucks have huge rear No-Zones and no rearview mirror; tailgating also hides traffic ahead from you.",
+      "official": false,
+      "ref": "Georgia Drivers Manual (DDS online edition, 2026), Section 9 'Sharing the Road': 'Sharing the Road With Commercial Motor Vehicles'"
+    },
+    {
+      "id": "ga-154",
+      "topic": "sharing",
+      "q": "Georgia's TACT guidance suggests, when pulling in front of a truck, leaving at least:",
+      "options": [
+        "One car length for every 10 mph of speed",
+        "Ten feet",
+        "Half a car length per 10 mph",
+        "One car length at any speed"
+      ],
+      "answer": 0,
+      "explain": "Don't cut off commercial vehicles; one car length for every 10 mph of speed is recommended.",
+      "official": false,
+      "ref": "Georgia Drivers Manual (DDS online edition, 2026), Section 9 'Sharing the Road': 'Sharing the Road With Commercial Motor Vehicles'"
+    },
+    {
+      "id": "ga-155",
+      "topic": "sharing",
+      "q": "Under Georgia's Move Over law, when you approach an emergency, sanitation or utility vehicle stopped on the shoulder with flashing lights, you must:",
+      "options": [
+        "Maintain speed and stay in your lane",
+        "Move over a lane if safe; if not, slow below the speed limit and be ready to stop",
+        "Stop in your lane until it leaves",
+        "Honk to warn the workers"
+      ],
+      "answer": 1,
+      "explain": "Move to the next lane if safely possible; if you cannot, slow down below the speed limit and be prepared to stop.",
+      "official": false,
+      "ref": "Georgia Drivers Manual (DDS online edition, 2026), Section 5 'Traffic Laws': 'The \"Move Over\" Law'"
+    },
+    {
+      "id": "ga-156",
+      "topic": "sharing",
+      "q": "The maximum fine for a first violation of Georgia's Move Over law is:",
+      "options": [
+        "$1,000",
+        "$100",
+        "$500",
+        "$250"
+      ],
+      "answer": 2,
+      "explain": "A first Move Over violation can bring a fine of no more than $500.",
+      "official": false,
+      "ref": "Georgia Drivers Manual (DDS online edition, 2026), Section 5 'Traffic Laws': 'The \"Move Over\" Law'"
+    },
+    {
+      "id": "ga-157",
+      "topic": "sharing",
+      "q": "You approach a postal vehicle or active sanitation truck with flashing lights and cannot change lanes. You must:",
+      "options": [
+        "Slow to at least 10 mph under the limit or 25 mph, whichever is more, and be ready to stop",
+        "Stop completely until it moves",
+        "Use the center turn lane to pass",
+        "Pass at the posted limit"
+      ],
+      "answer": 0,
+      "explain": "If a lane change is not possible, reduce to at least 10 mph below the limit or 25 mph, whichever is greater, and prepare to stop.",
+      "official": false,
+      "ref": "Georgia Drivers Manual (DDS online edition, 2026), Section 5 'Traffic Laws': 'Passing a Postal Carrier or Sanitation Workers'"
+    },
+    {
+      "id": "ga-158",
+      "topic": "sharing",
+      "q": "When stopping at a crosswalk on a multi-lane road, how far back should you stop so drivers in other lanes can see the pedestrian?",
+      "options": [
+        "50 feet before the crosswalk",
+        "At least 2 feet before the crosswalk",
+        "Right on the crosswalk line",
+        "At least 10 feet before the crosswalk"
+      ],
+      "answer": 3,
+      "explain": "On a multi-lane road, stop 10 feet or more back from the crosswalk so drivers in the next lane can still see the pedestrian.",
+      "official": false,
+      "ref": "Georgia Drivers Manual (DDS online edition, 2026), Section 9 'Sharing the Road': 'Passing Stopped Cars in Lanes of Travel'"
+    },
+    {
+      "id": "ga-159",
+      "topic": "sharing",
+      "q": "When turning right on red, after looking left for a gap in traffic, you should also:",
+      "options": [
+        "Accelerate quickly",
+        "Move into the crosswalk to see better",
+        "Look right to make sure no pedestrian is crossing in front of you",
+        "Honk to warn pedestrians"
+      ],
+      "answer": 2,
+      "explain": "Stop before the crosswalk, check left for traffic, then look to your passenger side for pedestrians before turning.",
+      "official": false,
+      "ref": "Georgia Drivers Manual (DDS online edition, 2026), Section 9 'Sharing the Road': 'Turning Right at a Red Traffic Signal'"
+    },
+    {
+      "id": "ga-160",
+      "topic": "sharing",
+      "q": "When leaving a driveway or parking garage that crosses a sidewalk, you must:",
+      "options": [
+        "Sound your horn and drive out",
+        "Stop before the sidewalk and go only after pedestrians have passed",
+        "Drive slowly across without stopping",
+        "Stop only at the street"
+      ],
+      "answer": 1,
+      "explain": "Drivers exiting or entering driveways, alleys or garages must stop before the sidewalk area and let pedestrians pass.",
+      "official": false,
+      "ref": "Georgia Drivers Manual (DDS online edition, 2026), Section 9 'Sharing the Road': 'Exiting and Entering Driveways'"
+    },
+    {
+      "id": "ga-161",
+      "topic": "sharing",
+      "q": "Drivers of trucks or vehicles pulling trailers outside business or residential districts must:",
+      "options": [
+        "Drive below 45 mph",
+        "Leave enough space so an overtaking vehicle can safely move in between them",
+        "Stay in the left lane",
+        "Travel close together in a group"
+      ],
+      "answer": 1,
+      "explain": "Trucks and trailers must leave sufficient space between each other; 'caravanning' is prohibited.",
+      "official": false,
+      "ref": "Georgia Drivers Manual (DDS online edition, 2026), Section 5 'Traffic Laws': 'Trucks and Vehicles Pulling Trailers'"
+    },
+    {
+      "id": "ga-162",
+      "topic": "sharing",
+      "q": "Can passengers ride in a house trailer while it is being towed on a Georgia highway?",
+      "options": [
+        "Yes, if they are adults",
+        "Yes, below 45 mph",
+        "Yes, if they wear seat belts",
+        "No, it is not allowed"
+      ],
+      "answer": 3,
+      "explain": "Riding in a house trailer or any towed trailer on a street or highway is not allowed.",
+      "official": false,
+      "ref": "Georgia Drivers Manual (DDS online edition, 2026), Section 5 'Traffic Laws': 'Riding in Trailers'"
+    },
+    {
+      "id": "ga-163",
+      "topic": "sharing",
+      "q": "What is the maximum trailer width allowed on Georgia highways?",
+      "options": [
+        "10 feet",
+        "7 feet",
+        "8 feet, 6 inches",
+        "12 feet"
+      ],
+      "answer": 2,
+      "explain": "Georgia does not allow trailers more than 8 feet 6 inches wide on its highways.",
+      "official": false,
+      "ref": "Georgia Drivers Manual (DDS online edition, 2026), Section 5 'Traffic Laws': 'Trucks and Vehicles Pulling Trailers'"
+    },
+    {
+      "id": "ga-164",
+      "topic": "sharing",
+      "q": "You may not follow a fire truck responding to an alarm closer than:",
+      "options": [
+        "200 feet",
+        "500 feet",
+        "50 feet",
+        "100 feet"
+      ],
+      "answer": 0,
+      "explain": "Unless on official business, do not follow fire apparatus or other emergency vehicles responding to an emergency closer than 200 feet.",
+      "official": false,
+      "ref": "Georgia Drivers Manual (DDS online edition, 2026), Section 5 'Traffic Laws': 'Following Emergency Vehicles'"
+    },
+    {
+      "id": "ga-165",
+      "topic": "sharing",
+      "q": "A flagger in a work zone signals you to stop. The flagger's signal has:",
+      "options": [
+        "Less authority than a warning sign",
+        "No legal force",
+        "The same authority as a regulatory sign",
+        "Authority only over trucks"
+      ],
+      "answer": 2,
+      "explain": "A flagger directing traffic in a work zone carries the same legal weight as a regulatory sign, so you must follow the flagger's signals.",
+      "official": false,
+      "ref": "Georgia Drivers Manual (DDS online edition, 2026), Section 5 'Traffic Laws': 'Highway Work Zones: Obey Flaggers'"
+    },
+    {
+      "id": "ga-166",
+      "topic": "sharing",
+      "q": "Slow mobile work vehicles (such as paint stripers) with flashing amber lights may travel at about:",
+      "options": [
+        "The posted limit",
+        "25 mph; pass on the shoulder",
+        "45 mph; pass them freely",
+        "5 mph; slow down, yield, and follow their directions"
+      ],
+      "answer": 3,
+      "explain": "Mobile work vehicles usually move very slowly, such as 5 mph; slow down, yield and follow any displayed directions.",
+      "official": false,
+      "ref": "Georgia Drivers Manual (DDS online edition, 2026), Section 5 'Traffic Laws': 'Highway Work Zones: Yield to Mobile Work Vehicles'"
+    },
+    {
+      "id": "ga-167",
+      "topic": "sharing",
+      "q": "When workers are close to an open lane in a work zone, you should:",
+      "options": [
+        "Speed up to pass quickly",
+        "Change lanes away from them or shift within your lane to add space",
+        "Honk to alert them",
+        "Drive closer to the workers to avoid the cones"
+      ],
+      "answer": 1,
+      "explain": "Move away from workers when lanes are narrowed, or shift within your lane to give them more room.",
+      "official": false,
+      "ref": "Georgia Drivers Manual (DDS online edition, 2026), Section 5 'Traffic Laws': 'Highway Work Zones: Adjust Your Lane Position'"
+    },
+    {
+      "id": "ga-168",
+      "topic": "sharing",
+      "q": "Which vehicles may use Georgia HOV lanes?",
+      "options": [
+        "Vehicles with more than one occupant, buses, motorcycles and AFV-plated vehicles",
+        "Only trucks",
+        "Only buses",
+        "Any vehicle at any time"
+      ],
+      "answer": 0,
+      "explain": "HOV lanes are restricted to vehicles with more than one occupant, buses, motorcycles and Alternative Fuel Vehicles with proper plates.",
+      "official": false,
+      "ref": "Georgia Drivers Manual (DDS online edition, 2026), Section 8 'Safety Guidelines': 'HOV Lanes'"
+    },
+    {
+      "id": "ga-169",
+      "topic": "safety",
+      "q": "Between what times must you use your headlights in Georgia?",
+      "options": [
+        "From sunset to sunrise only",
+        "Only between midnight and 5 a.m.",
+        "From one hour after sunset to one hour before sunrise",
+        "From one-half hour after sunset to one-half hour before sunrise"
+      ],
+      "answer": 3,
+      "explain": "Headlights are required from half an hour after sunset to half an hour before sunrise, any time it is raining, and when visibility is limited.",
+      "official": false,
+      "ref": "Georgia Drivers Manual (DDS online edition, 2026), Section 5 'Traffic Laws': 'Use Headlights Properly'"
+    },
+    {
+      "id": "ga-170",
+      "topic": "safety",
+      "q": "Georgia law requires headlights whenever:",
+      "options": [
+        "It is raining",
+        "You carry passengers",
+        "You drive over 45 mph",
+        "You are on an interstate"
+      ],
+      "answer": 0,
+      "explain": "You must use your headlights any time it is raining, as well as at night and when visibility is limited.",
+      "official": false,
+      "ref": "Georgia Drivers Manual (DDS online edition, 2026), Section 5 'Traffic Laws': 'Use Headlights Properly'"
+    },
+    {
+      "id": "ga-171",
+      "topic": "safety",
+      "q": "You must dim your high beams when an oncoming vehicle is within:",
+      "options": [
+        "100 feet",
+        "500 feet",
+        "200 feet",
+        "1,000 feet"
+      ],
+      "answer": 1,
+      "explain": "Dim your headlights within 500 feet of an approaching vehicle so you do not blind its driver.",
+      "official": false,
+      "ref": "Georgia Drivers Manual (DDS online edition, 2026), Section 5 'Traffic Laws': 'Use Headlights Properly'"
+    },
+    {
+      "id": "ga-172",
+      "topic": "safety",
+      "q": "You should use low beams when following another vehicle within:",
+      "options": [
+        "500 feet",
+        "50 feet",
+        "200 feet",
+        "1,000 feet"
+      ],
+      "answer": 2,
+      "explain": "Dim your lights when following closely, within 200 feet, behind another vehicle.",
+      "official": false,
+      "ref": "Georgia Drivers Manual (DDS online edition, 2026), Section 5 'Traffic Laws': 'Use Headlights Properly'"
+    },
+    {
+      "id": "ga-173",
+      "topic": "safety",
+      "q": "When driving in heavy fog, you should:",
+      "options": [
+        "Use only parking lights",
+        "Use high beams to see farther",
+        "Slow down and use low-beam headlights",
+        "Drive with hazard lights on"
+      ],
+      "answer": 2,
+      "explain": "High beams cause glare in fog. Reduce speed, dim headlights, and do not drive with parking or hazard lights on.",
+      "official": false,
+      "ref": "Georgia Drivers Manual (DDS online edition, 2026), Section 8 'Safety Guidelines': 'Fog'"
+    },
+    {
+      "id": "ga-174",
+      "topic": "safety",
+      "q": "If your car starts to skid, you should first:",
+      "options": [
+        "Shift into park",
+        "Ease off the accelerator and steer in the direction of the skid",
+        "Brake hard",
+        "Steer the opposite way of the skid"
+      ],
+      "answer": 1,
+      "explain": "Take your foot off the gas and steer in the direction of the skid; once in control, brake lightly and steer to safety.",
+      "official": false,
+      "ref": "Georgia Drivers Manual (DDS online edition, 2026), Section 8 'Safety Guidelines': 'Skidding'"
+    },
+    {
+      "id": "ga-175",
+      "topic": "safety",
+      "q": "Why is the first half-hour of rain especially dangerous?",
+      "options": [
+        "Tires get warmer",
+        "Drivers turn on their wipers",
+        "Visibility is always perfect",
+        "Water mixes with oil on the road and makes it very slippery"
+      ],
+      "answer": 3,
+      "explain": "The first half-hour of rain is most dangerous because water mixes with oil and chemicals on the pavement.",
+      "official": false,
+      "ref": "Georgia Drivers Manual (DDS online edition, 2026), Section 8 'Safety Guidelines': 'Skidding'"
+    },
+    {
+      "id": "ga-176",
+      "topic": "safety",
+      "q": "If your car begins to hydroplane, you should:",
+      "options": [
+        "Take your foot off the accelerator and let the car slow down",
+        "Steer sharply to the shoulder",
+        "Accelerate to regain traction",
+        "Brake hard"
+      ],
+      "answer": 0,
+      "explain": "When hydroplaning, ease off the accelerator and let the car slow; slowing down on wet roads helps prevent it.",
+      "official": false,
+      "ref": "Georgia Drivers Manual (DDS online edition, 2026), Section 8 'Safety Guidelines': 'Hydroplaning'"
+    },
+    {
+      "id": "ga-177",
+      "topic": "safety",
+      "q": "If your wheels drift off the pavement onto the shoulder, you should:",
+      "options": [
+        "Ease off the gas, brake gently, and return to the road only when slowed and safe",
+        "Speed up and steer back",
+        "Brake hard immediately",
+        "Jerk the wheel to get back on quickly"
+      ],
+      "answer": 0,
+      "explain": "Don't panic or overcorrect. Slow down, check traffic, then return carefully; jerking the wheel can cause a skid or rollover.",
+      "official": false,
+      "ref": "Georgia Drivers Manual (DDS online edition, 2026), Section 8 'Safety Guidelines': 'Leaving the Roadway'"
+    },
+    {
+      "id": "ga-178",
+      "topic": "safety",
+      "q": "Where should your hands generally be on the steering wheel?",
+      "options": [
+        "One hand at the bottom",
+        "At 10 and 2 with thumbs inside the wheel",
+        "At 12 o'clock with one hand",
+        "At about 9 o'clock and 3 o'clock (or 8 and 4 if the manufacturer recommends)"
+      ],
+      "answer": 3,
+      "explain": "The manual recommends 9 and 3; some manufacturers suggest 8 and 4 with air bags.",
+      "official": false,
+      "ref": "Georgia Drivers Manual (DDS online edition, 2026), Section 8 'Safety Guidelines': 'Steering'"
+    },
+    {
+      "id": "ga-179",
+      "topic": "safety",
+      "q": "Using the 'penny test,' your tire tread is too worn when:",
+      "options": [
+        "The penny touches the rim",
+        "Part of Lincoln's head is covered",
+        "You can see all of Lincoln's head",
+        "The penny fits tightly in the groove"
+      ],
+      "answer": 2,
+      "explain": "If any part of Lincoln's head is covered, tread is adequate; below about 2/32 inch, grip is greatly reduced.",
+      "official": false,
+      "ref": "Georgia Drivers Manual (DDS online edition, 2026), Section 8 'Safety Guidelines': 'Tire Pressure'"
+    },
+    {
+      "id": "ga-180",
+      "topic": "safety",
+      "q": "Symptoms of carbon monoxide poisoning include:",
+      "options": [
+        "Sneezing and itchy eyes",
+        "Sudden weariness, yawning, dizziness and nausea",
+        "Fever and rash",
+        "Hunger and thirst"
+      ],
+      "answer": 1,
+      "explain": "Carbon monoxide is odorless and colorless; signs include sudden weariness, yawning, dizziness and nausea.",
+      "official": false,
+      "ref": "Georgia Drivers Manual (DDS online edition, 2026), Section 8 'Safety Guidelines': 'Carbon Monoxide'"
+    },
+    {
+      "id": "ga-181",
+      "topic": "safety",
+      "q": "Which action helps prevent carbon monoxide poisoning?",
+      "options": [
+        "Run the heater while parked with windows up",
+        "Drive with a loud muffler",
+        "Keep the windows closed while idling",
+        "Never run the engine in a closed garage"
+      ],
+      "answer": 3,
+      "explain": "Don't run the engine in a garage, don't idle with windows closed, and keep the exhaust system in good repair.",
+      "official": false,
+      "ref": "Georgia Drivers Manual (DDS online edition, 2026), Section 8 'Safety Guidelines': 'Carbon Monoxide'"
+    },
+    {
+      "id": "ga-182",
+      "topic": "safety",
+      "q": "What happens if you turn the ignition to the 'lock' position while the car is moving?",
+      "options": [
+        "The car speeds up",
+        "The steering locks and you cannot steer",
+        "The brakes lock",
+        "Nothing happens"
+      ],
+      "answer": 1,
+      "explain": "With a steering lock, turning the key to lock while moving disables steering.",
+      "official": false,
+      "ref": "Georgia Drivers Manual (DDS online edition, 2026), Section 8 'Safety Guidelines': 'Steering Locks'"
+    },
+    {
+      "id": "ga-183",
+      "topic": "safety",
+      "q": "To stay alert on a long expressway trip and avoid 'highway hypnosis,' you should:",
+      "options": [
+        "Keep your eyes moving and stop if you feel drowsy",
+        "Drive faster to finish sooner",
+        "Take stay-awake drugs",
+        "Stare at the center line"
+      ],
+      "answer": 0,
+      "explain": "Shift your eyes often, talk with passengers, and stop when drowsy; stimulant drugs make driving more hazardous.",
+      "official": false,
+      "ref": "Georgia Drivers Manual (DDS online edition, 2026), Section 8 'Safety Guidelines': 'Tips For Expressway Driving'"
+    },
+    {
+      "id": "ga-184",
+      "topic": "safety",
+      "q": "Stopping on the shoulder of an expressway is allowed:",
+      "options": [
+        "To check a map",
+        "To switch drivers",
+        "Only in an emergency",
+        "To get something from the back seat"
+      ],
+      "answer": 2,
+      "explain": "Stopping on the shoulder is permitted only in an emergency; switching drivers or retrieving items is not an emergency.",
+      "official": false,
+      "ref": "Georgia Drivers Manual (DDS online edition, 2026), Section 8 'Safety Guidelines': 'Tips For Expressway Driving'"
+    },
+    {
+      "id": "ga-185",
+      "topic": "safety",
+      "q": "If your vehicle has trouble and you must stop on an expressway shoulder, you should:",
+      "options": [
+        "Walk along the expressway to find help",
+        "Leave the car in a travel lane",
+        "Stand behind the car in traffic",
+        "Raise the hood and turn on your hazard lights"
+      ],
+      "answer": 3,
+      "explain": "Raise the hood and turn on hazard lights to signal trouble; do not walk along the expressway looking for help.",
+      "official": false,
+      "ref": "Georgia Drivers Manual (DDS online edition, 2026), Section 8 'Safety Guidelines': 'Tips For Expressway Driving'"
+    },
+    {
+      "id": "ga-186",
+      "topic": "safety",
+      "q": "Coasting down a hill with the transmission in neutral is:",
+      "options": [
+        "Recommended to save fuel",
+        "Legal on any hill",
+        "Illegal",
+        "Required for trucks"
+      ],
+      "answer": 2,
+      "explain": "Drivers must not coast downhill with the gears or transmission in neutral.",
+      "official": false,
+      "ref": "Georgia Drivers Manual (DDS online edition, 2026), Section 5 'Traffic Laws': 'Coasting'"
+    },
+    {
+      "id": "ga-187",
+      "topic": "safety",
+      "q": "Wearing headphones or a headset that blocks your hearing while driving is:",
+      "options": [
+        "Legal if the volume is low",
+        "Illegal",
+        "Legal for adults only",
+        "Legal on interstates"
+      ],
+      "answer": 1,
+      "explain": "It is unlawful to drive while wearing headphones or a headset that impairs your ability to hear.",
+      "official": false,
+      "ref": "Georgia Drivers Manual (DDS online edition, 2026), Section 5 'Traffic Laws': 'Impaired Hearing and Vision'"
+    },
+    {
+      "id": "ga-188",
+      "topic": "safety",
+      "q": "Under Georgia's Hands-Free law, which is allowed while driving?",
+      "options": [
+        "Using a phone in a mount or by voice/hands-free",
+        "Reading a text at a red light while holding the phone",
+        "Holding the phone to make a call",
+        "Watching a video on a mounted phone"
+      ],
+      "answer": 0,
+      "explain": "Drivers may not hold or support a phone; it may be used only with a hands-free device or mount, and videos may not be watched.",
+      "official": false,
+      "ref": "Georgia Drivers Manual (DDS online edition, 2026), Section 5 'Traffic Laws': 'Texting & Cell Phones'"
+    },
+    {
+      "id": "ga-189",
+      "topic": "safety",
+      "q": "What is the penalty for a first conviction under Georgia's Hands-Free law?",
+      "options": [
+        "1 point and a fine of not more than $50",
+        "License suspension",
+        "No points, warning only",
+        "3 points and a $150 fine"
+      ],
+      "answer": 0,
+      "explain": "First conviction: 1 point and up to $50. Second: 2 points and up to $100. Third or more: 3 points and up to $150.",
+      "official": false,
+      "ref": "Georgia Drivers Manual (DDS online edition, 2026), Section 5 'Traffic Laws': 'Texting & Cell Phones'"
+    },
+    {
+      "id": "ga-190",
+      "topic": "safety",
+      "q": "A third or later Hands-Free law conviction brings:",
+      "options": [
+        "6 points and up to $1,000",
+        "1 point and up to $50",
+        "3 points and a fine of up to $150",
+        "2 points and up to $100"
+      ],
+      "answer": 2,
+      "explain": "Third and subsequent convictions carry 3 points and a fine of no more than $150.",
+      "official": false,
+      "ref": "Georgia Drivers Manual (DDS online edition, 2026), Section 5 'Traffic Laws': 'Texting & Cell Phones'"
+    },
+    {
+      "id": "ga-191",
+      "topic": "safety",
+      "q": "Under Georgia law as described in the manual, who must wear a seat belt?",
+      "options": [
+        "Only people on interstates",
+        "Everyone in the front seat, and all occupants under 18 in any seat",
+        "Only passengers under 8",
+        "Only the driver"
+      ],
+      "answer": 1,
+      "explain": "Every front-seat occupant must be belted, and all occupants under 18 must be belted wherever they sit.",
+      "official": false,
+      "ref": "Georgia Drivers Manual (DDS online edition, 2026), Section 5 'Traffic Laws': 'Safety Belts'"
+    },
+    {
+      "id": "ga-192",
+      "topic": "safety",
+      "q": "Georgia has a 'primary' safety belt law. This means:",
+      "options": [
+        "You can only be cited after a crash",
+        "Belts are optional for adults",
+        "Only the driver can be cited",
+        "Officers can stop and cite you for not wearing a belt alone"
+      ],
+      "answer": 3,
+      "explain": "A primary law lets officers stop and cite violators without seeing another violation.",
+      "official": false,
+      "ref": "Georgia Drivers Manual (DDS online edition, 2026), Section 5 'Traffic Laws': 'Safety Belts'"
+    },
+    {
+      "id": "ga-193",
+      "topic": "safety",
+      "q": "Children under what age must ride in an appropriate child restraint system in Georgia?",
+      "options": [
+        "Under 6 years old",
+        "Under 4 years old",
+        "Under 12 years old",
+        "Under 8 years old"
+      ],
+      "answer": 3,
+      "explain": "A child under eight must be properly restrained in a child passenger restraint suitable for the child's height and weight.",
+      "official": false,
+      "ref": "Georgia Drivers Manual (DDS online edition, 2026), Section 5 'Traffic Laws': 'Safety Restraints for Children'"
+    },
+    {
+      "id": "ga-194",
+      "topic": "safety",
+      "q": "A first conviction for failing to properly restrain a child is worth how many points?",
+      "options": [
+        "3 points",
+        "1 point",
+        "No points",
+        "2 points"
+      ],
+      "answer": 1,
+      "explain": "Child Restraint first offense: 1 point; second and later: 2 points.",
+      "official": false,
+      "ref": "Georgia Drivers Manual (DDS online edition, 2026), Section 10 'Losing Your Driving Privileges': 'Violations and points demerited'"
+    },
+    {
+      "id": "ga-195",
+      "topic": "safety",
+      "q": "Driving across a median strip at a place other than an authorized crossover is:",
+      "options": [
+        "Allowed at night",
+        "Allowed for U-turns",
+        "Unlawful",
+        "Allowed if traffic is clear"
+      ],
+      "answer": 2,
+      "explain": "It is unlawful to cross a dividing section, barrier or unpaved strip except at an authorized opening.",
+      "official": false,
+      "ref": "Georgia Drivers Manual (DDS online edition, 2026), Section 5 'Traffic Laws': 'Median Strip'"
+    },
+    {
+      "id": "ga-196",
+      "topic": "safety",
+      "q": "What are the three most basic traffic laws in Georgia?",
+      "options": [
+        "Obey traffic devices, obey officers and firefighters directing traffic, and never drive on a closed road",
+        "Carry a license, insurance, and registration",
+        "Signal, brake, and honk",
+        "Speed, park, and pass correctly"
+      ],
+      "answer": 0,
+      "explain": "The manual lists these three basic laws: obey traffic control devices, obey officer/firefighter directions, and never drive on a closed roadway.",
+      "official": false,
+      "ref": "Georgia Drivers Manual (DDS online edition, 2026), Section 5 'Traffic Laws': '3 Most Basic Traffic Laws'"
+    },
+    {
+      "id": "ga-197",
+      "topic": "safety",
+      "q": "Throwing litter from a vehicle in Georgia can result in:",
+      "options": [
+        "A fine up to $1,000, up to 12 months in jail, and possibly picking up litter",
+        "A $25 fine",
+        "Points only",
+        "A warning only"
+      ],
+      "answer": 0,
+      "explain": "Littering is a misdemeanor; penalties can include up to $1,000, 12 months in jail, and court-ordered litter pickup. The driver is responsible for litter thrown from the vehicle.",
+      "official": false,
+      "ref": "Georgia Drivers Manual (DDS online edition, 2026), Section 5 'Traffic Laws': 'Georgia's Litter Control Law'"
+    },
+    {
+      "id": "ga-198",
+      "topic": "safety",
+      "q": "Overloading a vehicle so that passengers or cargo block the driver's view is:",
+      "options": [
+        "Legal on rural roads",
+        "Illegal",
+        "Legal for short trips",
+        "Legal if you use mirrors"
+      ],
+      "answer": 1,
+      "explain": "A vehicle loaded so as to obstruct the driver's view or controls cannot legally be driven.",
+      "official": false,
+      "ref": "Georgia Drivers Manual (DDS online edition, 2026), Section 5 'Traffic Laws': 'Obstructing the Driver's View'"
+    },
+    {
+      "id": "ga-199",
+      "topic": "safety",
+      "q": "A defensive driver should:",
+      "options": [
+        "Trust turn signals completely",
+        "Follow closely to keep traffic moving",
+        "Never assume other drivers will do what you expect and always have an escape route",
+        "Stare at the center line"
+      ],
+      "answer": 2,
+      "explain": "Defensive driving means awareness: keep your eyes moving, check mirrors, and plan an escape route; a turn signal doesn't guarantee a turn.",
+      "official": false,
+      "ref": "Georgia Drivers Manual (DDS online edition, 2026), Section 8 'Safety Guidelines': 'Tips For Expressway Driving'"
+    },
+    {
+      "id": "ga-200",
+      "topic": "safety",
+      "q": "When visibility is greatly reduced at night, what can help you stay in your lane?",
+      "options": [
+        "Using high beams in fog",
+        "Following another car's taillights closely",
+        "Driving in the middle of two lanes",
+        "Following the right edge line (or the center line if there is no edge line)"
+      ],
+      "answer": 3,
+      "explain": "Use the edge line as a guide; if there is none, use the center line.",
+      "official": false,
+      "ref": "Georgia Drivers Manual (DDS online edition, 2026), Section 5 'Traffic Laws': 'Night Driving'"
+    },
+    {
+      "id": "ga-201",
+      "topic": "safety",
+      "q": "During which months are deer most active and most likely to cause crashes in Georgia?",
+      "options": [
+        "January only",
+        "April and May",
+        "June, July and August",
+        "October, November and December"
+      ],
+      "answer": 3,
+      "explain": "Deer are most active during the October–December breeding season; late February and early March are also critical.",
+      "official": false,
+      "ref": "Georgia Drivers Manual (DDS online edition, 2026), Section 11 'Crashes': 'Deer-Automobile Crashes'"
+    },
+    {
+      "id": "ga-202",
+      "topic": "safety",
+      "q": "A deer suddenly runs in front of your car. What should you do?",
+      "options": [
+        "Swerve sharply to avoid it",
+        "Slow down as much as possible but do not swerve",
+        "Speed up so it runs away",
+        "Turn off your headlights"
+      ],
+      "answer": 1,
+      "explain": "Never swerve to avoid a deer; it can cause you to hit another vehicle or leave the road. Brake to reduce impact.",
+      "official": false,
+      "ref": "Georgia Drivers Manual (DDS online edition, 2026), Section 11 'Crashes': 'Deer-Automobile Crashes'"
+    },
+    {
+      "id": "ga-203",
+      "topic": "safety",
+      "q": "You see a deer beside the road at night. You should:",
+      "options": [
+        "Slow down, blink your lights and use low beams",
+        "Speed up past it",
+        "Keep high beams on to freeze it",
+        "Stop in the travel lane and wait"
+      ],
+      "answer": 0,
+      "explain": "Slow immediately, blink your headlights and switch to low beam so you do not blind the deer; short horn blasts may help.",
+      "official": false,
+      "ref": "Georgia Drivers Manual (DDS online edition, 2026), Section 11 'Crashes': 'Deer-Automobile Crashes'"
+    },
+    {
+      "id": "ga-204",
+      "topic": "alcohol",
+      "q": "A driver age 21 or older is considered 'under the influence' in Georgia at a blood alcohol concentration of:",
+      "options": [
+        "0.05 or more",
+        "0.10 or more",
+        "0.08 or more",
+        "0.02 or more"
+      ],
+      "answer": 2,
+      "explain": "For drivers 21 and older, 0.08 grams or more is the legal limit.",
+      "official": false,
+      "ref": "Georgia Drivers Manual (DDS online edition, 2026), Section 5 'Traffic Laws': 'Driving Under the Influence of Drugs or Alcohol'"
+    },
+    {
+      "id": "ga-205",
+      "topic": "alcohol",
+      "q": "A driver under 21 is considered 'under the influence' in Georgia at a blood alcohol concentration of:",
+      "options": [
+        "0.05 or more",
+        "0.00 or more",
+        "0.08 or more",
+        "0.02 or more"
+      ],
+      "answer": 3,
+      "explain": "Drivers under 21 are irrefutably considered under the influence at 0.02 grams or more.",
+      "official": false,
+      "ref": "Georgia Drivers Manual (DDS online edition, 2026), Section 5 'Traffic Laws': 'Driving Under the Influence of Drugs or Alcohol'"
+    },
+    {
+      "id": "ga-206",
+      "topic": "alcohol",
+      "q": "What blood alcohol level disqualifies someone driving a commercial motor vehicle (CMV)?",
+      "options": [
+        "0.04 or more",
+        "0.10 or more",
+        "0.02 or more",
+        "0.08 or more"
+      ],
+      "answer": 0,
+      "explain": "Driving a CMV with a BAC of .04 or higher is a major traffic violation that disqualifies commercial privileges for one year.",
+      "official": false,
+      "ref": "Georgia Drivers Manual (DDS online edition, 2026), Section 10 'Losing Your Driving Privileges': 'Major Traffic Violations'"
+    },
+    {
+      "id": "ga-207",
+      "topic": "alcohol",
+      "q": "Having a valid prescription for a medicine that impairs your driving is:",
+      "options": [
+        "Allowed during daytime",
+        "Not a defense to a DUI charge",
+        "A complete defense to DUI",
+        "Allowed if under 0.08"
+      ],
+      "answer": 1,
+      "explain": "Having a prescription is not a defense if the medication impairs your ability to drive safely.",
+      "official": false,
+      "ref": "Georgia Drivers Manual (DDS online edition, 2026), Section 5 'Traffic Laws': 'Driving Under the Influence of Drugs or Alcohol'"
+    },
+    {
+      "id": "ga-208",
+      "topic": "alcohol",
+      "q": "According to the manual, a DUI conviction can bring:",
+      "options": [
+        "Points only",
+        "A $50 fine",
+        "Fines up to $1,000, jail up to 12 months, and mandatory license suspension",
+        "A warning on the first offense"
+      ],
+      "answer": 2,
+      "explain": "DUI penalties are severe: fines up to $1,000, up to 12 months in jail, and mandatory suspension of driving privileges.",
+      "official": false,
+      "ref": "Georgia Drivers Manual (DDS online edition, 2026), Section 5 'Traffic Laws': 'Driving Under the Influence of Drugs or Alcohol'"
+    },
+    {
+      "id": "ga-209",
+      "topic": "alcohol",
+      "q": "Under Georgia's implied consent law, if you refuse state-administered chemical testing, your license will be suspended for at least:",
+      "options": [
+        "30 days",
+        "Six months",
+        "90 days",
+        "One year"
+      ],
+      "answer": 3,
+      "explain": "Refusal results in a suspension of at least one year, and refusal of blood or urine testing may be used as evidence at trial.",
+      "official": false,
+      "ref": "Georgia Drivers Manual (DDS online edition, 2026), Section 10 'Losing Your Driving Privileges': 'Implied Consent'"
+    },
+    {
+      "id": "ga-210",
+      "topic": "alcohol",
+      "q": "Under implied consent, after taking the state's test you have the right to:",
+      "options": [
+        "Refuse all further questions and keep driving",
+        "Additional tests at your own expense by qualified personnel you choose",
+        "A free attorney at the roadside",
+        "Have the state's result thrown out automatically"
+      ],
+      "answer": 1,
+      "explain": "After submitting to the state tests, you may get additional chemical tests at your own expense from qualified personnel of your choosing.",
+      "official": false,
+      "ref": "Georgia Drivers Manual (DDS online edition, 2026), Section 10 'Losing Your Driving Privileges': 'Implied Consent'"
+    },
+    {
+      "id": "ga-211",
+      "topic": "alcohol",
+      "q": "A driver under 21 has a BAC of 0.02 or more but less than 0.08, with no prior serious convictions. The first DUI suspension is a minimum of:",
+      "options": [
+        "3 years",
+        "12 months",
+        "6 months",
+        "30 days"
+      ],
+      "answer": 2,
+      "explain": "For a first under-21 DUI with BAC .02 to under .08, the minimum suspension is 6 months (12 months with certain prior convictions).",
+      "official": false,
+      "ref": "Georgia Drivers Manual (DDS online edition, 2026), Section 6 'Teen Driving Laws': 'Convictions for Driving Under the Influence of Drugs or Alcohol (DUI)'"
+    },
+    {
+      "id": "ga-212",
+      "topic": "alcohol",
+      "q": "A driver under 21 convicted of DUI with a BAC of 0.08 or more (or who refused testing) faces a minimum suspension of:",
+      "options": [
+        "12 months",
+        "5 years",
+        "6 months",
+        "90 days"
+      ],
+      "answer": 0,
+      "explain": "BAC .08 or more, or a test refusal, results in at least a 12-month suspension for an under-21 driver.",
+      "official": false,
+      "ref": "Georgia Drivers Manual (DDS online edition, 2026), Section 6 'Teen Driving Laws': 'Convictions for Driving Under the Influence of Drugs or Alcohol (DUI)'"
+    },
+    {
+      "id": "ga-213",
+      "topic": "alcohol",
+      "q": "Can a driver under 21 convicted of DUI get a limited driving permit?",
+      "options": [
+        "Yes, for school only",
+        "Yes, if a parent signs",
+        "No",
+        "Yes, after 30 days"
+      ],
+      "answer": 2,
+      "explain": "No limited driving permit is available for DUI convictions prior to age 21.",
+      "official": false,
+      "ref": "Georgia Drivers Manual (DDS online edition, 2026), Section 6 'Teen Driving Laws': 'Convictions for Driving Under the Influence of Drugs or Alcohol (DUI)'"
+    },
+    {
+      "id": "ga-214",
+      "topic": "alcohol",
+      "q": "For a teen's second DUI, the license suspension is a minimum of:",
+      "options": [
+        "18 months, with ignition interlock permit eligibility after 120 days",
+        "Lifetime",
+        "12 months with no interlock",
+        "6 months"
+      ],
+      "answer": 0,
+      "explain": "A second DUI suspension lasts at least 18 months, with eligibility for an ignition interlock permit after 120 days.",
+      "official": false,
+      "ref": "Georgia Drivers Manual (DDS online edition, 2026), Section 6 'Teen Driving Laws': 'Convictions for Driving Under the Influence of Drugs or Alcohol (DUI)'"
+    },
+    {
+      "id": "ga-215",
+      "topic": "alcohol",
+      "q": "Possessing an open container of an alcoholic beverage while driving adds how many points?",
+      "options": [
+        "1 point",
+        "6 points",
+        "4 points",
+        "2 points"
+      ],
+      "answer": 3,
+      "explain": "An open container conviction carries 2 points.",
+      "official": false,
+      "ref": "Georgia Drivers Manual (DDS online edition, 2026), Section 10 'Losing Your Driving Privileges': 'Violations and points demerited'"
+    },
+    {
+      "id": "ga-216",
+      "topic": "alcohol",
+      "q": "A Georgia driver's license is suspended for points when an adult accumulates:",
+      "options": [
+        "20 points in 24 months",
+        "15 or more points in 24 months",
+        "12 points in 36 months",
+        "10 points in 12 months"
+      ],
+      "answer": 1,
+      "explain": "Accumulating 15 or more points within 24 months results in suspension.",
+      "official": false,
+      "ref": "Georgia Drivers Manual (DDS online edition, 2026), Section 10 'Losing Your Driving Privileges': 'The Points System'"
+    },
+    {
+      "id": "ga-217",
+      "topic": "alcohol",
+      "q": "A driver under 18 will have their license suspended for accumulating:",
+      "options": [
+        "6 points in 12 months",
+        "4 or more points in 12 months",
+        "15 points in 24 months",
+        "2 points in 6 months"
+      ],
+      "answer": 1,
+      "explain": "Drivers under 18 are suspended for 4 or more points within any 12-month period.",
+      "official": false,
+      "ref": "Georgia Drivers Manual (DDS online edition, 2026), Section 10 'Losing Your Driving Privileges': 'The Points System'"
+    },
+    {
+      "id": "ga-218",
+      "topic": "alcohol",
+      "q": "A driver under 21 is convicted of a single 4-point offense. What happens?",
+      "options": [
+        "Only a fine is due",
+        "A warning letter is sent",
+        "Nothing until 15 points",
+        "The license is suspended"
+      ],
+      "answer": 3,
+      "explain": "Any person under 21 convicted of a 4-point violation has their license suspended.",
+      "official": false,
+      "ref": "Georgia Drivers Manual (DDS online edition, 2026), Section 10 'Losing Your Driving Privileges': 'The Points System'"
+    },
+    {
+      "id": "ga-219",
+      "topic": "alcohol",
+      "q": "How many points are assessed for speeding 15 to 18 mph over the limit?",
+      "options": [
+        "2 points",
+        "6 points",
+        "4 points",
+        "3 points"
+      ],
+      "answer": 0,
+      "explain": "Speeding 15–18 mph over: 2 points; 19–23 over: 3 points; 24–33 over: 4 points; 34+ over: 6 points.",
+      "official": false,
+      "ref": "Georgia Drivers Manual (DDS online edition, 2026), Section 10 'Losing Your Driving Privileges': 'Violations and points demerited'"
+    },
+    {
+      "id": "ga-220",
+      "topic": "alcohol",
+      "q": "How many points are assessed for speeding 24 to 33 mph over the limit?",
+      "options": [
+        "2 points",
+        "6 points",
+        "4 points",
+        "3 points"
+      ],
+      "answer": 2,
+      "explain": "Speeding 24–33 mph over the posted limit is a 4-point offense, which also suspends the license of a driver under 21.",
+      "official": false,
+      "ref": "Georgia Drivers Manual (DDS online edition, 2026), Section 10 'Losing Your Driving Privileges': 'Violations and points demerited'"
+    },
+    {
+      "id": "ga-221",
+      "topic": "alcohol",
+      "q": "Speeding 34 mph or more over the limit carries how many points?",
+      "options": [
+        "4 points",
+        "6 points",
+        "3 points",
+        "8 points"
+      ],
+      "answer": 1,
+      "explain": "Speeding 34 mph or more over the posted limit is a 6-point offense.",
+      "official": false,
+      "ref": "Georgia Drivers Manual (DDS online edition, 2026), Section 10 'Losing Your Driving Privileges': 'Violations and points demerited'"
+    },
+    {
+      "id": "ga-222",
+      "topic": "alcohol",
+      "q": "Unlawfully passing a stopped school bus in Georgia can bring:",
+      "options": [
+        "Up to a $1,000 fine and 6 points, with a mandatory court appearance",
+        "3 points only",
+        "A $100 fine and 1 point",
+        "A warning for first offense"
+      ],
+      "answer": 0,
+      "explain": "Penalties include a mandatory court appearance, a fine up to $1,000 and up to 6 points; drivers under 21 lose their license.",
+      "official": false,
+      "ref": "Georgia Drivers Manual (DDS online edition, 2026), Section 9 'Sharing the Road': 'Sharing the Road With School Buses'"
+    },
+    {
+      "id": "ga-223",
+      "topic": "alcohol",
+      "q": "How many points does a reckless driving conviction carry?",
+      "options": [
+        "6 points",
+        "2 points",
+        "3 points",
+        "4 points"
+      ],
+      "answer": 3,
+      "explain": "Reckless driving is a 4-point offense and also triggers suspension for drivers under 21.",
+      "official": false,
+      "ref": "Georgia Drivers Manual (DDS online edition, 2026), Section 10 'Losing Your Driving Privileges': 'Violations and points demerited'"
+    },
+    {
+      "id": "ga-224",
+      "topic": "alcohol",
+      "q": "Aggressive driving (driving with intent to annoy, harass, intimidate or obstruct someone) carries how many points?",
+      "options": [
+        "2 points",
+        "4 points",
+        "6 points",
+        "3 points"
+      ],
+      "answer": 2,
+      "explain": "Aggressive driving is a misdemeanor of a high and aggravated nature and carries 6 points.",
+      "official": false,
+      "ref": "Georgia Drivers Manual (DDS online edition, 2026), Section 10 'Losing Your Driving Privileges': 'Violations and points demerited'"
+    },
+    {
+      "id": "ga-225",
+      "topic": "alcohol",
+      "q": "Disobeying a traffic-control device or a traffic officer is worth how many points?",
+      "options": [
+        "3 points",
+        "1 point",
+        "2 points",
+        "6 points"
+      ],
+      "answer": 0,
+      "explain": "Disobedience of a traffic-control device or officer carries 3 points.",
+      "official": false,
+      "ref": "Georgia Drivers Manual (DDS online edition, 2026), Section 10 'Losing Your Driving Privileges': 'Violations and points demerited'"
+    },
+    {
+      "id": "ga-226",
+      "topic": "alcohol",
+      "q": "Improper passing on a hill or curve carries how many points?",
+      "options": [
+        "3 points",
+        "6 points",
+        "4 points",
+        "2 points"
+      ],
+      "answer": 2,
+      "explain": "Improper passing on a hill or curve is a 4-point violation.",
+      "official": false,
+      "ref": "Georgia Drivers Manual (DDS online edition, 2026), Section 10 'Losing Your Driving Privileges': 'Violations and points demerited'"
+    },
+    {
+      "id": "ga-227",
+      "topic": "alcohol",
+      "q": "How can a licensed Georgia driver have up to 7 points removed from their record?",
+      "options": [
+        "Retake the knowledge test",
+        "Pay a $100 fee",
+        "Wait 6 months",
+        "Complete a certified 6-hour defensive driving course, once every 5 years"
+      ],
+      "answer": 3,
+      "explain": "Completing a certified 6-hour driver improvement course allows a reduction of up to 7 points once every five years.",
+      "official": false,
+      "ref": "Georgia Drivers Manual (DDS online edition, 2026), Section 10 'Losing Your Driving Privileges': 'Points Reduction'"
+    },
+    {
+      "id": "ga-228",
+      "topic": "alcohol",
+      "q": "If you complete a certified defensive driving course before your court date for a moving violation, the court may:",
+      "options": [
+        "Double your fine",
+        "Reduce your fine by 20% and assess no points (once every five years)",
+        "Give you a free license renewal",
+        "Dismiss all your past points"
+      ],
+      "answer": 1,
+      "explain": "Under points avoidance, the court reduces the fine by 20% and assesses no points; this plea is allowed once every five years.",
+      "official": false,
+      "ref": "Georgia Drivers Manual (DDS online edition, 2026), Section 10 'Losing Your Driving Privileges': 'Points Avoidance'"
+    },
+    {
+      "id": "ga-229",
+      "topic": "alcohol",
+      "q": "For a driver under 21, which conviction results in a 6-month suspension for a first offense?",
+      "options": [
+        "A parking ticket",
+        "An expired tag",
+        "Reckless driving",
+        "A seat belt violation"
+      ],
+      "answer": 2,
+      "explain": "Under-21 drivers lose their license for 6 months (first) or 12 months (second) for offenses like reckless driving, racing or hit-and-run.",
+      "official": false,
+      "ref": "Georgia Drivers Manual (DDS online edition, 2026), Section 6 'Teen Driving Laws': 'Convictions Other Than DUI'"
+    },
+    {
+      "id": "ga-230",
+      "topic": "alcohol",
+      "q": "A driver under 21 convicted of speeding 24 mph or more over the limit will:",
+      "options": [
+        "Have their license suspended",
+        "Pay a $25 fine with no other penalty",
+        "Have no consequence until 15 points",
+        "Get only a warning"
+      ],
+      "answer": 0,
+      "explain": "Speeding 24 mph or more over the limit leads to suspension for drivers under 21.",
+      "official": false,
+      "ref": "Georgia Drivers Manual (DDS online edition, 2026), Section 10 'Losing Your Driving Privileges': 'Types of Suspensions'"
+    },
+    {
+      "id": "ga-231",
+      "topic": "alcohol",
+      "q": "A person becomes a Habitual Violator in Georgia after how many convictions of serious offenses such as DUI within 5 years?",
+      "options": [
+        "Four",
+        "Three",
+        "Two",
+        "Five"
+      ],
+      "answer": 1,
+      "explain": "A third conviction of offenses like DUI, vehicular homicide or hit-and-run within 5 years results in Habitual Violator revocation.",
+      "official": false,
+      "ref": "Georgia Drivers Manual (DDS online edition, 2026), Section 10 'Losing Your Driving Privileges': 'Mandatory Revocations'"
+    },
+    {
+      "id": "ga-232",
+      "topic": "alcohol",
+      "q": "A first conviction for reckless stunt driving within 5 years results in a suspension of:",
+      "options": [
+        "6 months",
+        "3 years",
+        "30 days",
+        "12 months"
+      ],
+      "answer": 3,
+      "explain": "First conviction: 12-month suspension, with early reinstatement possible after 120 days.",
+      "official": false,
+      "ref": "Georgia Drivers Manual (DDS online edition, 2026), Section 5 'Traffic Laws': 'Drag Racing/Reckless Stunt Driving'"
+    },
+    {
+      "id": "ga-233",
+      "topic": "alcohol",
+      "q": "Racing on Georgia highways includes:",
+      "options": [
+        "Passing a slow truck legally",
+        "Speeding up to keep another driver from passing you",
+        "Driving at the speed limit",
+        "Merging onto an expressway"
+      ],
+      "answer": 1,
+      "explain": "Racing includes competing with other drivers, trying to block a vehicle from passing by accelerating or maneuvering, or racing against time.",
+      "official": false,
+      "ref": "Georgia Drivers Manual (DDS online edition, 2026), Section 5 'Traffic Laws': 'Racing'"
+    },
+    {
+      "id": "ga-234",
+      "topic": "alcohol",
+      "q": "Driving without insurance in Georgia results in:",
+      "options": [
+        "Mandatory license suspension",
+        "Two points only",
+        "No penalty if you have no crash",
+        "A warning only"
+      ],
+      "answer": 0,
+      "explain": "DDS is required by law to suspend driving privileges for a conviction of driving without insurance.",
+      "official": false,
+      "ref": "Georgia Drivers Manual (DDS online edition, 2026), Section 10 'Losing Your Driving Privileges': 'Types of Suspensions'"
+    },
+    {
+      "id": "ga-235",
+      "topic": "alcohol",
+      "q": "What is the fee for a limited driving permit during an eligible suspension?",
+      "options": [
+        "$100",
+        "$210",
+        "$10",
+        "$32"
+      ],
+      "answer": 3,
+      "explain": "A limited driving permit may be available during some suspensions for a fee of $32.",
+      "official": false,
+      "ref": "Georgia Drivers Manual (DDS online edition, 2026), Section 10 'Losing Your Driving Privileges': 'Limited Driving Permits'"
+    },
+    {
+      "id": "ga-236",
+      "topic": "licensing",
+      "q": "At what age can you apply for a Class CP instructional permit in Georgia?",
+      "options": [
+        "16",
+        "14",
+        "15",
+        "15 and a half"
+      ],
+      "answer": 2,
+      "explain": "Upon reaching age 15, or any time after, you may apply for a Class C Instructional Permit (CP).",
+      "official": false,
+      "ref": "Georgia Drivers Manual (DDS online edition, 2026), Section 6 'Teen Driving Laws': 'Obtaining a Class C Instructional Permit (CP)'"
+    },
+    {
+      "id": "ga-237",
+      "topic": "licensing",
+      "q": "A Class CP permit holder may drive only when accompanied by someone who is:",
+      "options": [
+        "At least 21, licensed for Class C, fit to drive, and seated beside the driver",
+        "A parent only",
+        "At least 18 and licensed",
+        "Any licensed adult in any seat"
+      ],
+      "answer": 0,
+      "explain": "The supervisor must be at least 21, hold a Class C license, be fit and capable of controlling the vehicle, and sit in the front passenger seat.",
+      "official": false,
+      "ref": "Georgia Drivers Manual (DDS online edition, 2026), Section 6 'Teen Driving Laws': 'Conditions of a Class C Instructional Permit (CP)'"
+    },
+    {
+      "id": "ga-238",
+      "topic": "licensing",
+      "q": "How long must a teen hold an instructional permit before applying for a Class D license at age 16?",
+      "options": [
+        "Six months",
+        "90 days",
+        "One year and one day",
+        "Two years"
+      ],
+      "answer": 2,
+      "explain": "You may apply for a Class D at 16 after holding a valid instructional permit for one year and one day.",
+      "official": false,
+      "ref": "Georgia Drivers Manual (DDS online edition, 2026), Section 6 'Teen Driving Laws': 'Obtaining a Class D Provisional License'"
+    },
+    {
+      "id": "ga-239",
+      "topic": "licensing",
+      "q": "How many hours of supervised driving must a 16- or 17-year-old complete for a Class D license?",
+      "options": [
+        "At least 20 hours, including 2 at night",
+        "At least 40 hours, including 6 at night",
+        "At least 30 hours, none at night",
+        "At least 50 hours, including 10 at night"
+      ],
+      "answer": 1,
+      "explain": "Teens need a cumulative total of at least 40 hours of driving experience, including at least 6 hours at night.",
+      "official": false,
+      "ref": "Georgia Drivers Manual (DDS online edition, 2026), Section 6 'Teen Driving Laws': 'Driver Education Requirements'"
+    },
+    {
+      "id": "ga-240",
+      "topic": "licensing",
+      "q": "Under Joshua's Law, an approved driver education course includes:",
+      "options": [
+        "40 hours online only",
+        "10 hours of classroom only",
+        "A single road test",
+        "30 hours of classroom (or online) instruction plus 6 hours behind the wheel with an instructor or the Parent/Teen Driving Guide"
+      ],
+      "answer": 3,
+      "explain": "The course is 30 classroom hours or an equivalent online course, plus 6 hours with a certified instructor or completion of the Parent/Teen Driving Guide.",
+      "official": false,
+      "ref": "Georgia Drivers Manual (DDS online edition, 2026), Section 6 'Teen Driving Laws': 'Driver Education Requirements'"
+    },
+    {
+      "id": "ga-241",
+      "topic": "licensing",
+      "q": "What program must teens complete, in addition to driver education, to get a Class D license?",
+      "options": [
+        "A CPR course",
+        "A defensive driving course",
+        "The Alcohol and Drug Awareness Program (ADAP)",
+        "A motorcycle safety course"
+      ],
+      "answer": 2,
+      "explain": "Applicants under 18 must complete ADAP, taught in most schools and also available online.",
+      "official": false,
+      "ref": "Georgia Drivers Manual (DDS online edition, 2026), Section 6 'Teen Driving Laws': 'Obtaining a Class D Provisional License'"
+    },
+    {
+      "id": "ga-242",
+      "topic": "licensing",
+      "q": "Class D provisional license holders may NOT drive during which hours?",
+      "options": [
+        "11:00 p.m. to 5:00 a.m. except for work",
+        "12:00 a.m. to 5:00 a.m., with no exceptions",
+        "1:00 a.m. to 4:00 a.m.",
+        "10:00 p.m. to 6:00 a.m."
+      ],
+      "answer": 1,
+      "explain": "A Class D holder may not drive between midnight and 5 a.m. — no exceptions.",
+      "official": false,
+      "ref": "Georgia Drivers Manual (DDS online edition, 2026), Section 6 'Teen Driving Laws': 'Conditions of a Class D Provisional License'"
+    },
+    {
+      "id": "ga-243",
+      "topic": "licensing",
+      "q": "During the first six months with a Class D license, who may ride with the driver?",
+      "options": [
+        "Only immediate family members",
+        "Anyone over 18",
+        "Up to three friends under 21",
+        "One friend under 21"
+      ],
+      "answer": 0,
+      "explain": "In the first six months only immediate family members (including anyone living in the driver's home) may ride along.",
+      "official": false,
+      "ref": "Georgia Drivers Manual (DDS online edition, 2026), Section 6 'Teen Driving Laws': 'Conditions of a Class D Provisional License'"
+    },
+    {
+      "id": "ga-244",
+      "topic": "licensing",
+      "q": "During the second six months with a Class D license, how many non-family passengers under 21 may ride?",
+      "options": [
+        "None",
+        "Three",
+        "Two",
+        "One"
+      ],
+      "answer": 3,
+      "explain": "In the second six months, only one passenger under 21 who is not immediate family may ride.",
+      "official": false,
+      "ref": "Georgia Drivers Manual (DDS online edition, 2026), Section 6 'Teen Driving Laws': 'Conditions of a Class D Provisional License'"
+    },
+    {
+      "id": "ga-245",
+      "topic": "licensing",
+      "q": "After the first year with a Class D license, how many non-family passengers under 21 may ride with the driver?",
+      "options": [
+        "Two",
+        "One",
+        "No limit",
+        "Three"
+      ],
+      "answer": 3,
+      "explain": "After the first and second six-month periods, no more than three non-family passengers under 21 may ride.",
+      "official": false,
+      "ref": "Georgia Drivers Manual (DDS online edition, 2026), Section 6 'Teen Driving Laws': 'Conditions of a Class D Provisional License'"
+    },
+    {
+      "id": "ga-246",
+      "topic": "licensing",
+      "q": "To upgrade from Class D to Class C at 18, a driver must have no major traffic violations during the preceding:",
+      "options": [
+        "12 months",
+        "6 months",
+        "24 months",
+        "36 months"
+      ],
+      "answer": 0,
+      "explain": "Class D holders must be free of major traffic violation convictions for the 12 months before applying for Class C.",
+      "official": false,
+      "ref": "Georgia Drivers Manual (DDS online edition, 2026), Section 2 'Obtaining a License, Permit or Identification Card': 'Obtaining a Class C License - Exchanging a Class D License'"
+    },
+    {
+      "id": "ga-247",
+      "topic": "licensing",
+      "q": "Who may ask DDS to revoke a minor's permit or license before the minor turns 18?",
+      "options": [
+        "No one",
+        "The parent, guardian or responsible adult who signed the application",
+        "Any teacher",
+        "The minor's employer"
+      ],
+      "answer": 1,
+      "explain": "The adult who signed the minor's application may request revocation at any time before the 18th birthday ($10 fee, notarized form).",
+      "official": false,
+      "ref": "Georgia Drivers Manual (DDS online edition, 2026), Section 6 'Teen Driving Laws': 'Revocation of Minor's License/Permit'"
+    },
+    {
+      "id": "ga-248",
+      "topic": "licensing",
+      "q": "The Georgia knowledge exam for a permit has two parts. How many questions does each part have?",
+      "options": [
+        "10 questions each",
+        "25 questions each",
+        "20 questions each",
+        "30 questions each"
+      ],
+      "answer": 2,
+      "explain": "The road signs test and the road rules test each have 20 questions.",
+      "official": false,
+      "ref": "Georgia Drivers Manual (DDS online edition, 2026), Section 3 'Testing Information': 'Knowledge Exam'"
+    },
+    {
+      "id": "ga-249",
+      "topic": "licensing",
+      "q": "How many questions must you answer correctly on each part of the Georgia knowledge exam?",
+      "options": [
+        "18 out of 20",
+        "12 out of 20",
+        "16 out of 20",
+        "15 out of 20"
+      ],
+      "answer": 3,
+      "explain": "You must correctly answer 15 of 20 on the road signs test and 15 of 20 on the road rules test.",
+      "official": false,
+      "ref": "Georgia Drivers Manual (DDS online edition, 2026), Section 3 'Testing Information': 'Knowledge Exam'"
+    },
+    {
+      "id": "ga-250",
+      "topic": "licensing",
+      "q": "In what language is the road signs part of the Georgia knowledge exam given?",
+      "options": [
+        "English only",
+        "No written language; signs only",
+        "English or Spanish only",
+        "Any language the applicant chooses"
+      ],
+      "answer": 0,
+      "explain": "The road signs test and the driving test are in English only; the road rules test is offered in some other languages.",
+      "official": false,
+      "ref": "Georgia Drivers Manual (DDS online edition, 2026), Section 3 'Testing Information': 'Knowledge Exam'"
+    },
+    {
+      "id": "ga-251",
+      "topic": "licensing",
+      "q": "If you fail part of the Class C or D knowledge or road test for the first time, when can you retake it?",
+      "options": [
+        "Immediately the same day",
+        "After 7 days",
+        "The next day",
+        "After 30 days"
+      ],
+      "answer": 2,
+      "explain": "After a first failure you must wait until the next day; after a second or later failure, you must wait 7 days.",
+      "official": false,
+      "ref": "Georgia Drivers Manual (DDS online edition, 2026), Section 3 'Testing Information': 'Results of Pass/Fail'"
+    },
+    {
+      "id": "ga-252",
+      "topic": "licensing",
+      "q": "After failing the same test a second time, how long must you wait to retake it?",
+      "options": [
+        "1 day",
+        "7 days",
+        "30 days",
+        "14 days"
+      ],
+      "answer": 1,
+      "explain": "A second or subsequent failure requires a 7-day wait before retaking the failed portion.",
+      "official": false,
+      "ref": "Georgia Drivers Manual (DDS online edition, 2026), Section 3 'Testing Information': 'Results of Pass/Fail'"
+    },
+    {
+      "id": "ga-253",
+      "topic": "licensing",
+      "q": "What happens if someone uses a cell phone or talks to another person during the knowledge exam?",
+      "options": [
+        "They lose 2 points",
+        "The exam is counted as a failure",
+        "Nothing",
+        "They get a warning"
+      ],
+      "answer": 1,
+      "explain": "Phones and talking are not allowed; any misconduct means the exam session counts as a failure.",
+      "official": false,
+      "ref": "Georgia Drivers Manual (DDS online edition, 2026), Section 3 'Testing Information': 'Knowledge Exam'"
+    },
+    {
+      "id": "ga-254",
+      "topic": "licensing",
+      "q": "What is the minimum score needed to pass the Class C/D road test?",
+      "options": [
+        "80%",
+        "90%",
+        "75%",
+        "70%"
+      ],
+      "answer": 2,
+      "explain": "You must achieve a minimum score of 75% on the Class C or D road test.",
+      "official": false,
+      "ref": "Georgia Drivers Manual (DDS online edition, 2026), Section 3 'Testing Information': 'Road Test For Class C or D'"
+    },
+    {
+      "id": "ga-255",
+      "topic": "licensing",
+      "q": "What is the permit test fee in Georgia, paid before each testing attempt?",
+      "options": [
+        "$20",
+        "$5",
+        "$32",
+        "$10"
+      ],
+      "answer": 3,
+      "explain": "The test/permit fee is $10, paid before every attempt and not refunded if a test is failed.",
+      "official": false,
+      "ref": "Georgia Drivers Manual (DDS online edition, 2026), Section 6 'Teen Driving Laws': 'Obtaining a Class C Instructional Permit (CP)'"
+    },
+    {
+      "id": "ga-256",
+      "topic": "licensing",
+      "q": "What is the minimum vision required for a Georgia non-commercial license?",
+      "options": [
+        "20/60 in one eye, with a 140-degree horizontal field of vision",
+        "20/40 in both eyes",
+        "20/100 in one eye",
+        "20/20 in both eyes"
+      ],
+      "answer": 0,
+      "explain": "Minimum vision is 20/60 in one eye, with or without corrective lenses, and at least 140 degrees of horizontal vision.",
+      "official": false,
+      "ref": "Georgia Drivers Manual (DDS online edition, 2026), Section 1 'General Licensing Information': 'Vision Requirements'"
+    },
+    {
+      "id": "ga-257",
+      "topic": "licensing",
+      "q": "New Georgia residents who want to drive must get a Georgia license within how many days of becoming a resident?",
+      "options": [
+        "30 days",
+        "10 days",
+        "90 days",
+        "60 days"
+      ],
+      "answer": 0,
+      "explain": "New residents have 30 days after moving to Georgia to get a Georgia license or permit if they want to drive here.",
+      "official": false,
+      "ref": "Georgia Drivers Manual (DDS online edition, 2026), Section 1 'General Licensing Information': 'Requirement to obtain a Georgia Driver's License'"
+    },
+    {
+      "id": "ga-258",
+      "topic": "licensing",
+      "q": "How long is a standard Georgia Class C driver's license valid, and what does it cost?",
+      "options": [
+        "5 years for $10",
+        "10 years for $50",
+        "8 years for $32",
+        "4 years for $20"
+      ],
+      "answer": 2,
+      "explain": "A Class C license is issued for 8 years at a cost of $32.",
+      "official": false,
+      "ref": "Georgia Drivers Manual (DDS online edition, 2026), Section 1 'General Licensing Information': 'Fees/Forms of Payment'"
+    },
+    {
+      "id": "ga-259",
+      "topic": "licensing",
+      "q": "If your Georgia license has been expired for more than two years, what must you do to renew it?",
+      "options": [
+        "Nothing extra",
+        "Pass vision, knowledge (signs and rules) and road tests",
+        "Just pay a late fee",
+        "Pass only the vision test"
+      ],
+      "answer": 1,
+      "explain": "A license expired more than two years requires the vision test, the driving test, and the road signs and rules knowledge exams.",
+      "official": false,
+      "ref": "Georgia Drivers Manual (DDS online edition, 2026), Section 1 'General Licensing Information': 'Expired License'"
+    },
+    {
+      "id": "ga-260",
+      "topic": "licensing",
+      "q": "Georgia drivers age 64 and older must pass a vision screening how often?",
+      "options": [
+        "Every year",
+        "Never",
+        "Every two years",
+        "Every eight years"
+      ],
+      "answer": 3,
+      "explain": "Customers age 64 and over must complete a vision screening every eight years.",
+      "official": false,
+      "ref": "Georgia Drivers Manual (DDS online edition, 2026), Section 1 'General Licensing Information': 'Vision Requirements'"
+    },
+    {
+      "id": "ga-261",
+      "topic": "licensing",
+      "q": "A license restriction code 'B' on a Georgia license means:",
+      "options": [
+        "Corrective lenses required",
+        "Automatic transmission required",
+        "Daylight driving only",
+        "No highway driving"
+      ],
+      "answer": 0,
+      "explain": "Restriction code B means corrective lenses are required; 'A' means no restrictions.",
+      "official": false,
+      "ref": "Georgia Drivers Manual (DDS online edition, 2026), Section 1 'General Licensing Information': 'License Restrictions'"
+    },
+    {
+      "id": "ga-262",
+      "topic": "licensing",
+      "q": "If an officer asks to see your license while you are driving, you must:",
+      "options": [
+        "Show it only if you were speeding",
+        "Show your license or permit",
+        "Mail it within 30 days",
+        "Refuse until you speak to a lawyer"
+      ],
+      "answer": 1,
+      "explain": "You must carry your license or permit while driving and display it to any law enforcement officer on request.",
+      "official": false,
+      "ref": "Georgia Drivers Manual (DDS online edition, 2026), Section 1 'General Licensing Information': 'Carrying and Displaying Your License'"
+    },
+    {
+      "id": "ga-263",
+      "topic": "licensing",
+      "q": "When you are pulled over by police, you should:",
+      "options": [
+        "Get out and walk to the police car",
+        "Search your glove box immediately",
+        "Signal, pull over safely, stay in the car and keep your hands visible",
+        "Keep driving to a well-lit place without signaling"
+      ],
+      "answer": 2,
+      "explain": "Pull over safely, turn off the engine, stay in the vehicle unless told otherwise, and keep your hands where the officer can see them.",
+      "official": false,
+      "ref": "Georgia Drivers Manual (DDS online edition, 2026), 'What to Do and Expect When Pulled Over by Police'"
+    },
+    {
+      "id": "ga-264",
+      "topic": "licensing",
+      "q": "A 17-year-old who can show proof of military enlistment:",
+      "options": [
+        "Must wait until age 18 to drive",
+        "Needs 80 hours of supervised driving",
+        "Must hold a permit for two years",
+        "Is exempt from holding a permit for one year and one day"
+      ],
+      "answer": 3,
+      "explain": "A 17-year-old with proof of military enlistment is exempt from the one-year-and-one-day permit requirement and receives a Class C license after the road test.",
+      "official": false,
+      "ref": "Georgia Drivers Manual (DDS online edition, 2026), Section 6 'Teen Driving Laws': 'Obtaining a Class D Provisional License'"
+    },
+    {
+      "id": "ga-265",
+      "topic": "emergencies",
+      "q": "After a crash, you must notify police immediately if anyone is injured or killed, or if property damage exceeds:",
+      "options": [
+        "$100",
+        "$2,500",
+        "$500",
+        "$1,000"
+      ],
+      "answer": 2,
+      "explain": "Notify the nearest law enforcement agency if anyone is injured or killed or damage is more than $500.",
+      "official": false,
+      "ref": "Georgia Drivers Manual (DDS online edition, 2026), Section 11 'Crashes': 'If You Are Involved In A Crash'"
+    },
+    {
+      "id": "ga-266",
+      "topic": "emergencies",
+      "q": "If you hit an unattended parked vehicle, you must:",
+      "options": [
+        "Wait one hour, then leave",
+        "Find the owner or leave your name, address and vehicle owner's name in a conspicuous place",
+        "Leave if the damage looks small",
+        "Call your insurer only"
+      ],
+      "answer": 1,
+      "explain": "Either locate the owner or leave a note with your name, address and the name of the vehicle owner where it can be found.",
+      "official": false,
+      "ref": "Georgia Drivers Manual (DDS online edition, 2026), Section 11 'Crashes': 'If You Are Involved In A Crash'"
+    },
+    {
+      "id": "ga-267",
+      "topic": "emergencies",
+      "q": "After a minor crash on a multilane highway with no serious injuries, if the cars can be driven you should:",
+      "options": [
+        "Push them into the median",
+        "Leave them where they are until police arrive",
+        "Leave the scene without exchanging information",
+        "Move them out of the travel lanes to the shoulder or another safe place"
+      ],
+      "answer": 3,
+      "explain": "Georgia law requires moving drivable vehicles off the roadway when there is no serious injury; doing so does not imply fault.",
+      "official": false,
+      "ref": "Georgia Drivers Manual (DDS online edition, 2026), Section 11 'Crashes': 'Moving Vehicles Following a Crash'"
+    },
+    {
+      "id": "ga-268",
+      "topic": "emergencies",
+      "q": "When helping an injured person at a crash scene, you should generally:",
+      "options": [
+        "Not move them unless absolutely necessary, and keep them warm",
+        "Lift them up so they can walk",
+        "Give them something to drink",
+        "Move them into your car"
+      ],
+      "answer": 0,
+      "explain": "Do not move or lift a victim unless absolutely necessary; stop bleeding with pressure and keep them warm.",
+      "official": false,
+      "ref": "Georgia Drivers Manual (DDS online edition, 2026), Section 11 'Crashes': 'Aiding the Injured'"
+    },
+    {
+      "id": "ga-269",
+      "topic": "emergencies",
+      "q": "Georgia's Good Samaritan Law:",
+      "options": [
+        "Protects people from civil damages when they give emergency care",
+        "Only covers doctors",
+        "Makes helpers pay medical bills",
+        "Requires bystanders to perform surgery"
+      ],
+      "answer": 0,
+      "explain": "The Good Samaritan Law holds people harmless for civil damages arising from rendering emergency care.",
+      "official": false,
+      "ref": "Georgia Drivers Manual (DDS online edition, 2026), Section 11 'Crashes': 'Aiding the Injured'"
+    },
+    {
+      "id": "ga-270",
+      "topic": "emergencies",
+      "q": "Your vehicle stalls on railroad tracks and a train may be coming. What should you do first?",
+      "options": [
+        "Push the car off the tracks",
+        "Get everyone out and move away from the tracks",
+        "Stay in the car with seat belts on",
+        "Try to restart the engine repeatedly"
+      ],
+      "answer": 1,
+      "explain": "Get out immediately and move away, then find the Emergency Notification System sign and call for help.",
+      "official": false,
+      "ref": "Georgia Drivers Manual (DDS online edition, 2026), Section 5 'Traffic Laws': 'Railroad Crossings'"
+    },
+    {
+      "id": "ga-271",
+      "topic": "emergencies",
+      "q": "When railroad crossing signals are flashing, you must stop:",
+      "options": [
+        "Within 5 feet of the rail",
+        "Right on the tracks",
+        "100 feet from the rail",
+        "Within 50 feet but not closer than 15 feet from the nearest rail"
+      ],
+      "answer": 3,
+      "explain": "Stop no more than 50 feet and no less than 15 feet from the nearest rail when signals flash, gates are down, or a train is near.",
+      "official": false,
+      "ref": "Georgia Drivers Manual (DDS online edition, 2026), Section 5 'Traffic Laws': 'Railroad Crossings'"
+    },
+    {
+      "id": "ga-272",
+      "topic": "emergencies",
+      "q": "The crossing gates are down but you do not see a train. What should you do?",
+      "options": [
+        "Go under the gates if they are high enough",
+        "Honk and proceed",
+        "Stay stopped until the gates rise and signals stop flashing",
+        "Drive around the gates carefully"
+      ],
+      "answer": 2,
+      "explain": "Never drive through, around or under a lowered crossing gate; wait until all tracks are clear and gates are raised.",
+      "official": false,
+      "ref": "Georgia Drivers Manual (DDS online edition, 2026), Section 5 'Traffic Laws': 'Railroad Crossings'"
+    },
+    {
+      "id": "ga-273",
+      "topic": "emergencies",
+      "q": "Before crossing railroad tracks, you should make sure:",
+      "options": [
+        "Your radio is loud",
+        "There is room on the other side to drive completely across without stopping",
+        "Your windows are closed",
+        "You shift into neutral"
+      ],
+      "answer": 1,
+      "explain": "'If it won't fit, don't commit' — do not enter a crossing unless you can drive completely through.",
+      "official": false,
+      "ref": "Georgia Drivers Manual (DDS online edition, 2026), Section 5 'Traffic Laws': 'Railroad Crossings'"
+    },
+    {
+      "id": "ga-274",
+      "topic": "emergencies",
+      "q": "If you have a tire blowout, you should:",
+      "options": [
+        "Speed up to keep control",
+        "Steer sharply onto the shoulder",
+        "Grip the wheel firmly, ease off the gas and let the car slow before moving to the shoulder",
+        "Brake hard immediately"
+      ],
+      "answer": 2,
+      "explain": "Hold the wheel firmly, take your foot off the accelerator, brake lightly if needed, and don't pull over until you have slowed greatly.",
+      "official": false,
+      "ref": "Georgia Drivers Manual (DDS online edition, 2026), Section 8 'Safety Guidelines': 'Tire Blow-Out'"
+    },
+    {
+      "id": "ga-275",
+      "topic": "emergencies",
+      "q": "If your brakes fail, which action does the manual recommend?",
+      "options": [
+        "Shift into neutral and coast",
+        "Turn off your headlights",
+        "Turn the ignition to lock",
+        "Shift to a lower gear and use the parking brake"
+      ],
+      "answer": 3,
+      "explain": "For brake failure: shift to a lower gear, use the parking brake, rub a tire against a curb if needed, and look for a safe place to stop.",
+      "official": false,
+      "ref": "Georgia Drivers Manual (DDS online edition, 2026), Section 8 'Safety Guidelines': 'Other Highway Emergencies'"
+    },
+    {
+      "id": "ga-276",
+      "topic": "emergencies",
+      "q": "If your accelerator sticks, which action is recommended?",
+      "options": [
+        "Shift to neutral, concentrate on steering, and brake",
+        "Open the door",
+        "Pump the gas pedal harder",
+        "Turn the key to the lock position"
+      ],
+      "answer": 0,
+      "explain": "For a jammed accelerator: slap the pedal, shift to neutral, steer, brake, and turn off the ignition (not to lock).",
+      "official": false,
+      "ref": "Georgia Drivers Manual (DDS online edition, 2026), Section 8 'Safety Guidelines': 'Other Highway Emergencies'"
+    },
+    {
+      "id": "ga-277",
+      "topic": "emergencies",
+      "q": "After driving through deep water, you should:",
+      "options": [
+        "Pump the gas pedal",
+        "Speed up to dry the tires",
+        "Test and dry your brakes by driving slowly while braking lightly",
+        "Turn on your hazard lights and stop"
+      ],
+      "answer": 2,
+      "explain": "Wet brakes may pull or fail; dry them by driving slowly in low gear while applying the brakes lightly.",
+      "official": false,
+      "ref": "Georgia Drivers Manual (DDS online edition, 2026), Section 8 'Safety Guidelines': 'Other Highway Emergencies'"
+    },
+    {
+      "id": "ga-278",
+      "topic": "emergencies",
+      "q": "Under Georgia's Safety Responsibility Law, if you receive a suspension order after an uninsured crash claim, you may request a hearing within:",
+      "options": [
+        "30 days",
+        "60 days",
+        "1 year",
+        "10 days of receiving the order"
+      ],
+      "answer": 3,
+      "explain": "You are entitled to a hearing if requested within ten days of receiving the suspension order.",
+      "official": false,
+      "ref": "Georgia Drivers Manual (DDS online edition, 2026), Section 10 'Losing Your Driving Privileges': 'Safety Responsibility Law'"
+    }
+  ],
+  "version": 1
+}

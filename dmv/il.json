@@ -1,0 +1,4267 @@
+{
+ "code": "il",
+ "test": "Illinois Secretary of State Written Driver's License Exam (Class D)",
+ "edition": "Based on the Illinois Rules of the Road 2026 edition (Illinois Secretary of State, DSD A 112.47, printed July 2026).",
+ "language": "en",
+ "exam": {
+  "questions": 35,
+  "passMark": 28,
+  "minutes": null,
+  "rules": "New Illinois drivers take the written exam at a Secretary of State Driver Services (DMV) facility, together with a vision screening, when applying for an instruction permit (teens 15–17 enrolled in driver education, or anyone 17 years 3 months or older) or a first Class D license; written-test results stay valid until the permit expires. The Class D exam has at least 35 questions and you need 80% (28 of 35) to pass. It is commonly given as 15 road-sign questions (identify signs by shape, color and symbol) plus 20 multiple-choice and true/false questions on traffic laws, safe driving, crash prevention and vehicle equipment. One application fee covers three attempts at each exam within one year, and a second attempt may be allowed the same day. Anyone caught cheating fails and must wait 30 days. Oral exams can be requested in person Monday through Thursday."
+ },
+ "sources": [
+  {
+   "title": "Illinois Rules of the Road 2026 (DSD A 112.47)",
+   "url": "https://roadready.press/illinois/drivers-handbook/download",
+   "licence": "state government publication (questions written in our own words)",
+   "note": "Copy of the Secretary of State PDF (metadata: title 'Rules of the Road 2026', author ILSOS, created July 2026; 113 pages), mirrored because the official ilsos.gov URL drops connections from our environment. Every answer key was re-checked against it; refs give chapter, section and page of the 2026 edition."
+  },
+  {
+   "title": "Illinois Rules of the Road (current edition, official page)",
+   "url": "https://www.ilsos.gov/content/dam/publications/pdf_publications/dsd_a112.pdf",
+   "licence": "state government publication (questions written in our own words)",
+   "note": "Official URL of the current (2026) edition; blocked by robots/proxy from our environment, so the identical-edition mirror above was used."
+  },
+  {
+   "title": "Ill. Admin. Code tit. 92, § 1030.80 — Driver's License Testing/Written Test",
+   "url": "https://www.law.cornell.edu/regulations/illinois/Ill-Admin-Code-tit-92-SS-1030.80",
+   "licence": "state regulation (public law)",
+   "note": "Official rule: Class D written test has at least 35 questions and 80% must be correct; cheating means a 30-day wait."
+  },
+  {
+   "title": "Ill. Admin. Code tit. 92, § 1030.86 — Multiple Attempts",
+   "url": "https://www.law.cornell.edu/regulations/illinois/Ill-Admin-Code-tit-92-SS-1030.86",
+   "licence": "state regulation (public law)",
+   "note": "Three attempts within one year per fee; a same-day second attempt may be allowed."
+  }
+ ],
+ "topics": [
+  {
+   "id": "licensing",
+   "title": "Permits & licensing"
+  },
+  {
+   "id": "signs",
+   "title": "Signs, signals & markings"
+  },
+  {
+   "id": "right-of-way",
+   "title": "Right of way"
+  },
+  {
+   "id": "speed",
+   "title": "Speed & following distance"
+  },
+  {
+   "id": "turns",
+   "title": "Turning, lanes & passing"
+  },
+  {
+   "id": "parking",
+   "title": "Parking"
+  },
+  {
+   "id": "sharing",
+   "title": "Sharing the road"
+  },
+  {
+   "id": "safety",
+   "title": "Safe driving & hazards"
+  },
+  {
+   "id": "alcohol",
+   "title": "Alcohol, drugs & penalties"
+  },
+  {
+   "id": "emergencies",
+   "title": "Emergencies & crashes"
+  },
+  {
+   "id": "equipment",
+   "title": "Vehicle equipment"
+  }
+ ],
+ "questions": [
+  {
+   "id": "il-001",
+   "topic": "licensing",
+   "q": "At what age can an Illinois teen enrolled in an approved driver education course first get an instruction permit?",
+   "options": [
+    "16",
+    "14",
+    "15 and a half",
+    "15"
+   ],
+   "answer": 3,
+   "explain": "Teens aged 15–17 can get an instruction permit with proof that they are enrolled (or will start within 30 days) in approved driver education.",
+   "official": false,
+   "ref": "Illinois Rules of the Road (2026), Ch. 3 Drivers Under Age 21, 'Obtaining an Instruction Permit' (p. 16)"
+  },
+  {
+   "id": "il-002",
+   "topic": "licensing",
+   "q": "A driver under 18 must hold an instruction permit for at least how long before getting a driver's license?",
+   "options": [
+    "Six months",
+    "Twelve months",
+    "Three months",
+    "Nine consecutive months"
+   ],
+   "answer": 3,
+   "explain": "Applicants aged 15–17 must hold the permit for at least nine consecutive months with no violations.",
+   "official": false,
+   "ref": "Illinois Rules of the Road (2026), Ch. 3 Drivers Under Age 21, 'Graduated Driver Licensing Program' (p. 18)"
+  },
+  {
+   "id": "il-003",
+   "topic": "licensing",
+   "q": "How many hours of supervised practice driving must a driver under 18 log before getting a license?",
+   "options": [
+    "40 hours, including 8 at night",
+    "60 hours, including 15 at night",
+    "50 hours, including 10 hours at night",
+    "25 hours, including 5 at night"
+   ],
+   "answer": 2,
+   "explain": "Illinois requires at least 50 hours of supervised behind-the-wheel practice, 10 of them at night, in addition to driver education.",
+   "official": false,
+   "ref": "Illinois Rules of the Road (2026), Ch. 3 Drivers Under Age 21, 'Obtaining an Instruction Permit' (p. 16)"
+  },
+  {
+   "id": "il-004",
+   "topic": "licensing",
+   "q": "Who may supervise an Illinois instruction permit holder outside of driver education class?",
+   "options": [
+    "A licensed adult aged 21 or older with at least one year of driving experience, seated in the front passenger seat",
+    "A licensed adult aged 19 or older seated in the back seat",
+    "Any licensed driver aged 18 or older seated anywhere in the vehicle",
+    "Any passenger aged 16 or older"
+   ],
+   "answer": 0,
+   "explain": "The supervising parent, guardian or responsible adult must be 21+, hold a valid license, have at least one year of experience and sit next to the driver.",
+   "official": false,
+   "ref": "Illinois Rules of the Road (2026), Ch. 3 Drivers Under Age 21, 'Obtaining an Instruction Permit' (p. 16)"
+  },
+  {
+   "id": "il-005",
+   "topic": "licensing",
+   "q": "During the permit phase, what are the nighttime driving restrictions on Friday and Saturday nights?",
+   "options": [
+    "No driving from 9 p.m. to 6 a.m.",
+    "No driving from midnight to 5 a.m.",
+    "No driving from 10 p.m. to 6 a.m.",
+    "No driving from 11 p.m. to 6 a.m."
+   ],
+   "answer": 3,
+   "explain": "Under GDL the night restriction is 10 p.m.–6 a.m. Sunday–Thursday and 11 p.m.–6 a.m. Friday–Saturday (local curfews may differ).",
+   "official": false,
+   "ref": "Illinois Rules of the Road (2026), Ch. 3 Drivers Under Age 21, 'Graduated Driver Licensing Program' (p. 18)"
+  },
+  {
+   "id": "il-006",
+   "topic": "licensing",
+   "q": "For drivers under 18, what are the nighttime driving restrictions Sunday through Thursday?",
+   "options": [
+    "No driving from 10 p.m. to 6 a.m.",
+    "No driving from 9 p.m. to 5 a.m.",
+    "No driving from midnight to 6 a.m.",
+    "No driving from 11 p.m. to 6 a.m."
+   ],
+   "answer": 0,
+   "explain": "The GDL night restriction is 10 p.m.–6 a.m. on Sunday–Thursday nights for permit holders and initial-phase licensees.",
+   "official": false,
+   "ref": "Illinois Rules of the Road (2026), Ch. 3 Drivers Under Age 21, 'Graduated Driver Licensing Program' (p. 18)"
+  },
+  {
+   "id": "il-007",
+   "topic": "licensing",
+   "q": "During the first 12 months of the Initial Licensing Phase (or until age 18), how many passengers under age 20 may a teen driver carry, not counting siblings or the driver's children?",
+   "options": [
+    "Two",
+    "Three",
+    "None",
+    "One"
+   ],
+   "answer": 3,
+   "explain": "For the first 12 months or until 18, passengers under 20 are limited to one, unless they are siblings, step-siblings, children or step-children.",
+   "official": false,
+   "ref": "Illinois Rules of the Road (2026), Ch. 3 Drivers Under Age 21, 'Graduated Driver Licensing Program' (p. 18)"
+  },
+  {
+   "id": "il-008",
+   "topic": "licensing",
+   "q": "During the permit phase, what passenger limit applies?",
+   "options": [
+    "Up to three passengers in total, regardless of belts",
+    "One passenger in the front seat, and no more back-seat passengers than there are safety belts",
+    "No passengers other than the supervising adult",
+    "Two passengers in the front seat and any number in the back"
+   ],
+   "answer": 1,
+   "explain": "Permit holders are limited to one front-seat passenger and to the number of safety belts in the back seat.",
+   "official": false,
+   "ref": "Illinois Rules of the Road (2026), Ch. 3 Drivers Under Age 21, 'Graduated Driver Licensing Program' (p. 18)"
+  },
+  {
+   "id": "il-009",
+   "topic": "licensing",
+   "q": "A 17-year-old with a graduated license wants to use a hands-free phone to call a friend while driving. Is this legal in Illinois?",
+   "options": [
+    "Yes, if the call lasts under two minutes",
+    "Yes, but only on roads posted 45 mph or less",
+    "Yes, hands-free calls are legal for all licensed drivers",
+    "No, drivers under 19 may not use any phone, even hands-free, except to report an emergency"
+   ],
+   "answer": 3,
+   "explain": "Any wireless phone use, including hands-free, is banned for drivers under 19 except emergency calls to police, health care or emergency services.",
+   "official": false,
+   "ref": "Illinois Rules of the Road (2026), Ch. 3 Drivers Under Age 21, 'Graduated Driver Licensing Program' (p. 18)"
+  },
+  {
+   "id": "il-010",
+   "topic": "licensing",
+   "q": "To move out of the Initial Licensing Phase on time, a teen driver must keep a conviction-free record for how long before turning 18?",
+   "options": [
+    "Six months",
+    "Three months",
+    "Nine months",
+    "Twelve months"
+   ],
+   "answer": 0,
+   "explain": "A conviction-free record for the six months before turning 18 is required; a conviction can extend the restrictions past 18.",
+   "official": false,
+   "ref": "Illinois Rules of the Road (2026), Ch. 3 Drivers Under Age 21, 'Graduated Driver Licensing Program' (p. 18)"
+  },
+  {
+   "id": "il-011",
+   "topic": "licensing",
+   "q": "A 19-year-old who has never been licensed and never took driver education wants a first Illinois license. What must they complete first?",
+   "options": [
+    "Nothing extra; only the exams are required",
+    "A six-hour Adult Driver Education Course from a Secretary of State certified provider",
+    "A 50-hour supervised driving log",
+    "A 30-hour high school driver education course"
+   ],
+   "answer": 1,
+   "explain": "First-time applicants aged 18–20 without prior driver education must finish a six-hour certified Adult Driver Education Course.",
+   "official": false,
+   "ref": "Illinois Rules of the Road (2026), Ch. 3 Drivers Under Age 21, 'First-Time Drivers — Age 18-20' (p. 18)"
+  },
+  {
+   "id": "il-012",
+   "topic": "licensing",
+   "q": "At what age can an Illinois teen apply for an instruction permit without taking a driver education course?",
+   "options": [
+    "16 years and 6 months",
+    "17 years and 3 months",
+    "16 years",
+    "18 years"
+   ],
+   "answer": 1,
+   "explain": "Applicants who are 17 years and 3 months or older may get a permit without enrolling in driver education.",
+   "official": false,
+   "ref": "Illinois Rules of the Road (2026), Ch. 3 Drivers Under Age 21, 'Obtaining an Instruction Permit' (p. 16)"
+  },
+  {
+   "id": "il-013",
+   "topic": "licensing",
+   "q": "Someone who moves to Illinois with a valid out-of-state license must get an Illinois license within how many days (or before the old license expires, if sooner)?",
+   "options": [
+    "30 days",
+    "180 days",
+    "60 days",
+    "90 days"
+   ],
+   "answer": 3,
+   "explain": "A new Illinois resident has 90 days to switch to an Illinois license, or less if the old license runs out sooner.",
+   "official": false,
+   "ref": "Illinois Rules of the Road (2026), Ch. 1 Illinois Driver's License, 'Exemptions' (p. 5)"
+  },
+  {
+   "id": "il-014",
+   "topic": "licensing",
+   "q": "How soon must you notify the Secretary of State after moving to a new address?",
+   "options": [
+    "Only when your license is renewed",
+    "Within 60 days",
+    "Within 30 days",
+    "Within 10 days"
+   ],
+   "answer": 3,
+   "explain": "Address changes must be reported within 10 days of the move, in person, online or by mail.",
+   "official": false,
+   "ref": "Illinois Rules of the Road (2026), Ch. 1 Illinois Driver's License, 'Changing the Name/Address on an Illinois Driver's License/ID Card' (p. 6)"
+  },
+  {
+   "id": "il-015",
+   "topic": "licensing",
+   "q": "What minimum visual acuity is needed for an Illinois driver's license without restrictions on daylight driving?",
+   "options": [
+    "20/60 with glasses",
+    "20/20 without glasses",
+    "20/100 in the better eye",
+    "20/40, with or without corrective lenses"
+   ],
+   "answer": 3,
+   "explain": "The minimum is 20/40; acuity between 20/41 and 20/70 limits the driver to daylight driving only.",
+   "official": false,
+   "ref": "Illinois Rules of the Road (2026), Ch. 2 Driver's License Exams, 'Vision Screening' (p. 13)"
+  },
+  {
+   "id": "il-016",
+   "topic": "licensing",
+   "q": "A driver whose best visual acuity is 20/60 may be licensed with what restriction?",
+   "options": [
+    "Driving only with another licensed adult",
+    "No restriction at all",
+    "Daylight driving only",
+    "Expressway driving only"
+   ],
+   "answer": 2,
+   "explain": "Acuity between 20/41 and 20/70 restricts the driver to daylight driving.",
+   "official": false,
+   "ref": "Illinois Rules of the Road (2026), Ch. 2 Driver's License Exams, 'Vision Screening' (p. 13)"
+  },
+  {
+   "id": "il-017",
+   "topic": "licensing",
+   "q": "How many attempts does one Illinois driver's license application fee give you to pass each exam?",
+   "options": [
+    "Unlimited attempts within six months",
+    "Three attempts within one year",
+    "One attempt",
+    "Two attempts within 30 days"
+   ],
+   "answer": 1,
+   "explain": "Applicants get three attempts to pass each exam within one year of paying the application fee.",
+   "official": false,
+   "ref": "Illinois Rules of the Road (2026), Ch. 2 Driver's License Exams, 'Driver's License Exams' (p. 13)"
+  },
+  {
+   "id": "il-018",
+   "topic": "licensing",
+   "q": "What happens to an applicant caught cheating on the written exam?",
+   "options": [
+    "They lose their permit for six months but may retest the same day",
+    "They get one warning and may continue",
+    "They must wait one year to retest",
+    "They fail and cannot retake the exam for 30 days"
+   ],
+   "answer": 3,
+   "explain": "A cheater fails the exam and is barred from retaking it for 30 days.",
+   "official": false,
+   "ref": "Illinois Rules of the Road (2026), Ch. 2 Driver's License Exams, 'Cheating and Bribery' (p. 13)"
+  },
+  {
+   "id": "il-019",
+   "topic": "licensing",
+   "q": "A license issued to a driver under 21 expires when?",
+   "options": [
+    "On the driver's 21st birthday",
+    "Three months after the driver's 21st birthday",
+    "Four years after issue, regardless of age",
+    "On the driver's 18th birthday"
+   ],
+   "answer": 1,
+   "explain": "Licenses for drivers under 21 expire three months after the 21st birthday.",
+   "official": false,
+   "ref": "Illinois Rules of the Road (2026), Ch. 1 Illinois Driver's License, 'Driver's License/ID Card Renewal' (p. 8)"
+  },
+  {
+   "id": "il-020",
+   "topic": "licensing",
+   "q": "Until what age can the parent or guardian who signed consent cancel a minor's driver's license?",
+   "options": [
+    "Only during the first six months of licensing",
+    "Until the driver turns 21",
+    "Until the driver turns 16 and a half",
+    "Until the driver turns 18"
+   ],
+   "answer": 3,
+   "explain": "Until the teen turns 18, the parent or guardian who gave consent can ask the Secretary of State to cancel the license for any reason.",
+   "official": false,
+   "ref": "Illinois Rules of the Road (2026), Ch. 3 Drivers Under Age 21, 'Parental Responsibility' (p. 19)"
+  },
+  {
+   "id": "il-021",
+   "topic": "licensing",
+   "q": "A driver under 21 is convicted of two moving violations within 24 months. What is the result?",
+   "options": [
+    "A written warning only",
+    "A $50 fine with no effect on the license",
+    "License suspension for at least 30 days",
+    "Automatic revocation for five years"
+   ],
+   "answer": 2,
+   "explain": "Two or more moving violations within 24 months for a driver under 21 brings a suspension of at least 30 days.",
+   "official": false,
+   "ref": "Illinois Rules of the Road (2026), Ch. 3 Drivers Under Age 21, 'Related Laws' (p. 20)"
+  },
+  {
+   "id": "il-022",
+   "topic": "licensing",
+   "q": "To receive court supervision for a traffic violation, a driver under 21 must do what?",
+   "options": [
+    "Complete 50 more hours of supervised driving",
+    "Retake the driving exam",
+    "Pay double the normal fine",
+    "Attend traffic safety school (and appear with a parent or guardian if under 18)"
+   ],
+   "answer": 3,
+   "explain": "Drivers under 21 are limited to one court supervision and must attend traffic safety school; those under 18 must appear with a parent or guardian.",
+   "official": false,
+   "ref": "Illinois Rules of the Road (2026), Ch. 3 Drivers Under Age 21, 'Related Laws' (p. 19)"
+  },
+  {
+   "id": "il-023",
+   "topic": "licensing",
+   "q": "If you develop a medical condition likely to cause a loss of consciousness, how soon must you notify the Secretary of State?",
+   "options": [
+    "Only if you are involved in a crash",
+    "Within 10 days of becoming aware of it",
+    "Within 30 days",
+    "At your next renewal"
+   ],
+   "answer": 1,
+   "explain": "Drivers must report such a condition within 10 days; failing to do so can lead to cancellation of the license.",
+   "official": false,
+   "ref": "Illinois Rules of the Road (2026), Ch. 1 Illinois Driver's License, 'Medical Report' (p. 10)"
+  },
+  {
+   "id": "il-024",
+   "topic": "licensing",
+   "q": "Under Illinois law, an adult driver's license may be suspended after how many traffic violation convictions within 12 months?",
+   "options": [
+    "Two",
+    "Six",
+    "Five",
+    "Three"
+   ],
+   "answer": 3,
+   "explain": "Three traffic violation convictions in a 12-month period can result in suspension (two in 24 months for drivers under 21).",
+   "official": false,
+   "ref": "Illinois Rules of the Road (2026), Ch. 8 Revocation, Suspension, Denial and Cancellation, 'Suspension' (p. 60)"
+  },
+  {
+   "id": "il-025",
+   "topic": "licensing",
+   "q": "What are the minimum liability insurance limits required for vehicles in Illinois?",
+   "options": [
+    "$10,000 / $20,000 / $5,000",
+    "$15,000 / $30,000 / $10,000",
+    "$25,000 per person injured, $50,000 per crash for injuries, $20,000 property damage",
+    "$50,000 / $100,000 / $25,000"
+   ],
+   "answer": 2,
+   "explain": "Illinois minimums are $25,000 for one person's injury/death, $50,000 for more than one person, and $20,000 for property damage.",
+   "official": false,
+   "ref": "Illinois Rules of the Road (2026), Ch. 13 Owning a Vehicle, 'Mandatory Insurance' (p. 98)"
+  },
+  {
+   "id": "il-026",
+   "topic": "licensing",
+   "q": "What is the penalty for a conviction of driving without the required insurance?",
+   "options": [
+    "Loss of driving privileges for one month",
+    "A warning letter only",
+    "Loss of driving privileges for at least three months and a $100 reinstatement fee",
+    "A permanent revocation"
+   ],
+   "answer": 2,
+   "explain": "A mandatory insurance conviction brings at least a three-month suspension and a $100 reinstatement fee, with no driving permit available.",
+   "official": false,
+   "ref": "Illinois Rules of the Road (2026), Ch. 7 Traffic Violations/Crashes, 'Safety Responsibility Law' (p. 55)"
+  },
+  {
+   "id": "il-027",
+   "topic": "signs",
+   "q": "What must you do at this sign?",
+   "options": [
+    "Slow down and proceed without stopping if no one is coming",
+    "Stop only if another vehicle is approaching",
+    "Come to a complete stop, then yield to pedestrians and traffic before going",
+    "Sound your horn and continue"
+   ],
+   "answer": 2,
+   "explain": "This octagon requires a full stop at the stop line, or before the crosswalk or intersection if there is no line.",
+   "official": false,
+   "ref": "Illinois Rules of the Road (2026), Ch. 9 Roadway Signs, 'Regulatory Signs' (p. 65)",
+   "image": "signs/stop.png"
+  },
+  {
+   "id": "il-028",
+   "topic": "signs",
+   "q": "What does this sign require?",
+   "options": [
+    "Speed up to enter traffic ahead of others",
+    "Merge without changing speed because others must yield to you",
+    "Slow down and give the right of way to vehicles and pedestrians, stopping if necessary",
+    "Always come to a full stop"
+   ],
+   "answer": 2,
+   "explain": "This triangle means you must let all traffic and pedestrians go first, stopping if needed.",
+   "official": false,
+   "ref": "Illinois Rules of the Road (2026), Ch. 9 Roadway Signs, 'Regulatory Signs' (p. 65)",
+   "image": "signs/yield.png"
+  },
+  {
+   "id": "il-029",
+   "topic": "signs",
+   "q": "Where would you typically see this sign and what does it mean?",
+   "options": [
+    "At a school; children may be crossing",
+    "At a closed parking lot; slow down",
+    "Before a toll plaza; prepare to stop",
+    "At a one-way street or wrong-direction ramp entrance; you may not enter"
+   ],
+   "answer": 3,
+   "explain": "This sign marks one-way roadways and ramps you are not allowed to enter.",
+   "official": false,
+   "ref": "Illinois Rules of the Road (2026), Ch. 9 Roadway Signs, 'Regulatory Signs' (p. 65)",
+   "image": "signs/do-not-enter.png"
+  },
+  {
+   "id": "il-030",
+   "topic": "signs",
+   "q": "If you see this sign while driving, what has happened?",
+   "options": [
+    "You are entering a one-lane bridge",
+    "The road ahead is closed for construction",
+    "You are traveling the wrong direction and must turn back safely",
+    "You have missed your exit"
+   ],
+   "answer": 2,
+   "explain": "This sign tells you your vehicle is going the wrong way, often on an expressway ramp or one-way street.",
+   "official": false,
+   "ref": "Illinois Rules of the Road (2026), Ch. 9 Roadway Signs, 'Regulatory Signs' (p. 66)",
+   "image": "signs/wrong-way.png"
+  },
+  {
+   "id": "il-031",
+   "topic": "signs",
+   "q": "What does this sign tell you?",
+   "options": [
+    "The maximum legal speed under good conditions is 55 mph",
+    "The suggested speed for trucks only",
+    "The minimum speed is 55 mph at all times",
+    "You must drive exactly 55 mph"
+   ],
+   "answer": 0,
+   "explain": "Speed limit signs show the maximum speed; you must go slower when conditions require.",
+   "official": false,
+   "ref": "Illinois Rules of the Road (2026), Ch. 9 Roadway Signs, 'Regulatory Signs' (p. 66)",
+   "image": "signs/speed-limit-55.png"
+  },
+  {
+   "id": "il-032",
+   "topic": "signs",
+   "q": "What does this sign mean?",
+   "options": [
+    "The left lane ends ahead",
+    "Left turns are allowed only on red",
+    "Left turns are not allowed here",
+    "Keep left of the island ahead"
+   ],
+   "answer": 2,
+   "explain": "A red circle with a slash means the action shown is not allowed; here, a left turn.",
+   "official": false,
+   "ref": "Illinois Rules of the Road (2026), Ch. 9 Roadway Signs, 'Regulatory Signs' (p. 66)",
+   "image": "signs/no-left-turn.png"
+  },
+  {
+   "id": "il-033",
+   "topic": "signs",
+   "q": "At an intersection with this sign, what is prohibited?",
+   "options": [
+    "Turning when the signal is green",
+    "Turning while the signal shows red",
+    "Stopping on red",
+    "Driving straight through on red after a stop"
+   ],
+   "answer": 1,
+   "explain": "This sign forbids a right turn on red (and a left on red from one one-way street to another).",
+   "official": false,
+   "ref": "Illinois Rules of the Road (2026), Ch. 9 Roadway Signs, 'Regulatory Signs' (p. 67)",
+   "image": "signs/no-turn-on-red.png"
+  },
+  {
+   "id": "il-034",
+   "topic": "signs",
+   "q": "What does this sign tell you?",
+   "options": [
+    "Detour in the direction of the arrow",
+    "Passing is allowed in the direction of the arrow",
+    "The road ahead turns in the direction of the arrow",
+    "Traffic on this street may travel only in the direction of the arrow"
+   ],
+   "answer": 3,
+   "explain": "A one-way sign means traffic may move only the way the arrow points.",
+   "official": false,
+   "ref": "Illinois Rules of the Road (2026), Ch. 9 Roadway Signs, 'Regulatory Signs' (p. 67)",
+   "image": "signs/one-way.png"
+  },
+  {
+   "id": "il-035",
+   "topic": "signs",
+   "q": "What does this sign require when you approach a traffic island or median?",
+   "options": [
+    "Drive to the left of the obstruction",
+    "Drive to the right of the obstruction",
+    "Make a U-turn around the island",
+    "Stop before the island"
+   ],
+   "answer": 1,
+   "explain": "This sign tells you to keep to the side shown by the arrow, the right, around islands, medians or obstructions.",
+   "official": false,
+   "ref": "Illinois Rules of the Road (2026), Ch. 9 Roadway Signs, 'Regulatory Signs' (p. 67)",
+   "image": "signs/keep-right.png"
+  },
+  {
+   "id": "il-036",
+   "topic": "signs",
+   "q": "What does this sign mean on a two-lane road?",
+   "options": [
+    "Do not stop on the shoulder",
+    "You may not pass other vehicles here",
+    "Passing is allowed with care",
+    "Trucks may not use this lane"
+   ],
+   "answer": 1,
+   "explain": "This sign marks a section where passing is prohibited; yellow no-passing lines are also used.",
+   "official": false,
+   "ref": "Illinois Rules of the Road (2026), Ch. 9 Roadway Signs, 'Regulatory Signs' (p. 68)",
+   "image": "signs/do-not-pass.png"
+  },
+  {
+   "id": "il-037",
+   "topic": "signs",
+   "q": "What does this sign tell you?",
+   "options": [
+    "You must pass slower vehicles now",
+    "Use extra care because the lane narrows",
+    "The no-passing zone has ended; you may pass when it is safe",
+    "Passing is prohibited ahead"
+   ],
+   "answer": 2,
+   "explain": "This sign marks the end of a no-passing zone; pass only when safe.",
+   "official": false,
+   "ref": "Illinois Rules of the Road (2026), Ch. 9 Roadway Signs, 'Regulatory Signs' (p. 68)",
+   "image": "signs/pass-with-care.png"
+  },
+  {
+   "id": "il-038",
+   "topic": "signs",
+   "q": "Who may park in a space marked with this sign?",
+   "options": [
+    "Vehicles displaying disability license plates or parking placards",
+    "Only electric vehicles that are charging",
+    "Any vehicle for up to 15 minutes",
+    "Any vehicle with its hazard lights on"
+   ],
+   "answer": 0,
+   "explain": "These spaces are reserved for vehicles showing Persons with Disabilities plates or parking placards (qualifying veteran plates are also allowed).",
+   "official": false,
+   "ref": "Illinois Rules of the Road (2026), Ch. 9 Roadway Signs, 'Other Special Signs' (p. 74)",
+   "image": "signs/handicapped-parking.png"
+  },
+  {
+   "id": "il-039",
+   "topic": "signs",
+   "q": "How should you treat this sign at a railroad crossing?",
+   "options": [
+    "Like a yield sign: give the right of way to any approaching train",
+    "Like a green light",
+    "Like a stop sign that requires stopping every time",
+    "As information only"
+   ],
+   "answer": 0,
+   "explain": "A crossbuck is considered a yield sign; you must yield to oncoming trains and railroad equipment.",
+   "official": false,
+   "ref": "Illinois Rules of the Road (2026), Ch. 10 Traffic Signals and Pavement Markings, 'Railroad Crossings' (p. 81)",
+   "image": "signs/railroad-crossbuck.png"
+  },
+  {
+   "id": "il-040",
+   "topic": "signs",
+   "q": "This plaque appears below a stop sign. What does it tell you?",
+   "options": [
+    "All vehicles must turn",
+    "Traffic from every direction must stop; the first to stop goes first",
+    "You may turn right without stopping",
+    "Only cross traffic has to stop"
+   ],
+   "answer": 1,
+   "explain": "It means every approach has a stop sign; drivers proceed in the order they stopped.",
+   "official": false,
+   "ref": "Illinois Rules of the Road (2026), Ch. 9 Roadway Signs, 'Regulatory Signs' (p. 65)",
+   "image": "signs/all-way.png"
+  },
+  {
+   "id": "il-041",
+   "topic": "signs",
+   "q": "On a multilane highway, what does this sign mean?",
+   "options": [
+    "All traffic must stay right except trucks",
+    "Right turns only from the right lane",
+    "Drivers going slower than the normal flow should use the right lane",
+    "The right lane is ending"
+   ],
+   "answer": 2,
+   "explain": "Slower drivers on multilane highways must use the right lane.",
+   "official": false,
+   "ref": "Illinois Rules of the Road (2026), Ch. 9 Roadway Signs, 'Regulatory Signs' (p. 67)",
+   "image": "signs/slower-traffic-keep-right.png"
+  },
+  {
+   "id": "il-042",
+   "topic": "signs",
+   "q": "What does this warning sign mean?",
+   "options": [
+    "Keep right of the island",
+    "Turn right at the next intersection",
+    "Right lane ends",
+    "The road curves to the right ahead"
+   ],
+   "answer": 3,
+   "explain": "Curve signs warn you of the direction of the road ahead; reduce speed before the curve.",
+   "official": false,
+   "ref": "Illinois Rules of the Road (2026), Ch. 9 Roadway Signs, 'Warning Signs' (p. 70)",
+   "image": "signs/curve-right.png"
+  },
+  {
+   "id": "il-043",
+   "topic": "signs",
+   "q": "What does this sign warn of?",
+   "options": [
+    "A railroad crossing",
+    "A four-lane divided highway",
+    "A crossroad intersection ahead",
+    "A hospital nearby"
+   ],
+   "answer": 2,
+   "explain": "This cross symbol warns that another road crosses yours ahead; watch for cross traffic.",
+   "official": false,
+   "ref": "Illinois Rules of the Road (2026), Ch. 9 Roadway Signs, 'Warning Signs' (p. 70)",
+   "image": "signs/intersection-ahead.png"
+  },
+  {
+   "id": "il-044",
+   "topic": "signs",
+   "q": "What does this sign mean?",
+   "options": [
+    "The road you are on ends ahead; you must turn left or right",
+    "A side road enters from the right",
+    "A dead-end alley on the left",
+    "The road divides into two lanes"
+   ],
+   "answer": 0,
+   "explain": "A T-intersection sign warns that your road ends at a crossing road and a turn will be required.",
+   "official": false,
+   "ref": "Illinois Rules of the Road (2026), Ch. 9 Roadway Signs, 'Warning Signs' (p. 70)",
+   "image": "signs/t-intersection.png"
+  },
+  {
+   "id": "il-045",
+   "topic": "signs",
+   "q": "What should you be ready to do when you see this sign?",
+   "options": [
+    "Speed up to block merging traffic",
+    "Change lanes immediately to the left",
+    "Adjust speed so traffic entering from the right can merge safely",
+    "Stop and wait for all merging traffic"
+   ],
+   "answer": 2,
+   "explain": "Merge signs warn that two streams of traffic will join; be ready to allow vehicles into your lane.",
+   "official": false,
+   "ref": "Illinois Rules of the Road (2026), Ch. 9 Roadway Signs, 'Warning Signs' (p. 72)",
+   "image": "signs/merge-right.png"
+  },
+  {
+   "id": "il-046",
+   "topic": "signs",
+   "q": "What does this sign indicate on a multilane road?",
+   "options": [
+    "The road narrows to one lane for both directions",
+    "The right lane ends ahead; be prepared to merge left",
+    "The left lane ends ahead",
+    "A new lane is added on the right"
+   ],
+   "answer": 1,
+   "explain": "Lane-reduction signs warn that the number of lanes is decreasing; change lanes or let others merge.",
+   "official": false,
+   "ref": "Illinois Rules of the Road (2026), Ch. 9 Roadway Signs, 'Warning Signs' (p. 71)",
+   "image": "signs/lane-ends-left.png"
+  },
+  {
+   "id": "il-047",
+   "topic": "signs",
+   "q": "What does this sign mean?",
+   "options": [
+    "The divided highway ends ahead",
+    "Keep left at the fork",
+    "A divided highway begins ahead; keep to the right of the median",
+    "A two-lane bridge ahead"
+   ],
+   "answer": 2,
+   "explain": "This sign is posted before a center strip begins separating opposing traffic.",
+   "official": false,
+   "ref": "Illinois Rules of the Road (2026), Ch. 9 Roadway Signs, 'Warning Signs' (p. 72)",
+   "image": "signs/divided-hwy-begins.png"
+  },
+  {
+   "id": "il-048",
+   "topic": "signs",
+   "q": "What does this sign warn you about?",
+   "options": [
+    "A fire station",
+    "A railroad crossing with lights",
+    "A road-work flagger",
+    "A traffic signal ahead that may not yet be visible"
+   ],
+   "answer": 3,
+   "explain": "Signal-ahead signs give early warning so you can begin slowing for an upcoming traffic light.",
+   "official": false,
+   "ref": "Illinois Rules of the Road (2026), Ch. 9 Roadway Signs, 'Warning Signs' (p. 69)",
+   "image": "signs/signal-ahead.png"
+  },
+  {
+   "id": "il-049",
+   "topic": "signs",
+   "q": "What does this sign mean?",
+   "options": [
+    "Car wash entrance",
+    "The road is slippery when wet; slow down in wet weather",
+    "Sharp curves ahead",
+    "Loose gravel only"
+   ],
+   "answer": 1,
+   "explain": "This sign warns of pavement that can make you lose control when wet; it takes longer to stop.",
+   "official": false,
+   "ref": "Illinois Rules of the Road (2026), Ch. 9 Roadway Signs, 'Warning Signs' (p. 70)",
+   "image": "signs/slippery-when-wet.png"
+  },
+  {
+   "id": "il-050",
+   "topic": "signs",
+   "q": "What should you do when you see this sign?",
+   "options": [
+    "Reduce speed before starting down a steep or long downgrade",
+    "Speed up to climb the hill",
+    "Watch for falling rocks",
+    "Shift to neutral to save fuel"
+   ],
+   "answer": 0,
+   "explain": "The downgrade sign warns of a dangerous hill; slow down before you begin the descent.",
+   "official": false,
+   "ref": "Illinois Rules of the Road (2026), Ch. 9 Roadway Signs, 'Warning Signs' (p. 71)",
+   "image": "signs/hill.png"
+  },
+  {
+   "id": "il-051",
+   "topic": "signs",
+   "q": "What does this sign tell you?",
+   "options": [
+    "A school zone with a 20 mph limit",
+    "A shopping area is ahead",
+    "A pedestrian crosswalk is ahead; watch for people crossing",
+    "Pedestrians are not allowed on this road"
+   ],
+   "answer": 2,
+   "explain": "Pedestrian crossing signs warn of crosswalks, which are not always at intersections.",
+   "official": false,
+   "ref": "Illinois Rules of the Road (2026), Ch. 9 Roadway Signs, 'Warning Signs' (p. 68)",
+   "image": "signs/pedestrian-crossing.png"
+  },
+  {
+   "id": "il-052",
+   "topic": "signs",
+   "q": "This five-sided sign means what?",
+   "options": [
+    "A pedestrian mall ahead",
+    "A school zone or school crossing is near; watch for children",
+    "School buses must stop here",
+    "A playground with no speed limit"
+   ],
+   "answer": 1,
+   "explain": "Pentagon-shaped signs mark school zones and school crossings.",
+   "official": false,
+   "ref": "Illinois Rules of the Road (2026), Ch. 9 Roadway Signs, 'Shapes of Signs' (p. 64)",
+   "image": "signs/school-zone.png"
+  },
+  {
+   "id": "il-053",
+   "topic": "signs",
+   "q": "What does this round yellow sign mean?",
+   "options": [
+    "A railroad crossing is ahead; slow down, look and listen",
+    "A train station is nearby",
+    "You must stop at the sign",
+    "A railroad runs parallel to the road"
+   ],
+   "answer": 0,
+   "explain": "This advance warning sign may be up to 750 feet before the crossing in rural areas.",
+   "official": false,
+   "ref": "Illinois Rules of the Road (2026), Ch. 9 Roadway Signs, 'Shapes of Signs' (p. 63)",
+   "image": "signs/railroad-advance.png"
+  },
+  {
+   "id": "il-054",
+   "topic": "signs",
+   "q": "This pennant-shaped sign is posted on the left side of a two-lane road. What does it mean?",
+   "options": [
+    "The left lane is closed",
+    "A passing lane begins ahead",
+    "A sharp left curve",
+    "A no-passing zone begins here"
+   ],
+   "answer": 3,
+   "explain": "The yellow pennant marks the start of a no-passing zone on two-lane, two-way roads.",
+   "official": false,
+   "ref": "Illinois Rules of the Road (2026), Ch. 9 Roadway Signs, 'Shapes of Signs' (p. 64)",
+   "image": "signs/no-passing-zone.png"
+  },
+  {
+   "id": "il-055",
+   "topic": "signs",
+   "q": "This small plaque is mounted under a curve warning sign. What does it tell you?",
+   "options": [
+    "The posted speed limit for the whole highway",
+    "The advised maximum safe speed for the curve",
+    "The distance to the curve in feet",
+    "The minimum speed on the curve"
+   ],
+   "answer": 1,
+   "explain": "A speed plaque below a curve or turn arrow shows the maximum safe speed for that curve.",
+   "official": false,
+   "ref": "Illinois Rules of the Road (2026), Ch. 9 Roadway Signs, 'Warning Signs' (p. 70)",
+   "image": "signs/advisory-speed-35.png"
+  },
+  {
+   "id": "il-056",
+   "topic": "signs",
+   "q": "What does an orange diamond sign like this mean?",
+   "options": [
+    "A detour has ended",
+    "There is construction or maintenance work ahead; slow down and be alert",
+    "A slow-moving farm vehicle ahead",
+    "A recreation area is ahead"
+   ],
+   "answer": 1,
+   "explain": "Orange warning signs mark construction and maintenance zones; obey the work-zone speed limit.",
+   "official": false,
+   "ref": "Illinois Rules of the Road (2026), Ch. 9 Roadway Signs, 'Construction and Maintenance Signs' (p. 72)",
+   "image": "signs/road-work-ahead.png"
+  },
+  {
+   "id": "il-057",
+   "topic": "signs",
+   "q": "What should you do after seeing this sign?",
+   "options": [
+    "Honk to alert the workers",
+    "Change lanes without signaling",
+    "Slow down and be ready to obey a flagger's signals, including stopping",
+    "Proceed at normal speed since flaggers only direct trucks"
+   ],
+   "answer": 2,
+   "explain": "This sign warns of a flagger ahead; you must stop if signaled to do so.",
+   "official": false,
+   "ref": "Illinois Rules of the Road (2026), Ch. 9 Roadway Signs, 'Construction and Maintenance Signs' (p. 73)",
+   "image": "signs/flagger-ahead.png"
+  },
+  {
+   "id": "il-058",
+   "topic": "signs",
+   "q": "You are behind a vehicle displaying this emblem. What does it mean?",
+   "options": [
+    "The vehicle moves slowly; slow down and pass only when safe and legal",
+    "The vehicle is about to turn left",
+    "The vehicle is a school bus",
+    "The vehicle is carrying hazardous materials"
+   ],
+   "answer": 0,
+   "explain": "The orange triangle marks slow-moving vehicles, which usually travel 5–20 mph.",
+   "official": false,
+   "ref": "Illinois Rules of the Road (2026), Ch. 9 Roadway Signs, 'Other Special Signs' (p. 74)",
+   "image": "signs/slow-moving-vehicle.png"
+  },
+  {
+   "id": "il-059",
+   "topic": "signs",
+   "q": "You are stopped at this signal and want to turn right. What does Illinois law allow?",
+   "options": [
+    "Never turn until the light turns green",
+    "Turn right only if a police officer waves you through",
+    "Turn right without stopping if no one is coming",
+    "After a complete stop, turn right after yielding to pedestrians and traffic unless a sign forbids it"
+   ],
+   "answer": 3,
+   "explain": "Illinois allows a right turn on red after a full stop and yielding, unless a sign prohibits it.",
+   "official": false,
+   "ref": "Illinois Rules of the Road (2026), Ch. 10 Traffic Signals and Pavement Markings, 'Traffic Signals' (p. 77)",
+   "image": "signs/signal-red.png"
+  },
+  {
+   "id": "il-060",
+   "topic": "signs",
+   "q": "What must you do when you approach this signal?",
+   "options": [
+    "Stop completely, yield to traffic and pedestrians, then go when safe",
+    "Stop and wait until it turns green",
+    "Speed up to clear the intersection",
+    "Slow down and proceed with caution without stopping"
+   ],
+   "answer": 0,
+   "explain": "A flashing red light is treated like a stop sign.",
+   "official": false,
+   "ref": "Illinois Rules of the Road (2026), Ch. 10 Traffic Signals and Pavement Markings, 'Traffic Signals' (p. 77)",
+   "image": "signs/signal-flashing-red.png"
+  },
+  {
+   "id": "il-061",
+   "topic": "signs",
+   "q": "What does this signal mean?",
+   "options": [
+    "The signal is broken; treat it as an all-way stop",
+    "Pedestrians have the right of way only",
+    "Proceed with caution",
+    "Stop and wait for green"
+   ],
+   "answer": 2,
+   "explain": "A flashing yellow light means you may proceed into the intersection with caution.",
+   "official": false,
+   "ref": "Illinois Rules of the Road (2026), Ch. 10 Traffic Signals and Pavement Markings, 'Traffic Signals' (p. 77)",
+   "image": "signs/signal-flashing-yellow.png"
+  },
+  {
+   "id": "il-062",
+   "topic": "signs",
+   "q": "What does this green arrow allow?",
+   "options": [
+    "A left turn in the direction of the arrow, after yielding to anyone still in the intersection or crosswalk",
+    "A U-turn only",
+    "Going straight only",
+    "A left turn only after stopping first"
+   ],
+   "answer": 0,
+   "explain": "A green arrow allows the movement shown once you yield to traffic and pedestrians already in the intersection.",
+   "official": false,
+   "ref": "Illinois Rules of the Road (2026), Ch. 10 Traffic Signals and Pavement Markings, 'Traffic Signals' (p. 78)",
+   "image": "signs/signal-green-arrow-left.png"
+  },
+  {
+   "id": "il-063",
+   "topic": "signs",
+   "q": "With a solid and a broken yellow line between opposing lanes, when may you pass?",
+   "options": [
+    "Only when the solid line is on your side",
+    "Only when the broken line is on your side",
+    "Whenever no traffic is coming",
+    "Never"
+   ],
+   "answer": 1,
+   "explain": "Passing is allowed only from the side next to the broken yellow line; the solid line on the other side means no passing.",
+   "official": false,
+   "ref": "Illinois Rules of the Road (2026), Ch. 10 Traffic Signals and Pavement Markings, 'Pavement Markings' (p. 80)",
+   "image": "signs/lines-solid-and-broken-yellow.png"
+  },
+  {
+   "id": "il-064",
+   "topic": "signs",
+   "q": "Two solid yellow center lines separate opposing traffic. When may you cross them?",
+   "options": [
+    "Only to turn left into or out of an alley, driveway, private road or street",
+    "To pass a slow vehicle when the road is clear",
+    "Never, under any circumstance",
+    "To pass a bicyclist only"
+   ],
+   "answer": 0,
+   "explain": "Double solid yellow lines mark the center of the road and may be crossed only to turn left.",
+   "official": false,
+   "ref": "Illinois Rules of the Road (2026), Ch. 10 Traffic Signals and Pavement Markings, 'Pavement Markings' (p. 79)",
+   "image": "signs/lines-double-yellow.png"
+  },
+  {
+   "id": "il-065",
+   "topic": "signs",
+   "q": "What is the center lane marked like this used for?",
+   "options": [
+    "Left turns (and legal U-turns) by traffic from either direction",
+    "Through traffic during rush hour",
+    "Emergency stopping",
+    "Passing slower traffic"
+   ],
+   "answer": 0,
+   "explain": "A two-way left turn lane may be used only to prepare for or make a left turn or permitted U-turn.",
+   "official": false,
+   "ref": "Illinois Rules of the Road (2026), Ch. 10 Traffic Signals and Pavement Markings, 'Pavement Markings' (p. 80)",
+   "image": "signs/lines-two-way-left-turn.png"
+  },
+  {
+   "id": "il-066",
+   "topic": "signs",
+   "q": "What do broken white lines like these separate?",
+   "options": [
+    "A bike lane from a parking lane",
+    "Lanes moving in opposite directions",
+    "The road from the shoulder",
+    "Lanes of traffic moving in the same direction"
+   ],
+   "answer": 3,
+   "explain": "Broken white lines separate same-direction lanes; cross them only to change lanes or turn.",
+   "official": false,
+   "ref": "Illinois Rules of the Road (2026), Ch. 10 Traffic Signals and Pavement Markings, 'Pavement Markings' (p. 79)",
+   "image": "signs/lines-white-broken.png"
+  },
+  {
+   "id": "il-067",
+   "topic": "signs",
+   "q": "What does an eight-sided (octagon) sign always mean?",
+   "options": [
+    "Warning",
+    "Yield",
+    "Stop",
+    "School zone"
+   ],
+   "answer": 2,
+   "explain": "Only stop signs use the octagon shape.",
+   "official": false,
+   "ref": "Illinois Rules of the Road (2026), Ch. 9 Roadway Signs, 'Shapes of Signs' (p. 63)"
+  },
+  {
+   "id": "il-068",
+   "topic": "signs",
+   "q": "What color are signs used in construction and maintenance work zones?",
+   "options": [
+    "Orange",
+    "Brown",
+    "Blue",
+    "Yellow-green"
+   ],
+   "answer": 0,
+   "explain": "Orange warning signs alert you to construction and maintenance work.",
+   "official": false,
+   "ref": "Illinois Rules of the Road (2026), Ch. 9 Roadway Signs, 'Colors of Signs' (p. 64)"
+  },
+  {
+   "id": "il-069",
+   "topic": "signs",
+   "q": "Fluorescent yellow-green warning signs are used mainly for what?",
+   "options": [
+    "Construction zones",
+    "Interstate route numbers",
+    "Service areas",
+    "Pedestrian, bicycle, school and playground crossings"
+   ],
+   "answer": 3,
+   "explain": "Yellow-green signs mark pedestrian and bicycle crossings, playgrounds, school bus stops and school zones.",
+   "official": false,
+   "ref": "Illinois Rules of the Road (2026), Ch. 9 Roadway Signs, 'Colors of Signs' (p. 64)"
+  },
+  {
+   "id": "il-070",
+   "topic": "signs",
+   "q": "You face a steady red arrow pointing right. Under Illinois law you may:",
+   "options": [
+    "Never turn until a green arrow appears",
+    "Turn right after stopping completely and yielding to traffic and pedestrians",
+    "Turn right without stopping",
+    "Turn left instead"
+   ],
+   "answer": 1,
+   "explain": "Illinois allows a right turn on a red arrow after a full stop and yielding.",
+   "official": false,
+   "ref": "Illinois Rules of the Road (2026), Ch. 10 Traffic Signals and Pavement Markings, 'Traffic Signals' (p. 78)"
+  },
+  {
+   "id": "il-071",
+   "topic": "signs",
+   "q": "A traffic signal at an intersection is not working at all. What should you do?",
+   "options": [
+    "Proceed carefully without stopping",
+    "Follow the vehicle in front through the intersection",
+    "Treat it as an all-way stop: stop, then yield before entering",
+    "Treat it as a yield sign"
+   ],
+   "answer": 2,
+   "explain": "When signals are out, treat the intersection as an all-way stop unless an officer directs otherwise.",
+   "official": false,
+   "ref": "Illinois Rules of the Road (2026), Ch. 10 Traffic Signals and Pavement Markings, 'Traffic Signals' (p. 77)"
+  },
+  {
+   "id": "il-072",
+   "topic": "right-of-way",
+   "q": "Two vehicles arrive at a four-way stop at the same time on different roads. Who should go first?",
+   "options": [
+    "The vehicle on the right",
+    "The vehicle on the left",
+    "The larger vehicle",
+    "The vehicle going straight, always"
+   ],
+   "answer": 0,
+   "explain": "When two vehicles arrive at the same time, the one on the left yields to the one on the right.",
+   "official": false,
+   "ref": "Illinois Rules of the Road (2026), Ch. 4 Traffic Laws, 'Right of Way' (p. 26)"
+  },
+  {
+   "id": "il-073",
+   "topic": "right-of-way",
+   "q": "At a four-way stop, three vehicles stop at different times. Which goes first?",
+   "options": [
+    "The vehicle turning right",
+    "The vehicle that honks first",
+    "The vehicle that stopped first",
+    "The vehicle on the far right"
+   ],
+   "answer": 2,
+   "explain": "At an all-way stop, the first driver to stop is the first to go.",
+   "official": false,
+   "ref": "Illinois Rules of the Road (2026), Ch. 4 Traffic Laws, 'Right of Way' (p. 26)"
+  },
+  {
+   "id": "il-074",
+   "topic": "right-of-way",
+   "q": "At an uncontrolled intersection, two vehicles on different roads arrive at the same time. What is the rule?",
+   "options": [
+    "The faster vehicle goes first",
+    "The driver on the right yields to the driver on the left",
+    "Both must stop and wait for a signal",
+    "The driver on the left yields to the driver on the right"
+   ],
+   "answer": 3,
+   "explain": "With no signs or signals, the vehicle on the left yields to the vehicle on the right.",
+   "official": false,
+   "ref": "Illinois Rules of the Road (2026), Ch. 4 Traffic Laws, 'Right of Way' (p. 26)"
+  },
+  {
+   "id": "il-075",
+   "topic": "right-of-way",
+   "q": "You are on the road that ends at a T-intersection with no signs or signals. Who has the right of way?",
+   "options": [
+    "Whoever is on the right",
+    "Traffic on the through road; you must yield",
+    "You do, because you are turning",
+    "Whoever is driving faster"
+   ],
+   "answer": 1,
+   "explain": "The driver on the terminating road of a T-intersection must yield to cross traffic.",
+   "official": false,
+   "ref": "Illinois Rules of the Road (2026), Ch. 4 Traffic Laws, 'Right of Way' (p. 26)"
+  },
+  {
+   "id": "il-076",
+   "topic": "right-of-way",
+   "q": "You are turning left at a green light. Whom must you yield to?",
+   "options": [
+    "Oncoming traffic and pedestrians in the crosswalk",
+    "Only vehicles turning right",
+    "Only emergency vehicles",
+    "No one, because the light is green"
+   ],
+   "answer": 0,
+   "explain": "Drivers turning left must yield to oncoming traffic and to pedestrians.",
+   "official": false,
+   "ref": "Illinois Rules of the Road (2026), Ch. 4 Traffic Laws, 'Right of Way' (p. 26)"
+  },
+  {
+   "id": "il-077",
+   "topic": "right-of-way",
+   "q": "You entered an intersection on green to turn left and the light turns red while you wait for oncoming traffic. What should you do?",
+   "options": [
+    "Stay in the intersection until the next green",
+    "Turn right instead",
+    "Complete the turn when oncoming traffic clears",
+    "Back up out of the intersection"
+   ],
+   "answer": 2,
+   "explain": "If you entered while the light was green, you may finish the turn even after it turns red.",
+   "official": false,
+   "ref": "Illinois Rules of the Road (2026), Ch. 4 Traffic Laws, 'Right of Way' (p. 26)"
+  },
+  {
+   "id": "il-078",
+   "topic": "right-of-way",
+   "q": "Your light turns green, but a car is still crossing the intersection. What must you do?",
+   "options": [
+    "Wait and yield to vehicles still in the intersection",
+    "Honk and proceed",
+    "Drive around the vehicle",
+    "Go immediately because you have the green"
+   ],
+   "answer": 0,
+   "explain": "You must yield to vehicles in the intersection even after your light turns green.",
+   "official": false,
+   "ref": "Illinois Rules of the Road (2026), Ch. 4 Traffic Laws, 'Right of Way' (p. 26)"
+  },
+  {
+   "id": "il-079",
+   "topic": "right-of-way",
+   "q": "You are leaving a private driveway in a city to enter the street. What is required?",
+   "options": [
+    "Stop before the sidewalk area and yield to pedestrians and all vehicles",
+    "Sound the horn and enter",
+    "Stop only if a pedestrian is visible",
+    "Slow down and enter if the street looks clear"
+   ],
+   "answer": 0,
+   "explain": "In urban areas you must stop before the sidewalk when leaving an alley, building, private road or driveway, then yield.",
+   "official": false,
+   "ref": "Illinois Rules of the Road (2026), Ch. 4 Traffic Laws, 'Special Stops' (p. 34)"
+  },
+  {
+   "id": "il-080",
+   "topic": "right-of-way",
+   "q": "An emergency vehicle using its siren and flashing lights approaches you from behind. What does Illinois law require?",
+   "options": [
+    "Pull to the right side of the road immediately and stop if needed until it passes",
+    "Move to the left lane",
+    "Speed up to stay ahead of it",
+    "Stop immediately in your lane"
+   ],
+   "answer": 0,
+   "explain": "Drivers must immediately pull to the right and allow the emergency vehicle to pass, stopping if necessary.",
+   "official": false,
+   "ref": "Illinois Rules of the Road (2026), Ch. 4 Traffic Laws, 'Construction Zones, Emergency Vehicles...' (p. 25)"
+  },
+  {
+   "id": "il-081",
+   "topic": "right-of-way",
+   "q": "You are approaching a police car stopped on the shoulder with its emergency lights flashing. What does Illinois law require?",
+   "options": [
+    "Honk to warn the officer",
+    "Keep your lane and speed",
+    "Stop behind the police car",
+    "Change to a lane away from it if possible, slow down and proceed with caution"
+   ],
+   "answer": 3,
+   "explain": "For stationary emergency or maintenance vehicles with flashing lights, move away when possible, reduce speed and use caution.",
+   "official": false,
+   "ref": "Illinois Rules of the Road (2026), Ch. 4 Traffic Laws, 'Construction Zones, Emergency Vehicles...' (p. 25)"
+  },
+  {
+   "id": "il-082",
+   "topic": "right-of-way",
+   "q": "Within what distance of an emergency scene does Illinois law generally prohibit using a phone or taking photos while driving?",
+   "options": [
+    "1,000 feet",
+    "500 feet",
+    "100 feet",
+    "50 feet"
+   ],
+   "answer": 1,
+   "explain": "Illinois bans phone use and taking photos while driving within 500 feet of an emergency scene, with limited exceptions.",
+   "official": false,
+   "ref": "Illinois Rules of the Road (2026), Ch. 4 Traffic Laws, 'Construction Zones, Emergency Vehicles...' (p. 25)"
+  },
+  {
+   "id": "il-083",
+   "topic": "right-of-way",
+   "q": "You meet a funeral procession at an intersection. What should you do?",
+   "options": [
+    "Join the procession to get through",
+    "Cut through gaps between procession vehicles",
+    "Proceed if your light is green",
+    "Yield to all vehicles in the procession"
+   ],
+   "answer": 3,
+   "explain": "Drivers must yield to all vehicles in a funeral procession and must not drive between them.",
+   "official": false,
+   "ref": "Illinois Rules of the Road (2026), Ch. 4 Traffic Laws, 'Construction Zones, Emergency Vehicles...' (p. 26)"
+  },
+  {
+   "id": "il-084",
+   "topic": "right-of-way",
+   "q": "A pedestrian is in a marked crosswalk ahead of you. What must you do?",
+   "options": [
+    "Proceed if they are not in your lane",
+    "Honk so they hurry",
+    "Stop and yield to the pedestrian",
+    "Slow down and drive around them"
+   ],
+   "answer": 2,
+   "explain": "Drivers must stop and yield when a pedestrian is in a marked crosswalk.",
+   "official": false,
+   "ref": "Illinois Rules of the Road (2026), Ch. 4 Traffic Laws, 'Right of Way' (p. 27)"
+  },
+  {
+   "id": "il-085",
+   "topic": "right-of-way",
+   "q": "There is no traffic signal, and a pedestrian is crossing in an unmarked crosswalk on your side of the road. What must you do?",
+   "options": [
+    "Yield to the pedestrian",
+    "Flash your headlights and proceed",
+    "Continue, because the crosswalk is not marked",
+    "Only yield if the pedestrian is a child"
+   ],
+   "answer": 0,
+   "explain": "Drivers must yield to pedestrians in an unmarked crosswalk on the driver's side of the road when there are no signals.",
+   "official": false,
+   "ref": "Illinois Rules of the Road (2026), Ch. 4 Traffic Laws, 'Right of Way' (p. 27)"
+  },
+  {
+   "id": "il-086",
+   "topic": "right-of-way",
+   "q": "A pedestrian using a white cane or guide dog is crossing the street. What is your duty?",
+   "options": [
+    "Yield the right of way",
+    "Drive around them slowly",
+    "Proceed if the pedestrian is outside a crosswalk",
+    "Honk to alert them"
+   ],
+   "answer": 0,
+   "explain": "Pedestrians with disabilities using a white cane, guide dog or other aid have the right of way.",
+   "official": false,
+   "ref": "Illinois Rules of the Road (2026), Ch. 5 Sharing the Road, 'Pedestrians' (p. 40)"
+  },
+  {
+   "id": "il-087",
+   "topic": "right-of-way",
+   "q": "A pedestrian started crossing before your light turned green. What should you do?",
+   "options": [
+    "Honk and proceed",
+    "Drive around behind the pedestrian",
+    "Let the pedestrian finish crossing",
+    "Go, because your light is green"
+   ],
+   "answer": 2,
+   "explain": "You must yield to a pedestrian who entered the crosswalk before the light changed.",
+   "official": false,
+   "ref": "Illinois Rules of the Road (2026), Ch. 4 Traffic Laws, 'Right of Way' (p. 27)"
+  },
+  {
+   "id": "il-088",
+   "topic": "right-of-way",
+   "q": "When entering a roundabout, whom must you yield to?",
+   "options": [
+    "No one; entering traffic has priority",
+    "Only large trucks",
+    "All traffic already in the roundabout, plus pedestrians and bicyclists",
+    "Only vehicles on your right"
+   ],
+   "answer": 2,
+   "explain": "Vehicles entering or exiting a roundabout must yield to all traffic, pedestrians and bicycles.",
+   "official": false,
+   "ref": "Illinois Rules of the Road (2026), Ch. 4 Traffic Laws, 'Rotary and Roundabout' (p. 32)"
+  },
+  {
+   "id": "il-089",
+   "topic": "right-of-way",
+   "q": "In which direction does traffic travel in an Illinois roundabout?",
+   "options": [
+    "Either direction",
+    "Whichever way the first driver chooses",
+    "Counterclockwise",
+    "Clockwise"
+   ],
+   "answer": 2,
+   "explain": "Traffic circulates counterclockwise around the central island; you enter by turning right.",
+   "official": false,
+   "ref": "Illinois Rules of the Road (2026), Ch. 4 Traffic Laws, 'Rotary and Roundabout' (p. 32)"
+  },
+  {
+   "id": "il-090",
+   "topic": "right-of-way",
+   "q": "You are turning on a flashing yellow left-turn arrow. What must you do?",
+   "options": [
+    "Turn only if no one is behind you",
+    "Turn only after yielding to oncoming traffic and pedestrians",
+    "Stop and wait for the arrow to turn green",
+    "Turn immediately; you have a protected turn"
+   ],
+   "answer": 1,
+   "explain": "A flashing yellow arrow permits the turn only after yielding to pedestrians and oncoming vehicles.",
+   "official": false,
+   "ref": "Illinois Rules of the Road (2026), Ch. 10 Traffic Signals and Pavement Markings, 'Traffic Signals' (p. 78)"
+  },
+  {
+   "id": "il-091",
+   "topic": "right-of-way",
+   "q": "You may not enter an intersection or marked crosswalk unless:",
+   "options": [
+    "The light is yellow",
+    "You are going straight",
+    "You sound your horn first",
+    "There is enough room on the other side for your vehicle"
+   ],
+   "answer": 3,
+   "explain": "Do not enter an intersection or crosswalk unless there is space to clear it without blocking others.",
+   "official": false,
+   "ref": "Illinois Rules of the Road (2026), Ch. 4 Traffic Laws, 'Right of Way' (p. 26)"
+  },
+  {
+   "id": "il-092",
+   "topic": "right-of-way",
+   "q": "You approach a disabled vehicle with its hazard lights flashing on a four-lane highway. What does Illinois law require?",
+   "options": [
+    "Stop behind it to help",
+    "Use the shoulder to pass",
+    "Change lanes away from it if safe; otherwise slow down while passing",
+    "Keep your speed and lane"
+   ],
+   "answer": 2,
+   "explain": "Drivers must move away from a disabled vehicle using hazard lights when it is safe, or reduce speed when passing it.",
+   "official": false,
+   "ref": "Illinois Rules of the Road (2026), Ch. 5 Sharing the Road, 'Disabled Vehicles' (p. 45)"
+  },
+  {
+   "id": "il-093",
+   "topic": "right-of-way",
+   "q": "On a highway with a YIELD sign at an entrance ramp, what is your responsibility?",
+   "options": [
+    "Merge at your current speed regardless of gaps",
+    "Stop at the sign every time",
+    "Adjust speed and let through traffic go before you merge",
+    "Through traffic must make room for you"
+   ],
+   "answer": 2,
+   "explain": "At a yield or merge, you must slow or stop as needed to avoid a crash with through traffic.",
+   "official": false,
+   "ref": "Illinois Rules of the Road (2026), Ch. 9 Roadway Signs, 'Regulatory Signs' (p. 65)"
+  },
+  {
+   "id": "il-094",
+   "topic": "right-of-way",
+   "q": "When does a pedestrian crossing in the middle of a block (not at a crosswalk) have to yield?",
+   "options": [
+    "Only at night",
+    "Only on one-way streets",
+    "Always: pedestrians outside a crosswalk must yield to vehicles",
+    "Never: pedestrians always have the right of way"
+   ],
+   "answer": 2,
+   "explain": "Pedestrians crossing anywhere other than a marked or unmarked crosswalk must give the right of way to drivers, though drivers should still be prepared to stop.",
+   "official": false,
+   "ref": "Illinois Rules of the Road (2026), Ch. 5 Sharing the Road, 'Pedestrians' (p. 40)"
+  },
+  {
+   "id": "il-095",
+   "topic": "right-of-way",
+   "q": "On school days, when must you stop and yield at a school zone crosswalk?",
+   "options": [
+    "Never, if the signal is green",
+    "Only between 7 and 8 a.m.",
+    "Only when a crossing guard is present",
+    "When children or adults are in or near the crosswalk"
+   ],
+   "answer": 3,
+   "explain": "In a school zone you must stop and yield to children or adults in the crosswalk area.",
+   "official": false,
+   "ref": "Illinois Rules of the Road (2026), Ch. 4 Traffic Laws, 'Construction Zones, Emergency Vehicles...' (p. 26)"
+  },
+  {
+   "id": "il-096",
+   "topic": "speed",
+   "q": "Unless another limit is posted, what is the speed limit on Illinois interstates and tollways?",
+   "options": [
+    "70 mph",
+    "55 mph",
+    "65 mph",
+    "75 mph"
+   ],
+   "answer": 0,
+   "explain": "Interstates and tollways have a 70 mph limit unless otherwise posted.",
+   "official": false,
+   "ref": "Illinois Rules of the Road (2026), Ch. 4 Traffic Laws, 'Speed Limits' (p. 24)"
+  },
+  {
+   "id": "il-097",
+   "topic": "speed",
+   "q": "Unless posted otherwise, what is the speed limit on an Illinois four-lane highway?",
+   "options": [
+    "55 mph",
+    "70 mph",
+    "60 mph",
+    "65 mph"
+   ],
+   "answer": 3,
+   "explain": "Four-lane highways have a 65 mph limit unless otherwise posted.",
+   "official": false,
+   "ref": "Illinois Rules of the Road (2026), Ch. 4 Traffic Laws, 'Speed Limits' (p. 24)"
+  },
+  {
+   "id": "il-098",
+   "topic": "speed",
+   "q": "Unless posted otherwise, what is the speed limit on other highways and in rural areas?",
+   "options": [
+    "65 mph",
+    "45 mph",
+    "50 mph",
+    "55 mph"
+   ],
+   "answer": 3,
+   "explain": "Other highways and rural areas are limited to 55 mph unless otherwise posted.",
+   "official": false,
+   "ref": "Illinois Rules of the Road (2026), Ch. 4 Traffic Laws, 'Speed Limits' (p. 24)"
+  },
+  {
+   "id": "il-099",
+   "topic": "speed",
+   "q": "Unless posted otherwise, what is the speed limit in Illinois cities and towns?",
+   "options": [
+    "30 mph",
+    "20 mph",
+    "35 mph",
+    "25 mph"
+   ],
+   "answer": 0,
+   "explain": "The default limit in city and town areas is 30 mph.",
+   "official": false,
+   "ref": "Illinois Rules of the Road (2026), Ch. 4 Traffic Laws, 'Speed Limits' (p. 24)"
+  },
+  {
+   "id": "il-100",
+   "topic": "speed",
+   "q": "What is the speed limit in an alley in Illinois?",
+   "options": [
+    "10 mph",
+    "20 mph",
+    "15 mph",
+    "5 mph"
+   ],
+   "answer": 2,
+   "explain": "Alleys have a 15 mph limit unless otherwise posted.",
+   "official": false,
+   "ref": "Illinois Rules of the Road (2026), Ch. 4 Traffic Laws, 'Speed Limits' (p. 24)"
+  },
+  {
+   "id": "il-101",
+   "topic": "speed",
+   "q": "What is the school zone speed limit in Illinois when children are present and signs are posted?",
+   "options": [
+    "15 mph",
+    "20 mph",
+    "25 mph",
+    "30 mph"
+   ],
+   "answer": 1,
+   "explain": "In a posted school zone the limit is 20 mph on school days when children are present.",
+   "official": false,
+   "ref": "Illinois Rules of the Road (2026), Ch. 4 Traffic Laws, 'Speed Limits' (p. 24)"
+  },
+  {
+   "id": "il-102",
+   "topic": "speed",
+   "q": "During what hours does the 20 mph school zone limit apply on school days?",
+   "options": [
+    "24 hours a day",
+    "6:30 a.m. to 4 p.m., when children are present",
+    "7 a.m. to 3 p.m. at all times",
+    "8 a.m. to 5 p.m. only"
+   ],
+   "answer": 1,
+   "explain": "The reduced school speed applies on school days between 6:30 a.m. and 4 p.m. when children are present and signs are posted.",
+   "official": false,
+   "ref": "Illinois Rules of the Road (2026), Ch. 4 Traffic Laws, 'Speed Limits' (p. 24)"
+  },
+  {
+   "id": "il-103",
+   "topic": "speed",
+   "q": "When does a posted construction zone speed limit apply?",
+   "options": [
+    "Only on weekdays",
+    "Only during daylight",
+    "Only when workers are visible",
+    "24 hours a day, seven days a week, whether or not workers are present"
+   ],
+   "answer": 3,
+   "explain": "Construction zone speed limits must be obeyed at all times, regardless of the presence of workers.",
+   "official": false,
+   "ref": "Illinois Rules of the Road (2026), Ch. 4 Traffic Laws, 'Construction Zones, Emergency Vehicles...' (p. 25)"
+  },
+  {
+   "id": "il-104",
+   "topic": "speed",
+   "q": "A second conviction for speeding in a construction zone with workers present within two years results in what?",
+   "options": [
+    "A smaller fine than the first",
+    "Suspension of your driver's license",
+    "Mandatory driver education only",
+    "A warning letter"
+   ],
+   "answer": 1,
+   "explain": "A second work-zone speeding violation within two years when workers are present leads to suspension.",
+   "official": false,
+   "ref": "Illinois Rules of the Road (2026), Ch. 8 Revocation, Suspension, Denial and Cancellation, 'Suspension' (p. 60)"
+  },
+  {
+   "id": "il-105",
+   "topic": "speed",
+   "q": "What is the 'three-second rule' used for?",
+   "options": [
+    "Deciding how long to signal",
+    "Judging a safe following distance behind the vehicle ahead",
+    "Measuring how long to look in mirrors",
+    "Timing a stop at a stop sign"
+   ],
+   "answer": 1,
+   "explain": "Pick a fixed object; if you reach it before counting three seconds after the car ahead passes it, you are too close.",
+   "official": false,
+   "ref": "Illinois Rules of the Road (2026), Ch. 11 Safe Driving Tips, 'Following Distances' (p. 83)"
+  },
+  {
+   "id": "il-106",
+   "topic": "speed",
+   "q": "According to the handbook, what causes most rear-end crashes?",
+   "options": [
+    "Brake failure",
+    "Following too closely (tailgating)",
+    "Driving too slowly",
+    "Bright headlights"
+   ],
+   "answer": 1,
+   "explain": "Tailgating is the cause of most rear-end crashes.",
+   "official": false,
+   "ref": "Illinois Rules of the Road (2026), Ch. 11 Safe Driving Tips, 'Following Distances' (p. 83)"
+  },
+  {
+   "id": "il-107",
+   "topic": "speed",
+   "q": "When roads are wet or weather is poor, how should you change your following distance?",
+   "options": [
+    "Keep exactly three seconds",
+    "Following distance does not depend on weather",
+    "Reduce it to two seconds",
+    "Increase it beyond three seconds"
+   ],
+   "answer": 3,
+   "explain": "The three-second rule is for good roads and weather; increase the distance when conditions are poor.",
+   "official": false,
+   "ref": "Illinois Rules of the Road (2026), Ch. 11 Safe Driving Tips, 'Following Distances' (p. 83)"
+  },
+  {
+   "id": "il-108",
+   "topic": "speed",
+   "q": "If you double your speed, what happens to your stopping distance?",
+   "options": [
+    "It doubles",
+    "It triples",
+    "It becomes about four times as long",
+    "It stays the same"
+   ],
+   "answer": 2,
+   "explain": "Doubling speed quadruples the stopping distance.",
+   "official": false,
+   "ref": "Illinois Rules of the Road (2026), Ch. 11 Safe Driving Tips, 'Vehicle Speed' (p. 84)"
+  },
+  {
+   "id": "il-109",
+   "topic": "speed",
+   "q": "At 55 mph, about how many feet does a vehicle travel in one second?",
+   "options": [
+    "55 feet",
+    "81 feet",
+    "37 feet",
+    "120 feet"
+   ],
+   "answer": 1,
+   "explain": "At 55 mph a vehicle covers about 81 feet each second, so three seconds is about 243 feet.",
+   "official": false,
+   "ref": "Illinois Rules of the Road (2026), Ch. 11 Safe Driving Tips, 'Following Distances' (p. 83)"
+  },
+  {
+   "id": "il-110",
+   "topic": "speed",
+   "q": "Using the three-second rule at 70 mph, about how far back should you be from the vehicle ahead?",
+   "options": [
+    "About 111 feet",
+    "About 500 feet",
+    "About 200 feet",
+    "About 309 feet"
+   ],
+   "answer": 3,
+   "explain": "At 70 mph a car travels about 103 feet per second, so three seconds is roughly 309 feet.",
+   "official": false,
+   "ref": "Illinois Rules of the Road (2026), Ch. 11 Safe Driving Tips, 'Following Distances' (p. 83)"
+  },
+  {
+   "id": "il-111",
+   "topic": "speed",
+   "q": "If no minimum speed is posted, how slowly may you drive?",
+   "options": [
+    "Not so slowly that you block the normal flow of traffic",
+    "No slower than half the speed limit",
+    "No slower than 45 mph anywhere",
+    "As slowly as you like"
+   ],
+   "answer": 0,
+   "explain": "Even without a posted minimum, you must not drive so slowly that you interfere with normal traffic movement.",
+   "official": false,
+   "ref": "Illinois Rules of the Road (2026), Ch. 4 Traffic Laws, 'Speed Limits' (p. 24)"
+  },
+  {
+   "id": "il-112",
+   "topic": "speed",
+   "q": "When must you slow down below the posted limit?",
+   "options": [
+    "Only at night",
+    "When approaching intersections, curves or hilltops, or on narrow winding roads and in poor weather",
+    "Never, if the limit is posted",
+    "Only when a police officer is present"
+   ],
+   "answer": 1,
+   "explain": "You must slow when approaching and crossing intersections, curves and hills and when conditions are unfavorable.",
+   "official": false,
+   "ref": "Illinois Rules of the Road (2026), Ch. 4 Traffic Laws, 'Speed Limits' (p. 24)"
+  },
+  {
+   "id": "il-113",
+   "topic": "speed",
+   "q": "What is the maximum speed of a low-speed vehicle, and on what streets may it be driven?",
+   "options": [
+    "15 mph, on sidewalks only",
+    "35 mph, on any road except interstates",
+    "45 mph, on rural highways only",
+    "25 mph maximum, on streets posted 30 mph or less unless locally prohibited"
+   ],
+   "answer": 3,
+   "explain": "Low-speed vehicles are capped at 25 mph and may use streets posted 30 mph or less.",
+   "official": false,
+   "ref": "Illinois Rules of the Road (2026), Ch. 5 Sharing the Road, 'Low-Speed Vehicles' (p. 46)"
+  },
+  {
+   "id": "il-114",
+   "topic": "speed",
+   "q": "When you are being tailgated, what is the best response?",
+   "options": [
+    "Turn on your high beams",
+    "Speed up to get away",
+    "Brake suddenly to warn them",
+    "Move to another lane or pull over safely and let the driver pass"
+   ],
+   "answer": 3,
+   "explain": "Let the tailgater pass by changing lanes or pulling off; slamming on the brakes is aggressive driving.",
+   "official": false,
+   "ref": "Illinois Rules of the Road (2026), Ch. 11 Safe Driving Tips, 'Following Distances' (p. 83)"
+  },
+  {
+   "id": "il-115",
+   "topic": "speed",
+   "q": "On a freeway, what do signs showing both a maximum and a minimum speed mean?",
+   "options": [
+    "The minimum is only a suggestion",
+    "You may exceed the maximum to pass",
+    "Trucks must drive the minimum",
+    "Driving below the minimum is illegal unless necessary for safety"
+   ],
+   "answer": 3,
+   "explain": "Driving slower than a posted minimum speed is illegal unless needed for safety.",
+   "official": false,
+   "ref": "Illinois Rules of the Road (2026), Ch. 9 Roadway Signs, 'Regulatory Signs' (p. 66)"
+  },
+  {
+   "id": "il-116",
+   "topic": "speed",
+   "q": "In thick fog, what does the handbook advise?",
+   "options": [
+    "Use cruise control to keep a steady speed",
+    "Use high beams to see farther",
+    "Slow down, use low beams or fog lights, and pull off the road if the fog is too dense",
+    "Follow the tail lights ahead closely"
+   ],
+   "answer": 2,
+   "explain": "In fog, slow down, use dim lights or fog lights, don't overdrive your lights, and pull off and stop if it is too dense.",
+   "official": false,
+   "ref": "Illinois Rules of the Road (2026), Ch. 11 Safe Driving Tips, 'Weather Conditions' (p. 84)"
+  },
+  {
+   "id": "il-117",
+   "topic": "speed",
+   "q": "When leaving a construction zone, when may you resume normal speed?",
+   "options": [
+    "Once the cones narrow",
+    "Once you are safely past any workers or work vehicles",
+    "Immediately after the flagger",
+    "As soon as the first orange sign is behind you"
+   ],
+   "answer": 1,
+   "explain": "Keep a reduced speed until you are safely past workers and authorized vehicles.",
+   "official": false,
+   "ref": "Illinois Rules of the Road (2026), Ch. 4 Traffic Laws, 'Construction Zones, Emergency Vehicles...' (p. 25)"
+  },
+  {
+   "id": "il-118",
+   "topic": "turns",
+   "q": "In a business or residential district, how far before turning must you begin signaling?",
+   "options": [
+    "At least 200 feet",
+    "At least 100 feet",
+    "At least 500 feet",
+    "At least 50 feet"
+   ],
+   "answer": 1,
+   "explain": "Signal continuously for at least 100 feet before turning in business or residential areas.",
+   "official": false,
+   "ref": "Illinois Rules of the Road (2026), Ch. 4 Traffic Laws, 'Signaling' (p. 30)"
+  },
+  {
+   "id": "il-119",
+   "topic": "turns",
+   "q": "Outside business and residential districts, how far ahead must you signal a turn?",
+   "options": [
+    "At least 50 feet",
+    "At least 200 feet",
+    "At least 100 feet",
+    "At least 300 feet"
+   ],
+   "answer": 1,
+   "explain": "Outside business and residential districts, start a continuous signal no less than 200 feet before the turn.",
+   "official": false,
+   "ref": "Illinois Rules of the Road (2026), Ch. 4 Traffic Laws, 'Signaling' (p. 30)"
+  },
+  {
+   "id": "il-120",
+   "topic": "turns",
+   "q": "What is the hand signal for a right turn?",
+   "options": [
+    "Right arm out the passenger window",
+    "Left arm extended straight out",
+    "Left arm extended downward",
+    "Left arm extended upward"
+   ],
+   "answer": 3,
+   "explain": "For a right turn, extend the left hand and arm straight up.",
+   "official": false,
+   "ref": "Illinois Rules of the Road (2026), Ch. 4 Traffic Laws, 'Signaling' (p. 30)"
+  },
+  {
+   "id": "il-121",
+   "topic": "turns",
+   "q": "What is the hand signal for slowing down or stopping?",
+   "options": [
+    "Left arm extended upward",
+    "Waving the left arm",
+    "Left arm extended downward",
+    "Left arm straight out"
+   ],
+   "answer": 2,
+   "explain": "To slow or stop, extend the left hand and arm down.",
+   "official": false,
+   "ref": "Illinois Rules of the Road (2026), Ch. 4 Traffic Laws, 'Signaling' (p. 30)"
+  },
+  {
+   "id": "il-122",
+   "topic": "turns",
+   "q": "What is the hand signal for a left turn?",
+   "options": [
+    "Left arm extended upward",
+    "Left arm extended straight out to the side",
+    "Left arm extended downward",
+    "Left arm circling"
+   ],
+   "answer": 1,
+   "explain": "For a left turn, extend the left hand and arm straight out.",
+   "official": false,
+   "ref": "Illinois Rules of the Road (2026), Ch. 4 Traffic Laws, 'Signaling' (p. 30)"
+  },
+  {
+   "id": "il-123",
+   "topic": "turns",
+   "q": "When making a right turn, where should your vehicle end up?",
+   "options": [
+    "On the shoulder",
+    "In the left lane of the new road",
+    "In the right-hand lane of the road you enter, staying close to the curb",
+    "In any lane of the new road"
+   ],
+   "answer": 2,
+   "explain": "Follow the curb closely and turn into the right-hand lane.",
+   "official": false,
+   "ref": "Illinois Rules of the Road (2026), Ch. 4 Traffic Laws, 'Turning' (p. 31)"
+  },
+  {
+   "id": "il-124",
+   "topic": "turns",
+   "q": "When making a left turn, which lane should you turn into?",
+   "options": [
+    "Any lane that is open",
+    "The far right lane",
+    "The center turn lane",
+    "The lane closest to your direction of travel"
+   ],
+   "answer": 3,
+   "explain": "Complete a left turn into the lane closest to the intended direction.",
+   "official": false,
+   "ref": "Illinois Rules of the Road (2026), Ch. 4 Traffic Laws, 'Turning' (p. 31)"
+  },
+  {
+   "id": "il-125",
+   "topic": "turns",
+   "q": "While waiting to turn left, where should your front wheels point?",
+   "options": [
+    "Turned right toward the curb",
+    "Turned left, ready to go",
+    "Straight ahead until you begin the turn",
+    "It does not matter"
+   ],
+   "answer": 2,
+   "explain": "Keep wheels straight so that if you are hit from behind you are not pushed into oncoming traffic.",
+   "official": false,
+   "ref": "Illinois Rules of the Road (2026), Ch. 4 Traffic Laws, 'Turning' (p. 31)"
+  },
+  {
+   "id": "il-126",
+   "topic": "turns",
+   "q": "When may you turn left on a red light in Illinois?",
+   "options": [
+    "From a one-way street onto another one-way street with traffic moving left, after a full stop and yielding",
+    "Never",
+    "Only when a green arrow shows",
+    "From any street after a full stop"
+   ],
+   "answer": 0,
+   "explain": "Left on red is allowed only from one-way to one-way (traffic moving left) after stopping and yielding.",
+   "official": false,
+   "ref": "Illinois Rules of the Road (2026), Ch. 4 Traffic Laws, 'Right of Way' (p. 26)"
+  },
+  {
+   "id": "il-127",
+   "topic": "turns",
+   "q": "Unless you can see at least how far in every direction, you may not make a U-turn on a curve or hill?",
+   "options": [
+    "500 feet",
+    "100 feet",
+    "200 feet",
+    "1,000 feet"
+   ],
+   "answer": 0,
+   "explain": "U-turns on curves and hills are banned unless you can see at least 500 feet in all directions.",
+   "official": false,
+   "ref": "Illinois Rules of the Road (2026), Ch. 4 Traffic Laws, 'Turning' (p. 32)"
+  },
+  {
+   "id": "il-128",
+   "topic": "turns",
+   "q": "When passing on a two-lane road, you must return to your lane before coming within how many feet of an oncoming vehicle?",
+   "options": [
+    "200 feet",
+    "500 feet",
+    "50 feet",
+    "100 feet"
+   ],
+   "answer": 0,
+   "explain": "You must be back in your lane before getting within 200 feet of oncoming traffic.",
+   "official": false,
+   "ref": "Illinois Rules of the Road (2026), Ch. 4 Traffic Laws, 'Passing' (p. 28)"
+  },
+  {
+   "id": "il-129",
+   "topic": "turns",
+   "q": "After passing a vehicle, when is it safe to return to the right lane?",
+   "options": [
+    "After counting to two",
+    "As soon as your front bumper clears theirs",
+    "When you can see the entire vehicle you passed in your rearview mirror",
+    "When the other driver flashes their lights"
+   ],
+   "answer": 2,
+   "explain": "Do not return until the whole passed vehicle is visible in the rearview mirror.",
+   "official": false,
+   "ref": "Illinois Rules of the Road (2026), Ch. 4 Traffic Laws, 'Passing' (p. 28)"
+  },
+  {
+   "id": "il-130",
+   "topic": "turns",
+   "q": "Passing on a two-lane, two-way road is prohibited within how many feet of an intersection or railroad crossing?",
+   "options": [
+    "500 feet",
+    "100 feet",
+    "50 feet",
+    "200 feet"
+   ],
+   "answer": 1,
+   "explain": "No passing within 100 feet of an intersection or railroad crossing.",
+   "official": false,
+   "ref": "Illinois Rules of the Road (2026), Ch. 4 Traffic Laws, 'Passing' (p. 29)"
+  },
+  {
+   "id": "il-131",
+   "topic": "turns",
+   "q": "Is passing allowed in Illinois construction zones?",
+   "options": [
+    "Yes, on the right only",
+    "Yes, if the speed limit is above 45 mph",
+    "Yes, if no workers are present",
+    "No; all Illinois construction zones are no-passing zones"
+   ],
+   "answer": 3,
+   "explain": "All construction zones in Illinois are no-passing zones.",
+   "official": false,
+   "ref": "Illinois Rules of the Road (2026), Ch. 4 Traffic Laws, 'Passing' (p. 29)"
+  },
+  {
+   "id": "il-132",
+   "topic": "turns",
+   "q": "What must the driver of a vehicle being passed do?",
+   "options": [
+    "Move onto the shoulder",
+    "Not increase speed until the pass is complete",
+    "Flash the turn signal to wave them by",
+    "Speed up to make room"
+   ],
+   "answer": 1,
+   "explain": "The driver being passed must not speed up until the other driver has completed the pass.",
+   "official": false,
+   "ref": "Illinois Rules of the Road (2026), Ch. 4 Traffic Laws, 'Passing' (p. 28)"
+  },
+  {
+   "id": "il-133",
+   "topic": "turns",
+   "q": "Is it legal to flash your turn signal to tell the driver behind it's safe to pass?",
+   "options": [
+    "Yes, but only at night",
+    "Yes, if you also wave",
+    "Yes, it's required on two-lane roads",
+    "No, using turn signals as a courtesy 'do pass' signal is illegal"
+   ],
+   "answer": 3,
+   "explain": "Illinois prohibits flashing turn signals as a courtesy pass signal.",
+   "official": false,
+   "ref": "Illinois Rules of the Road (2026), Ch. 4 Traffic Laws, 'Passing' (p. 28)"
+  },
+  {
+   "id": "il-134",
+   "topic": "turns",
+   "q": "When may you pass another vehicle on the right?",
+   "options": [
+    "Never in Illinois",
+    "Any time, using the shoulder",
+    "Only on two-lane roads",
+    "When it is turning left and there is room, or on a one-way street or road with two or more lanes each way"
+   ],
+   "answer": 3,
+   "explain": "Passing on the right is allowed in limited situations and never by driving on the shoulder.",
+   "official": false,
+   "ref": "Illinois Rules of the Road (2026), Ch. 4 Traffic Laws, 'Passing' (p. 28)"
+  },
+  {
+   "id": "il-135",
+   "topic": "turns",
+   "q": "May you drive on the shoulder to pass a vehicle turning left?",
+   "options": [
+    "Yes, if you signal",
+    "Yes, at speeds under 20 mph",
+    "Yes, if the shoulder is paved",
+    "No, driving off the pavement to pass is not allowed"
+   ],
+   "answer": 3,
+   "explain": "Leaving the pavement or main traveled part of the road to pass is prohibited.",
+   "official": false,
+   "ref": "Illinois Rules of the Road (2026), Ch. 4 Traffic Laws, 'Passing' (p. 28)"
+  },
+  {
+   "id": "il-136",
+   "topic": "turns",
+   "q": "On an Illinois interstate, when may you drive in the left lane?",
+   "options": [
+    "Only at night",
+    "Mainly when passing, or in exceptions such as congestion, weather, hazards, or moving over for emergency vehicles",
+    "Any time, as long as you signal",
+    "Whenever you are going the speed limit"
+   ],
+   "answer": 1,
+   "explain": "On interstates and controlled freeways the left lane is for passing, with a few listed exceptions.",
+   "official": false,
+   "ref": "Illinois Rules of the Road (2026), Ch. 4 Traffic Laws, 'Lane Usage' (p. 29)"
+  },
+  {
+   "id": "il-137",
+   "topic": "turns",
+   "q": "When a two-way left turn lane is provided in the center of a road, how must left turns be made?",
+   "options": [
+    "From any lane",
+    "From the right lane",
+    "From the two-way left turn lane only",
+    "From the shoulder"
+   ],
+   "answer": 2,
+   "explain": "Where a center two-way left turn lane exists, left turns must be made from it and not from another lane.",
+   "official": false,
+   "ref": "Illinois Rules of the Road (2026), Ch. 10 Traffic Signals and Pavement Markings, 'Pavement Markings' (p. 80)"
+  },
+  {
+   "id": "il-138",
+   "topic": "turns",
+   "q": "Before changing lanes, what should you do besides checking mirrors?",
+   "options": [
+    "Honk your horn",
+    "Flash your headlights",
+    "Speed up first",
+    "Turn your head to check the blind spot, then signal"
+   ],
+   "answer": 3,
+   "explain": "Check behind and to the side by turning your head, and signal before moving over.",
+   "official": false,
+   "ref": "Illinois Rules of the Road (2026), Ch. 4 Traffic Laws, 'Turning' (p. 31)"
+  },
+  {
+   "id": "il-139",
+   "topic": "turns",
+   "q": "When a lane closes in heavy, slow-moving traffic, what does the handbook recommend?",
+   "options": [
+    "Stop in the closing lane until someone waves you in",
+    "Use both lanes up to the merge point, then take turns merging ('zipper merge')",
+    "Use the shoulder to get ahead",
+    "Merge as early as possible no matter what"
+   ],
+   "answer": 1,
+   "explain": "In congestion, use both lanes to the lane-reduction point and alternate; merge early when traffic is light.",
+   "official": false,
+   "ref": "Illinois Rules of the Road (2026), Ch. 9 Roadway Signs, 'Warning Signs' (p. 71)"
+  },
+  {
+   "id": "il-140",
+   "topic": "turns",
+   "q": "What should you do when you leave a roundabout?",
+   "options": [
+    "Sound your horn",
+    "Use your right turn signal",
+    "Use your left turn signal",
+    "No signal is needed"
+   ],
+   "answer": 1,
+   "explain": "Signal right to show other drivers you are exiting the roundabout.",
+   "official": false,
+   "ref": "Illinois Rules of the Road (2026), Ch. 4 Traffic Laws, 'Rotary and Roundabout' (p. 32)"
+  },
+  {
+   "id": "il-141",
+   "topic": "turns",
+   "q": "You missed your exit on the expressway. What should you do?",
+   "options": [
+    "Make a U-turn through the median",
+    "Back up along the shoulder",
+    "Continue to the next exit",
+    "Stop and wait for a gap to reverse"
+   ],
+   "answer": 2,
+   "explain": "Backing up on an expressway is illegal; go to the next exit.",
+   "official": false,
+   "ref": "Illinois Rules of the Road (2026), Ch. 11 Safe Driving Tips, 'Special Driving Situations and Hazards' (p. 86)"
+  },
+  {
+   "id": "il-142",
+   "topic": "turns",
+   "q": "How should you enter an expressway from an entrance ramp?",
+   "options": [
+    "Use the speed-change lane to match traffic speed, signal and merge into a safe gap",
+    "Merge without signaling",
+    "Enter slowly so traffic notices you",
+    "Stop at the end of the ramp and wait"
+   ],
+   "answer": 0,
+   "explain": "Use the acceleration lane to reach traffic speed, then merge when it is safe.",
+   "official": false,
+   "ref": "Illinois Rules of the Road (2026), Ch. 11 Safe Driving Tips, 'Special Driving Situations and Hazards' (p. 86)"
+  },
+  {
+   "id": "il-143",
+   "topic": "turns",
+   "q": "May you drive across an unpaved median strip or a median barrier to change direction?",
+   "options": [
+    "No, it is unlawful to drive across median strips or barriers",
+    "Yes, at night",
+    "Yes, if traffic is light",
+    "Yes, on rural highways"
+   ],
+   "answer": 0,
+   "explain": "Crossing unpaved median strips or median barriers is illegal; only a paved dividing space may be crossed to turn left, and only if no sign or signal prohibits it.",
+   "official": false,
+   "ref": "Illinois Rules of the Road (2026), Ch. 4 Traffic Laws, 'Lane Usage' (p. 29)"
+  },
+  {
+   "id": "il-144",
+   "topic": "turns",
+   "q": "When a solid yellow no-passing line is on your side of the center line, when may you cross it?",
+   "options": [
+    "To finish a pass begun before the zone started, or to turn left into or out of a driveway or alley",
+    "To pass a slow vehicle when the road is clear",
+    "Never",
+    "Whenever you signal first"
+   ],
+   "answer": 0,
+   "explain": "You may cross it only to complete a pass already started before the zone, or to turn left into or from an alley, private road or driveway.",
+   "official": false,
+   "ref": "Illinois Rules of the Road (2026), Ch. 10 Traffic Signals and Pavement Markings, 'Pavement Markings' (p. 79)"
+  },
+  {
+   "id": "il-145",
+   "topic": "parking",
+   "q": "You park downhill on a street with a curb. Which way should you turn your front wheels?",
+   "options": [
+    "Away from the curb",
+    "Toward the curb",
+    "Straight ahead",
+    "It does not matter"
+   ],
+   "answer": 1,
+   "explain": "Downhill with a curb, turn wheels toward the curb so the car will roll into it.",
+   "official": false,
+   "ref": "Illinois Rules of the Road (2026), Ch. 4 Traffic Laws, 'Parking' (p. 34)"
+  },
+  {
+   "id": "il-146",
+   "topic": "parking",
+   "q": "You park uphill on a street with a curb. Which way should you turn your front wheels?",
+   "options": [
+    "Toward the curb",
+    "Away from the curb",
+    "Straight ahead",
+    "Toward the curb, with the parking brake off"
+   ],
+   "answer": 1,
+   "explain": "Uphill with a curb, turn wheels away from the curb.",
+   "official": false,
+   "ref": "Illinois Rules of the Road (2026), Ch. 4 Traffic Laws, 'Parking' (p. 34)"
+  },
+  {
+   "id": "il-147",
+   "topic": "parking",
+   "q": "You park on a hill on a road with no curb. How should your front wheels be turned?",
+   "options": [
+    "Toward the center of the road",
+    "Left, toward traffic",
+    "Straight ahead",
+    "Toward the side of the road where you are parked (to the right)"
+   ],
+   "answer": 3,
+   "explain": "Without a curb, turn the wheels toward the side of the road so the car rolls away from traffic.",
+   "official": false,
+   "ref": "Illinois Rules of the Road (2026), Ch. 4 Traffic Laws, 'Parking' (p. 34)"
+  },
+  {
+   "id": "il-148",
+   "topic": "parking",
+   "q": "When parallel parking on a two-way street, how close to the curb must your right wheels be?",
+   "options": [
+    "Within 18 inches",
+    "Within 6 inches",
+    "Within 24 inches",
+    "Within 12 inches"
+   ],
+   "answer": 3,
+   "explain": "Park with right-hand wheels parallel to and within 12 inches of the curb.",
+   "official": false,
+   "ref": "Illinois Rules of the Road (2026), Ch. 4 Traffic Laws, 'Parking' (p. 35)"
+  },
+  {
+   "id": "il-149",
+   "topic": "parking",
+   "q": "How close to a fire hydrant may you park in Illinois?",
+   "options": [
+    "No closer than 30 feet",
+    "No closer than 10 feet",
+    "No closer than 15 feet",
+    "No closer than 5 feet"
+   ],
+   "answer": 2,
+   "explain": "Standing or parking within 15 feet of a fire hydrant is prohibited.",
+   "official": false,
+   "ref": "Illinois Rules of the Road (2026), Ch. 4 Traffic Laws, 'Prohibited Stopping, Standing or Parking' (p. 35)"
+  },
+  {
+   "id": "il-150",
+   "topic": "parking",
+   "q": "You may not park within how many feet of a crosswalk at an intersection?",
+   "options": [
+    "15 feet",
+    "20 feet",
+    "30 feet",
+    "10 feet"
+   ],
+   "answer": 1,
+   "explain": "Standing or parking within 20 feet of a crosswalk at an intersection is prohibited.",
+   "official": false,
+   "ref": "Illinois Rules of the Road (2026), Ch. 4 Traffic Laws, 'Prohibited Stopping, Standing or Parking' (p. 36)"
+  },
+  {
+   "id": "il-151",
+   "topic": "parking",
+   "q": "You may not park within how many feet of a stop sign, yield sign or traffic signal?",
+   "options": [
+    "30 feet",
+    "50 feet",
+    "15 feet",
+    "20 feet"
+   ],
+   "answer": 0,
+   "explain": "Do not stand or park closer than 30 feet to a STOP sign, YIELD sign or traffic signal.",
+   "official": false,
+   "ref": "Illinois Rules of the Road (2026), Ch. 4 Traffic Laws, 'Prohibited Stopping, Standing or Parking' (p. 36)"
+  },
+  {
+   "id": "il-152",
+   "topic": "parking",
+   "q": "You may not park within how many feet of the nearest rail of a railroad crossing?",
+   "options": [
+    "100 feet",
+    "25 feet",
+    "50 feet",
+    "15 feet"
+   ],
+   "answer": 2,
+   "explain": "Parking is not allowed closer than 50 feet to the nearest rail of a railroad crossing.",
+   "official": false,
+   "ref": "Illinois Rules of the Road (2026), Ch. 4 Traffic Laws, 'Prohibited Stopping, Standing or Parking' (p. 36)"
+  },
+  {
+   "id": "il-153",
+   "topic": "parking",
+   "q": "How close to a fire station driveway may you park?",
+   "options": [
+    "No closer than 20 feet",
+    "No closer than 10 feet",
+    "No closer than 30 feet",
+    "No closer than 50 feet"
+   ],
+   "answer": 0,
+   "explain": "Parking within 20 feet of a fire station driveway is prohibited.",
+   "official": false,
+   "ref": "Illinois Rules of the Road (2026), Ch. 4 Traffic Laws, 'Prohibited Stopping, Standing or Parking' (p. 36)"
+  },
+  {
+   "id": "il-154",
+   "topic": "parking",
+   "q": "Where is stopping, standing or parking prohibited?",
+   "options": [
+    "Next to a curb painted white",
+    "Within 100 feet of a school",
+    "On a bridge, sidewalk, crosswalk or within an intersection",
+    "In front of a mailbox"
+   ],
+   "answer": 2,
+   "explain": "Statewide rules prohibit stopping on bridges, sidewalks, crosswalks, intersections, railroad tracks and in tunnels.",
+   "official": false,
+   "ref": "Illinois Rules of the Road (2026), Ch. 4 Traffic Laws, 'Prohibited Stopping, Standing or Parking' (p. 35)"
+  },
+  {
+   "id": "il-155",
+   "topic": "parking",
+   "q": "May you park in a marked or protected bike lane for a quick stop?",
+   "options": [
+    "Yes, if no bicyclists are visible",
+    "Yes, for up to five minutes",
+    "No, stopping, standing or parking in a bike lane is prohibited",
+    "Yes, with hazard lights on"
+   ],
+   "answer": 2,
+   "explain": "Vehicles may not park, idle, or drop off passengers in bike lanes, even when no bicyclists are present.",
+   "official": false,
+   "ref": "Illinois Rules of the Road (2026), Ch. 4 Traffic Laws, 'Prohibited Stopping, Standing or Parking' (p. 35)"
+  },
+  {
+   "id": "il-156",
+   "topic": "parking",
+   "q": "Outside a business or residential district, if you must stop on the paved road in an emergency, how much clear view is needed?",
+   "options": [
+    "100 feet ahead only",
+    "500 feet behind only",
+    "50 feet in each direction",
+    "200 feet in each direction"
+   ],
+   "answer": 3,
+   "explain": "In an emergency you may stop only where there is a clear view of 200 feet in each direction; use your flashers.",
+   "official": false,
+   "ref": "Illinois Rules of the Road (2026), Ch. 4 Traffic Laws, 'Prohibited Stopping, Standing or Parking' (p. 36)"
+  },
+  {
+   "id": "il-157",
+   "topic": "parking",
+   "q": "Can a vehicle with a disability placard park in the striped area next to an accessible space?",
+   "options": [
+    "No, the striped access aisle is part of the space and may not be parked in",
+    "Yes, if the placard is permanent",
+    "Yes, for 15 minutes",
+    "Yes, if the accessible space is full"
+   ],
+   "answer": 0,
+   "explain": "Even with a placard or plates, vehicles may not park in the striped area beside an accessible space.",
+   "official": false,
+   "ref": "Illinois Rules of the Road (2026), Ch. 4 Traffic Laws, 'Parking' (p. 35)"
+  },
+  {
+   "id": "il-158",
+   "topic": "parking",
+   "q": "When parking on a hill, what should you do in addition to turning the wheels correctly?",
+   "options": [
+    "Put the vehicle in park and set the parking brake",
+    "Leave the vehicle in neutral",
+    "Leave the engine running",
+    "Turn on the hazard lights"
+   ],
+   "answer": 0,
+   "explain": "On a hill, shift into park and use the parking brake as needed, along with turning the wheels the correct way.",
+   "official": false,
+   "ref": "Illinois Rules of the Road (2026), Ch. 4 Traffic Laws, 'Parking' (p. 34)"
+  },
+  {
+   "id": "il-159",
+   "topic": "parking",
+   "q": "When parking on a street, which direction must your vehicle face?",
+   "options": [
+    "The direction traffic is moving in that lane",
+    "Toward the nearest intersection",
+    "Against traffic so you can see oncoming cars",
+    "Either direction"
+   ],
+   "answer": 0,
+   "explain": "Parked vehicles must face the same way that traffic moves on that side of the street.",
+   "official": false,
+   "ref": "Illinois Rules of the Road (2026), Ch. 4 Traffic Laws, 'Parking' (p. 35)"
+  },
+  {
+   "id": "il-160",
+   "topic": "parking",
+   "q": "Who may use a parking space reserved for electric vehicle charging?",
+   "options": [
+    "Any vehicle at night",
+    "Only electric vehicles",
+    "Any vehicle for up to one hour",
+    "Any hybrid or compact car"
+   ],
+   "answer": 1,
+   "explain": "Only electric vehicles may park in designated charging spaces.",
+   "official": false,
+   "ref": "Illinois Rules of the Road (2026), Ch. 4 Traffic Laws, 'Parking' (p. 35)"
+  },
+  {
+   "id": "il-161",
+   "topic": "sharing",
+   "q": "On a two-lane road, a school bus stops ahead of you with red lights flashing and stop arm out. What must you do?",
+   "options": [
+    "Stop, then proceed after five seconds",
+    "Stop and stay stopped until the arm is withdrawn and lights stop flashing, or the driver signals you to go",
+    "Pass on the left if no children are visible",
+    "Slow to 10 mph and pass carefully"
+   ],
+   "answer": 1,
+   "explain": "You must stop before meeting or overtaking a stopped school bus loading or unloading passengers.",
+   "official": false,
+   "ref": "Illinois Rules of the Road (2026), Ch. 4 Traffic Laws, 'Special Stops' (p. 33)"
+  },
+  {
+   "id": "il-162",
+   "topic": "sharing",
+   "q": "When are you NOT required to stop for a stopped school bus with its stop arm out?",
+   "options": [
+    "When you are on a four-lane roadway and the bus is stopped in the opposite direction",
+    "When no children are visible",
+    "When you are behind the bus on a two-lane road",
+    "When the bus is in a school parking lot"
+   ],
+   "answer": 0,
+   "explain": "The only exception is a four-lane road with the bus stopped for opposite-direction traffic.",
+   "official": false,
+   "ref": "Illinois Rules of the Road (2026), Ch. 4 Traffic Laws, 'Special Stops' (p. 32)"
+  },
+  {
+   "id": "il-163",
+   "topic": "sharing",
+   "q": "Do Illinois school bus stopping rules apply in a parking lot on school property?",
+   "options": [
+    "No, only on public roads",
+    "Yes",
+    "Only on two-lane roads",
+    "Only during school hours"
+   ],
+   "answer": 1,
+   "explain": "Drivers must stop for a stopped school bus on any roadway, private road, or school parking lot.",
+   "official": false,
+   "ref": "Illinois Rules of the Road (2026), Ch. 4 Traffic Laws, 'Special Stops' (p. 33)"
+  },
+  {
+   "id": "il-164",
+   "topic": "sharing",
+   "q": "How far in advance of a stop does a school bus give warning in a rural area?",
+   "options": [
+    "At least 100 feet",
+    "At least 200 feet",
+    "At least 50 feet",
+    "At least 500 feet"
+   ],
+   "answer": 1,
+   "explain": "School buses warn at least 100 feet before a stop, or 200 feet in rural areas.",
+   "official": false,
+   "ref": "Illinois Rules of the Road (2026), Ch. 4 Traffic Laws, 'Special Stops' (p. 33)"
+  },
+  {
+   "id": "il-165",
+   "topic": "sharing",
+   "q": "What is the penalty for a conviction of passing a stopped school bus that has its stop arm extended?",
+   "options": [
+    "A $30 fine only",
+    "License suspension, a $300 mandatory fine and community service",
+    "Vehicle registration suspension only",
+    "A warning on your record"
+   ],
+   "answer": 1,
+   "explain": "The conviction results in a driver's license suspension, a mandatory $300 fine and court-ordered community service.",
+   "official": false,
+   "ref": "Illinois Rules of the Road (2026), Ch. 4 Traffic Laws, 'Special Stops' (p. 33)"
+  },
+  {
+   "id": "il-166",
+   "topic": "sharing",
+   "q": "When passing a bicyclist, what is the minimum distance Illinois requires between your vehicle and the bicycle?",
+   "options": [
+    "2 feet",
+    "6 feet",
+    "3 feet",
+    "1 foot"
+   ],
+   "answer": 2,
+   "explain": "Leave at least 3 feet when passing a bicyclist, including one in a bike lane or on the shoulder.",
+   "official": false,
+   "ref": "Illinois Rules of the Road (2026), Ch. 5 Sharing the Road, 'Bicycles' (p. 43)"
+  },
+  {
+   "id": "il-167",
+   "topic": "sharing",
+   "q": "When passing a pedestrian walking on the road or shoulder, what minimum clearance must you give?",
+   "options": [
+    "1 foot",
+    "3 feet",
+    "5 feet",
+    "10 feet"
+   ],
+   "answer": 1,
+   "explain": "Keep at least 3 feet between your vehicle and a pedestrian when passing.",
+   "official": false,
+   "ref": "Illinois Rules of the Road (2026), Ch. 4 Traffic Laws, 'Passing' (p. 28)"
+  },
+  {
+   "id": "il-168",
+   "topic": "sharing",
+   "q": "You are turning right and a bicyclist is approaching on your right. What should you do?",
+   "options": [
+    "Let the bicyclist go through the intersection first, then turn",
+    "Turn quickly ahead of the bicyclist",
+    "Honk and turn",
+    "Turn from the bike lane"
+   ],
+   "answer": 0,
+   "explain": "Let the bicyclist pass through the intersection before you turn right.",
+   "official": false,
+   "ref": "Illinois Rules of the Road (2026), Ch. 5 Sharing the Road, 'Bicycles' (p. 43)"
+  },
+  {
+   "id": "il-169",
+   "topic": "sharing",
+   "q": "What is the 'Dutch Reach'?",
+   "options": [
+    "Opening your car door with the hand farthest from it, so you turn and look for bicyclists",
+    "A hand signal for bicyclists",
+    "Reaching for your seat belt before starting",
+    "Checking mirrors before backing"
+   ],
+   "answer": 0,
+   "explain": "Using your right hand to open the driver's door turns your body so you can see bicyclists and traffic behind.",
+   "official": false,
+   "ref": "Illinois Rules of the Road (2026), Ch. 5 Sharing the Road, 'Bicycles' (p. 43)"
+  },
+  {
+   "id": "il-170",
+   "topic": "sharing",
+   "q": "How many bicyclists may ride side by side on an Illinois roadway?",
+   "options": [
+    "Three on rural roads",
+    "Two, if they do not impede normal traffic",
+    "Any number on weekends",
+    "One only; single file always"
+   ],
+   "answer": 1,
+   "explain": "Bicyclists may ride two abreast if traffic is not impeded; more than two is prohibited except on bike paths.",
+   "official": false,
+   "ref": "Illinois Rules of the Road (2026), Ch. 5 Sharing the Road, 'Bicycles' (p. 43)"
+  },
+  {
+   "id": "il-171",
+   "topic": "sharing",
+   "q": "Why should you not share a lane with a motorcycle?",
+   "options": [
+    "Motorcycles are slower than cars",
+    "Motorcycles must ride on the shoulder",
+    "It is allowed if you stay to the right",
+    "The motorcyclist is entitled to the full lane and needs room to maneuver"
+   ],
+   "answer": 3,
+   "explain": "Motorcyclists are entitled to the entire lane; do not share it.",
+   "official": false,
+   "ref": "Illinois Rules of the Road (2026), Ch. 5 Sharing the Road, 'Motorcycles' (p. 41)"
+  },
+  {
+   "id": "il-172",
+   "topic": "sharing",
+   "q": "Where do more than half of all motorcycle crashes happen?",
+   "options": [
+    "On rural curves",
+    "On expressways",
+    "At intersections, often when a car turns left in front of a motorcycle",
+    "In parking lots"
+   ],
+   "answer": 2,
+   "explain": "Over 50% of motorcycle crashes occur at intersections; the most common is an oncoming car turning left.",
+   "official": false,
+   "ref": "Illinois Rules of the Road (2026), Ch. 5 Sharing the Road, 'Motorcycles' (p. 41)"
+  },
+  {
+   "id": "il-173",
+   "topic": "sharing",
+   "q": "What following distance does the handbook recommend behind a motorcycle?",
+   "options": [
+    "At least three to four seconds",
+    "Same as behind a car: one car length",
+    "One second",
+    "Two seconds"
+   ],
+   "answer": 0,
+   "explain": "Allow at least three to four seconds behind a motorcycle so the rider has room to maneuver.",
+   "official": false,
+   "ref": "Illinois Rules of the Road (2026), Ch. 5 Sharing the Road, 'Motorcycles' (p. 42)"
+  },
+  {
+   "id": "il-174",
+   "topic": "sharing",
+   "q": "Under Illinois law, after how long may a motorcyclist proceed through a red light that fails to change?",
+   "options": [
+    "5 minutes",
+    "30 seconds",
+    "60 seconds",
+    "120 seconds, after yielding to other traffic"
+   ],
+   "answer": 3,
+   "explain": "If a red light does not turn green after 120 seconds, a motorcyclist may proceed after yielding.",
+   "official": false,
+   "ref": "Illinois Rules of the Road (2026), Ch. 5 Sharing the Road, 'Motorcycles' (p. 41)"
+  },
+  {
+   "id": "il-175",
+   "topic": "sharing",
+   "q": "Why should you dim your headlights when following a truck at night?",
+   "options": [
+    "Bright lights reflect off the truck's large mirrors and blind the driver",
+    "Trucks have sensors that react to bright light",
+    "It is only required in cities",
+    "To save battery power"
+   ],
+   "answer": 0,
+   "explain": "High beams reflect in a truck's large side mirrors and blind its driver.",
+   "official": false,
+   "ref": "Illinois Rules of the Road (2026), Ch. 5 Sharing the Road, 'Large Vehicles' (p. 45)"
+  },
+  {
+   "id": "il-176",
+   "topic": "sharing",
+   "q": "A large truck ahead signals a right turn and swings left first. What should you do?",
+   "options": [
+    "Pass on the right quickly",
+    "Drive alongside the truck",
+    "Honk and pass on the left",
+    "Stay back and do not move into the space on its right"
+   ],
+   "answer": 3,
+   "explain": "Large vehicles make wide right turns and may leave space on the right; give them room.",
+   "official": false,
+   "ref": "Illinois Rules of the Road (2026), Ch. 5 Sharing the Road, 'Large Vehicles' (p. 45)"
+  },
+  {
+   "id": "il-177",
+   "topic": "sharing",
+   "q": "What are a large truck's 'No Zones'?",
+   "options": [
+    "Lanes trucks may not use",
+    "Blind spots around the truck where its driver cannot see you",
+    "Zones where passing trucks is illegal",
+    "Areas where trucks may not park"
+   ],
+   "answer": 1,
+   "explain": "Stay out of blind spots and keep a position where the truck driver can see you in the mirrors.",
+   "official": false,
+   "ref": "Illinois Rules of the Road (2026), Ch. 5 Sharing the Road, 'Large Vehicles' (p. 45)"
+  },
+  {
+   "id": "il-178",
+   "topic": "sharing",
+   "q": "How fast do slow-moving vehicles such as farm equipment usually travel?",
+   "options": [
+    "25 to 35 mph",
+    "35 to 45 mph",
+    "1 to 3 mph",
+    "5 to 20 mph"
+   ],
+   "answer": 3,
+   "explain": "Normal speeds for slow-moving vehicles range from 5 to 20 mph, so you close on them very quickly.",
+   "official": false,
+   "ref": "Illinois Rules of the Road (2026), Ch. 5 Sharing the Road, 'Slow-Moving Vehicles' (p. 46)"
+  },
+  {
+   "id": "il-179",
+   "topic": "sharing",
+   "q": "What should you avoid doing near a horseback rider?",
+   "options": [
+    "Slowing down",
+    "Passing at a safe distance",
+    "Being prepared to stop",
+    "Sounding your horn"
+   ],
+   "answer": 3,
+   "explain": "Never sound a horn near horses or livestock; it may frighten them and cause a crash.",
+   "official": false,
+   "ref": "Illinois Rules of the Road (2026), Ch. 5 Sharing the Road, 'Horseback Riders' (p. 47)"
+  },
+  {
+   "id": "il-180",
+   "topic": "sharing",
+   "q": "When there is no sidewalk, where should pedestrians walk on a two-way road?",
+   "options": [
+    "Facing oncoming traffic, keeping as far from moving vehicles as possible",
+    "On whichever side is shadier",
+    "In the center of the lane",
+    "With traffic, on the right"
+   ],
+   "answer": 0,
+   "explain": "Pedestrians should walk facing oncoming traffic, on the shoulder when there is one, staying as far from traffic as possible.",
+   "official": false,
+   "ref": "Illinois Rules of the Road (2026), Ch. 5 Sharing the Road, 'Pedestrians' (p. 40)"
+  },
+  {
+   "id": "il-181",
+   "topic": "sharing",
+   "q": "Who may operate a Class 3 low-speed electric bicycle in Illinois?",
+   "options": [
+    "Anyone, regardless of age",
+    "Only riders age 16 or older",
+    "Anyone age 12 or older",
+    "Only licensed drivers age 18 or older"
+   ],
+   "answer": 1,
+   "explain": "Class 3 e-bikes, which assist up to 28 mph, may be operated only by riders 16 or older.",
+   "official": false,
+   "ref": "Illinois Rules of the Road (2026), Ch. 5 Sharing the Road, 'Bicycles' (p. 44)"
+  },
+  {
+   "id": "il-182",
+   "topic": "sharing",
+   "q": "What license is required to operate a moped in Illinois?",
+   "options": [
+    "Any valid Illinois driver's license",
+    "A Class M license",
+    "A Class L license",
+    "No license at all"
+   ],
+   "answer": 0,
+   "explain": "A moped (no gear shifting, combustion engine 50cc or less) may be operated with any valid driver's license.",
+   "official": false,
+   "ref": "Illinois Rules of the Road (2026), Ch. 5 Sharing the Road, 'Scooters and Mopeds' (p. 44)"
+  },
+  {
+   "id": "il-183",
+   "topic": "sharing",
+   "q": "A scooter with an engine smaller than 150cc is a motor-driven cycle. What license does it require?",
+   "options": [
+    "Class M",
+    "Class C",
+    "Class D",
+    "Class L"
+   ],
+   "answer": 3,
+   "explain": "Scooters under 150cc require a Class L license; 150cc or more requires Class M.",
+   "official": false,
+   "ref": "Illinois Rules of the Road (2026), Ch. 5 Sharing the Road, 'Scooters and Mopeds' (p. 44)"
+  },
+  {
+   "id": "il-184",
+   "topic": "sharing",
+   "q": "On which roads are bicyclists prohibited?",
+   "options": [
+    "Any road with a center line",
+    "Residential streets at night",
+    "Controlled-access highways and expressways",
+    "All roads posted over 30 mph"
+   ],
+   "answer": 2,
+   "explain": "Bicycles are not allowed on controlled-access highways, expressways and other roads marked to exclude them.",
+   "official": false,
+   "ref": "Illinois Rules of the Road (2026), Ch. 5 Sharing the Road, 'Bicycles' (p. 42)"
+  },
+  {
+   "id": "il-185",
+   "topic": "sharing",
+   "q": "You are turning left and a bicyclist is coming through the intersection from the opposite direction. What should you do?",
+   "options": [
+    "Turn if the bicyclist is in a bike lane",
+    "Honk and turn",
+    "Turn first since cars have priority",
+    "Wait for the bicyclist to pass before turning"
+   ],
+   "answer": 3,
+   "explain": "Wait for an oncoming bicyclist to pass before making a left turn, just as you would for a car.",
+   "official": false,
+   "ref": "Illinois Rules of the Road (2026), Ch. 5 Sharing the Road, 'Bicycles' (p. 43)"
+  },
+  {
+   "id": "il-186",
+   "topic": "sharing",
+   "q": "Why are motorcycles often involved in crashes with cars?",
+   "options": [
+    "Motorcycles cannot stop quickly",
+    "Drivers fail to see them and underestimate their speed",
+    "Motorcycles do not have lights",
+    "Motorcycles always speed"
+   ],
+   "answer": 1,
+   "explain": "Failure to detect and recognize motorcycles is the most common cause; their small size makes speed hard to judge.",
+   "official": false,
+   "ref": "Illinois Rules of the Road (2026), Ch. 5 Sharing the Road, 'Motorcycles' (p. 41)"
+  },
+  {
+   "id": "il-187",
+   "topic": "sharing",
+   "q": "Who may skate on Illinois public roadways, and where?",
+   "options": [
+    "No one; skating on roads is illegal",
+    "Only children under 12, on residential streets",
+    "People 18 or older, on roads posted 45 mph or less, from sunrise to sunset, if traffic is not impeded",
+    "Anyone, on any road"
+   ],
+   "answer": 2,
+   "explain": "Pedestrians 18+ may skate on roads posted 45 mph or less between sunrise and sunset without impeding traffic.",
+   "official": false,
+   "ref": "Illinois Rules of the Road (2026), Ch. 5 Sharing the Road, 'Pedestrians' (p. 40)"
+  },
+  {
+   "id": "il-188",
+   "topic": "safety",
+   "q": "Under Illinois law, which drivers may use a hands-free phone while driving?",
+   "options": [
+    "Drivers age 19 and older",
+    "Drivers age 21 and older",
+    "Drivers age 16 and older",
+    "All licensed drivers"
+   ],
+   "answer": 0,
+   "explain": "Handheld use is banned for everyone; hands-free or Bluetooth is allowed only for drivers 19 and older.",
+   "official": false,
+   "ref": "Illinois Rules of the Road (2026), Ch. 4 Traffic Laws, 'Distracted Driving' (p. 22)"
+  },
+  {
+   "id": "il-189",
+   "topic": "safety",
+   "q": "Which of these is a legal time for an adult to use a handheld phone in a vehicle?",
+   "options": [
+    "While parked on the shoulder of the road",
+    "While driving under 20 mph",
+    "While using speakerphone in your hand",
+    "While stopped at a red light in drive"
+   ],
+   "answer": 0,
+   "explain": "Handheld use is allowed only to report an emergency, while parked on the shoulder, or when stopped in obstructed traffic in neutral or park.",
+   "official": false,
+   "ref": "Illinois Rules of the Road (2026), Ch. 4 Traffic Laws, 'Distracted Driving' (p. 22)"
+  },
+  {
+   "id": "il-190",
+   "topic": "safety",
+   "q": "Is holding your phone and talking on speakerphone while driving legal in Illinois?",
+   "options": [
+    "Yes, on rural roads",
+    "Yes, if you are over 21",
+    "No, it is not considered hands-free",
+    "Yes, speakerphone always counts as hands-free"
+   ],
+   "answer": 2,
+   "explain": "Holding the phone while using speakerphone is a violation of Illinois law.",
+   "official": false,
+   "ref": "Illinois Rules of the Road (2026), Ch. 4 Traffic Laws, 'Distracted Driving' (p. 22)"
+  },
+  {
+   "id": "il-191",
+   "topic": "safety",
+   "q": "Which of these is illegal on a phone while driving in Illinois?",
+   "options": [
+    "Watching a live video, joining a video conference, or using social media",
+    "Calling 911 to report an emergency",
+    "Using voice commands with a mounted phone (age 19+)",
+    "Using a single-sided earpiece for a call (age 19+)"
+   ],
+   "answer": 0,
+   "explain": "Streaming live video, video conferencing and accessing social media while driving are violations.",
+   "official": false,
+   "ref": "Illinois Rules of the Road (2026), Ch. 4 Traffic Laws, 'Distracted Driving' (p. 22)"
+  },
+  {
+   "id": "il-192",
+   "topic": "safety",
+   "q": "What does Illinois law say about wearing headsets while driving?",
+   "options": [
+    "Headsets are prohibited, but a single-sided earpiece for a phone is allowed",
+    "Headsets covering both ears are allowed",
+    "Earpieces are banned entirely",
+    "Any headphones are allowed at low volume"
+   ],
+   "answer": 0,
+   "explain": "Headsets are prohibited while driving; a single-sided headset or earpiece is permitted.",
+   "official": false,
+   "ref": "Illinois Rules of the Road (2026), Ch. 4 Traffic Laws, 'Distracted Driving' (p. 22)"
+  },
+  {
+   "id": "il-193",
+   "topic": "safety",
+   "q": "Who must wear a seat belt in Illinois?",
+   "options": [
+    "Only drivers under 18",
+    "The driver and all passengers age 8 and older, front and back seats",
+    "Only passengers in vehicles without air bags",
+    "Only front-seat occupants"
+   ],
+   "answer": 1,
+   "explain": "Illinois requires safety belts for all drivers and passengers 8 and older in every seat, even with air bags.",
+   "official": false,
+   "ref": "Illinois Rules of the Road (2026), Ch. 4 Traffic Laws, 'Safety Belt Law' (p. 23)"
+  },
+  {
+   "id": "il-194",
+   "topic": "safety",
+   "q": "Who is responsible for making sure all passengers obey the seat belt and child restraint laws?",
+   "options": [
+    "Each passenger",
+    "The vehicle owner, even if not present",
+    "The driver",
+    "The parents only"
+   ],
+   "answer": 2,
+   "explain": "It is the driver's responsibility to ensure all passengers follow the belt law and Child Passenger Protection Act.",
+   "official": false,
+   "ref": "Illinois Rules of the Road (2026), Ch. 4 Traffic Laws, 'Safety Belt Law' (p. 23)"
+  },
+  {
+   "id": "il-195",
+   "topic": "safety",
+   "q": "Under the Child Passenger Protection Act, children under what age must be secured in an appropriate child restraint system?",
+   "options": [
+    "6",
+    "8",
+    "4",
+    "12"
+   ],
+   "answer": 1,
+   "explain": "The Child Passenger Protection Act requires every child under 8 to ride in a suitable child restraint, such as a car seat or booster.",
+   "official": false,
+   "ref": "Illinois Rules of the Road (2026), Ch. 4 Traffic Laws, 'Child Passenger Protection Act' (p. 23)"
+  },
+  {
+   "id": "il-196",
+   "topic": "safety",
+   "q": "Until what age must Illinois children ride rear-facing (unless they weigh more than 40 lb or are taller than 40 in)?",
+   "options": [
+    "Age 2",
+    "Age 4",
+    "Age 1",
+    "Age 3"
+   ],
+   "answer": 0,
+   "explain": "Since 2019, children must ride rear-facing until 2 unless over 40 pounds or 40 inches.",
+   "official": false,
+   "ref": "Illinois Rules of the Road (2026), Ch. 4 Traffic Laws, 'Child Passenger Protection Act' (p. 24)"
+  },
+  {
+   "id": "il-197",
+   "topic": "safety",
+   "q": "Where should a lap belt be worn?",
+   "options": [
+    "Under the arm",
+    "Across the stomach",
+    "Behind the back",
+    "Low across the hip bones"
+   ],
+   "answer": 3,
+   "explain": "The lap belt goes across the hip bones, never across the soft abdomen; the shoulder strap must not go behind the back or under the arm.",
+   "official": false,
+   "ref": "Illinois Rules of the Road (2026), Ch. 4 Traffic Laws, 'Safety Belt Law' (p. 23)"
+  },
+  {
+   "id": "il-198",
+   "topic": "safety",
+   "q": "What distance between the driver's chest and the steering-wheel air bag is recommended?",
+   "options": [
+    "2 to 4 inches",
+    "24 inches or more",
+    "10 to 12 inches",
+    "5 to 6 inches"
+   ],
+   "answer": 2,
+   "explain": "A distance of 10–12 inches from the air bag is desirable.",
+   "official": false,
+   "ref": "Illinois Rules of the Road (2026), Ch. 4 Traffic Laws, 'Safety Belt Law' (p. 23)"
+  },
+  {
+   "id": "il-199",
+   "topic": "safety",
+   "q": "When must headlights be on in Illinois?",
+   "options": [
+    "Only on unlit roads",
+    "Only during snowstorms",
+    "From sunset to sunrise and whenever weather requires windshield wipers",
+    "Only after 9 p.m."
+   ],
+   "answer": 2,
+   "explain": "Headlights are required from sunset to sunrise and when rain, snow or fog requires wipers.",
+   "official": false,
+   "ref": "Illinois Rules of the Road (2026), Ch. 12 Equipment for Safe Driving, 'Required Equipment' (p. 92)"
+  },
+  {
+   "id": "il-200",
+   "topic": "safety",
+   "q": "When must you dim your high beams for an oncoming vehicle?",
+   "options": [
+    "Within 200 feet",
+    "Within 300 feet",
+    "Within 500 feet",
+    "Within 1,000 feet"
+   ],
+   "answer": 2,
+   "explain": "Dim high beams 500 feet before meeting an oncoming vehicle.",
+   "official": false,
+   "ref": "Illinois Rules of the Road (2026), Ch. 11 Safe Driving Tips, 'Special Driving Situations and Hazards' (p. 87)"
+  },
+  {
+   "id": "il-201",
+   "topic": "safety",
+   "q": "When following another vehicle at night, how close may you get before dimming your high beams?",
+   "options": [
+    "200 feet",
+    "500 feet",
+    "300 feet",
+    "100 feet"
+   ],
+   "answer": 2,
+   "explain": "Dim high beams 300 feet before passing (approaching from behind) another vehicle.",
+   "official": false,
+   "ref": "Illinois Rules of the Road (2026), Ch. 11 Safe Driving Tips, 'Special Driving Situations and Hazards' (p. 87)"
+  },
+  {
+   "id": "il-202",
+   "topic": "safety",
+   "q": "Headlights should also be used when you cannot see objects at what distance?",
+   "options": [
+    "2,000 feet",
+    "1,000 feet",
+    "300 feet",
+    "100 feet"
+   ],
+   "answer": 1,
+   "explain": "Use headlights when objects 1,000 feet away cannot be seen.",
+   "official": false,
+   "ref": "Illinois Rules of the Road (2026), Ch. 12 Equipment for Safe Driving, 'Required Equipment' (p. 92)"
+  },
+  {
+   "id": "il-203",
+   "topic": "safety",
+   "q": "Your car starts to hydroplane on a wet road. What should you do?",
+   "options": [
+    "Speed up to regain traction",
+    "Turn the wheel sharply",
+    "Brake hard immediately",
+    "Ease off the accelerator and avoid hard braking"
+   ],
+   "answer": 3,
+   "explain": "Slow down to avoid hydroplaning; if it happens, release the accelerator and ride it out rather than braking quickly.",
+   "official": false,
+   "ref": "Illinois Rules of the Road (2026), Ch. 11 Safe Driving Tips, 'Weather Conditions' (p. 85)"
+  },
+  {
+   "id": "il-204",
+   "topic": "safety",
+   "q": "Your vehicle begins to skid. What does the handbook advise?",
+   "options": [
+    "Turn off the engine",
+    "Brake hard and steer the opposite way",
+    "Accelerate out of the skid",
+    "Ease off the gas or brake and steer in the direction of the skid, then straighten"
+   ],
+   "answer": 3,
+   "explain": "Ease off the pedal and steer into the direction of the skid until you regain traction.",
+   "official": false,
+   "ref": "Illinois Rules of the Road (2026), Ch. 11 Safe Driving Tips, 'Special Driving Situations and Hazards' (p. 87)"
+  },
+  {
+   "id": "il-205",
+   "topic": "safety",
+   "q": "Your right wheels drift off the pavement onto the shoulder. What should you do?",
+   "options": [
+    "Speed up and steer left sharply",
+    "Jerk the wheel back onto the pavement",
+    "Brake hard right away",
+    "Grip the wheel, ease off the gas, brake gently, then steer back on gently after checking traffic"
+   ],
+   "answer": 3,
+   "explain": "Jerking the wheel can send you into oncoming traffic; slow gently and ease back on.",
+   "official": false,
+   "ref": "Illinois Rules of the Road (2026), Ch. 11 Safe Driving Tips, 'Special Driving Situations and Hazards' (p. 87)"
+  },
+  {
+   "id": "il-206",
+   "topic": "safety",
+   "q": "Which part of the road often stays icy after the rest of the road is clear?",
+   "options": [
+    "Intersections with traffic signals",
+    "Bridges, overpasses and shaded spots",
+    "Sunny straightaways",
+    "Gravel shoulders"
+   ],
+   "answer": 1,
+   "explain": "Bridges, overpasses and shaded areas may remain icy after other pavement is dry.",
+   "official": false,
+   "ref": "Illinois Rules of the Road (2026), Ch. 11 Safe Driving Tips, 'Weather Conditions' (p. 85)"
+  },
+  {
+   "id": "il-207",
+   "topic": "safety",
+   "q": "You come to a flooded road or viaduct. What should you do?",
+   "options": [
+    "Drive through quickly to avoid stalling",
+    "Follow another vehicle through",
+    "Turn around and find another route",
+    "Drive through slowly"
+   ],
+   "answer": 2,
+   "explain": "Never drive through flooded areas; you cannot judge depth or current.",
+   "official": false,
+   "ref": "Illinois Rules of the Road (2026), Ch. 11 Safe Driving Tips, 'Weather Conditions' (p. 85)"
+  },
+  {
+   "id": "il-208",
+   "topic": "safety",
+   "q": "You are stranded in your vehicle during a blizzard. What should you do?",
+   "options": [
+    "Run the engine continuously with windows closed",
+    "Walk to find help",
+    "Leave the vehicle and wait outside",
+    "Stay in the vehicle, run the engine only briefly with a window slightly open, and keep the tailpipe clear"
+   ],
+   "answer": 3,
+   "explain": "Remain in the vehicle and guard against carbon monoxide.",
+   "official": false,
+   "ref": "Illinois Rules of the Road (2026), Ch. 11 Safe Driving Tips, 'Weather Conditions' (p. 85)"
+  },
+  {
+   "id": "il-209",
+   "topic": "safety",
+   "q": "An aggressive driver is yelling and gesturing at you. What should you do?",
+   "options": [
+    "Brake suddenly in front of them",
+    "Follow them to get their plate number closely",
+    "Gesture back",
+    "Avoid eye contact and do not engage"
+   ],
+   "answer": 3,
+   "explain": "Do not retaliate or make eye contact; keep doors locked and leave room to pull away.",
+   "official": false,
+   "ref": "Illinois Rules of the Road (2026), Ch. 11 Safe Driving Tips, 'Aggressive Driving' (p. 89)"
+  },
+  {
+   "id": "il-210",
+   "topic": "safety",
+   "q": "A vehicle is approaching head-on in your lane. What should you do?",
+   "options": [
+    "Speed up",
+    "Slow down, pull to the right, and sound your horn",
+    "Swerve left into the oncoming lane",
+    "Stop in your lane"
+   ],
+   "answer": 1,
+   "explain": "Slow, move to the right and use the horn.",
+   "official": false,
+   "ref": "Illinois Rules of the Road (2026), Ch. 11 Safe Driving Tips, 'Special Driving Situations and Hazards' (p. 87)"
+  },
+  {
+   "id": "il-211",
+   "topic": "safety",
+   "q": "At a railroad crossing with flashing lights or a lowered gate, where must you stop?",
+   "options": [
+    "Anywhere you can see the train",
+    "100 feet from the tracks",
+    "Right at the edge of the tracks",
+    "Between 15 and 50 feet from the nearest rail"
+   ],
+   "answer": 3,
+   "explain": "Stop within 15–50 feet of the crossing when signals flash, gates are down or a train is approaching.",
+   "official": false,
+   "ref": "Illinois Rules of the Road (2026), Ch. 4 Traffic Laws, 'Special Stops' (p. 33)"
+  },
+  {
+   "id": "il-212",
+   "topic": "safety",
+   "q": "A train has just passed at a crossing with multiple tracks and the lights stop flashing. What should you do?",
+   "options": [
+    "Wait for the gate attendant",
+    "Cross immediately",
+    "Check for a second train on another track before crossing",
+    "Honk and cross"
+   ],
+   "answer": 2,
+   "explain": "Always look for another train on another track before proceeding.",
+   "official": false,
+   "ref": "Illinois Rules of the Road (2026), Ch. 4 Traffic Laws, 'Special Stops' (p. 34)"
+  },
+  {
+   "id": "il-213",
+   "topic": "safety",
+   "q": "Which vehicles are required by law to stop at most railroad crossings?",
+   "options": [
+    "Motorcycles",
+    "Vehicles towing boats",
+    "All pickup trucks",
+    "Vehicles carrying passengers for hire, school buses, and hazardous-materials vehicles"
+   ],
+   "answer": 3,
+   "explain": "Be prepared to stop behind buses, school buses and hazmat vehicles at crossings.",
+   "official": false,
+   "ref": "Illinois Rules of the Road (2026), Ch. 4 Traffic Laws, 'Special Stops' (p. 33)"
+  },
+  {
+   "id": "il-214",
+   "topic": "safety",
+   "q": "What should you do when approaching a highway work zone?",
+   "options": [
+    "Honk to alert workers",
+    "Pass slower vehicles before the lane closes",
+    "Slow down, stop handheld phone use, yield to workers and change lanes away from them if possible",
+    "Speed up to clear the zone quickly"
+   ],
+   "answer": 2,
+   "explain": "In work zones Illinois requires you to slow down, discontinue phone use (hands-free excepted), yield and move away from workers.",
+   "official": false,
+   "ref": "Illinois Rules of the Road (2026), Ch. 4 Traffic Laws, 'Construction Zones, Emergency Vehicles...' (p. 25)"
+  },
+  {
+   "id": "il-215",
+   "topic": "alcohol",
+   "q": "At what blood-alcohol concentration (BAC) is it illegal for a driver age 21 or older to drive in Illinois?",
+   "options": [
+    "0.10% or more",
+    "0.05% or more",
+    "0.08% or more",
+    "0.12% or more"
+   ],
+   "answer": 2,
+   "explain": "It is illegal to drive with a BAC of .08% or more.",
+   "official": false,
+   "ref": "Illinois Rules of the Road (2026), Ch. 6 Driving Under the Influence, 'Blood-Alcohol Concentration (BAC)/Presence of Drugs' (p. 48)"
+  },
+  {
+   "id": "il-216",
+   "topic": "alcohol",
+   "q": "Can you be convicted of DUI with a BAC below 0.08%?",
+   "options": [
+    "Only if you cause a crash",
+    "Yes, if your driving ability is impaired",
+    "Only if you are a commercial driver",
+    "No, never"
+   ],
+   "answer": 1,
+   "explain": "You can be convicted of DUI at less than .08% if your driving is impaired.",
+   "official": false,
+   "ref": "Illinois Rules of the Road (2026), Ch. 6 Driving Under the Influence, 'Blood-Alcohol Concentration (BAC)/Presence of Drugs' (p. 48)"
+  },
+  {
+   "id": "il-217",
+   "topic": "alcohol",
+   "q": "A driver under 21 is found to have any trace of alcohol while driving. What is the minimum penalty?",
+   "options": [
+    "A one-week suspension",
+    "A driver's license suspension of at least three months",
+    "A warning only",
+    "A $50 fine"
+   ],
+   "answer": 1,
+   "explain": "Under zero tolerance, any trace of alcohol for drivers under 21 brings at least a three-month suspension.",
+   "official": false,
+   "ref": "Illinois Rules of the Road (2026), Ch. 6 Driving Under the Influence, 'Drivers Under Age 21' (p. 52)"
+  },
+  {
+   "id": "il-218",
+   "topic": "alcohol",
+   "q": "What is the minimum penalty for a driver under 21 convicted of DUI for the first time?",
+   "options": [
+    "A three-month suspension",
+    "A one-year suspension",
+    "Court supervision only",
+    "Revocation of driving privileges for at least two years"
+   ],
+   "answer": 3,
+   "explain": "Under-21 drivers convicted of DUI face at least a two-year revocation for a first conviction.",
+   "official": false,
+   "ref": "Illinois Rules of the Road (2026), Ch. 6 Driving Under the Influence, 'Drivers Under Age 21' (p. 52)"
+  },
+  {
+   "id": "il-219",
+   "topic": "alcohol",
+   "q": "Under Illinois' implied consent law, what have you agreed to by driving on Illinois roads?",
+   "options": [
+    "To let police search your home",
+    "To carry a breath tester",
+    "To submit to breath, blood, urine or other tests for alcohol or drugs if lawfully requested",
+    "To pay any traffic fine without court"
+   ],
+   "answer": 2,
+   "explain": "Driving in Illinois means you automatically consent to chemical testing to determine impairment.",
+   "official": false,
+   "ref": "Illinois Rules of the Road (2026), Ch. 6 Driving Under the Influence, 'DUI Laws' (p. 49)"
+  },
+  {
+   "id": "il-220",
+   "topic": "alcohol",
+   "q": "A first-time offender's chemical test shows a BAC of 0.08% or more. What is the statutory summary suspension?",
+   "options": [
+    "Six months",
+    "One year",
+    "Three months",
+    "Three years"
+   ],
+   "answer": 0,
+   "explain": "A failed test (BAC .08%+ or THC over the limit) brings a six-month suspension.",
+   "official": false,
+   "ref": "Illinois Rules of the Road (2026), Ch. 6 Driving Under the Influence, 'DUI Laws' (p. 49)"
+  },
+  {
+   "id": "il-221",
+   "topic": "alcohol",
+   "q": "A first-time offender refuses chemical testing after a DUI arrest. How long is the suspension?",
+   "options": [
+    "Three months",
+    "One year",
+    "Six months",
+    "Three years"
+   ],
+   "answer": 1,
+   "explain": "Refusing chemical testing results in a one-year suspension for a first offender.",
+   "official": false,
+   "ref": "Illinois Rules of the Road (2026), Ch. 6 Driving Under the Influence, 'DUI Laws' (p. 49)"
+  },
+  {
+   "id": "il-222",
+   "topic": "alcohol",
+   "q": "A second offender (within five years) refuses chemical testing. How long is the suspension?",
+   "options": [
+    "Five years",
+    "Three years",
+    "One year",
+    "Six months"
+   ],
+   "answer": 1,
+   "explain": "Second offenders face three years for a refusal and one year for a failed test.",
+   "official": false,
+   "ref": "Illinois Rules of the Road (2026), Ch. 6 Driving Under the Influence, 'DUI Laws' (p. 49)"
+  },
+  {
+   "id": "il-223",
+   "topic": "alcohol",
+   "q": "After a DUI arrest, the temporary receipt the officer gives you lets you drive for how many days before the summary suspension begins?",
+   "options": [
+    "10 days",
+    "45 days (the suspension starts on the 46th day)",
+    "90 days",
+    "30 days"
+   ],
+   "answer": 1,
+   "explain": "The receipt allows driving for 45 days; the statutory summary suspension begins on the 46th day.",
+   "official": false,
+   "ref": "Illinois Rules of the Road (2026), Ch. 6 Driving Under the Influence, 'DUI Laws' (p. 50)"
+  },
+  {
+   "id": "il-224",
+   "topic": "alcohol",
+   "q": "What is the minimum revocation for a first DUI conviction in Illinois (driver 21 or older)?",
+   "options": [
+    "One year",
+    "Six months",
+    "Five years",
+    "Three months"
+   ],
+   "answer": 0,
+   "explain": "A first DUI conviction brings at least a one-year revocation.",
+   "official": false,
+   "ref": "Illinois Rules of the Road (2026), Ch. 6 Driving Under the Influence, 'DUI Laws' (p. 50)"
+  },
+  {
+   "id": "il-225",
+   "topic": "alcohol",
+   "q": "What is the minimum revocation for a second DUI conviction within 20 years?",
+   "options": [
+    "Ten years",
+    "Two years",
+    "Five years",
+    "One year"
+   ],
+   "answer": 2,
+   "explain": "A second conviction within 20 years brings at least a five-year revocation.",
+   "official": false,
+   "ref": "Illinois Rules of the Road (2026), Ch. 6 Driving Under the Influence, 'DUI Laws' (p. 50)"
+  },
+  {
+   "id": "il-226",
+   "topic": "alcohol",
+   "q": "What is the penalty for a fourth DUI conviction?",
+   "options": [
+    "Lifetime revocation",
+    "Ten-year revocation",
+    "Six-month suspension",
+    "Five-year revocation"
+   ],
+   "answer": 0,
+   "explain": "A fourth and subsequent DUI conviction results in lifetime revocation.",
+   "official": false,
+   "ref": "Illinois Rules of the Road (2026), Ch. 6 Driving Under the Influence, 'DUI Laws' (p. 50)"
+  },
+  {
+   "id": "il-227",
+   "topic": "alcohol",
+   "q": "A DUI with a BAC at or above what level may bring enhanced penalties?",
+   "options": [
+    "0.16%",
+    "0.10%",
+    "0.12%",
+    "0.20%"
+   ],
+   "answer": 0,
+   "explain": "A DUI with a BAC of .16% or more, or while transporting a child under 16, may carry enhanced penalties.",
+   "official": false,
+   "ref": "Illinois Rules of the Road (2026), Ch. 6 Driving Under the Influence, 'DUI Laws' (p. 50)"
+  },
+  {
+   "id": "il-228",
+   "topic": "alcohol",
+   "q": "What is the legal THC limit for drivers in Illinois?",
+   "options": [
+    "1 nanogram per milliliter",
+    "50 nanograms per milliliter",
+    "Any amount is legal for adults over 21",
+    "5 nanograms or more per milliliter of whole blood (or 10 ng/mL of other bodily substance)"
+   ],
+   "answer": 3,
+   "explain": "Driving with THC of 5 ng/mL+ in whole blood or 10 ng/mL+ in another bodily substance is illegal.",
+   "official": false,
+   "ref": "Illinois Rules of the Road (2026), Ch. 6 Driving Under the Influence, 'Blood-Alcohol Concentration (BAC)/Presence of Drugs' (p. 48)"
+  },
+  {
+   "id": "il-229",
+   "topic": "alcohol",
+   "q": "How must cannabis be transported in a vehicle in Illinois?",
+   "options": [
+    "In any closed bag",
+    "In a sealed, odor-proof, child-resistant container",
+    "In the glove box",
+    "In the driver's pocket"
+   ],
+   "answer": 1,
+   "explain": "Cannabis may only be transported in a sealed, odor-proof, child-resistant container, and no one may use it in the vehicle.",
+   "official": false,
+   "ref": "Illinois Rules of the Road (2026), Ch. 6 Driving Under the Influence, 'Medical and Recreational Cannabis (Marijuana)' (p. 48)"
+  },
+  {
+   "id": "il-230",
+   "topic": "alcohol",
+   "q": "What is the only thing that removes alcohol from your body?",
+   "options": [
+    "Coffee",
+    "A cold shower",
+    "Time",
+    "Eating a large meal"
+   ],
+   "answer": 2,
+   "explain": "Food, coffee and showers do not speed elimination; only time does.",
+   "official": false,
+   "ref": "Illinois Rules of the Road (2026), Ch. 6 Driving Under the Influence, 'Blood-Alcohol Concentration (BAC)/Presence of Drugs' (p. 48)"
+  },
+  {
+   "id": "il-231",
+   "topic": "alcohol",
+   "q": "Is it legal for a passenger to have an open alcoholic beverage in the passenger area of an ordinary car?",
+   "options": [
+    "No, open alcohol in the passenger area is illegal",
+    "Yes, if it is beer or wine",
+    "Yes, if the driver is sober",
+    "Yes, if the passenger is over 21"
+   ],
+   "answer": 0,
+   "explain": "It is illegal to drink in a vehicle or to have an opened container in the passenger area (limos, chartered buses and motor homes excepted).",
+   "official": false,
+   "ref": "Illinois Rules of the Road (2026), Ch. 6 Driving Under the Influence, 'Related DUI Offenses' (p. 51)"
+  },
+  {
+   "id": "il-232",
+   "topic": "alcohol",
+   "q": "If you refuse chemical testing after a crash causing death or serious personal injury, what happens?",
+   "options": [
+    "A six-month suspension",
+    "A warning",
+    "Your driving privileges are revoked for at least one year",
+    "A three-month suspension"
+   ],
+   "answer": 2,
+   "explain": "Refusing testing after a crash with serious injury or death brings at least a one-year revocation.",
+   "official": false,
+   "ref": "Illinois Rules of the Road (2026), Ch. 6 Driving Under the Influence, 'DUI Laws' (p. 50)"
+  },
+  {
+   "id": "il-233",
+   "topic": "alcohol",
+   "q": "What may a first-time DUI offender get to drive during a statutory summary suspension?",
+   "options": [
+    "A Monitoring Device Driving Permit with a breath alcohol ignition interlock device",
+    "Nothing; no driving is possible",
+    "An unrestricted license after 30 days",
+    "A permit valid only on weekends"
+   ],
+   "answer": 0,
+   "explain": "An MDDP requires a BAIID installed in the vehicle; it cannot be issued to anyone under 18.",
+   "official": false,
+   "ref": "Illinois Rules of the Road (2026), Ch. 6 Driving Under the Influence, 'DUI Laws' (p. 50)"
+  },
+  {
+   "id": "il-234",
+   "topic": "alcohol",
+   "q": "Which of these can lead to an Aggravated DUI charge?",
+   "options": [
+    "Refusing a field sobriety test without a crash",
+    "Driving with an expired registration sticker",
+    "Committing DUI without a valid license or insurance",
+    "A first DUI with BAC of 0.08%"
+   ],
+   "answer": 2,
+   "explain": "Aggravated DUI includes DUI causing injury or death, a third DUI, DUI in a school bus, or DUI without a valid license or insurance.",
+   "official": false,
+   "ref": "Illinois Rules of the Road (2026), Ch. 6 Driving Under the Influence, 'Related DUI Offenses' (p. 51)"
+  },
+  {
+   "id": "il-235",
+   "topic": "alcohol",
+   "q": "A person under 21 receives court supervision for possessing alcohol while an occupant of a vehicle. What happens to their license?",
+   "options": [
+    "A two-year revocation",
+    "A three-month suspension",
+    "Nothing, since they were not driving",
+    "A one-week suspension"
+   ],
+   "answer": 1,
+   "explain": "Court supervision for possession/consumption while in a vehicle brings a three-month suspension; a conviction brings at least six months.",
+   "official": false,
+   "ref": "Illinois Rules of the Road (2026), Ch. 3 Drivers Under Age 21, 'Related Laws' (p. 20)"
+  },
+  {
+   "id": "il-236",
+   "topic": "alcohol",
+   "q": "After a DUI conviction, for how long must you file proof of financial responsibility (SR-22) insurance?",
+   "options": [
+    "Six months",
+    "Five years",
+    "Three years",
+    "One year"
+   ],
+   "answer": 2,
+   "explain": "A DUI conviction requires filing Financial Responsibility Insurance for three years.",
+   "official": false,
+   "ref": "Illinois Rules of the Road (2026), Ch. 6 Driving Under the Influence, 'DUI Laws' (p. 50)"
+  },
+  {
+   "id": "il-237",
+   "topic": "alcohol",
+   "q": "How does Illinois classify DUI and how long does a conviction stay on your driving record?",
+   "options": [
+    "As a violent crime; it stays on your record permanently",
+    "As a minor infraction; removed after court supervision",
+    "As a petty offense; it is removed after one year",
+    "As a civil violation; removed after five years"
+   ],
+   "answer": 0,
+   "explain": "DUI is classified in Illinois as a violent crime and a conviction remains permanently on the record.",
+   "official": false,
+   "ref": "Illinois Rules of the Road (2026), Ch. 6 Driving Under the Influence, 'DUI Laws' (p. 49)"
+  },
+  {
+   "id": "il-238",
+   "topic": "alcohol",
+   "q": "Can over-the-counter medicines such as antihistamines or cold remedies impair driving?",
+   "options": [
+    "No, only illegal drugs impair driving",
+    "Yes, many prescription and nonprescription drugs impair driving",
+    "Only in drivers over 65",
+    "Only if taken with food"
+   ],
+   "answer": 1,
+   "explain": "Antihistamines, cold remedies, pain relievers and many other drugs can impair safe driving.",
+   "official": false,
+   "ref": "Illinois Rules of the Road (2026), Ch. 6 Driving Under the Influence, 'Other Drugs' (p. 49)"
+  },
+  {
+   "id": "il-239",
+   "topic": "alcohol",
+   "q": "If you refuse a breath test and a blood test is needed, how much of its cost might you have to pay if found guilty of DUI?",
+   "options": [
+    "Up to $500",
+    "Nothing; the state pays",
+    "Up to $1,000",
+    "Up to $50"
+   ],
+   "answer": 0,
+   "explain": "You may be held financially liable up to $500 for blood test costs.",
+   "official": false,
+   "ref": "Illinois Rules of the Road (2026), Ch. 6 Driving Under the Influence, 'DUI Laws' (p. 49)"
+  },
+  {
+   "id": "il-240",
+   "topic": "emergencies",
+   "q": "A crash report must be filed regardless of fault when the crash involves death, injury, or property damage over what amount (all vehicles insured)?",
+   "options": [
+    "$1,000",
+    "$2,500",
+    "$500",
+    "$1,500"
+   ],
+   "answer": 3,
+   "explain": "A report is required for death, injury or damage over $1,500 ($500 if any vehicle is uninsured).",
+   "official": false,
+   "ref": "Illinois Rules of the Road (2026), Ch. 7 Traffic Violations/Crashes, 'Crash Reports' (p. 54)"
+  },
+  {
+   "id": "il-241",
+   "topic": "emergencies",
+   "q": "If any vehicle in a crash is uninsured, a report is required when property damage exceeds what amount?",
+   "options": [
+    "$1,500",
+    "$500",
+    "$2,000",
+    "$100"
+   ],
+   "answer": 1,
+   "explain": "When a vehicle involved is uninsured, damage over $500 requires a report.",
+   "official": false,
+   "ref": "Illinois Rules of the Road (2026), Ch. 7 Traffic Violations/Crashes, 'Crash Reports' (p. 54)"
+  },
+  {
+   "id": "il-242",
+   "topic": "emergencies",
+   "q": "According to the Rules of the Road, how soon after a crash must a driver report it?",
+   "options": [
+    "Within 24 hours",
+    "Within 10 days",
+    "Within 72 hours",
+    "Within 30 minutes"
+   ],
+   "answer": 3,
+   "explain": "The handbook states a driver has 30 minutes to report a crash.",
+   "official": false,
+   "ref": "Illinois Rules of the Road (2026), Ch. 7 Traffic Violations/Crashes, 'Crash Reports' (p. 55)"
+  },
+  {
+   "id": "il-243",
+   "topic": "emergencies",
+   "q": "What is the maximum penalty for failing to report a vehicle crash?",
+   "options": [
+    "A fine up to $2,500 and up to one year in jail",
+    "A written warning",
+    "A 30-day suspension only",
+    "A $50 fine"
+   ],
+   "answer": 0,
+   "explain": "Failing to report a crash can bring a fine up to $2,500 and up to a year in jail.",
+   "official": false,
+   "ref": "Illinois Rules of the Road (2026), Ch. 7 Traffic Violations/Crashes, 'Crash Reports' (p. 55)"
+  },
+  {
+   "id": "il-244",
+   "topic": "emergencies",
+   "q": "A crash happens in a rural area with no officer at the scene. Whom should you notify?",
+   "options": [
+    "The nearest hospital",
+    "The Secretary of State the next week",
+    "The county sheriff or Illinois State Police",
+    "Only your insurance company"
+   ],
+   "answer": 2,
+   "explain": "In rural areas, notify the county sheriff or Illinois State Police.",
+   "official": false,
+   "ref": "Illinois Rules of the Road (2026), Ch. 7 Traffic Violations/Crashes, 'Crash Reports' (p. 55)"
+  },
+  {
+   "id": "il-245",
+   "topic": "emergencies",
+   "q": "You damage a parked car whose owner cannot be found. What should you do?",
+   "options": [
+    "Leave, since no one was hurt",
+    "Report it only if damage is over $1,500",
+    "Stop, leave a note with your name, address, phone and plate number, notify police and file any required report",
+    "Wait one hour, then leave"
+   ],
+   "answer": 2,
+   "explain": "Leave your contact information on the vehicle, notify police and complete required reports.",
+   "official": false,
+   "ref": "Illinois Rules of the Road (2026), Ch. 7 Traffic Violations/Crashes, 'Unattended Vehicles' (p. 55)"
+  },
+  {
+   "id": "il-246",
+   "topic": "emergencies",
+   "q": "What happens to a driver convicted of leaving the scene of a crash where someone was injured or killed?",
+   "options": [
+    "A fine only",
+    "Points but no suspension",
+    "A 30-day suspension",
+    "The Secretary of State must revoke the license, and criminal charges apply"
+   ],
+   "answer": 3,
+   "explain": "Leaving the scene of an injury or fatal crash requires revocation; property damage over $1,000 brings suspension.",
+   "official": false,
+   "ref": "Illinois Rules of the Road (2026), Ch. 7 Traffic Violations/Crashes, 'Leaving the Scene of a Crash' (p. 55)"
+  },
+  {
+   "id": "il-247",
+   "topic": "emergencies",
+   "q": "What is the first thing to do if you are involved in or come upon a crash, if you are able?",
+   "options": [
+    "Leave the area to avoid congestion",
+    "Move the injured people immediately",
+    "Stop in a safe, well-lit place that does not block traffic",
+    "Drive to the nearest police station"
+   ],
+   "answer": 2,
+   "explain": "Stop safely, help the injured if needed, call 911 and warn other drivers with flashers or flares.",
+   "official": false,
+   "ref": "Illinois Rules of the Road (2026), Ch. 7 Traffic Violations/Crashes, 'Traffic Violations/Crashes' (p. 54)"
+  },
+  {
+   "id": "il-248",
+   "topic": "emergencies",
+   "q": "Your vehicle stalls on railroad tracks and a train is coming. What should everyone do?",
+   "options": [
+    "Get out immediately and move away from the tracks at an angle toward the train, then call 911",
+    "Stay in the vehicle with belts on",
+    "Stand beside the vehicle and wave to the train engineer",
+    "Try to restart the engine"
+   ],
+   "answer": 0,
+   "explain": "Move away at a 45-degree angle toward the train so debris does not hit you, and call 911.",
+   "official": false,
+   "ref": "Illinois Rules of the Road (2026), Ch. 4 Traffic Laws, 'Special Stops' (p. 33)"
+  },
+  {
+   "id": "il-249",
+   "topic": "emergencies",
+   "q": "Where can you find the phone number to report a problem at a railroad crossing?",
+   "options": [
+    "On the blue Emergency Notification System sign posted at the crossing",
+    "On the white stop line",
+    "On the round yellow advance sign",
+    "On the crossbuck's back side"
+   ],
+   "answer": 0,
+   "explain": "The blue ENS sign at the crossing lists the railroad's emergency number and a crossing ID.",
+   "official": false,
+   "ref": "Illinois Rules of the Road (2026), Ch. 10 Traffic Signals and Pavement Markings, 'Railroad Crossings' (p. 81)"
+  },
+  {
+   "id": "il-250",
+   "topic": "emergencies",
+   "q": "You are pulled over by police. What should you do?",
+   "options": [
+    "Get out and walk to the squad car",
+    "Search the glove box right away",
+    "Keep driving until you reach home",
+    "Stay in the vehicle with your hands visible on the steering wheel"
+   ],
+   "answer": 3,
+   "explain": "Remain in the car, keep hands on the wheel and follow the officer's instructions.",
+   "official": false,
+   "ref": "Illinois Rules of the Road (2026), Ch. 4 Traffic Laws, 'Proper Action When Stopped by Law Enforcement' (p. 21)"
+  },
+  {
+   "id": "il-251",
+   "topic": "emergencies",
+   "q": "Your proof of insurance is in the glove box when an officer asks for it. What should you do?",
+   "options": [
+    "Refuse to show it",
+    "Reach for it quickly",
+    "Get out and go to the trunk",
+    "Tell the officer where it is and follow their directions before reaching for it"
+   ],
+   "answer": 3,
+   "explain": "Inform the officer where the items are before retrieving them.",
+   "official": false,
+   "ref": "Illinois Rules of the Road (2026), Ch. 4 Traffic Laws, 'Proper Action When Stopped by Law Enforcement' (p. 21)"
+  },
+  {
+   "id": "il-252",
+   "topic": "emergencies",
+   "q": "An unmarked car signals you to pull over and you cannot confirm it is the police. What does the handbook suggest?",
+   "options": [
+    "Speed away",
+    "Ignore the vehicle",
+    "Drive slowly to a well-lit, populated place or police station, turn on hazard lights, or call 911",
+    "Stop immediately in the traffic lane"
+   ],
+   "answer": 2,
+   "explain": "You may drive carefully to a safe public place or police station, use hazard lights, or call 911.",
+   "official": false,
+   "ref": "Illinois Rules of the Road (2026), Ch. 4 Traffic Laws, 'Proper Action When Stopped by Law Enforcement' (p. 21)"
+  },
+  {
+   "id": "il-253",
+   "topic": "emergencies",
+   "q": "Your vehicle breaks down on a high-capacity road such as an expressway. What is the recommended action?",
+   "options": [
+    "Pull as far right as possible, stay inside with your seat belt on, turn on hazards, and call 911",
+    "Get out and walk along the expressway for help",
+    "Stop in the lane and raise the hood",
+    "Stand behind the vehicle to warn traffic"
+   ],
+   "answer": 0,
+   "explain": "On high-capacity roads, remain buckled in the vehicle with hazards on and call for help.",
+   "official": false,
+   "ref": "Illinois Rules of the Road (2026), Ch. 11 Safe Driving Tips, 'Stranded Motorists' Safety Protocols' (p. 90)"
+  },
+  {
+   "id": "il-254",
+   "topic": "emergencies",
+   "q": "On the Illinois Tollway, what number can a stranded motorist call besides 911?",
+   "options": [
+    "*999",
+    "*411",
+    "311",
+    "*55"
+   ],
+   "answer": 0,
+   "explain": "Stranded Tollway motorists can call *999 or 911.",
+   "official": false,
+   "ref": "Illinois Rules of the Road (2026), Ch. 11 Safe Driving Tips, 'Stranded Motorists' Safety Protocols' (p. 90)"
+  },
+  {
+   "id": "il-255",
+   "topic": "emergencies",
+   "q": "Your tire blows out at highway speed. What should you do?",
+   "options": [
+    "Brake hard immediately",
+    "Hold the wheel firmly, ease off the gas, and pull off safely without braking suddenly",
+    "Accelerate to keep control",
+    "Steer sharply to the shoulder"
+   ],
+   "answer": 1,
+   "explain": "Ease off the accelerator, keep a firm grip and pull off safely; do not brake suddenly.",
+   "official": false,
+   "ref": "Illinois Rules of the Road (2026), Ch. 11 Safe Driving Tips, 'Equipment Failure' (p. 88)"
+  },
+  {
+   "id": "il-256",
+   "topic": "emergencies",
+   "q": "Your brake pedal suddenly sinks to the floor. What should you try first?",
+   "options": [
+    "Turn off the engine",
+    "Pump the brake pedal to build pressure",
+    "Steer onto the shoulder at full speed",
+    "Shift into park"
+   ],
+   "answer": 1,
+   "explain": "Pump the pedal; if that fails, use the parking brake and shift to a lower gear.",
+   "official": false,
+   "ref": "Illinois Rules of the Road (2026), Ch. 11 Safe Driving Tips, 'Equipment Failure' (p. 89)"
+  },
+  {
+   "id": "il-257",
+   "topic": "emergencies",
+   "q": "Your gas pedal sticks and won't free up with your toe. What should you do?",
+   "options": [
+    "Shift into neutral and brake gently",
+    "Turn off the ignition and remove the key",
+    "Shift into reverse",
+    "Pump the gas pedal"
+   ],
+   "answer": 0,
+   "explain": "If the pedal stays stuck, shift to neutral and brake gently.",
+   "official": false,
+   "ref": "Illinois Rules of the Road (2026), Ch. 11 Safe Driving Tips, 'Equipment Failure' (p. 89)"
+  },
+  {
+   "id": "il-258",
+   "topic": "emergencies",
+   "q": "You lose power steering control. Why shouldn't you turn off the ignition?",
+   "options": [
+    "The steering may lock or lose power-assist completely",
+    "It is illegal to turn off a moving car",
+    "The air bags will deploy",
+    "The brakes will stop working"
+   ],
+   "answer": 0,
+   "explain": "Turning off the ignition can lock the steering or remove power assist; ease off the gas and use flashers.",
+   "official": false,
+   "ref": "Illinois Rules of the Road (2026), Ch. 11 Safe Driving Tips, 'Equipment Failure' (p. 89)"
+  },
+  {
+   "id": "il-259",
+   "topic": "emergencies",
+   "q": "Smoke comes from under your hood while driving. What should you do?",
+   "options": [
+    "Pour water on the engine",
+    "Pull off the road, turn off the engine, move away from the vehicle and call 911",
+    "Keep driving to a service station",
+    "Open the hood to fight the fire"
+   ],
+   "answer": 1,
+   "explain": "Vehicle fires are dangerous; get clear and call 911 rather than fighting it yourself.",
+   "official": false,
+   "ref": "Illinois Rules of the Road (2026), Ch. 11 Safe Driving Tips, 'Special Driving Situations and Hazards' (p. 88)"
+  },
+  {
+   "id": "il-260",
+   "topic": "emergencies",
+   "q": "A power line falls on your car after a crash, and there is no fire. What should you do?",
+   "options": [
+    "Try to move the wire off the car",
+    "Touch the door to test for current",
+    "Stay in the vehicle until help arrives",
+    "Get out immediately"
+   ],
+   "answer": 2,
+   "explain": "Remain inside unless fire forces you out; then jump clear without touching car and ground at once, and shuffle away 50 feet.",
+   "official": false,
+   "ref": "Illinois Rules of the Road (2026), Ch. 11 Safe Driving Tips, 'Special Driving Situations and Hazards' (p. 88)"
+  },
+  {
+   "id": "il-261",
+   "topic": "emergencies",
+   "q": "Your car goes into water but does not sink right away. What is the best escape?",
+   "options": [
+    "Escape through a window",
+    "Wait for the car to fill with water",
+    "Call for help and stay seated",
+    "Open the door immediately"
+   ],
+   "answer": 0,
+   "explain": "Water pressure may keep doors shut; try a window. If sinking, move to the rear air pocket and exit through a rear window.",
+   "official": false,
+   "ref": "Illinois Rules of the Road (2026), Ch. 11 Safe Driving Tips, 'Special Driving Situations and Hazards' (p. 88)"
+  },
+  {
+   "id": "il-262",
+   "topic": "emergencies",
+   "q": "You approach a crash involving a truck with a hazardous materials placard. What should you do?",
+   "options": [
+    "Stay away and follow emergency responders' directions; report it from a safe place if no responders are there",
+    "Drive through the spill quickly",
+    "Get close to read the placard",
+    "Help move the truck"
+   ],
+   "answer": 0,
+   "explain": "Avoid the area, follow responders, and seek medical help if you later feel ill.",
+   "official": false,
+   "ref": "Illinois Rules of the Road (2026), Ch. 9 Roadway Signs, 'Hazardous Materials Signs' (p. 75)"
+  },
+  {
+   "id": "il-263",
+   "topic": "emergencies",
+   "q": "How long may a disabled vehicle be left on an interstate or toll highway before police may have it towed?",
+   "options": [
+    "Ten hours",
+    "24 hours",
+    "Two hours",
+    "48 hours"
+   ],
+   "answer": 2,
+   "explain": "On interstates, expressways and toll highways, vehicles may be towed after two hours.",
+   "official": false,
+   "ref": "Illinois Rules of the Road (2026), Ch. 5 Sharing the Road, 'Disabled Vehicles' (p. 45)"
+  },
+  {
+   "id": "il-264",
+   "topic": "emergencies",
+   "q": "If your vehicle breaks down on an expressway, what should you never do?",
+   "options": [
+    "Pull completely off the road",
+    "Walk along the expressway",
+    "Turn on hazard flashers",
+    "Raise the hood"
+   ],
+   "answer": 1,
+   "explain": "Pull off, raise the hood and turn on flashers; never walk along the expressway.",
+   "official": false,
+   "ref": "Illinois Rules of the Road (2026), Ch. 11 Safe Driving Tips, 'Special Driving Situations and Hazards' (p. 86)"
+  },
+  {
+   "id": "il-265",
+   "topic": "equipment",
+   "q": "An Illinois car's foot brake must be able to stop it from 20 mph within what distance?",
+   "options": [
+    "30 feet",
+    "55 feet",
+    "100 feet",
+    "15 feet"
+   ],
+   "answer": 0,
+   "explain": "The foot brake must stop a vehicle from 20 mph within 30 feet; the parking brake within 55 feet.",
+   "official": false,
+   "ref": "Illinois Rules of the Road (2026), Ch. 12 Equipment for Safe Driving, 'Required Equipment' (p. 92)"
+  },
+  {
+   "id": "il-266",
+   "topic": "equipment",
+   "q": "Your vehicle's taillights must be visible from how far behind?",
+   "options": [
+    "1,000 feet",
+    "200 feet",
+    "100 feet",
+    "500 feet"
+   ],
+   "answer": 3,
+   "explain": "Two red taillights visible for 500 feet are required.",
+   "official": false,
+   "ref": "Illinois Rules of the Road (2026), Ch. 12 Equipment for Safe Driving, 'Required Equipment' (p. 92)"
+  },
+  {
+   "id": "il-267",
+   "topic": "equipment",
+   "q": "Turn signals on a car must be visible from what distance?",
+   "options": [
+    "100 feet",
+    "500 feet",
+    "50 feet",
+    "300 feet"
+   ],
+   "answer": 3,
+   "explain": "Front and rear turn signals must be visible from 300 feet.",
+   "official": false,
+   "ref": "Illinois Rules of the Road (2026), Ch. 12 Equipment for Safe Driving, 'Required Equipment' (p. 92)"
+  },
+  {
+   "id": "il-268",
+   "topic": "equipment",
+   "q": "A car's horn must be audible from at least how far away?",
+   "options": [
+    "500 feet",
+    "100 feet",
+    "50 feet",
+    "200 feet"
+   ],
+   "answer": 3,
+   "explain": "Illinois requires a working horn audible from at least 200 feet away.",
+   "official": false,
+   "ref": "Illinois Rules of the Road (2026), Ch. 12 Equipment for Safe Driving, 'Required Equipment' (p. 92)"
+  },
+  {
+   "id": "il-269",
+   "topic": "equipment",
+   "q": "Your rear-view mirror must let you see at least how far behind your car?",
+   "options": [
+    "200 feet",
+    "100 feet",
+    "500 feet",
+    "50 feet"
+   ],
+   "answer": 0,
+   "explain": "At least one mirror must show 200 feet to the rear.",
+   "official": false,
+   "ref": "Illinois Rules of the Road (2026), Ch. 12 Equipment for Safe Driving, 'Required Equipment' (p. 92)"
+  },
+  {
+   "id": "il-270",
+   "topic": "equipment",
+   "q": "What window tinting is allowed on a front windshield in Illinois?",
+   "options": [
+    "Full tint if you have a medical note for any reason",
+    "Only a 6-inch strip along the top",
+    "Tint on the lower half",
+    "Any light tint"
+   ],
+   "answer": 1,
+   "explain": "Tinting the front windshield is not allowed except a 6-inch strip along the top.",
+   "official": false,
+   "ref": "Illinois Rules of the Road (2026), Ch. 12 Equipment for Safe Driving, 'Required Equipment' (p. 92)"
+  },
+  {
+   "id": "il-271",
+   "topic": "equipment",
+   "q": "A load extends 4 feet or more beyond the rear of your vehicle during the day. What must you display?",
+   "options": [
+    "A white light",
+    "Nothing",
+    "An orange triangle",
+    "A red flag at the end of the load"
+   ],
+   "answer": 3,
+   "explain": "Loads extending 4 feet or more must have a red flag by day and a red light visible 500 feet at night.",
+   "official": false,
+   "ref": "Illinois Rules of the Road (2026), Ch. 12 Equipment for Safe Driving, 'Restricted Equipment' (p. 93)"
+  },
+  {
+   "id": "il-272",
+   "topic": "equipment",
+   "q": "May a television or video screen visible from the driver's seat be on while the vehicle is moving?",
+   "options": [
+    "Yes, for passengers' movies",
+    "No",
+    "Yes, if the sound is off",
+    "Yes, on expressways"
+   ],
+   "answer": 1,
+   "explain": "Video screens visible to the driver are prohibited while the vehicle is in motion.",
+   "official": false,
+   "ref": "Illinois Rules of the Road (2026), Ch. 12 Equipment for Safe Driving, 'Restricted Equipment' (p. 93)"
+  },
+  {
+   "id": "il-273",
+   "topic": "equipment",
+   "q": "The license plate light must make the rear plate readable from how far away?",
+   "options": [
+    "10 feet",
+    "100 feet",
+    "50 feet",
+    "200 feet"
+   ],
+   "answer": 2,
+   "explain": "A white plate light must make the plate readable from 50 feet when headlights are on.",
+   "official": false,
+   "ref": "Illinois Rules of the Road (2026), Ch. 12 Equipment for Safe Driving, 'Required Equipment' (p. 92)"
+  },
+  {
+   "id": "il-274",
+   "topic": "equipment",
+   "q": "How many license plates must an Illinois passenger car display?",
+   "options": [
+    "Two, one on the front and one on the rear",
+    "One on the rear only",
+    "One on the front only",
+    "None if a temporary permit is in the window"
+   ],
+   "answer": 0,
+   "explain": "Passenger vehicles, trucks and vans must display front and rear plates.",
+   "official": false,
+   "ref": "Illinois Rules of the Road (2026), Ch. 13 Owning a Vehicle, 'License Plate Requirements' (p. 96)"
+  },
+  {
+   "id": "il-275",
+   "topic": "equipment",
+   "q": "Which lights visible from the front of a passenger car are prohibited?",
+   "options": [
+    "Red lights",
+    "White headlights",
+    "Amber parking lights",
+    "Amber turn signals"
+   ],
+   "answer": 0,
+   "explain": "Red lights visible from the front are only for police and designated emergency vehicles.",
+   "official": false,
+   "ref": "Illinois Rules of the Road (2026), Ch. 12 Equipment for Safe Driving, 'Restricted Equipment' (p. 93)"
+  },
+  {
+   "id": "il-276",
+   "topic": "equipment",
+   "q": "When you sell your vehicle in Illinois, what happens to the license plates?",
+   "options": [
+    "They go to the buyer's insurer",
+    "They stay with the vehicle",
+    "The seller removes and keeps them",
+    "They must be destroyed"
+   ],
+   "answer": 2,
+   "explain": "In Illinois plates stay with the owner, not the vehicle.",
+   "official": false,
+   "ref": "Illinois Rules of the Road (2026), Ch. 13 Owning a Vehicle, 'License Plate Requirements' (p. 96)"
+  }
+ ],
+ "version": 1
+}

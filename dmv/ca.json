@@ -1,0 +1,4241 @@
+{
+  "code": "ca",
+  "test": "California DMV Knowledge Test (Class C)",
+  "edition": "Based on the California Driver's Handbook, DL 600 English (rev. 6/2025), the current edition on dmv.ca.gov as checked October 2026",
+  "language": "en",
+  "exam": {
+    "questions": 36,
+    "passMark": 30,
+    "minutes": null,
+    "rules": "Everyone applying for a first California Class C license (an instruction permit) takes a multiple-choice knowledge test on the California Driver's Handbook at a DMV office, along with a vision test. DMV says the passing score is 80%. Adults (18 and older) get 36 questions and need 30 correct. Applicants under 18 get 46 questions and may miss no more than 8 (38 correct). Each question has three answer choices. Road-sign questions are mixed in with the other questions, not scored as a separate section. You get three attempts per application before you must reapply, and minors must wait 7 days (not counting the day of the failure) to retake a failed test. In-office tests must be started before 4:30 p.m. Testing aids such as the handbook or a phone are not allowed. Drivers renewing a license may be offered a no-fail eLearning course instead; first-time applicants may not use it."
+  },
+  "sources": [
+    {
+      "title": "California Driver's Handbook (DL 600, rev. 6/2025)",
+      "url": "https://www.dmv.ca.gov/portal/file/california-driver-handbook-pdf/",
+      "licence": "State government publication, CC BY-NC 4.0 (commercial use requires DMV permission); no text was copied, questions are written in our own words",
+      "note": "The main source for every fact and answer key. The section names are given in each question's ref."
+    },
+    {
+      "title": "California DMV - Learner's Permits (Instruction Permits)",
+      "url": "https://www.dmv.ca.gov/portal/driver-licenses-identification-cards/instruction-permits/",
+      "licence": "State government web page (facts only)",
+      "note": "Gives the 80% passing score, multiple-choice format and the 4:30 p.m. testing cut-off."
+    },
+    {
+      "title": "California DMV Fast Facts FFDL 19 - Provisional Licensing (rev. 7/2019)",
+      "url": "https://www.dmv.ca.gov/portal/file/ffdl_19-pdf/",
+      "licence": "State government publication (facts only)",
+      "note": "Says minors may miss no more than 8 questions and must wait 7 days to retake. Also covers the provisional license restrictions and sanctions."
+    },
+    {
+      "title": "California DMV - Knowledge and Drive Tests Preparation",
+      "url": "https://www.dmv.ca.gov/portal/driver-licenses-identification-cards/preparing-for-knowledge-and-drive-tests/",
+      "licence": "State government web page (facts only)",
+      "note": "Says each question has one correct answer and two wrong ones (three choices) and that all questions come from the handbook."
+    },
+    {
+      "title": "California DMV - Driver's Licenses",
+      "url": "https://www.dmv.ca.gov/portal/driver-licenses-identification-cards/driver-licenses-dl/",
+      "licence": "State government web page (facts only)",
+      "note": "Gives the three-attempt rule and the drive test retest rules."
+    },
+    {
+      "title": "California DMV - Online Learning (eLearning)",
+      "url": "https://www.dmv.ca.gov/portal/driver-education-and-safety/online-learning-and-tests/",
+      "licence": "State government web page (facts only)",
+      "note": "Explains that eLearning is only for renewals, not for first-time applicants."
+    }
+  ],
+  "topics": [
+    {
+      "id": "licensing",
+      "title": "Permits & licensing"
+    },
+    {
+      "id": "signs",
+      "title": "Signs, signals & markings"
+    },
+    {
+      "id": "right-of-way",
+      "title": "Right of way"
+    },
+    {
+      "id": "speed",
+      "title": "Speed & following distance"
+    },
+    {
+      "id": "turns",
+      "title": "Turning, lanes & passing"
+    },
+    {
+      "id": "parking",
+      "title": "Parking"
+    },
+    {
+      "id": "sharing",
+      "title": "Sharing the road"
+    },
+    {
+      "id": "safety",
+      "title": "Safe driving & hazards"
+    },
+    {
+      "id": "alcohol",
+      "title": "Alcohol, drugs & penalties"
+    },
+    {
+      "id": "emergencies",
+      "title": "Emergencies & crashes"
+    }
+  ],
+  "questions": [
+    {
+      "id": "ca-001",
+      "topic": "licensing",
+      "q": "What is the minimum age to apply for a California provisional instruction permit?",
+      "options": [
+        "14½ years old",
+        "15 years old",
+        "15½ years old",
+        "16 years old"
+      ],
+      "answer": 2,
+      "explain": "Applicants under 18 must be at least 15½ years old to apply for an instruction permit.",
+      "official": false,
+      "ref": "California Driver's Handbook (DL 600, rev. 6/2025), Section 2, 'Applying For An Instruction Permit'"
+    },
+    {
+      "id": "ca-002",
+      "topic": "licensing",
+      "q": "A driver under 18 must hold an instruction permit for at least how long before taking the behind-the-wheel drive test?",
+      "options": [
+        "3 months",
+        "6 months",
+        "9 months",
+        "12 months"
+      ],
+      "answer": 1,
+      "explain": "Minors must have held a permit for at least 6 months (or turn 18) before scheduling the drive test.",
+      "official": false,
+      "ref": "California Driver's Handbook (DL 600, rev. 6/2025), Section 2, 'Applying For A Driver's License'"
+    },
+    {
+      "id": "ca-003",
+      "topic": "licensing",
+      "q": "How much supervised practice driving must a driver under 18 complete before getting a license?",
+      "options": [
+        "30 hours, including 5 hours at night",
+        "40 hours, including 15 hours at night",
+        "50 hours, including 10 hours at night",
+        "60 hours, including 20 hours at night"
+      ],
+      "answer": 2,
+      "explain": "Minors must log at least 50 hours of practice, 10 of them at night, with a licensed driver who is at least 25.",
+      "official": false,
+      "ref": "California Driver's Handbook (DL 600, rev. 6/2025), Section 2, 'Applying For A Driver's License'"
+    },
+    {
+      "id": "ca-004",
+      "topic": "licensing",
+      "q": "A 16-year-old permit holder wants to practice with a licensed adult who is not a parent, guardian or instructor. How old must that driver be?",
+      "options": [
+        "At least 25",
+        "At least 30",
+        "At least 18",
+        "At least 21"
+      ],
+      "answer": 0,
+      "explain": "Minors with a permit must practice with a California-licensed driver who is at least 25 years old (or a parent, guardian or instructor).",
+      "official": false,
+      "ref": "California Driver's Handbook (DL 600, rev. 6/2025), Section 2, 'Applying For A Driver's License'"
+    },
+    {
+      "id": "ca-005",
+      "topic": "licensing",
+      "q": "An adult (18 or older) with an instruction permit may practice driving with a California-licensed driver who is at least:",
+      "options": [
+        "16 years old",
+        "18 years old",
+        "21 years old",
+        "25 years old"
+      ],
+      "answer": 1,
+      "explain": "Adult permit holders may practice with a California-licensed driver who is at least 18; the 25-year minimum applies to minors.",
+      "official": false,
+      "ref": "California Driver's Handbook (DL 600, rev. 6/2025), Section 2, 'Applying For A Driver's License'"
+    },
+    {
+      "id": "ca-006",
+      "topic": "licensing",
+      "q": "What is the minimum age to get a provisional driver's license in California?",
+      "options": [
+        "15½",
+        "16",
+        "17",
+        "18"
+      ],
+      "answer": 1,
+      "explain": "Applicants under 18 must be at least 16 years old to be issued a driver's license.",
+      "official": false,
+      "ref": "California Driver's Handbook (DL 600, rev. 6/2025), Section 2, 'Applying For A Driver's License'"
+    },
+    {
+      "id": "ca-007",
+      "topic": "licensing",
+      "q": "During the first 12 months with a provisional license, you may not drive between:",
+      "options": [
+        "10 p.m. and 6 a.m.",
+        "Midnight and 5 a.m.",
+        "9 p.m. and 5 a.m.",
+        "11 p.m. and 5 a.m."
+      ],
+      "answer": 3,
+      "explain": "Provisional drivers cannot drive from 11 p.m. to 5 a.m. during the first year unless an exception applies.",
+      "official": false,
+      "ref": "California Driver's Handbook (DL 600, rev. 6/2025), Section 2, 'Minor's Restrictions and Exceptions'"
+    },
+    {
+      "id": "ca-008",
+      "topic": "licensing",
+      "q": "During the first year with a provisional license, you may not carry passengers under what age unless an approved adult rides with you?",
+      "options": [
+        "16",
+        "18",
+        "20",
+        "21"
+      ],
+      "answer": 2,
+      "explain": "Provisional drivers may not transport passengers under 20 unless a parent, guardian or licensed driver 25 or older is in the vehicle.",
+      "official": false,
+      "ref": "California Driver's Handbook (DL 600, rev. 6/2025), Section 2, 'Minor's Restrictions and Exceptions'"
+    },
+    {
+      "id": "ca-009",
+      "topic": "licensing",
+      "q": "A provisional driver needs to drive to work during restricted hours. What must they carry?",
+      "options": [
+        "Their most recent paycheck stub",
+        "A note signed by any adult",
+        "Nothing; work is automatically exempt",
+        "A note signed by their employer confirming the employment"
+      ],
+      "answer": 3,
+      "explain": "The work exception requires a note signed by the employer confirming employment.",
+      "official": false,
+      "ref": "California Driver's Handbook (DL 600, rev. 6/2025), Section 2, 'Minor's Restrictions and Exceptions'"
+    },
+    {
+      "id": "ca-010",
+      "topic": "licensing",
+      "q": "When can a minor begin using a newly issued instruction permit to drive?",
+      "options": [
+        "Once behind-the-wheel training has started with an instructor who validates the permit",
+        "After waiting 30 days",
+        "Only after turning 16",
+        "Immediately after passing the knowledge test"
+      ],
+      "answer": 0,
+      "explain": "A minor's permit is not valid for driving until they begin driver training and the instructor validates it.",
+      "official": false,
+      "ref": "California Driver's Handbook (DL 600, rev. 6/2025), Section 2, 'Applying For An Instruction Permit'"
+    },
+    {
+      "id": "ca-011",
+      "topic": "licensing",
+      "q": "How many attempts do you get to pass the knowledge test before you must reapply?",
+      "options": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "answer": 1,
+      "explain": "Applicants get three tries at the knowledge test before having to reapply.",
+      "official": false,
+      "ref": "California Driver's Handbook (DL 600, rev. 6/2025), Section 3, 'Driver's License Tests'"
+    },
+    {
+      "id": "ca-012",
+      "topic": "licensing",
+      "q": "If a minor fails the knowledge test, how long must they wait to retake it?",
+      "options": [
+        "1 day",
+        "7 days, not counting the day of the failure",
+        "14 days",
+        "30 days"
+      ],
+      "answer": 1,
+      "explain": "Minors must wait seven days (excluding the failure day) before retaking a failed knowledge test.",
+      "official": false,
+      "ref": "California Driver's Handbook (DL 600, rev. 6/2025), Section 3, 'Driver's License Tests'"
+    },
+    {
+      "id": "ca-013",
+      "topic": "licensing",
+      "q": "If a minor fails the behind-the-wheel drive test, how long must they wait before retaking it?",
+      "options": [
+        "14 days, not counting the day of the failure",
+        "The next business day",
+        "7 days",
+        "30 days"
+      ],
+      "answer": 0,
+      "explain": "Minors must wait 14 days (excluding the failure day) before retaking a failed drive test.",
+      "official": false,
+      "ref": "California Driver's Handbook (DL 600, rev. 6/2025), Section 3, 'On the day of your behind-the-wheel test'"
+    },
+    {
+      "id": "ca-014",
+      "topic": "licensing",
+      "q": "After you move, how soon must you notify the DMV of your new address?",
+      "options": [
+        "At your next renewal",
+        "Within 30 days",
+        "Within 5 days",
+        "Within 10 days"
+      ],
+      "answer": 3,
+      "explain": "You must report a change of address to the DMV within ten days.",
+      "official": false,
+      "ref": "California Driver's Handbook (DL 600, rev. 6/2025), Section 4, 'Changing, Replacing, and Renewing Your Driver's License'"
+    },
+    {
+      "id": "ca-015",
+      "topic": "licensing",
+      "q": "When you sell a vehicle, you must notify the DMV within:",
+      "options": [
+        "5 days",
+        "10 days",
+        "15 days",
+        "30 days"
+      ],
+      "answer": 0,
+      "explain": "A Notice of Transfer and Release of Liability must be submitted within five days of selling a vehicle.",
+      "official": false,
+      "ref": "California Driver's Handbook (DL 600, rev. 6/2025), Section 11, 'Vehicle Registration Requirements'"
+    },
+    {
+      "id": "ca-016",
+      "topic": "licensing",
+      "q": "You become a California resident with an out-of-state vehicle. How long do you have to register it here?",
+      "options": [
+        "10 days",
+        "20 days",
+        "30 days",
+        "60 days"
+      ],
+      "answer": 1,
+      "explain": "Vehicles must be registered within 20 days of becoming a resident or taking a job in California.",
+      "official": false,
+      "ref": "California Driver's Handbook (DL 600, rev. 6/2025), Section 11, 'Vehicle Registration Requirements'"
+    },
+    {
+      "id": "ca-017",
+      "topic": "licensing",
+      "q": "For an adult, what is the lowest number of points within 12 months that can lead to suspension as a negligent driver?",
+      "options": [
+        "2",
+        "4",
+        "6",
+        "8"
+      ],
+      "answer": 1,
+      "explain": "An adult may be suspended for 4 points in 12 months, 6 in 24 months, or 8 in 36 months.",
+      "official": false,
+      "ref": "California Driver's Handbook (DL 600, rev. 6/2025), Section 7, 'Points on Your Driver's Record'"
+    },
+    {
+      "id": "ca-018",
+      "topic": "licensing",
+      "q": "Which point total can lead to suspension of an adult driver's license?",
+      "options": [
+        "6 points in 48 months",
+        "5 points in 36 months",
+        "3 points in 12 months",
+        "6 points in 24 months"
+      ],
+      "answer": 3,
+      "explain": "Negligent-operator thresholds are 4 points/12 months, 6 points/24 months and 8 points/36 months.",
+      "official": false,
+      "ref": "California Driver's Handbook (DL 600, rev. 6/2025), Section 7, 'Points on Your Driver's Record'"
+    },
+    {
+      "id": "ca-019",
+      "topic": "licensing",
+      "q": "A provisional driver has two at-fault collisions or traffic convictions in the first year. What happens?",
+      "options": [
+        "Their license is revoked for 2 years",
+        "They must retake only the vision test",
+        "They cannot drive for 30 days unless accompanied by a licensed adult at least 25",
+        "Nothing until a third violation"
+      ],
+      "answer": 2,
+      "explain": "Two at-fault collisions or convictions bring a 30-day restriction requiring a licensed adult 25+ in the car.",
+      "official": false,
+      "ref": "California Driver's Handbook (DL 600, rev. 6/2025), Section 7, 'Maintaining Your Minor's (Provisional) Driver's License'"
+    },
+    {
+      "id": "ca-020",
+      "topic": "licensing",
+      "q": "A provisional driver accumulates three at-fault collisions or traffic convictions. What is the result?",
+      "options": [
+        "A warning letter",
+        "A 30-day restriction only",
+        "A 6-month suspension and 1 year of probation",
+        "A 3-year revocation"
+      ],
+      "answer": 2,
+      "explain": "Three at-fault collisions or convictions lead to a six-month suspension followed by one year of probation.",
+      "official": false,
+      "ref": "California Driver's Handbook (DL 600, rev. 6/2025), Section 7, 'Maintaining Your Minor's (Provisional) Driver's License'"
+    },
+    {
+      "id": "ca-021",
+      "topic": "licensing",
+      "q": "A provisional driver is suspended at 17 and turns 18 during the suspension. What happens?",
+      "options": [
+        "The license is automatically upgraded",
+        "The suspension converts to a warning",
+        "The suspension ends on the 18th birthday",
+        "The suspension continues; turning 18 does not end it"
+      ],
+      "answer": 3,
+      "explain": "Turning 18 does not erase existing restrictions, suspensions or probation.",
+      "official": false,
+      "ref": "California Driver's Handbook (DL 600, rev. 6/2025), Section 7, 'Maintaining Your Minor's (Provisional) Driver's License'"
+    },
+    {
+      "id": "ca-022",
+      "topic": "licensing",
+      "q": "A judge offers traffic violator school for a one-point violation. How often may you use this option?",
+      "options": [
+        "Once in any 18-month period",
+        "As often as the judge allows",
+        "Once every 12 months",
+        "Once every 36 months"
+      ],
+      "answer": 0,
+      "explain": "Traffic violator school for a one-point ticket can be used once in any 18-month period.",
+      "official": false,
+      "ref": "California Driver's Handbook (DL 600, rev. 6/2025), Section 7, 'Traffic Violator School' / 'Suspension or Revocation'"
+    },
+    {
+      "id": "ca-023",
+      "topic": "licensing",
+      "q": "If you sign a traffic ticket and then fail to appear in court:",
+      "options": [
+        "Nothing happens if you pay later",
+        "Your car is automatically registered as stolen",
+        "The ticket is dismissed",
+        "The DMV may suspend your driving privilege until you appear"
+      ],
+      "answer": 3,
+      "explain": "A failure to appear goes on your record and the DMV may suspend your driving privilege until you appear.",
+      "official": false,
+      "ref": "California Driver's Handbook (DL 600, rev. 6/2025), Section 7, 'Points on Your Driver's Record'"
+    },
+    {
+      "id": "ca-024",
+      "topic": "licensing",
+      "q": "When stopped by law enforcement, the driver must produce:",
+      "options": [
+        "A driver's license, proof of insurance, and vehicle registration",
+        "Only a driver's license",
+        "A passport and birth certificate",
+        "Proof of employment"
+      ],
+      "answer": 0,
+      "explain": "Drivers must show their license, proof of insurance and registration on request.",
+      "official": false,
+      "ref": "California Driver's Handbook (DL 600, rev. 6/2025), Section 6, 'Law Enforcement Stops'"
+    },
+    {
+      "id": "ca-025",
+      "topic": "licensing",
+      "q": "If an unlicensed person is caught driving your vehicle, the vehicle may be impounded for:",
+      "options": [
+        "1 year",
+        "7 days",
+        "24 hours",
+        "30 days"
+      ],
+      "answer": 3,
+      "explain": "A vehicle driven by an unlicensed person may be impounded for 30 days.",
+      "official": false,
+      "ref": "California Driver's Handbook (DL 600, rev. 6/2025), Section 7, 'Evading Law Enforcement'"
+    },
+    {
+      "id": "ca-026",
+      "topic": "signs",
+      "q": "What must you do at this sign?",
+      "options": [
+        "Slow down and proceed without stopping if the way is clear",
+        "Stop only at night",
+        "Come to a full stop at the limit line or before the crosswalk, then go when it is safe",
+        "Stop only if other vehicles are present"
+      ],
+      "answer": 2,
+      "explain": "A STOP sign requires a complete stop at the limit line, before the crosswalk, or before the intersection, then checking all directions.",
+      "official": false,
+      "ref": "California Driver's Handbook (DL 600, rev. 6/2025), Section 7, 'Signs'",
+      "image": "signs/stop.png"
+    },
+    {
+      "id": "ca-027",
+      "topic": "signs",
+      "q": "What does this sign require you to do?",
+      "options": [
+        "Slow down and be ready to stop to let traffic or pedestrians go first",
+        "Stop completely every time",
+        "Proceed; other drivers must yield to you",
+        "Speed up to merge ahead of traffic"
+      ],
+      "answer": 0,
+      "explain": "A YIELD sign means slow down and be prepared to stop for any vehicle, bicyclist or pedestrian before continuing.",
+      "official": false,
+      "ref": "California Driver's Handbook (DL 600, rev. 6/2025), Section 7, 'Signs'",
+      "image": "signs/yield.png"
+    },
+    {
+      "id": "ca-028",
+      "topic": "signs",
+      "q": "What does this sign mean?",
+      "options": [
+        "One-way traffic ahead",
+        "Stop ahead",
+        "You may not enter the road or ramp where it is posted",
+        "Road closed to trucks only"
+      ],
+      "answer": 2,
+      "explain": "This regulatory sign tells you not to enter the roadway or ramp where it is posted.",
+      "official": false,
+      "ref": "California Driver's Handbook (DL 600, rev. 6/2025), Section 7, 'Signs'",
+      "image": "signs/do-not-enter.png"
+    },
+    {
+      "id": "ca-029",
+      "topic": "signs",
+      "q": "You see this sign after entering a roadway. What should you do?",
+      "options": [
+        "Continue carefully in the right lane",
+        "Speed up to reach the next exit",
+        "Stop in your lane and wait for help",
+        "You are going against traffic; safely back out or turn around"
+      ],
+      "answer": 3,
+      "explain": "WRONG WAY means you are driving against traffic; when safe, back out or turn around.",
+      "official": false,
+      "ref": "California Driver's Handbook (DL 600, rev. 6/2025), Section 7, 'Signs'",
+      "image": "signs/wrong-way.png"
+    },
+    {
+      "id": "ca-030",
+      "topic": "signs",
+      "q": "What does this sign prohibit?",
+      "options": [
+        "Turning left",
+        "Making a U-turn",
+        "Entering the road",
+        "Changing lanes"
+      ],
+      "answer": 1,
+      "explain": "A red circle with a slash over a U-shaped arrow prohibits U-turns.",
+      "official": false,
+      "ref": "California Driver's Handbook (DL 600, rev. 6/2025), Section 7, 'Signs'",
+      "image": "signs/no-u-turn.png"
+    },
+    {
+      "id": "ca-031",
+      "topic": "signs",
+      "q": "What does this sign mean?",
+      "options": [
+        "Left turns are not allowed",
+        "Left turns allowed only on green",
+        "Left lane ends ahead",
+        "Keep left"
+      ],
+      "answer": 0,
+      "explain": "The red circle and slash over a left arrow means no left turn.",
+      "official": false,
+      "ref": "California Driver's Handbook (DL 600, rev. 6/2025), Section 7, 'Signs'",
+      "image": "signs/no-left-turn.png"
+    },
+    {
+      "id": "ca-032",
+      "topic": "signs",
+      "q": "What does this sign mean?",
+      "options": [
+        "Right lane ends",
+        "Keep right of the divider",
+        "Right turns are not allowed",
+        "Right turn only"
+      ],
+      "answer": 2,
+      "explain": "The red circle and slash over a right arrow means no right turn.",
+      "official": false,
+      "ref": "California Driver's Handbook (DL 600, rev. 6/2025), Section 7, 'Signs'",
+      "image": "signs/no-right-turn.png"
+    },
+    {
+      "id": "ca-033",
+      "topic": "signs",
+      "q": "At a red light where this sign is posted, you must:",
+      "options": [
+        "Turn only if no pedestrians are present",
+        "Stop, then turn right when clear",
+        "Turn right without stopping",
+        "Wait for a green light before turning"
+      ],
+      "answer": 3,
+      "explain": "A NO TURN ON RED sign removes the usual permission to turn right on red after stopping.",
+      "official": false,
+      "ref": "California Driver's Handbook (DL 600, rev. 6/2025), Section 6, 'Turns: Right Turns'",
+      "image": "signs/no-turn-on-red.png"
+    },
+    {
+      "id": "ca-034",
+      "topic": "signs",
+      "q": "What does this sign tell you?",
+      "options": [
+        "Turn in the direction of the arrow immediately",
+        "Traffic on this road moves only in the direction of the arrow",
+        "A detour is ahead",
+        "The road ahead curves"
+      ],
+      "answer": 1,
+      "explain": "A ONE WAY sign shows the only permitted direction of travel.",
+      "official": false,
+      "ref": "California Driver's Handbook (DL 600, rev. 6/2025), Section 7, 'Signs'",
+      "image": "signs/one-way.png"
+    },
+    {
+      "id": "ca-035",
+      "topic": "signs",
+      "q": "What should you do when you see this sign?",
+      "options": [
+        "Speed up to cross quickly",
+        "Stop only if a gate is down",
+        "Look, listen, slow down and be prepared to stop for trains",
+        "Honk and continue"
+      ],
+      "answer": 2,
+      "explain": "This marks a railroad crossing: look, listen, slow down, be ready to stop and let trains pass.",
+      "official": false,
+      "ref": "California Driver's Handbook (DL 600, rev. 6/2025), Section 7, 'Signs'",
+      "image": "signs/railroad-crossbuck.png"
+    },
+    {
+      "id": "ca-036",
+      "topic": "signs",
+      "q": "This round yellow sign warns that you are:",
+      "options": [
+        "Approaching a railroad crossing",
+        "Entering a roundabout",
+        "Near a rest area",
+        "Approaching a road closure"
+      ],
+      "answer": 0,
+      "explain": "A round yellow sign with an X and RR warns of a railroad crossing ahead.",
+      "official": false,
+      "ref": "California Driver's Handbook (DL 600, rev. 6/2025), Section 7, 'Signs'",
+      "image": "signs/railroad-advance.png"
+    },
+    {
+      "id": "ca-037",
+      "topic": "signs",
+      "q": "A five-sided (pentagon) sign means:",
+      "options": [
+        "A railroad crossing is ahead",
+        "No passing zone",
+        "You are near a school",
+        "A hospital is nearby"
+      ],
+      "answer": 2,
+      "explain": "Five-sided signs mark school areas: drive slowly and stop for children in the crosswalk.",
+      "official": false,
+      "ref": "California Driver's Handbook (DL 600, rev. 6/2025), Section 7, 'Signs'"
+    },
+    {
+      "id": "ca-038",
+      "topic": "signs",
+      "q": "What should you do when you see this sign?",
+      "options": [
+        "Use the next lane to pass slower vehicles",
+        "Slow down and watch for children; stop for any in the crosswalk",
+        "Speed up to clear the area quickly",
+        "Honk to warn children"
+      ],
+      "answer": 1,
+      "explain": "This sign marks a school area; drive slowly and stop for children crossing.",
+      "official": false,
+      "ref": "California Driver's Handbook (DL 600, rev. 6/2025), Section 7, 'Signs'",
+      "image": "signs/school-zone.png"
+    },
+    {
+      "id": "ca-039",
+      "topic": "signs",
+      "q": "What does a diamond-shaped sign usually indicate?",
+      "options": [
+        "A service such as food or fuel",
+        "A regulation you must obey",
+        "Directions to a destination",
+        "A warning about road conditions or hazards ahead"
+      ],
+      "answer": 3,
+      "explain": "Diamond-shaped signs warn of specific road conditions and dangers ahead.",
+      "official": false,
+      "ref": "California Driver's Handbook (DL 600, rev. 6/2025), Section 7, 'Signs'"
+    },
+    {
+      "id": "ca-040",
+      "topic": "signs",
+      "q": "What does this sign warn you about?",
+      "options": [
+        "A pedestrian crossing ahead",
+        "A sidewalk closure",
+        "A hiking trail",
+        "A school bus stop"
+      ],
+      "answer": 0,
+      "explain": "This warning sign alerts you to a place where pedestrians may cross.",
+      "official": false,
+      "ref": "California Driver's Handbook (DL 600, rev. 6/2025), Section 7, 'Signs'",
+      "image": "signs/pedestrian-crossing.png"
+    },
+    {
+      "id": "ca-041",
+      "topic": "signs",
+      "q": "What does this sign mean?",
+      "options": [
+        "No passing on curves",
+        "Winding road ahead",
+        "Loose gravel only",
+        "The road is slippery when wet"
+      ],
+      "answer": 3,
+      "explain": "This warns that the pavement becomes slippery when wet; slow down in rain.",
+      "official": false,
+      "ref": "California Driver's Handbook (DL 600, rev. 6/2025), Section 7, 'Signs'",
+      "image": "signs/slippery-when-wet.png"
+    },
+    {
+      "id": "ca-042",
+      "topic": "signs",
+      "q": "What does this sign warn of?",
+      "options": [
+        "A lane is closed to the right",
+        "Traffic merging from the right",
+        "A right turn is required",
+        "A divided highway begins"
+      ],
+      "answer": 1,
+      "explain": "This sign shows another lane of traffic joining from the right; be ready to adjust speed and position.",
+      "official": false,
+      "ref": "California Driver's Handbook (DL 600, rev. 6/2025), Section 7, 'Signs'",
+      "image": "signs/merge-right.png"
+    },
+    {
+      "id": "ca-043",
+      "topic": "signs",
+      "q": "What does this sign mean?",
+      "options": [
+        "A new lane is added on the left",
+        "Keep left of an island",
+        "The right lane ends ahead; be ready to merge left",
+        "Two-way traffic ahead"
+      ],
+      "answer": 2,
+      "explain": "A lane-ends sign warns that a lane is ending and traffic must merge.",
+      "official": false,
+      "ref": "California Driver's Handbook (DL 600, rev. 6/2025), Section 7, 'Signs'",
+      "image": "signs/lane-ends-left.png"
+    },
+    {
+      "id": "ca-044",
+      "topic": "signs",
+      "q": "What does this sign mean?",
+      "options": [
+        "The divided highway ends; expect two-way traffic",
+        "A lane is added",
+        "A divided highway begins",
+        "A bridge is ahead"
+      ],
+      "answer": 0,
+      "explain": "This warns that the median ends and opposing traffic will no longer be separated.",
+      "official": false,
+      "ref": "California Driver's Handbook (DL 600, rev. 6/2025), Section 7, 'Signs'",
+      "image": "signs/divided-hwy-ends.png"
+    },
+    {
+      "id": "ca-045",
+      "topic": "signs",
+      "q": "What does this sign warn of?",
+      "options": [
+        "Passing lane ahead",
+        "Divided highway begins",
+        "Two-way traffic ahead",
+        "One-way street"
+      ],
+      "answer": 2,
+      "explain": "Two opposing arrows warn that you are leaving a one-way roadway and will meet oncoming traffic.",
+      "official": false,
+      "ref": "California Driver's Handbook (DL 600, rev. 6/2025), Section 7, 'Signs'",
+      "image": "signs/two-way-traffic.png"
+    },
+    {
+      "id": "ca-046",
+      "topic": "signs",
+      "q": "What does this sign mean?",
+      "options": [
+        "A stop sign is ahead; be prepared to stop",
+        "Stop here",
+        "Yield to merging traffic",
+        "Road closed ahead"
+      ],
+      "answer": 0,
+      "explain": "A Stop Ahead warning sign tells you to prepare to stop at a STOP sign ahead.",
+      "official": false,
+      "ref": "California Driver's Handbook (DL 600, rev. 6/2025), Section 7, 'Signs'",
+      "image": "signs/stop-ahead.png"
+    },
+    {
+      "id": "ca-047",
+      "topic": "signs",
+      "q": "What does this sign mean?",
+      "options": [
+        "No turns allowed",
+        "Divided highway ends",
+        "A side road joins from the right",
+        "The road ends ahead; you must turn left or right"
+      ],
+      "answer": 3,
+      "explain": "A T-intersection sign means the road you are on ends and you must turn.",
+      "official": false,
+      "ref": "California Driver's Handbook (DL 600, rev. 6/2025), Section 7, 'Signs'",
+      "image": "signs/t-intersection.png"
+    },
+    {
+      "id": "ca-048",
+      "topic": "signs",
+      "q": "What does this sign mean?",
+      "options": [
+        "Keep right",
+        "The road curves to the right ahead",
+        "Right lane ends",
+        "Turn right now"
+      ],
+      "answer": 1,
+      "explain": "This warning sign shows a curve to the right; reduce speed before entering it.",
+      "official": false,
+      "ref": "California Driver's Handbook (DL 600, rev. 6/2025), Section 7, 'Signs'",
+      "image": "signs/curve-right.png"
+    },
+    {
+      "id": "ca-049",
+      "topic": "signs",
+      "q": "This plaque below a curve warning sign shows:",
+      "options": [
+        "A route number",
+        "The minimum speed allowed",
+        "The distance to the curve",
+        "A recommended safe speed for the curve"
+      ],
+      "answer": 3,
+      "explain": "A yellow speed plaque gives an advisory speed for the hazard; under the Basic Speed Law you may need to go slower.",
+      "official": false,
+      "ref": "California Driver's Handbook (DL 600, rev. 6/2025), Section 7, 'Signs'",
+      "image": "signs/advisory-speed-35.png"
+    },
+    {
+      "id": "ca-050",
+      "topic": "signs",
+      "q": "A vehicle displaying this emblem is:",
+      "options": [
+        "A slow-moving vehicle, usually traveling 25 mph or less",
+        "Carrying hazardous materials",
+        "An emergency vehicle",
+        "Driven by a student driver"
+      ],
+      "answer": 0,
+      "explain": "The orange-and-red triangle marks slow-moving vehicles such as road maintenance vehicles, which usually go 25 mph or less.",
+      "official": false,
+      "ref": "California Driver's Handbook (DL 600, rev. 6/2025), Section 7, 'Slow-moving Vehicles'",
+      "image": "signs/slow-moving-vehicle.png"
+    },
+    {
+      "id": "ca-051",
+      "topic": "signs",
+      "q": "This orange sign means:",
+      "options": [
+        "Tolls ahead",
+        "Road work ahead; slow down and watch for workers and equipment",
+        "A detour is required",
+        "The road is closed"
+      ],
+      "answer": 1,
+      "explain": "Orange signs mark construction and maintenance zones; slow down, leave extra space and expect sudden stops.",
+      "official": false,
+      "ref": "California Driver's Handbook (DL 600, rev. 6/2025), Section 7, 'Road Workers and Work Zones' / 'Move Over and Slow Down'",
+      "image": "signs/road-work-ahead.png"
+    },
+    {
+      "id": "ca-052",
+      "topic": "signs",
+      "q": "What does this sign tell you?",
+      "options": [
+        "Merge left",
+        "Two-way traffic",
+        "Keep to the right of the island or obstruction",
+        "Right turn only"
+      ],
+      "answer": 2,
+      "explain": "A Keep Right sign directs you to pass to the right of a divider or obstruction.",
+      "official": false,
+      "ref": "California Driver's Handbook (DL 600, rev. 6/2025), Section 7, 'Signs'",
+      "image": "signs/keep-right.png"
+    },
+    {
+      "id": "ca-053",
+      "topic": "signs",
+      "q": "What does this sign mean?",
+      "options": [
+        "Passing other vehicles is not allowed here",
+        "Pass with care",
+        "Pass only on the left",
+        "No parking"
+      ],
+      "answer": 0,
+      "explain": "A DO NOT PASS sign prohibits passing in that section of road.",
+      "official": false,
+      "ref": "California Driver's Handbook (DL 600, rev. 6/2025), Section 7, 'Signs'",
+      "image": "signs/do-not-pass.png"
+    },
+    {
+      "id": "ca-054",
+      "topic": "signs",
+      "q": "At an intersection with this sign and a green light, when you turn left you must:",
+      "options": [
+        "Wait for a red light",
+        "Yield to oncoming traffic before turning",
+        "Turn only from the right lane",
+        "Turn first; oncoming traffic must stop"
+      ],
+      "answer": 1,
+      "explain": "On a solid green light without an arrow your left turn is not protected; yield to oncoming vehicles and pedestrians.",
+      "official": false,
+      "ref": "California Driver's Handbook (DL 600, rev. 6/2025), Section 7, 'Traffic Signals'",
+      "image": "signs/left-turn-yield-green.png"
+    },
+    {
+      "id": "ca-055",
+      "topic": "signs",
+      "q": "What does this signal mean?",
+      "options": [
+        "Slow down and continue without stopping",
+        "The signal is broken; drive through",
+        "Stop and wait for a green light",
+        "Stop; after stopping, go when it is safe"
+      ],
+      "answer": 3,
+      "explain": "A flashing red light means STOP; once stopped, you may proceed when it is safe.",
+      "official": false,
+      "ref": "California Driver's Handbook (DL 600, rev. 6/2025), Section 7, 'Traffic Signals'",
+      "image": "signs/signal-flashing-red.png"
+    },
+    {
+      "id": "ca-056",
+      "topic": "signs",
+      "q": "What does this signal mean?",
+      "options": [
+        "The light is about to turn green",
+        "Stop, then go when safe",
+        "Slow down and proceed with caution; you do not need to stop",
+        "Stop and wait for green"
+      ],
+      "answer": 2,
+      "explain": "A flashing yellow light is a warning: slow down, be alert, and proceed without stopping.",
+      "official": false,
+      "ref": "California Driver's Handbook (DL 600, rev. 6/2025), Section 7, 'Traffic Signals'",
+      "image": "signs/signal-flashing-yellow.png"
+    },
+    {
+      "id": "ca-057",
+      "topic": "signs",
+      "q": "What should you do when you see this light as you approach the intersection?",
+      "options": [
+        "Always stop immediately, even if it is unsafe",
+        "Speed up to beat the red light",
+        "Proceed; yellow means the same as green",
+        "Stop if you can do so safely; otherwise cross with caution"
+      ],
+      "answer": 3,
+      "explain": "A solid yellow light warns the signal is about to turn red; stop if you can safely, otherwise proceed cautiously.",
+      "official": false,
+      "ref": "California Driver's Handbook (DL 600, rev. 6/2025), Section 7, 'Traffic Signals'",
+      "image": "signs/signal-yellow.png"
+    },
+    {
+      "id": "ca-058",
+      "topic": "signs",
+      "q": "At this light, unless a sign prohibits it, you may:",
+      "options": [
+        "Turn right without stopping",
+        "Go straight after slowing",
+        "Turn right after a complete stop when it is safe",
+        "Turn left after slowing"
+      ],
+      "answer": 2,
+      "explain": "A solid red light means stop, but you may turn right after stopping and yielding unless a NO TURN ON RED sign is posted.",
+      "official": false,
+      "ref": "California Driver's Handbook (DL 600, rev. 6/2025), Section 7, 'Traffic Signals'",
+      "image": "signs/signal-red.png"
+    },
+    {
+      "id": "ca-059",
+      "topic": "signs",
+      "q": "This signal is green as you approach. What must you still do?",
+      "options": [
+        "Yield to vehicles, bicyclists and pedestrians still in the intersection",
+        "Nothing; you have absolute right-of-way",
+        "Stop before entering",
+        "Sound your horn"
+      ],
+      "answer": 0,
+      "explain": "On green you may go, but must yield to anyone still in the intersection and not enter if you cannot get completely across.",
+      "official": false,
+      "ref": "California Driver's Handbook (DL 600, rev. 6/2025), Section 7, 'Traffic Signals'",
+      "image": "signs/signal-green.png"
+    },
+    {
+      "id": "ca-060",
+      "topic": "signs",
+      "q": "What does this signal mean?",
+      "options": [
+        "Left lane ends ahead",
+        "You may turn left; oncoming traffic is stopped",
+        "Left turns are prohibited",
+        "Yield to oncoming traffic before turning left"
+      ],
+      "answer": 1,
+      "explain": "A green arrow allows a protected turn in the direction shown while conflicting traffic is held by a red light.",
+      "official": false,
+      "ref": "California Driver's Handbook (DL 600, rev. 6/2025), Section 7, 'Traffic Signals'",
+      "image": "signs/signal-green-arrow-left.png"
+    },
+    {
+      "id": "ca-061",
+      "topic": "signs",
+      "q": "What does a solid red arrow mean?",
+      "options": [
+        "Turn after stopping if clear",
+        "Do not turn in that direction; stay stopped until a green light or arrow appears",
+        "Slow down and turn carefully",
+        "The turn lane is closed permanently"
+      ],
+      "answer": 1,
+      "explain": "You may not turn on a red arrow, even right; wait for a green light or green arrow.",
+      "official": false,
+      "ref": "California Driver's Handbook (DL 600, rev. 6/2025), Section 7, 'Traffic Signals'"
+    },
+    {
+      "id": "ca-062",
+      "topic": "signs",
+      "q": "What does a flashing yellow left-turn arrow mean?",
+      "options": [
+        "Your left turn is protected",
+        "Stop and wait for a solid green arrow",
+        "Left turns are not allowed",
+        "You may turn left after yielding to oncoming traffic and pedestrians"
+      ],
+      "answer": 3,
+      "explain": "A flashing yellow arrow permits an unprotected turn; you must yield to oncoming traffic.",
+      "official": false,
+      "ref": "California Driver's Handbook (DL 600, rev. 6/2025), Section 7, 'Traffic Signals'"
+    },
+    {
+      "id": "ca-063",
+      "topic": "signs",
+      "q": "You approach an intersection where the traffic lights are not working. What should you do?",
+      "options": [
+        "Stop as if there were stop signs in all directions, then proceed when safe",
+        "Slow down and proceed without stopping",
+        "Drive through at normal speed",
+        "Wait until the lights are repaired"
+      ],
+      "answer": 0,
+      "explain": "When a signal is out, treat the intersection as an all-way stop.",
+      "official": false,
+      "ref": "California Driver's Handbook (DL 600, rev. 6/2025), Section 7, 'Traffic Signals'"
+    },
+    {
+      "id": "ca-064",
+      "topic": "signs",
+      "q": "The pedestrian signal is flashing DON'T WALK (raised hand) and a pedestrian is still in the crosswalk. You should:",
+      "options": [
+        "Honk to hurry the pedestrian",
+        "Drive around the pedestrian",
+        "Yield to the pedestrian until they finish crossing",
+        "Proceed, since the pedestrian should not be there"
+      ],
+      "answer": 2,
+      "explain": "Drivers must yield to pedestrians even when the DON'T WALK signal is flashing.",
+      "official": false,
+      "ref": "California Driver's Handbook (DL 600, rev. 6/2025), Section 7, 'Pedestrian Signals or Signs'"
+    },
+    {
+      "id": "ca-065",
+      "topic": "signs",
+      "q": "What do these center lines mean for drivers?",
+      "options": [
+        "Center left-turn lane",
+        "The road is one-way",
+        "You may pass when safe",
+        "No passing; you may cross them to turn left into a driveway or make a legal U-turn"
+      ],
+      "answer": 3,
+      "explain": "Double solid yellow lines prohibit passing; a single set may be crossed to turn left into a driveway/private road or for a U-turn.",
+      "official": false,
+      "ref": "California Driver's Handbook (DL 600, rev. 6/2025), Section 6, 'Lane Markings'",
+      "image": "signs/lines-double-yellow.png"
+    },
+    {
+      "id": "ca-066",
+      "topic": "signs",
+      "q": "These center lines are next to your lane. What do they allow?",
+      "options": [
+        "Passing at any time",
+        "Passing when it is safe",
+        "No passing",
+        "Parking on the center line"
+      ],
+      "answer": 1,
+      "explain": "A broken yellow line next to your lane means you may pass if it is safe.",
+      "official": false,
+      "ref": "California Driver's Handbook (DL 600, rev. 6/2025), Section 6, 'Lane Markings'",
+      "image": "signs/lines-broken-yellow.png"
+    },
+    {
+      "id": "ca-067",
+      "topic": "signs",
+      "q": "What is the lane marked by these lines used for?",
+      "options": [
+        "Preparing for and making left turns or U-turns from either direction",
+        "Parking",
+        "Normal travel in either direction",
+        "Passing slower traffic"
+      ],
+      "answer": 0,
+      "explain": "A two-way center left turn lane is only for starting left turns or U-turns, not for passing or regular travel.",
+      "official": false,
+      "ref": "California Driver's Handbook (DL 600, rev. 6/2025), Section 6, 'Types of Lanes'",
+      "image": "signs/lines-two-way-left-turn.png"
+    },
+    {
+      "id": "ca-068",
+      "topic": "signs",
+      "q": "What do double solid white lines mean?",
+      "options": [
+        "You may change lanes with caution",
+        "A two-way left turn lane",
+        "Do not change lanes across them",
+        "The edge of the road"
+      ],
+      "answer": 2,
+      "explain": "Double solid white lines are a barrier (often for HOV lanes or ramps); never cross them to change lanes.",
+      "official": false,
+      "ref": "California Driver's Handbook (DL 600, rev. 6/2025), Section 6, 'Lane Markings'"
+    },
+    {
+      "id": "ca-069",
+      "topic": "signs",
+      "q": "Two sets of double solid yellow lines spaced two or more feet apart should be treated as:",
+      "options": [
+        "A bike lane",
+        "A turning lane",
+        "A passing zone",
+        "A barrier you may not drive over or turn across"
+      ],
+      "answer": 3,
+      "explain": "Two sets of double yellow lines 2+ feet apart form a barrier; do not cross them except at designated openings.",
+      "official": false,
+      "ref": "California Driver's Handbook (DL 600, rev. 6/2025), Section 6, 'Lane Markings'"
+    },
+    {
+      "id": "ca-070",
+      "topic": "signs",
+      "q": "A single solid yellow line on the center of a two-lane road with one lane in your direction means:",
+      "options": [
+        "One-way road",
+        "Do not pass",
+        "You may pass when safe",
+        "Center turn lane"
+      ],
+      "answer": 1,
+      "explain": "Do not pass when there is one lane your way and a solid yellow line on your side.",
+      "official": false,
+      "ref": "California Driver's Handbook (DL 600, rev. 6/2025), Section 6, 'Lane Markings'"
+    },
+    {
+      "id": "ca-071",
+      "topic": "signs",
+      "q": "A diamond-shaped placard on the back of a truck means the truck:",
+      "options": [
+        "May be carrying a hazardous load",
+        "Is an oversize load",
+        "Is a slow-moving vehicle",
+        "Is a school vehicle"
+      ],
+      "answer": 0,
+      "explain": "Diamond-shaped placards identify hazardous loads; such vehicles must stop before railroad tracks.",
+      "official": false,
+      "ref": "California Driver's Handbook (DL 600, rev. 6/2025), Section 7, 'Vehicles with Hazardous Loads'"
+    },
+    {
+      "id": "ca-072",
+      "topic": "right-of-way",
+      "q": "At an intersection with no signs or signals, you and another vehicle arrive at the same time. Who goes first?",
+      "options": [
+        "The vehicle on the left",
+        "The larger vehicle",
+        "The vehicle on the right",
+        "The vehicle going faster"
+      ],
+      "answer": 2,
+      "explain": "When two arrive together at an uncontrolled intersection, yield to the vehicle, bicyclist or pedestrian on your right.",
+      "official": false,
+      "ref": "California Driver's Handbook (DL 600, rev. 6/2025), Section 7, 'Right-of-Way Rules: Who Goes First?'"
+    },
+    {
+      "id": "ca-073",
+      "topic": "right-of-way",
+      "q": "At an uncontrolled intersection, which driver normally has the right-of-way?",
+      "options": [
+        "The one turning left",
+        "The one on the wider road",
+        "The one going straight, regardless of arrival",
+        "The one who arrives first"
+      ],
+      "answer": 3,
+      "explain": "The vehicle that reaches the intersection first has the right-of-way.",
+      "official": false,
+      "ref": "California Driver's Handbook (DL 600, rev. 6/2025), Section 7, 'Right-of-Way Rules: Who Goes First?'"
+    },
+    {
+      "id": "ca-074",
+      "topic": "right-of-way",
+      "q": "At a T intersection with no STOP or YIELD signs, who has the right-of-way?",
+      "options": [
+        "Whoever is turning left",
+        "Traffic on the road that ends",
+        "Traffic on the through road",
+        "The vehicle on the left"
+      ],
+      "answer": 2,
+      "explain": "Vehicles, bicyclists and pedestrians on the through road have the right-of-way at an uncontrolled T intersection.",
+      "official": false,
+      "ref": "California Driver's Handbook (DL 600, rev. 6/2025), Section 7, 'Right-of-Way Rules: Who Goes First?'"
+    },
+    {
+      "id": "ca-075",
+      "topic": "right-of-way",
+      "q": "At a four-way stop, after you have stopped, how is the right-of-way decided?",
+      "options": [
+        "Drivers going straight always go first",
+        "The first to stop goes first; if two arrive together, yield to the one on the right",
+        "Left-turning drivers go first",
+        "Larger vehicles go first"
+      ],
+      "answer": 1,
+      "explain": "At an all-way stop, stop first and then apply the arrival-order and yield-to-the-right rules.",
+      "official": false,
+      "ref": "California Driver's Handbook (DL 600, rev. 6/2025), Section 7, 'Right-of-Way Rules: Who Goes First?'"
+    },
+    {
+      "id": "ca-076",
+      "topic": "right-of-way",
+      "q": "When turning left at an intersection, you must yield to:",
+      "options": [
+        "Pedestrians and oncoming vehicles close enough to be dangerous",
+        "No one if you signaled first",
+        "Only emergency vehicles",
+        "Only vehicles turning right"
+      ],
+      "answer": 0,
+      "explain": "Left-turning drivers must yield to pedestrians and to approaching vehicles that are close enough to be a hazard.",
+      "official": false,
+      "ref": "California Driver's Handbook (DL 600, rev. 6/2025), Section 7, 'Right-of-Way Rules: Who Goes First?'"
+    },
+    {
+      "id": "ca-077",
+      "topic": "right-of-way",
+      "q": "Pedestrians have the right-of-way in:",
+      "options": [
+        "Only crosswalks with signals",
+        "Only marked crosswalks",
+        "Only school crosswalks",
+        "Both marked and unmarked crosswalks"
+      ],
+      "answer": 3,
+      "explain": "Pedestrians have the right-of-way at marked or unmarked crosswalks.",
+      "official": false,
+      "ref": "California Driver's Handbook (DL 600, rev. 6/2025), Section 7, 'Pedestrians' / 'Crosswalks'"
+    },
+    {
+      "id": "ca-078",
+      "topic": "right-of-way",
+      "q": "There is a limit line before a crosswalk where a pedestrian is crossing. Where should you stop?",
+      "options": [
+        "Past the crosswalk",
+        "At the limit line",
+        "In the crosswalk",
+        "Anywhere, as long as you slow down"
+      ],
+      "answer": 1,
+      "explain": "Stop at the limit line in front of the crosswalk and wait for pedestrians to finish crossing.",
+      "official": false,
+      "ref": "California Driver's Handbook (DL 600, rev. 6/2025), Section 7, 'Pedestrians' / 'Crosswalks'"
+    },
+    {
+      "id": "ca-079",
+      "topic": "right-of-way",
+      "q": "A pedestrian who is using a white cane or guide dog is waiting to cross. They:",
+      "options": [
+        "Have the right-of-way at all times",
+        "Have the right-of-way only in marked crosswalks",
+        "Must wait for a gap in traffic",
+        "Should be warned with your horn"
+      ],
+      "answer": 0,
+      "explain": "Blind pedestrians using guide dogs or white canes always have the right-of-way; never honk at them.",
+      "official": false,
+      "ref": "California Driver's Handbook (DL 600, rev. 6/2025), Section 7, 'Pedestrians Who Are Blind'"
+    },
+    {
+      "id": "ca-080",
+      "topic": "right-of-way",
+      "q": "A blind pedestrian at a corner pulls in their cane and steps back from the curb. This usually means:",
+      "options": [
+        "They need help crossing",
+        "You must wait for them to cross",
+        "You may go",
+        "They are about to cross"
+      ],
+      "answer": 2,
+      "explain": "Pulling in the cane and stepping away from the intersection usually signals that the driver may proceed.",
+      "official": false,
+      "ref": "California Driver's Handbook (DL 600, rev. 6/2025), Section 7, 'Pedestrians Who Are Blind'"
+    },
+    {
+      "id": "ca-081",
+      "topic": "right-of-way",
+      "q": "A vehicle in the lane next to you is stopped at a crosswalk. What should you do?",
+      "options": [
+        "Pass it carefully at reduced speed",
+        "Change lanes behind it and continue",
+        "Honk and pass",
+        "Do not pass it; a pedestrian may be crossing out of view"
+      ],
+      "answer": 3,
+      "explain": "A car stopped at a crosswalk may be hiding a pedestrian from your view, so never go around it.",
+      "official": false,
+      "ref": "California Driver's Handbook (DL 600, rev. 6/2025), Section 7, 'Pedestrians' / 'Crosswalks'"
+    },
+    {
+      "id": "ca-082",
+      "topic": "right-of-way",
+      "q": "Which of these is considered a pedestrian?",
+      "options": [
+        "A person driving a golf cart",
+        "A person riding a bicycle",
+        "A person riding a skateboard",
+        "A person riding a motorcycle"
+      ],
+      "answer": 2,
+      "explain": "Pedestrians include people on foot and people using roller skates, skateboards, or a wheelchair, tricycle or quadricycle due to a disability.",
+      "official": false,
+      "ref": "California Driver's Handbook (DL 600, rev. 6/2025), Section 7, 'Pedestrians' / 'Crosswalks'"
+    },
+    {
+      "id": "ca-083",
+      "topic": "right-of-way",
+      "q": "When entering a roundabout, you must:",
+      "options": [
+        "Yield only to vehicles on your right",
+        "Yield to all traffic already in the roundabout",
+        "Stop and wait for a signal",
+        "Enter first if you are going straight"
+      ],
+      "answer": 1,
+      "explain": "Slow down and yield to everyone already circulating before entering.",
+      "official": false,
+      "ref": "California Driver's Handbook (DL 600, rev. 6/2025), Section 7, 'Roundabouts'"
+    },
+    {
+      "id": "ca-084",
+      "topic": "right-of-way",
+      "q": "Which direction do you travel in a California roundabout?",
+      "options": [
+        "Counterclockwise",
+        "Whichever direction is shortest to your exit",
+        "Either direction",
+        "Clockwise"
+      ],
+      "answer": 0,
+      "explain": "Traffic moves counterclockwise around the central island.",
+      "official": false,
+      "ref": "California Driver's Handbook (DL 600, rev. 6/2025), Section 7, 'Roundabouts'"
+    },
+    {
+      "id": "ca-085",
+      "topic": "right-of-way",
+      "q": "You miss your exit in a roundabout. What should you do?",
+      "options": [
+        "Stop and back up",
+        "Cut across the central island",
+        "Exit at the next street and make a U-turn",
+        "Keep going around until you return to your exit"
+      ],
+      "answer": 3,
+      "explain": "If you miss the exit, continue around the roundabout again.",
+      "official": false,
+      "ref": "California Driver's Handbook (DL 600, rev. 6/2025), Section 7, 'Roundabouts'"
+    },
+    {
+      "id": "ca-086",
+      "topic": "right-of-way",
+      "q": "In a multi-lane roundabout, to turn right you should:",
+      "options": [
+        "Enter the center island lane",
+        "Use the right lane and exit in the right lane",
+        "Use the left lane",
+        "Use either lane and change lanes inside"
+      ],
+      "answer": 1,
+      "explain": "For a right turn, choose the right lane and exit in the right lane.",
+      "official": false,
+      "ref": "California Driver's Handbook (DL 600, rev. 6/2025), Section 7, 'Roundabouts'"
+    },
+    {
+      "id": "ca-087",
+      "topic": "right-of-way",
+      "q": "Two vehicles meet on a steep, narrow mountain road where neither can pass. Who has the right-of-way?",
+      "options": [
+        "The vehicle facing downhill",
+        "The larger vehicle",
+        "The vehicle facing uphill",
+        "The vehicle that honks first"
+      ],
+      "answer": 2,
+      "explain": "The uphill-facing vehicle has the right-of-way; the downhill vehicle backs up because it has more control.",
+      "official": false,
+      "ref": "California Driver's Handbook (DL 600, rev. 6/2025), Section 7, 'Mountain Roads'"
+    },
+    {
+      "id": "ca-088",
+      "topic": "right-of-way",
+      "q": "When merging onto a highway from an on-ramp, who has the right-of-way?",
+      "options": [
+        "Traffic already on the highway",
+        "Trucks only",
+        "Whoever is faster",
+        "The merging vehicle"
+      ],
+      "answer": 0,
+      "explain": "Highway traffic has the right-of-way; merge into a gap at or near traffic speed.",
+      "official": false,
+      "ref": "California Driver's Handbook (DL 600, rev. 6/2025), Section 6, 'Merging And Exiting'"
+    },
+    {
+      "id": "ca-089",
+      "topic": "right-of-way",
+      "q": "When pulling out of a driveway or parking space into traffic, you must:",
+      "options": [
+        "Yield to traffic already in the lanes",
+        "Sound your horn and enter",
+        "Enter quickly before signaling",
+        "Expect traffic to let you in"
+      ],
+      "answer": 0,
+      "explain": "Vehicles entering traffic must proceed with caution and yield to traffic already occupying the lanes.",
+      "official": false,
+      "ref": "California Driver's Handbook (DL 600, rev. 6/2025), Section 7, 'Right-of-Way Rules: Who Goes First?'"
+    },
+    {
+      "id": "ca-090",
+      "topic": "right-of-way",
+      "q": "Your light is green, but traffic is backed up on the far side of the intersection. You should:",
+      "options": [
+        "Drive onto the shoulder",
+        "Wait until there is room to get completely across",
+        "Turn on your hazard lights and proceed",
+        "Enter and wait in the intersection"
+      ],
+      "answer": 1,
+      "explain": "It is illegal to enter and block an intersection when you cannot get completely across before the light turns red.",
+      "official": false,
+      "ref": "California Driver's Handbook (DL 600, rev. 6/2025), Section 7, 'Right-of-Way Rules: Who Goes First?'"
+    },
+    {
+      "id": "ca-091",
+      "topic": "right-of-way",
+      "q": "An emergency vehicle with siren and red lights approaches from behind. What must you do?",
+      "options": [
+        "Move to the left lane",
+        "Speed up to stay ahead of it",
+        "Stop immediately in your lane",
+        "Drive to the right edge of the road and stop until it passes"
+      ],
+      "answer": 3,
+      "explain": "Yield by pulling to the right edge and stopping until emergency vehicles have passed.",
+      "official": false,
+      "ref": "California Driver's Handbook (DL 600, rev. 6/2025), Section 7, 'Emergency Vehicles'"
+    },
+    {
+      "id": "ca-092",
+      "topic": "right-of-way",
+      "q": "You are in the middle of an intersection when an emergency vehicle with a siren approaches. You should:",
+      "options": [
+        "Turn left to get out of the way",
+        "Stop immediately in the intersection",
+        "Continue through the intersection, then pull to the right and stop",
+        "Back up out of the intersection"
+      ],
+      "answer": 2,
+      "explain": "Do not stop in the intersection; clear it, then move right and stop.",
+      "official": false,
+      "ref": "California Driver's Handbook (DL 600, rev. 6/2025), Section 7, 'Emergency Vehicles'"
+    },
+    {
+      "id": "ca-093",
+      "topic": "right-of-way",
+      "q": "A funeral procession led by a traffic officer is passing through an intersection. You should:",
+      "options": [
+        "Cut through gaps between cars",
+        "Join the line to get through faster",
+        "Let the procession pass; it has the right-of-way",
+        "Honk to signal your turn"
+      ],
+      "answer": 2,
+      "explain": "Funeral processions have the right-of-way; interrupting one can result in a ticket.",
+      "official": false,
+      "ref": "California Driver's Handbook (DL 600, rev. 6/2025), Section 7, 'Other Important Roadway Information'"
+    },
+    {
+      "id": "ca-094",
+      "topic": "right-of-way",
+      "q": "You want to turn left and an oncoming car has its right turn signal on. You should:",
+      "options": [
+        "Wait until the car actually begins its turn before you go",
+        "Turn immediately, since it will turn before reaching you",
+        "Flash your lights and go",
+        "Honk and turn"
+      ],
+      "answer": 0,
+      "explain": "Do not assume the signal is accurate; wait for the vehicle to start its turn.",
+      "official": false,
+      "ref": "California Driver's Handbook (DL 600, rev. 6/2025), Section 6, 'Crossing or Entering Traffic'"
+    },
+    {
+      "id": "ca-095",
+      "topic": "right-of-way",
+      "q": "Before turning left from a two-way center left turn lane, you must respect the right-of-way of:",
+      "options": [
+        "No one; the lane is yours once you enter",
+        "Any vehicle, bicyclist or motorcyclist already in that lane",
+        "Only vehicles turning right",
+        "Only buses"
+      ],
+      "answer": 1,
+      "explain": "When entering the center turn lane, yield to vehicles, bicyclists and motorcyclists already using it.",
+      "official": false,
+      "ref": "California Driver's Handbook (DL 600, rev. 6/2025), Section 6, 'Turns: Left Turns'"
+    },
+    {
+      "id": "ca-096",
+      "topic": "right-of-way",
+      "q": "You are making a right turn on a green light. Who has the right-of-way in the crosswalk you are turning across?",
+      "options": [
+        "Whoever moves first",
+        "You, because your light is green",
+        "Only pedestrians with a WALK signal at night",
+        "Pedestrians crossing"
+      ],
+      "answer": 3,
+      "explain": "On a green light pedestrians still have the right-of-way; check for them and for bicycles beside you.",
+      "official": false,
+      "ref": "California Driver's Handbook (DL 600, rev. 6/2025), Section 7, 'Right-of-Way Rules: Who Goes First?'"
+    },
+    {
+      "id": "ca-097",
+      "topic": "right-of-way",
+      "q": "You are in a dedicated right-turn lane that does not merge into another lane. The light for straight traffic is red. You may:",
+      "options": [
+        "Turn without stopping, unless a light or sign on the right curb controls the lane, while yielding to pedestrians",
+        "Turn without yielding to anyone",
+        "Never turn until the light is green",
+        "Turn only after a full stop and waiting 5 seconds"
+      ],
+      "answer": 0,
+      "explain": "A dedicated right-turn lane allows a turn even when through traffic has a red light, but obey any signal or sign for that lane and yield to pedestrians.",
+      "official": false,
+      "ref": "California Driver's Handbook (DL 600, rev. 6/2025), Section 6, 'Turns: Right Turns'"
+    },
+    {
+      "id": "ca-098",
+      "topic": "right-of-way",
+      "q": "Who must yield when a light rail vehicle is approaching and you want to turn across its tracks?",
+      "options": [
+        "Whoever arrives first",
+        "You may turn if you signal",
+        "You must not turn in front of the approaching light rail vehicle",
+        "The light rail vehicle must stop for you"
+      ],
+      "answer": 2,
+      "explain": "Never turn in front of an approaching light rail vehicle; turn across tracks only when the signal allows.",
+      "official": false,
+      "ref": "California Driver's Handbook (DL 600, rev. 6/2025), Section 7, 'Buses, Streetcars, Trolleys' / 'Light Rail Vehicles'"
+    },
+    {
+      "id": "ca-099",
+      "topic": "speed",
+      "q": "California's Basic Speed Law says you may never drive:",
+      "options": [
+        "Faster than other traffic",
+        "Faster than is safe for current conditions",
+        "Faster than 65 mph under any conditions",
+        "Slower than the posted limit"
+      ],
+      "answer": 1,
+      "explain": "The Basic Speed Law prohibits driving faster than is safe for the conditions, regardless of the posted limit.",
+      "official": false,
+      "ref": "California Driver's Handbook (DL 600, rev. 6/2025), Section 8, 'Manage Your Speed'"
+    },
+    {
+      "id": "ca-100",
+      "topic": "speed",
+      "q": "Unless otherwise posted, the maximum speed limit on most California highways is:",
+      "options": [
+        "55 mph",
+        "65 mph",
+        "70 mph",
+        "75 mph"
+      ],
+      "answer": 1,
+      "explain": "Unless posted otherwise, the maximum on most California highways is 65 mph.",
+      "official": false,
+      "ref": "California Driver's Handbook (DL 600, rev. 6/2025), Section 8, 'Manage Your Speed'"
+    },
+    {
+      "id": "ca-101",
+      "topic": "speed",
+      "q": "Unless posted otherwise, the maximum speed on a two-lane undivided highway is:",
+      "options": [
+        "45 mph",
+        "55 mph",
+        "60 mph",
+        "65 mph"
+      ],
+      "answer": 1,
+      "explain": "Two-lane undivided highways have a 55 mph limit unless otherwise posted.",
+      "official": false,
+      "ref": "California Driver's Handbook (DL 600, rev. 6/2025), Section 8, 'Manage Your Speed'"
+    },
+    {
+      "id": "ca-102",
+      "topic": "speed",
+      "q": "What is the maximum speed when towing a trailer in California?",
+      "options": [
+        "45 mph",
+        "55 mph",
+        "60 mph",
+        "65 mph"
+      ],
+      "answer": 1,
+      "explain": "Vehicles towing trailers are limited to 55 mph.",
+      "official": false,
+      "ref": "California Driver's Handbook (DL 600, rev. 6/2025), Section 8, 'Manage Your Speed'"
+    },
+    {
+      "id": "ca-103",
+      "topic": "speed",
+      "q": "Unless otherwise posted, the speed limit in a business or residential district is:",
+      "options": [
+        "15 mph",
+        "25 mph",
+        "30 mph",
+        "35 mph"
+      ],
+      "answer": 1,
+      "explain": "Business and residential districts are 25 mph unless signs say otherwise.",
+      "official": false,
+      "ref": "California Driver's Handbook (DL 600, rev. 6/2025), Section 7, 'Business or Residential Districts'"
+    },
+    {
+      "id": "ca-104",
+      "topic": "speed",
+      "q": "Unless posted otherwise, what is the speed limit within 500 feet of a school while children are outside or crossing?",
+      "options": [
+        "15 mph",
+        "20 mph",
+        "25 mph",
+        "35 mph"
+      ],
+      "answer": 2,
+      "explain": "The limit is 25 mph within 500 feet of a school when children are present; some school zones are posted as low as 15 mph.",
+      "official": false,
+      "ref": "California Driver's Handbook (DL 600, rev. 6/2025), Section 7, 'Around Children'"
+    },
+    {
+      "id": "ca-105",
+      "topic": "speed",
+      "q": "The 25 mph school-zone limit (when children are outside or crossing) starts how far from the school?",
+      "options": [
+        "100 feet",
+        "250 feet",
+        "500 feet",
+        "1,000 feet"
+      ],
+      "answer": 2,
+      "explain": "The school-zone limit applies within 500 feet of a school while children are present.",
+      "official": false,
+      "ref": "California Driver's Handbook (DL 600, rev. 6/2025), Section 7, 'Around Children'"
+    },
+    {
+      "id": "ca-106",
+      "topic": "speed",
+      "q": "What is the speed limit at a blind intersection (no stop signs at any corner and your view is blocked)?",
+      "options": [
+        "10 mph",
+        "15 mph",
+        "20 mph",
+        "25 mph"
+      ],
+      "answer": 1,
+      "explain": "Blind intersections have a 15 mph limit.",
+      "official": false,
+      "ref": "California Driver's Handbook (DL 600, rev. 6/2025), Section 7, 'Blind Intersections' / 'Alleys'"
+    },
+    {
+      "id": "ca-107",
+      "topic": "speed",
+      "q": "What is the speed limit in an alley?",
+      "options": [
+        "5 mph",
+        "10 mph",
+        "15 mph",
+        "25 mph"
+      ],
+      "answer": 2,
+      "explain": "Alleys have a 15 mph speed limit.",
+      "official": false,
+      "ref": "California Driver's Handbook (DL 600, rev. 6/2025), Section 7, 'Blind Intersections' / 'Alleys'"
+    },
+    {
+      "id": "ca-108",
+      "topic": "speed",
+      "q": "Within 100 feet of a railroad crossing where you cannot see the tracks for 400 feet in both directions, the speed limit is:",
+      "options": [
+        "5 mph",
+        "15 mph",
+        "25 mph",
+        "35 mph"
+      ],
+      "answer": 1,
+      "explain": "The limit is 15 mph unless the crossing is controlled by gates, a warning signal or a flagger.",
+      "official": false,
+      "ref": "California Driver's Handbook (DL 600, rev. 6/2025), Section 7, 'Near Railroad or Light Rail Tracks'"
+    },
+    {
+      "id": "ca-109",
+      "topic": "speed",
+      "q": "A streetcar is stopped at a safety zone. If you pass it, your speed may be no more than:",
+      "options": [
+        "5 mph",
+        "10 mph",
+        "15 mph",
+        "25 mph"
+      ],
+      "answer": 1,
+      "explain": "You may pass a bus, streetcar or trolley stopped at a safety zone or light at no more than 10 mph.",
+      "official": false,
+      "ref": "California Driver's Handbook (DL 600, rev. 6/2025), Section 7, 'Buses, Streetcars, Trolleys' / 'Light Rail Vehicles'"
+    },
+    {
+      "id": "ca-110",
+      "topic": "speed",
+      "q": "In heavy rain or snow you cannot see farther than 100 feet ahead. What is the fastest safe speed?",
+      "options": [
+        "20 mph",
+        "30 mph",
+        "40 mph",
+        "45 mph"
+      ],
+      "answer": 1,
+      "explain": "Once visibility drops to 100 feet or less, going over 30 mph is unsafe.",
+      "official": false,
+      "ref": "California Driver's Handbook (DL 600, rev. 6/2025), Section 8, 'Slippery Roads'"
+    },
+    {
+      "id": "ca-111",
+      "topic": "speed",
+      "q": "On a wet road, you should reduce your speed by about:",
+      "options": [
+        "1 to 2 mph",
+        "Half",
+        "20 to 25 mph",
+        "5 to 10 mph"
+      ],
+      "answer": 3,
+      "explain": "Slow down 5–10 mph on wet roads.",
+      "official": false,
+      "ref": "California Driver's Handbook (DL 600, rev. 6/2025), Section 8, 'Slippery Roads'"
+    },
+    {
+      "id": "ca-112",
+      "topic": "speed",
+      "q": "On packed snow, you should reduce your speed by:",
+      "options": [
+        "10 mph",
+        "5 mph",
+        "One quarter",
+        "Half"
+      ],
+      "answer": 3,
+      "explain": "Reduce your speed by half on packed snow.",
+      "official": false,
+      "ref": "California Driver's Handbook (DL 600, rev. 6/2025), Section 8, 'Slippery Roads'"
+    },
+    {
+      "id": "ca-113",
+      "topic": "speed",
+      "q": "On ice, you should drive no faster than:",
+      "options": [
+        "5 mph",
+        "10 mph",
+        "15 mph",
+        "25 mph"
+      ],
+      "answer": 0,
+      "explain": "On ice, slow to no more than 5 mph.",
+      "official": false,
+      "ref": "California Driver's Handbook (DL 600, rev. 6/2025), Section 8, 'Slippery Roads'"
+    },
+    {
+      "id": "ca-114",
+      "topic": "speed",
+      "q": "What following distance does the California handbook recommend in normal conditions?",
+      "options": [
+        "10 seconds",
+        "1 second",
+        "2 car lengths",
+        "At least 3 seconds"
+      ],
+      "answer": 3,
+      "explain": "Use the three-second rule to keep a safe following distance.",
+      "official": false,
+      "ref": "California Driver's Handbook (DL 600, rev. 6/2025), Section 8, 'Tailgating (Following Too Closely)'"
+    },
+    {
+      "id": "ca-115",
+      "topic": "speed",
+      "q": "How do you check that you are following at a safe distance?",
+      "options": [
+        "When the vehicle ahead passes a fixed point, count; you should not reach that point before three seconds",
+        "Match the speed of the car ahead",
+        "Keep one car length per 20 mph",
+        "Stay close enough to see the driver's mirrors"
+      ],
+      "answer": 0,
+      "explain": "Count seconds after the car ahead passes a landmark; reaching it before three seconds means you are too close.",
+      "official": false,
+      "ref": "California Driver's Handbook (DL 600, rev. 6/2025), Section 14, 'Glossary'"
+    },
+    {
+      "id": "ca-116",
+      "topic": "speed",
+      "q": "A driver is tailgating you. What should you do?",
+      "options": [
+        "Keep your course and speed, then move right when safe to let them pass",
+        "Brake suddenly to warn them",
+        "Stop in your lane",
+        "Speed up to get away"
+      ],
+      "answer": 0,
+      "explain": "Maintain course and speed, increase space ahead, and change lanes to the right when safe so the tailgater can pass.",
+      "official": false,
+      "ref": "California Driver's Handbook (DL 600, rev. 6/2025), Section 8, 'Tailgating (Following Too Closely)'"
+    },
+    {
+      "id": "ca-117",
+      "topic": "speed",
+      "q": "You should allow extra following distance behind a motorcycle when it is riding on:",
+      "options": [
+        "A freeway",
+        "A straight road",
+        "Dry asphalt",
+        "Metal bridge gratings, railroad tracks or gravel"
+      ],
+      "answer": 3,
+      "explain": "Give more space to motorcyclists on metal surfaces and gravel, where they can lose traction.",
+      "official": false,
+      "ref": "California Driver's Handbook (DL 600, rev. 6/2025), Section 8, 'Tailgating (Following Too Closely)'"
+    },
+    {
+      "id": "ca-118",
+      "topic": "speed",
+      "q": "How far ahead should you scan the road while driving?",
+      "options": [
+        "At least 10 seconds ahead",
+        "Only to the car in front",
+        "1 block ahead",
+        "2 seconds ahead"
+      ],
+      "answer": 0,
+      "explain": "Keep your eyes moving and look at least 10 seconds ahead to have time to react.",
+      "official": false,
+      "ref": "California Driver's Handbook (DL 600, rev. 6/2025), Section 8, 'Be Aware of Your Surroundings'"
+    },
+    {
+      "id": "ca-119",
+      "topic": "speed",
+      "q": "If you choose to drive slower than other traffic on a multilane road, you should:",
+      "options": [
+        "Use the center lane",
+        "Drive on the shoulder",
+        "Use the left lane",
+        "Use the right lane"
+      ],
+      "answer": 3,
+      "explain": "Slower drivers should keep to the right lane; driving too slowly can also be cited.",
+      "official": false,
+      "ref": "California Driver's Handbook (DL 600, rev. 6/2025), Section 7, 'Heavy Traffic or Bad Weather' / 'Towing'"
+    },
+    {
+      "id": "ca-120",
+      "topic": "speed",
+      "q": "At 55 mph, a passenger car can stop in about 300 feet. A large truck at the same speed may need up to:",
+      "options": [
+        "200 feet",
+        "300 feet",
+        "400 feet",
+        "1,000 feet"
+      ],
+      "answer": 2,
+      "explain": "Large vehicles may need up to 400 feet to stop from 55 mph, more when heavily loaded.",
+      "official": false,
+      "ref": "California Driver's Handbook (DL 600, rev. 6/2025), Section 7, 'Sharing the Road: Blind Spots (the No Zone)'"
+    },
+    {
+      "id": "ca-121",
+      "topic": "speed",
+      "q": "To merge into or cross traffic on a city street, you need a gap of about:",
+      "options": [
+        "One car length",
+        "A full block (about 300 feet)",
+        "Two blocks",
+        "Half a block (about 150 feet)"
+      ],
+      "answer": 3,
+      "explain": "On city streets you need about half a block (≈150 feet); on highways about a full block (≈300 feet).",
+      "official": false,
+      "ref": "California Driver's Handbook (DL 600, rev. 6/2025), Section 6, 'Crossing or Entering Traffic'"
+    },
+    {
+      "id": "ca-122",
+      "topic": "speed",
+      "q": "To merge into traffic on a highway, you need a gap of about:",
+      "options": [
+        "Half a mile",
+        "Half a block (about 150 feet)",
+        "A full block (about 300 feet)",
+        "Two car lengths"
+      ],
+      "answer": 2,
+      "explain": "On a highway you need about a full block, roughly 300 feet.",
+      "official": false,
+      "ref": "California Driver's Handbook (DL 600, rev. 6/2025), Section 6, 'Crossing or Entering Traffic'"
+    },
+    {
+      "id": "ca-123",
+      "topic": "speed",
+      "q": "Neighborhood electric vehicles (NEVs) and low-speed vehicles may only use roads whose speed limit is no higher than:",
+      "options": [
+        "25 mph",
+        "35 mph",
+        "45 mph",
+        "55 mph"
+      ],
+      "answer": 1,
+      "explain": "NEVs and LSVs top out at 25 mph and are restricted from roads with limits above 35 mph.",
+      "official": false,
+      "ref": "California Driver's Handbook (DL 600, rev. 6/2025), Section 7, 'Slow-moving Vehicles'"
+    },
+    {
+      "id": "ca-124",
+      "topic": "speed",
+      "q": "A yellow advisory speed sign posted at a curve shows 35 mph and it is raining heavily. You should:",
+      "options": [
+        "Drive slower than 35 mph if needed for safety",
+        "Ignore the sign",
+        "Drive exactly 35 mph",
+        "Drive 40 mph since it is only advisory"
+      ],
+      "answer": 0,
+      "explain": "Under the Basic Speed Law, your speed must fit the conditions, which can mean going slower than the advisory speed.",
+      "official": false,
+      "ref": "California Driver's Handbook (DL 600, rev. 6/2025), Section 8, 'Manage Your Speed'"
+    },
+    {
+      "id": "ca-125",
+      "topic": "turns",
+      "q": "How far before a turn should you begin signaling?",
+      "options": [
+        "At least 50 feet",
+        "Just as you begin the turn",
+        "At least 200 feet",
+        "At least 100 feet"
+      ],
+      "answer": 3,
+      "explain": "Signal at least 100 feet before turning.",
+      "official": false,
+      "ref": "California Driver's Handbook (DL 600, rev. 6/2025), Section 5, 'Signaling'"
+    },
+    {
+      "id": "ca-126",
+      "topic": "turns",
+      "q": "Before changing lanes on a freeway, you should signal for at least:",
+      "options": [
+        "1 second",
+        "2 seconds",
+        "5 seconds",
+        "10 seconds"
+      ],
+      "answer": 2,
+      "explain": "On a freeway, signal at least five seconds before a lane change.",
+      "official": false,
+      "ref": "California Driver's Handbook (DL 600, rev. 6/2025), Section 5, 'Signaling'"
+    },
+    {
+      "id": "ca-127",
+      "topic": "turns",
+      "q": "When exiting a highway from the proper lane, signal about:",
+      "options": [
+        "5 seconds (about 400 feet) before the exit",
+        "1 second before the exit",
+        "1 mile before the exit",
+        "Only after you are on the ramp"
+      ],
+      "answer": 0,
+      "explain": "Signal about five seconds, roughly 400 feet, before you exit.",
+      "official": false,
+      "ref": "California Driver's Handbook (DL 600, rev. 6/2025), Section 6, 'Merging And Exiting'"
+    },
+    {
+      "id": "ca-128",
+      "topic": "turns",
+      "q": "On a California freeway, which lane is the 'Number 1 Lane'?",
+      "options": [
+        "The far right lane",
+        "The middle lane",
+        "The carpool on-ramp",
+        "The far left (fast) lane"
+      ],
+      "answer": 3,
+      "explain": "Lanes are numbered from the left; the leftmost lane is the Number 1 Lane.",
+      "official": false,
+      "ref": "California Driver's Handbook (DL 600, rev. 6/2025), Section 6, 'Choosing a Lane' / 'Changing Lanes'"
+    },
+    {
+      "id": "ca-129",
+      "topic": "turns",
+      "q": "Before changing lanes, you should check your blind spot by:",
+      "options": [
+        "Only using your rearview mirror",
+        "Slowing down sharply",
+        "Looking over your shoulder in the direction you are moving",
+        "Only using your side mirror"
+      ],
+      "answer": 2,
+      "explain": "Signal, check mirrors, then look over your shoulder to make sure the lane is clear.",
+      "official": false,
+      "ref": "California Driver's Handbook (DL 600, rev. 6/2025), Section 6, 'Choosing a Lane' / 'Changing Lanes'"
+    },
+    {
+      "id": "ca-130",
+      "topic": "turns",
+      "q": "When preparing for a right turn on a street with a bike lane, you may enter the bike lane:",
+      "options": [
+        "Within 200 feet of the turn, after checking for bicyclists",
+        "At any distance before the turn",
+        "Only after the turn",
+        "Never"
+      ],
+      "answer": 0,
+      "explain": "You may drive in a bike lane within 200 feet of the turn, after checking your blind spots for bicyclists.",
+      "official": false,
+      "ref": "California Driver's Handbook (DL 600, rev. 6/2025), Section 6, 'Turns: Right Turns'"
+    },
+    {
+      "id": "ca-131",
+      "topic": "turns",
+      "q": "When making a right turn, you should finish the turn:",
+      "options": [
+        "In the right lane, without swinging wide",
+        "In the left lane",
+        "In the bike lane",
+        "In the lane farthest from the curb"
+      ],
+      "answer": 0,
+      "explain": "Begin and end a right turn in the lane closest to the right edge; do not swing wide.",
+      "official": false,
+      "ref": "California Driver's Handbook (DL 600, rev. 6/2025), Section 6, 'Turns: Right Turns'"
+    },
+    {
+      "id": "ca-132",
+      "topic": "turns",
+      "q": "Unless a sign prohibits it, you may turn right on a solid red light:",
+      "options": [
+        "Only if a green arrow is also showing",
+        "Without stopping if the road is clear",
+        "Never in California",
+        "After a complete stop and yielding to pedestrians and traffic"
+      ],
+      "answer": 3,
+      "explain": "Right turns on red are allowed after a full stop unless a NO TURN ON RED sign is posted.",
+      "official": false,
+      "ref": "California Driver's Handbook (DL 600, rev. 6/2025), Section 6, 'Turns: Right Turns'"
+    },
+    {
+      "id": "ca-133",
+      "topic": "turns",
+      "q": "Can you turn right on a red arrow?",
+      "options": [
+        "Yes, after a full stop",
+        "Only at night",
+        "No; wait for a green light or arrow",
+        "Yes, if no pedestrians are present"
+      ],
+      "answer": 2,
+      "explain": "You may not turn right while stopped at a red arrow.",
+      "official": false,
+      "ref": "California Driver's Handbook (DL 600, rev. 6/2025), Section 6, 'Turns: Right Turns'"
+    },
+    {
+      "id": "ca-134",
+      "topic": "turns",
+      "q": "You may turn left on a red light only when:",
+      "options": [
+        "You are in a hurry for an emergency",
+        "The intersection is empty",
+        "Turning from any two-way street",
+        "Turning from a one-way street onto another one-way street, after stopping, if no sign prohibits it"
+      ],
+      "answer": 3,
+      "explain": "A left on red is legal only from a one-way street onto a one-way street, after stopping and yielding.",
+      "official": false,
+      "ref": "California Driver's Handbook (DL 600, rev. 6/2025), Section 6, 'Turns: Left Turns'"
+    },
+    {
+      "id": "ca-135",
+      "topic": "turns",
+      "q": "While waiting to turn left, why should you keep your front wheels pointed straight ahead?",
+      "options": [
+        "If hit from behind, you won't be pushed into oncoming traffic",
+        "It helps you see better",
+        "It saves fuel",
+        "It is required only in roundabouts"
+      ],
+      "answer": 0,
+      "explain": "Wheels turned left could send you into oncoming traffic if you are rear-ended.",
+      "official": false,
+      "ref": "California Driver's Handbook (DL 600, rev. 6/2025), Section 6, 'Turns: Left Turns'"
+    },
+    {
+      "id": "ca-136",
+      "topic": "turns",
+      "q": "When turning left from a two-way street onto another two-way street, you should end the turn in:",
+      "options": [
+        "Any lane",
+        "The bike lane",
+        "The left lane closest to the center of the street going your way",
+        "The far right lane"
+      ],
+      "answer": 2,
+      "explain": "To reduce collision risk, finish in the left-most lane for your direction.",
+      "official": false,
+      "ref": "California Driver's Handbook (DL 600, rev. 6/2025), Section 6, 'Examples of Turns'"
+    },
+    {
+      "id": "ca-137",
+      "topic": "turns",
+      "q": "What is the longest distance you may drive in a two-way center left turn lane?",
+      "options": [
+        "100 feet",
+        "200 feet",
+        "300 feet",
+        "500 feet"
+      ],
+      "answer": 1,
+      "explain": "You may only drive up to 200 feet in the center left turn lane.",
+      "official": false,
+      "ref": "California Driver's Handbook (DL 600, rev. 6/2025), Section 6, 'Types of Lanes'"
+    },
+    {
+      "id": "ca-138",
+      "topic": "turns",
+      "q": "In a residential district, a U-turn is legal if:",
+      "options": [
+        "No vehicles are approaching within 200 feet",
+        "You are on a one-way street",
+        "It is during daylight only",
+        "You use a fire station driveway"
+      ],
+      "answer": 0,
+      "explain": "Residential U-turns are allowed when no vehicle is approaching within 200 feet.",
+      "official": false,
+      "ref": "California Driver's Handbook (DL 600, rev. 6/2025), Section 6, 'U-Turn'"
+    },
+    {
+      "id": "ca-139",
+      "topic": "turns",
+      "q": "Where is a U-turn never allowed?",
+      "options": [
+        "Across a single set of double yellow lines",
+        "At an intersection on a green light with no prohibiting sign",
+        "Through an opening in a divided highway",
+        "In front of a fire station"
+      ],
+      "answer": 3,
+      "explain": "U-turns are prohibited in front of fire stations; never use a fire station driveway to turn around.",
+      "official": false,
+      "ref": "California Driver's Handbook (DL 600, rev. 6/2025), Section 6, 'U-Turn'"
+    },
+    {
+      "id": "ca-140",
+      "topic": "turns",
+      "q": "To make a U-turn, how far must you be able to see clearly in each direction?",
+      "options": [
+        "50 feet",
+        "100 feet",
+        "200 feet",
+        "500 feet"
+      ],
+      "answer": 2,
+      "explain": "Do not make a U-turn when you cannot see clearly 200 feet each way.",
+      "official": false,
+      "ref": "California Driver's Handbook (DL 600, rev. 6/2025), Section 6, 'U-Turn'"
+    },
+    {
+      "id": "ca-141",
+      "topic": "turns",
+      "q": "In a business district, U-turns are generally allowed only:",
+      "options": [
+        "At an intersection, or at a divider opening on a divided highway",
+        "On one-way streets",
+        "Anywhere mid-block",
+        "In front of driveways"
+      ],
+      "answer": 0,
+      "explain": "In business districts, U-turns are allowed only at intersections or at openings on divided highways (unless a sign prohibits).",
+      "official": false,
+      "ref": "California Driver's Handbook (DL 600, rev. 6/2025), Section 6, 'U-Turn'"
+    },
+    {
+      "id": "ca-142",
+      "topic": "turns",
+      "q": "When may you pass another vehicle on the right?",
+      "options": [
+        "On a two-lane road using the shoulder",
+        "Anytime there is a paved shoulder",
+        "On a road with two or more lanes in your direction, when it is safe",
+        "Whenever the driver ahead is slow"
+      ],
+      "answer": 2,
+      "explain": "Passing on the right is allowed on multi-lane roads, on one-way streets, or when the driver ahead is turning left and it is safe.",
+      "official": false,
+      "ref": "California Driver's Handbook (DL 600, rev. 6/2025), Section 6, 'Passing'"
+    },
+    {
+      "id": "ca-143",
+      "topic": "turns",
+      "q": "The driver ahead is signaling a left turn. You may pass:",
+      "options": [
+        "By driving off the pavement on the right",
+        "On the left shoulder",
+        "On the left",
+        "On the right, if it is safe and you stay on the pavement"
+      ],
+      "answer": 3,
+      "explain": "Never pass on the left of a driver signaling a left turn; you may pass on the right if safe.",
+      "official": false,
+      "ref": "California Driver's Handbook (DL 600, rev. 6/2025), Section 6, 'Passing'"
+    },
+    {
+      "id": "ca-144",
+      "topic": "turns",
+      "q": "What is the closest you may be to an intersection, bridge, tunnel or railroad crossing when passing another vehicle?",
+      "options": [
+        "50 feet",
+        "100 feet",
+        "200 feet",
+        "500 feet"
+      ],
+      "answer": 1,
+      "explain": "Passing is not allowed once you are 100 feet or closer to an intersection, bridge, tunnel, railroad crossing or similar hazard.",
+      "official": false,
+      "ref": "California Driver's Handbook (DL 600, rev. 6/2025), Section 6, 'Passing'"
+    },
+    {
+      "id": "ca-145",
+      "topic": "turns",
+      "q": "To safely pass on a two-lane road, a hill or curve ahead should be at least:",
+      "options": [
+        "One block away",
+        "One-third of a mile away",
+        "Just beyond the vehicle you are passing",
+        "100 feet away"
+      ],
+      "answer": 1,
+      "explain": "Before passing, make sure any hill or curve is at least a third of a mile away.",
+      "official": false,
+      "ref": "California Driver's Handbook (DL 600, rev. 6/2025), Section 6, 'Passing'"
+    },
+    {
+      "id": "ca-146",
+      "topic": "turns",
+      "q": "Another driver signals that they want to pass you. You should:",
+      "options": [
+        "Brake hard",
+        "Move toward the center line",
+        "Speed up",
+        "Stay in your lane and keep a steady speed"
+      ],
+      "answer": 3,
+      "explain": "Allow the pass by maintaining your lane position and speed.",
+      "official": false,
+      "ref": "California Driver's Handbook (DL 600, rev. 6/2025), Section 6, 'Passing'"
+    },
+    {
+      "id": "ca-147",
+      "topic": "turns",
+      "q": "You are driving slowly on a two-lane road where passing is unsafe. What is the smallest number of vehicles behind you that requires you to pull into a turnout?",
+      "options": [
+        "2",
+        "3",
+        "5",
+        "10"
+      ],
+      "answer": 2,
+      "explain": "You must pull into a turnout when five or more vehicles are following you.",
+      "official": false,
+      "ref": "California Driver's Handbook (DL 600, rev. 6/2025), Section 6, 'Types of Lanes'"
+    },
+    {
+      "id": "ca-148",
+      "topic": "turns",
+      "q": "How should you enter or exit a carpool (HOV) lane separated by double solid lines?",
+      "options": [
+        "Only at designated openings, not across the double lines",
+        "Across the lines after signaling",
+        "Only by stopping first",
+        "Anywhere when traffic is light"
+      ],
+      "answer": 0,
+      "explain": "Do not cross double solid lines to enter or leave an HOV lane; use the designated entrances and exits.",
+      "official": false,
+      "ref": "California Driver's Handbook (DL 600, rev. 6/2025), Section 6, 'Types of Lanes'"
+    },
+    {
+      "id": "ca-149",
+      "topic": "turns",
+      "q": "You need to cross several lanes to reach your freeway exit. You should:",
+      "options": [
+        "Signal and cross the lanes one at a time, checking blind spots each time",
+        "Use the shoulder",
+        "Stop in the lane until a gap opens",
+        "Cross all lanes at once"
+      ],
+      "answer": 0,
+      "explain": "Change lanes one at a time, signaling and checking blind spots for each lane.",
+      "official": false,
+      "ref": "California Driver's Handbook (DL 600, rev. 6/2025), Section 6, 'Merging And Exiting'"
+    },
+    {
+      "id": "ca-150",
+      "topic": "turns",
+      "q": "When towing a trailer on a road with no marked slow lane and four or more lanes in your direction, you may use:",
+      "options": [
+        "Any lane",
+        "Only the HOV lane",
+        "Only the left lane",
+        "Only the two lanes closest to the right edge"
+      ],
+      "answer": 3,
+      "explain": "Towing vehicles must use the right lane or slow-vehicle lane; with four or more lanes they may use the two right-most lanes.",
+      "official": false,
+      "ref": "California Driver's Handbook (DL 600, rev. 6/2025), Section 7, 'Heavy Traffic or Bad Weather' / 'Towing'"
+    },
+    {
+      "id": "ca-151",
+      "topic": "turns",
+      "q": "Which hand-and-arm signal means you plan to turn left?",
+      "options": [
+        "Right arm straight out the passenger window",
+        "Left arm bent upward",
+        "Left arm held straight out",
+        "Left arm bent downward"
+      ],
+      "answer": 2,
+      "explain": "A left turn is signaled with the arm extended straight out the window.",
+      "official": false,
+      "ref": "California Driver's Handbook (DL 600, rev. 6/2025), Section 5, 'Signaling'"
+    },
+    {
+      "id": "ca-152",
+      "topic": "turns",
+      "q": "Which hand-and-arm signal means a right turn?",
+      "options": [
+        "Left arm bent downward",
+        "Left arm bent upward",
+        "Pointing forward",
+        "Left arm held straight out"
+      ],
+      "answer": 1,
+      "explain": "A right turn is signaled with the left arm bent up at the elbow.",
+      "official": false,
+      "ref": "California Driver's Handbook (DL 600, rev. 6/2025), Section 5, 'Signaling'"
+    },
+    {
+      "id": "ca-153",
+      "topic": "turns",
+      "q": "You plan to turn right just after crossing an intersection. When should you signal?",
+      "options": [
+        "Before entering the intersection",
+        "After completing the turn",
+        "When you are almost through the intersection",
+        "Not at all"
+      ],
+      "answer": 2,
+      "explain": "Signaling early could make drivers think you will turn at the intersection; signal when almost through it.",
+      "official": false,
+      "ref": "California Driver's Handbook (DL 600, rev. 6/2025), Section 5, 'Signaling'"
+    },
+    {
+      "id": "ca-154",
+      "topic": "parking",
+      "q": "After parallel parking, what is the maximum distance your wheels may be from the curb?",
+      "options": [
+        "3 feet",
+        "6 inches",
+        "18 inches",
+        "24 inches"
+      ],
+      "answer": 2,
+      "explain": "Your vehicle should end up parallel and within 18 inches of the curb.",
+      "official": false,
+      "ref": "California Driver's Handbook (DL 600, rev. 6/2025), Section 6, 'Parallel Parking'"
+    },
+    {
+      "id": "ca-155",
+      "topic": "parking",
+      "q": "How long should a parallel parking space be?",
+      "options": [
+        "At least 3 feet longer than your vehicle",
+        "At least 10 feet longer than your vehicle",
+        "Exactly the length of your vehicle",
+        "Twice the length of your vehicle"
+      ],
+      "answer": 0,
+      "explain": "Choose a gap that is at least three feet longer than your car.",
+      "official": false,
+      "ref": "California Driver's Handbook (DL 600, rev. 6/2025), Section 6, 'Parallel Parking'"
+    },
+    {
+      "id": "ca-156",
+      "topic": "parking",
+      "q": "What is the closest you may legally park to a fire hydrant?",
+      "options": [
+        "5 feet",
+        "10 feet",
+        "15 feet",
+        "20 feet"
+      ],
+      "answer": 2,
+      "explain": "Keep at least 15 feet between your parked car and a fire hydrant or the driveway of a fire station.",
+      "official": false,
+      "ref": "California Driver's Handbook (DL 600, rev. 6/2025), Section 6, 'Illegal Parking'"
+    },
+    {
+      "id": "ca-157",
+      "topic": "parking",
+      "q": "With no curb extension, what is the closest you may park to a marked or unmarked crosswalk?",
+      "options": [
+        "10 feet",
+        "15 feet",
+        "20 feet",
+        "30 feet"
+      ],
+      "answer": 2,
+      "explain": "Parking is prohibited within 20 feet of a crosswalk, or 15 feet where a curb extension is present.",
+      "official": false,
+      "ref": "California Driver's Handbook (DL 600, rev. 6/2025), Section 6, 'Illegal Parking'"
+    },
+    {
+      "id": "ca-158",
+      "topic": "parking",
+      "q": "Where a crosswalk has a curb extension, what is the closest you may park to it?",
+      "options": [
+        "5 feet of it",
+        "15 feet of it",
+        "20 feet of it",
+        "50 feet of it"
+      ],
+      "answer": 1,
+      "explain": "With a curb extension, the no-parking distance from the crosswalk is 15 feet.",
+      "official": false,
+      "ref": "California Driver's Handbook (DL 600, rev. 6/2025), Section 6, 'Illegal Parking'"
+    },
+    {
+      "id": "ca-159",
+      "topic": "parking",
+      "q": "What is the closest you may park to a sidewalk ramp for disabled persons?",
+      "options": [
+        "1 foot",
+        "3 feet",
+        "10 feet",
+        "15 feet"
+      ],
+      "answer": 1,
+      "explain": "You must leave at least three feet between your vehicle and a wheelchair-access sidewalk ramp.",
+      "official": false,
+      "ref": "California Driver's Handbook (DL 600, rev. 6/2025), Section 6, 'Illegal Parking'"
+    },
+    {
+      "id": "ca-160",
+      "topic": "parking",
+      "q": "When parking downhill next to a curb, turn your front wheels:",
+      "options": [
+        "Toward the center of the road",
+        "Away from the curb",
+        "Straight ahead",
+        "Toward the curb"
+      ],
+      "answer": 3,
+      "explain": "Downhill: turn wheels into the curb so the car rolls into it if the brakes fail.",
+      "official": false,
+      "ref": "California Driver's Handbook (DL 600, rev. 6/2025), Section 6, 'Parking on a Hill'"
+    },
+    {
+      "id": "ca-161",
+      "topic": "parking",
+      "q": "When parking uphill next to a curb, turn your front wheels:",
+      "options": [
+        "Away from the curb and let the car roll back gently against it",
+        "Straight ahead",
+        "Toward the curb",
+        "It does not matter"
+      ],
+      "answer": 0,
+      "explain": "Uphill with a curb: turn wheels away from the curb and let the tire gently touch it.",
+      "official": false,
+      "ref": "California Driver's Handbook (DL 600, rev. 6/2025), Section 6, 'Parking on a Hill'"
+    },
+    {
+      "id": "ca-162",
+      "topic": "parking",
+      "q": "When parking on a hill with no curb, turn your front wheels:",
+      "options": [
+        "Toward the center of the road",
+        "Straight ahead",
+        "Left if uphill, right if downhill",
+        "Toward the shoulder (right), so the car rolls away from traffic"
+      ],
+      "answer": 3,
+      "explain": "With no curb, turn wheels right so the vehicle rolls away from the center of the road.",
+      "official": false,
+      "ref": "California Driver's Handbook (DL 600, rev. 6/2025), Section 6, 'Parking on a Hill'"
+    },
+    {
+      "id": "ca-163",
+      "topic": "parking",
+      "q": "What does a white painted curb mean?",
+      "options": [
+        "Stop only long enough to pick up or drop off passengers",
+        "No stopping at any time",
+        "Loading of freight only",
+        "Parking for disabled persons"
+      ],
+      "answer": 0,
+      "explain": "White curbs are for brief passenger pickup and drop-off.",
+      "official": false,
+      "ref": "California Driver's Handbook (DL 600, rev. 6/2025), Section 6, 'Parking at Colored Curbs'"
+    },
+    {
+      "id": "ca-164",
+      "topic": "parking",
+      "q": "What does a green painted curb mean?",
+      "options": [
+        "Loading zone for trucks",
+        "Parking for emergency vehicles only",
+        "No parking at any time",
+        "Parking is allowed for a limited time"
+      ],
+      "answer": 3,
+      "explain": "Green curbs allow limited-time parking; the limit is posted or painted.",
+      "official": false,
+      "ref": "California Driver's Handbook (DL 600, rev. 6/2025), Section 6, 'Parking at Colored Curbs'"
+    },
+    {
+      "id": "ca-165",
+      "topic": "parking",
+      "q": "What does a yellow painted curb mean?",
+      "options": [
+        "Parking for disabled persons",
+        "Stop only to load or unload passengers or freight, for no longer than posted",
+        "Unlimited parking",
+        "No stopping at any time"
+      ],
+      "answer": 1,
+      "explain": "Yellow curbs are loading zones with a posted time limit; noncommercial drivers usually must stay with the vehicle.",
+      "official": false,
+      "ref": "California Driver's Handbook (DL 600, rev. 6/2025), Section 6, 'Parking at Colored Curbs'"
+    },
+    {
+      "id": "ca-166",
+      "topic": "parking",
+      "q": "What does a red painted curb mean?",
+      "options": [
+        "Parking for up to 15 minutes",
+        "Parking for disabled persons",
+        "Passenger loading only",
+        "No stopping, standing or parking"
+      ],
+      "answer": 3,
+      "explain": "Red curbs mean no stopping, standing or parking (buses may stop in a bus-only red zone).",
+      "official": false,
+      "ref": "California Driver's Handbook (DL 600, rev. 6/2025), Section 6, 'Parking at Colored Curbs'"
+    },
+    {
+      "id": "ca-167",
+      "topic": "parking",
+      "q": "What does a blue painted curb mean?",
+      "options": [
+        "Parking only for a disabled person or a driver transporting one, with a placard or special plate",
+        "Parking for 1 hour",
+        "Parking for police",
+        "Parking for electric vehicles"
+      ],
+      "answer": 0,
+      "explain": "Blue curbs are reserved for disabled parking with a placard or special license plate.",
+      "official": false,
+      "ref": "California Driver's Handbook (DL 600, rev. 6/2025), Section 6, 'Parking at Colored Curbs'"
+    },
+    {
+      "id": "ca-168",
+      "topic": "parking",
+      "q": "May you park in the crosshatched (diagonal-line) area beside a disabled parking space?",
+      "options": [
+        "Yes, at night",
+        "No, never",
+        "Yes, for up to 10 minutes",
+        "Yes, if you have a passenger"
+      ],
+      "answer": 1,
+      "explain": "Parking in the crosshatched area next to a disabled space is illegal.",
+      "official": false,
+      "ref": "California Driver's Handbook (DL 600, rev. 6/2025), Section 6, 'Illegal Parking'"
+    },
+    {
+      "id": "ca-169",
+      "topic": "parking",
+      "q": "After how long may a vehicle stopped, parked or left standing on a freeway be removed?",
+      "options": [
+        "1 hour",
+        "4 hours",
+        "8 hours",
+        "24 hours"
+      ],
+      "answer": 1,
+      "explain": "Vehicles left on a freeway longer than four hours may be removed.",
+      "official": false,
+      "ref": "California Driver's Handbook (DL 600, rev. 6/2025), Section 6, 'Illegal Parking'"
+    },
+    {
+      "id": "ca-170",
+      "topic": "parking",
+      "q": "Which is a legal place to park, if no signs prohibit it?",
+      "options": [
+        "On a sidewalk",
+        "Double-parked beside a car",
+        "At a curb more than 20 feet from a crosswalk",
+        "Between a safety zone and the curb"
+      ],
+      "answer": 2,
+      "explain": "A curb more than 20 feet from a crosswalk can be legal if nothing else forbids it; sidewalks, double parking and the space between a safety zone and the curb are always illegal.",
+      "official": false,
+      "ref": "California Driver's Handbook (DL 600, rev. 6/2025), Section 6, 'Illegal Parking'"
+    },
+    {
+      "id": "ca-171",
+      "topic": "sharing",
+      "q": "When you pass a bicyclist and cannot change lanes, you must leave at least how much space?",
+      "options": [
+        "1 foot",
+        "2 feet",
+        "3 feet",
+        "6 feet"
+      ],
+      "answer": 2,
+      "explain": "California requires at least three feet between your vehicle and a bicyclist you are passing.",
+      "official": false,
+      "ref": "California Driver's Handbook (DL 600, rev. 6/2025), Section 7, 'Passing a Bicyclist'"
+    },
+    {
+      "id": "ca-172",
+      "topic": "sharing",
+      "q": "You cannot give a bicyclist three feet of clearance to pass. What should you do?",
+      "options": [
+        "Wait behind them until you can pass with three feet of clearance",
+        "Honk so they move over",
+        "Pass slowly with less space",
+        "Pass using the bike lane"
+      ],
+      "answer": 0,
+      "explain": "If three feet is not possible, do not pass until it is.",
+      "official": false,
+      "ref": "California Driver's Handbook (DL 600, rev. 6/2025), Section 7, 'Passing a Bicyclist'"
+    },
+    {
+      "id": "ca-173",
+      "topic": "sharing",
+      "q": "When is it legal for a car to drive in a bicycle lane?",
+      "options": [
+        "Whenever traffic is heavy",
+        "Any time no bicyclists are present",
+        "When passing slow cars",
+        "When parking where allowed, entering or leaving the road, or turning within 200 feet of an intersection"
+      ],
+      "answer": 3,
+      "explain": "Driving in a bike lane is illegal except to park, enter or leave the road, or turn within 200 feet of the intersection.",
+      "official": false,
+      "ref": "California Driver's Handbook (DL 600, rev. 6/2025), Section 6, 'Bicycle Lanes'"
+    },
+    {
+      "id": "ca-174",
+      "topic": "sharing",
+      "q": "Which bicyclists are required to wear a helmet in California?",
+      "options": [
+        "All bicyclists",
+        "Only bicyclists under 12",
+        "Only bicyclists on highways",
+        "Bicyclists under 18"
+      ],
+      "answer": 3,
+      "explain": "Bicyclists under 18 must wear a helmet.",
+      "official": false,
+      "ref": "California Driver's Handbook (DL 600, rev. 6/2025), Section 7, 'Bicycles'"
+    },
+    {
+      "id": "ca-175",
+      "topic": "sharing",
+      "q": "A bicyclist moves left away from the right edge of the lane. This is legal when the bicyclist is:",
+      "options": [
+        "Avoiding a hazard or preparing for a left turn",
+        "Only riding faster than 25 mph",
+        "Never",
+        "Only on freeways"
+      ],
+      "answer": 0,
+      "explain": "Bicyclists may leave the right edge to pass, prepare for a left turn, avoid hazards, or when the lane is too narrow to share.",
+      "official": false,
+      "ref": "California Driver's Handbook (DL 600, rev. 6/2025), Section 7, 'Bicycles'"
+    },
+    {
+      "id": "ca-176",
+      "topic": "sharing",
+      "q": "You are driving behind a large truck and cannot see its side mirrors. This means:",
+      "options": [
+        "The truck has no mirrors",
+        "The truck driver cannot see you",
+        "You are at a safe distance",
+        "You should honk"
+      ],
+      "answer": 1,
+      "explain": "If you can't see the truck's mirrors, you are in its No Zone and the driver can't see you.",
+      "official": false,
+      "ref": "California Driver's Handbook (DL 600, rev. 6/2025), Section 7, 'Sharing the Road: Blind Spots (the No Zone)'"
+    },
+    {
+      "id": "ca-177",
+      "topic": "sharing",
+      "q": "A large truck ahead signals a right turn but swings left first. You should:",
+      "options": [
+        "Honk and pass on the left",
+        "Pass it on the right quickly",
+        "Stay back and not try to squeeze past on the right",
+        "Follow closely"
+      ],
+      "answer": 2,
+      "explain": "Trucks swing wide to turn; check their signals and don't move into the space they need.",
+      "official": false,
+      "ref": "California Driver's Handbook (DL 600, rev. 6/2025), Section 7, 'Sharing the Road: Blind Spots (the No Zone)'"
+    },
+    {
+      "id": "ca-178",
+      "topic": "sharing",
+      "q": "Why is it dangerous to change lanes in front of a large truck and then slow down?",
+      "options": [
+        "It is only dangerous at night",
+        "Trucks need much more distance to stop",
+        "Trucks accelerate faster than cars",
+        "Truck drivers can see too far ahead"
+      ],
+      "answer": 1,
+      "explain": "Large vehicles take longer to stop, so cutting in and slowing can cause a crash.",
+      "official": false,
+      "ref": "California Driver's Handbook (DL 600, rev. 6/2025), Section 7, 'Sharing the Road: Blind Spots (the No Zone)'"
+    },
+    {
+      "id": "ca-179",
+      "topic": "sharing",
+      "q": "When passing a large truck, you should:",
+      "options": [
+        "Pass on the left and move ahead of it promptly",
+        "Stay beside it to be seen",
+        "Pass on the shoulder",
+        "Pass on the right"
+      ],
+      "answer": 0,
+      "explain": "Always pass large vehicles on the left and do not linger alongside them.",
+      "official": false,
+      "ref": "California Driver's Handbook (DL 600, rev. 6/2025), Section 7, 'Sharing the Road: Blind Spots (the No Zone)'"
+    },
+    {
+      "id": "ca-180",
+      "topic": "sharing",
+      "q": "What following distance should you keep behind a motorcycle?",
+      "options": [
+        "1 second",
+        "10 feet",
+        "1 car length",
+        "At least 3 seconds"
+      ],
+      "answer": 3,
+      "explain": "Allow a three-second following distance in case the rider brakes suddenly or falls.",
+      "official": false,
+      "ref": "California Driver's Handbook (DL 600, rev. 6/2025), Section 7, 'Motorcycles'"
+    },
+    {
+      "id": "ca-181",
+      "topic": "sharing",
+      "q": "Is lane splitting by motorcycles legal in California?",
+      "options": [
+        "Only on city streets",
+        "Only for police motorcycles",
+        "Yes",
+        "No"
+      ],
+      "answer": 2,
+      "explain": "Sharing lanes with motorcycles (lane splitting) is legal in California.",
+      "official": false,
+      "ref": "California Driver's Handbook (DL 600, rev. 6/2025), Section 7, 'Motorcycles'"
+    },
+    {
+      "id": "ca-182",
+      "topic": "sharing",
+      "q": "Should you pass a motorcycle while sharing its lane?",
+      "options": [
+        "No, never try to pass a motorcycle in the same lane",
+        "Yes, if the rider is slow",
+        "Yes, if you honk first",
+        "Yes, on the right side"
+      ],
+      "answer": 0,
+      "explain": "Give a motorcycle the full lane and never pass it within the same lane.",
+      "official": false,
+      "ref": "California Driver's Handbook (DL 600, rev. 6/2025), Section 7, 'Motorcycles'"
+    },
+    {
+      "id": "ca-183",
+      "topic": "sharing",
+      "q": "Safety zones for bus or streetcar passengers are marked by raised buttons or markers. You may:",
+      "options": [
+        "Park in them briefly",
+        "Drive through them at 10 mph",
+        "Drive through them when empty",
+        "Never drive through them"
+      ],
+      "answer": 3,
+      "explain": "Safety zones are off-limits to vehicles in all circumstances.",
+      "official": false,
+      "ref": "California Driver's Handbook (DL 600, rev. 6/2025), Section 7, 'Buses, Streetcars, Trolleys' / 'Light Rail Vehicles'"
+    },
+    {
+      "id": "ca-184",
+      "topic": "sharing",
+      "q": "Generally, may you pass a light rail vehicle or streetcar on its left side?",
+      "options": [
+        "Only when it is moving",
+        "No, except in limited cases such as a one-way street or when an officer directs it",
+        "Only at night",
+        "Yes, always"
+      ],
+      "answer": 1,
+      "explain": "Passing a streetcar or light rail vehicle on the left is not allowed unless the tracks prevent passing on the right, on a one-way street, or when directed by an officer.",
+      "official": false,
+      "ref": "California Driver's Handbook (DL 600, rev. 6/2025), Section 7, 'Buses, Streetcars, Trolleys' / 'Light Rail Vehicles'"
+    },
+    {
+      "id": "ca-185",
+      "topic": "sharing",
+      "q": "A school bus ahead is flashing red lights. What must you do?",
+      "options": [
+        "Slow to 25 mph and pass carefully",
+        "Pass on the left only",
+        "Stop, then pass when no children are visible",
+        "Stop and remain stopped until the red lights stop flashing"
+      ],
+      "answer": 3,
+      "explain": "You must stop from either direction and stay stopped while the red lights flash.",
+      "official": false,
+      "ref": "California Driver's Handbook (DL 600, rev. 6/2025), Section 7, 'Around Children'"
+    },
+    {
+      "id": "ca-186",
+      "topic": "sharing",
+      "q": "A school bus is stopped with red lights flashing on the other side of a highway that has two or more lanes in each direction. You:",
+      "options": [
+        "Must stop only during school hours",
+        "Must slow to 10 mph",
+        "Do not need to stop",
+        "Must stop"
+      ],
+      "answer": 2,
+      "explain": "On a divided or multilane highway (two or more lanes each way), traffic on the opposite side need not stop.",
+      "official": false,
+      "ref": "California Driver's Handbook (DL 600, rev. 6/2025), Section 7, 'Around Children'"
+    },
+    {
+      "id": "ca-187",
+      "topic": "sharing",
+      "q": "A school bus is flashing yellow lights. This means:",
+      "options": [
+        "The bus is preparing to stop; slow down and prepare to stop",
+        "The bus is broken down",
+        "You may pass at normal speed",
+        "The bus is letting children off now"
+      ],
+      "answer": 0,
+      "explain": "Flashing yellow lights warn that the bus is about to stop; slow down and be prepared.",
+      "official": false,
+      "ref": "California Driver's Handbook (DL 600, rev. 6/2025), Section 7, 'Around Children'"
+    },
+    {
+      "id": "ca-188",
+      "topic": "sharing",
+      "q": "Failing to stop for a school bus with flashing red lights can result in:",
+      "options": [
+        "A $100 fine",
+        "A fine of up to $1,000 and a 1-year suspension of your driving privilege",
+        "A 30-day suspension",
+        "A warning only"
+      ],
+      "answer": 1,
+      "explain": "The penalty can be up to $1,000 and a one-year suspension.",
+      "official": false,
+      "ref": "California Driver's Handbook (DL 600, rev. 6/2025), Section 7, 'Around Children'"
+    },
+    {
+      "id": "ca-189",
+      "topic": "sharing",
+      "q": "You approach a stopped tow truck on the shoulder displaying flashing amber lights. You must:",
+      "options": [
+        "Move over and slow down",
+        "Speed up to pass quickly",
+        "Maintain speed in your lane",
+        "Stop completely"
+      ],
+      "answer": 0,
+      "explain": "California's Move Over and Slow Down law covers stationary emergency vehicles, tow trucks and road work vehicles with warning lights.",
+      "official": false,
+      "ref": "California Driver's Handbook (DL 600, rev. 6/2025), Section 7, 'Road Workers and Work Zones' / 'Move Over and Slow Down'"
+    },
+    {
+      "id": "ca-190",
+      "topic": "sharing",
+      "q": "Traffic fines in a highway construction or maintenance zone are doubled when:",
+      "options": [
+        "Never; fines are the same",
+        "It is raining",
+        "Workers are present",
+        "It is nighttime"
+      ],
+      "answer": 2,
+      "explain": "Fines double in construction or maintenance zones when workers are present.",
+      "official": false,
+      "ref": "California Driver's Handbook (DL 600, rev. 6/2025), Section 7, 'Road Workers and Work Zones' / 'Move Over and Slow Down'"
+    },
+    {
+      "id": "ca-191",
+      "topic": "sharing",
+      "q": "Assaulting a highway worker can bring a fine of up to:",
+      "options": [
+        "$100",
+        "$500 and 30 days in jail",
+        "$2,000 and up to 1 year in jail",
+        "$10,000 and 5 years in prison"
+      ],
+      "answer": 2,
+      "explain": "Assaulting a highway worker is punishable by up to $2,000 and up to one year of imprisonment.",
+      "official": false,
+      "ref": "California Driver's Handbook (DL 600, rev. 6/2025), Section 7, 'Road Workers and Work Zones' / 'Move Over and Slow Down'"
+    },
+    {
+      "id": "ca-192",
+      "topic": "sharing",
+      "q": "When driving through a work zone, you should:",
+      "options": [
+        "Follow closely to keep traffic moving",
+        "Slow down, leave extra space and expect sudden stops",
+        "Speed up to clear it quickly",
+        "Change lanes often"
+      ],
+      "answer": 1,
+      "explain": "In work zones slow down, increase following distance, avoid distractions and obey flaggers.",
+      "official": false,
+      "ref": "California Driver's Handbook (DL 600, rev. 6/2025), Section 7, 'Road Workers and Work Zones' / 'Move Over and Slow Down'"
+    },
+    {
+      "id": "ca-193",
+      "topic": "sharing",
+      "q": "At night, a vehicle with only one light is coming toward you. You should:",
+      "options": [
+        "Speed up",
+        "Move toward the center line",
+        "Flash your high beams",
+        "Move as far right as possible; it could be a bicycle, motorcycle or car with a missing headlight"
+      ],
+      "answer": 3,
+      "explain": "A single light could be a bicycle, motorcycle or a car with a burned-out headlight; give it room.",
+      "official": false,
+      "ref": "California Driver's Handbook (DL 600, rev. 6/2025), Section 8, 'Darkness'"
+    },
+    {
+      "id": "ca-194",
+      "topic": "sharing",
+      "q": "Why must you be especially careful around blind pedestrians when driving a hybrid or electric vehicle?",
+      "options": [
+        "Their headlights are dimmer",
+        "These vehicles are quiet and blind pedestrians rely on sound",
+        "They cannot stop quickly",
+        "They accelerate too slowly"
+      ],
+      "answer": 1,
+      "explain": "Blind pedestrians rely on sound, and quiet vehicles may not be heard.",
+      "official": false,
+      "ref": "California Driver's Handbook (DL 600, rev. 6/2025), Section 7, 'Pedestrians Who Are Blind'"
+    },
+    {
+      "id": "ca-195",
+      "topic": "sharing",
+      "q": "On a two-lane road, an oncoming car approaches while a bicyclist is ahead on your right. What should you do?",
+      "options": [
+        "Squeeze between the car and the bicyclist",
+        "Speed up to pass both at once",
+        "Honk at the bicyclist",
+        "Slow down, let the car pass, then pass the bicyclist with plenty of room"
+      ],
+      "answer": 3,
+      "explain": "Take one danger at a time: let the oncoming vehicle pass, then move left to give the bicyclist at least three feet.",
+      "official": false,
+      "ref": "California Driver's Handbook (DL 600, rev. 6/2025), Section 8, 'Choose Between Hazards'"
+    },
+    {
+      "id": "ca-196",
+      "topic": "sharing",
+      "q": "When a fire engine, ambulance or police vehicle has its siren or flashing lights on, how far behind it must you stay at a minimum?",
+      "options": [
+        "100 feet",
+        "200 feet",
+        "300 feet",
+        "500 feet"
+      ],
+      "answer": 2,
+      "explain": "Do not follow within 300 feet of an emergency vehicle using its siren or flashing lights.",
+      "official": false,
+      "ref": "California Driver's Handbook (DL 600, rev. 6/2025), Section 7, 'Emergency Vehicles'"
+    },
+    {
+      "id": "ca-197",
+      "topic": "sharing",
+      "q": "What can happen if you drive to the scene of a fire or collision just to look?",
+      "options": [
+        "You can be arrested",
+        "Nothing; it is legal",
+        "You must wait for permission",
+        "You receive a warning only"
+      ],
+      "answer": 0,
+      "explain": "Driving to a disaster scene can get in the way of emergency crews and can result in arrest.",
+      "official": false,
+      "ref": "California Driver's Handbook (DL 600, rev. 6/2025), Section 7, 'Emergency Vehicles'"
+    },
+    {
+      "id": "ca-198",
+      "topic": "safety",
+      "q": "For hand-to-hand (push/pull) steering, where should your hands be on the wheel?",
+      "options": [
+        "At 10 and 2 crossing over",
+        "At 9 and 3 o'clock or 8 and 4 o'clock",
+        "At 6 o'clock",
+        "At 12 o'clock with one hand"
+      ],
+      "answer": 1,
+      "explain": "Push/pull steering starts with hands at 9 and 3 or 8 and 4 without crossing over the middle.",
+      "official": false,
+      "ref": "California Driver's Handbook (DL 600, rev. 6/2025), Section 5, 'Controlling the Vehicle'"
+    },
+    {
+      "id": "ca-199",
+      "topic": "safety",
+      "q": "When is hand-over-hand steering recommended?",
+      "options": [
+        "Driving straight on a freeway",
+        "Changing lanes at high speed",
+        "Backing in a straight line",
+        "Turning at low speeds, parking, or recovering from a skid"
+      ],
+      "answer": 3,
+      "explain": "Hand-over-hand steering is for low-speed turns, parking and skid recovery.",
+      "official": false,
+      "ref": "California Driver's Handbook (DL 600, rev. 6/2025), Section 5, 'Controlling the Vehicle'"
+    },
+    {
+      "id": "ca-200",
+      "topic": "safety",
+      "q": "Is it legal to wear a headset or earplugs in both ears while driving?",
+      "options": [
+        "No",
+        "Only for phone calls",
+        "Only on freeways",
+        "Yes"
+      ],
+      "answer": 0,
+      "explain": "Wearing a headset or earplugs in both ears while driving is illegal.",
+      "official": false,
+      "ref": "California Driver's Handbook (DL 600, rev. 6/2025), Section 5, 'An Introduction to Driving'"
+    },
+    {
+      "id": "ca-201",
+      "topic": "safety",
+      "q": "An oncoming vehicle is approaching at night. At what distance does the requirement to switch to low beams begin?",
+      "options": [
+        "200 feet",
+        "300 feet",
+        "500 feet",
+        "1,000 feet"
+      ],
+      "answer": 2,
+      "explain": "Switch to low beams within 500 feet of an oncoming vehicle.",
+      "official": false,
+      "ref": "California Driver's Handbook (DL 600, rev. 6/2025), Section 5, 'Using Your Headlights'"
+    },
+    {
+      "id": "ca-202",
+      "topic": "safety",
+      "q": "You are following another vehicle at night. At what distance behind it does the requirement to use low beams begin?",
+      "options": [
+        "100 feet",
+        "300 feet",
+        "500 feet",
+        "1,000 feet"
+      ],
+      "answer": 1,
+      "explain": "Use low beams within 300 feet of a vehicle you are following.",
+      "official": false,
+      "ref": "California Driver's Handbook (DL 600, rev. 6/2025), Section 5, 'Using Your Headlights'"
+    },
+    {
+      "id": "ca-203",
+      "topic": "safety",
+      "q": "When must your headlights be on?",
+      "options": [
+        "From 30 minutes after sunset until 30 minutes before sunrise",
+        "Only between midnight and 5 a.m.",
+        "Only when it is raining",
+        "From sunset to sunrise only on freeways"
+      ],
+      "answer": 0,
+      "explain": "Headlights are required from 30 minutes after sunset to 30 minutes before sunrise, and in other low-visibility conditions.",
+      "official": false,
+      "ref": "California Driver's Handbook (DL 600, rev. 6/2025), Section 5, 'Using Your Headlights'"
+    },
+    {
+      "id": "ca-204",
+      "topic": "safety",
+      "q": "If you need to use your windshield wipers because of rain, fog or snow, you must also:",
+      "options": [
+        "Turn on your hazard flashers",
+        "Turn on your high beams",
+        "Turn on only your parking lights",
+        "Turn on your low-beam headlights"
+      ],
+      "answer": 3,
+      "explain": "California requires low-beam headlights whenever weather requires the use of windshield wipers.",
+      "official": false,
+      "ref": "California Driver's Handbook (DL 600, rev. 6/2025), Section 5, 'Using Your Headlights'"
+    },
+    {
+      "id": "ca-205",
+      "topic": "safety",
+      "q": "An oncoming driver's headlights are blinding you. You should:",
+      "options": [
+        "Look directly at the headlights",
+        "Look toward the right edge of your lane",
+        "Close one eye",
+        "Turn on your high beams"
+      ],
+      "answer": 1,
+      "explain": "Avoid looking into the lights; watch the right edge of your lane and the vehicle out of the corner of your eye.",
+      "official": false,
+      "ref": "California Driver's Handbook (DL 600, rev. 6/2025), Section 8, 'Darkness'"
+    },
+    {
+      "id": "ca-206",
+      "topic": "safety",
+      "q": "In heavy fog, you should use:",
+      "options": [
+        "High-beam headlights",
+        "Parking lights only",
+        "Fog lights only",
+        "Low-beam headlights"
+      ],
+      "answer": 3,
+      "explain": "High beams reflect off fog; use low beams and never drive with only parking or fog lights.",
+      "official": false,
+      "ref": "California Driver's Handbook (DL 600, rev. 6/2025), Section 8, 'Fog or Heavy Smoke'"
+    },
+    {
+      "id": "ca-207",
+      "topic": "safety",
+      "q": "Your car begins to skid on a slippery road. What should you do first?",
+      "options": [
+        "Brake hard",
+        "Steer opposite the skid",
+        "Ease off the accelerator, don't brake, and steer in the direction of the skid",
+        "Accelerate"
+      ],
+      "answer": 2,
+      "explain": "Slowly remove your foot from the gas, avoid the brakes, and turn the wheel in the direction of the skid.",
+      "official": false,
+      "ref": "California Driver's Handbook (DL 600, rev. 6/2025), Section 8, 'Skids'"
+    },
+    {
+      "id": "ca-208",
+      "topic": "safety",
+      "q": "In a locked-wheel skid in a vehicle with four-wheel antilock brakes (ABS), you should:",
+      "options": [
+        "Apply firm pressure on the brake pedal",
+        "Shift into park",
+        "Pump the brakes rapidly",
+        "Release the brakes entirely"
+      ],
+      "answer": 0,
+      "explain": "With four-wheel ABS, keep firm pressure on the brake pedal.",
+      "official": false,
+      "ref": "California Driver's Handbook (DL 600, rev. 6/2025), Section 8, 'Skids'"
+    },
+    {
+      "id": "ca-209",
+      "topic": "safety",
+      "q": "Your vehicle starts to hydroplane. You should:",
+      "options": [
+        "Turn sharply",
+        "Slow down gradually and avoid using the brakes",
+        "Brake hard",
+        "Speed up to regain traction"
+      ],
+      "answer": 1,
+      "explain": "Sudden braking during hydroplaning may cause loss of control; ease off and slow gradually.",
+      "official": false,
+      "ref": "California Driver's Handbook (DL 600, rev. 6/2025), Section 8, 'Hydroplaning'"
+    },
+    {
+      "id": "ca-210",
+      "topic": "safety",
+      "q": "When is the road often most slippery?",
+      "options": [
+        "After several hours of rain",
+        "Right after the road is swept",
+        "On a sunny afternoon",
+        "When it first starts to rain after a dry period"
+      ],
+      "answer": 3,
+      "explain": "Oil and dust that haven't been washed away make pavement very slippery when rain starts.",
+      "official": false,
+      "ref": "California Driver's Handbook (DL 600, rev. 6/2025), Section 8, 'Slippery Roads'"
+    },
+    {
+      "id": "ca-211",
+      "topic": "safety",
+      "q": "Which part of the road tends to freeze first in cold weather?",
+      "options": [
+        "Roads in direct sunlight",
+        "Tunnels",
+        "Bridges and overpasses",
+        "Freeway on-ramps"
+      ],
+      "answer": 2,
+      "explain": "Bridges and overpasses freeze before the rest of the road; shady areas also freeze first and dry last.",
+      "official": false,
+      "ref": "California Driver's Handbook (DL 600, rev. 6/2025), Section 8, 'Slippery Roads'"
+    },
+    {
+      "id": "ca-212",
+      "topic": "safety",
+      "q": "Who is responsible for a passenger under 16 not wearing a seat belt?",
+      "options": [
+        "The driver can be ticketed",
+        "No one",
+        "Only the passenger's parent if present",
+        "Only the passenger"
+      ],
+      "answer": 0,
+      "explain": "You can get a ticket if a passenger under 16 is not buckled.",
+      "official": false,
+      "ref": "California Driver's Handbook (DL 600, rev. 6/2025), Section 8, 'Seat Belts'"
+    },
+    {
+      "id": "ca-213",
+      "topic": "safety",
+      "q": "A child under 2 years old who weighs under 40 pounds and is under 3 feet 4 inches tall must ride in:",
+      "options": [
+        "A forward-facing booster seat",
+        "A rear-facing child passenger restraint",
+        "The front seat on a lap",
+        "A regular seat belt"
+      ],
+      "answer": 1,
+      "explain": "These young children must ride in a rear-facing child restraint.",
+      "official": false,
+      "ref": "California Driver's Handbook (DL 600, rev. 6/2025), Section 8, 'Child Restraint System and Safety Seats'"
+    },
+    {
+      "id": "ca-214",
+      "topic": "safety",
+      "q": "Children under 8 years old or shorter than 4 feet 9 inches must generally be secured in:",
+      "options": [
+        "A rear seat with no restraint",
+        "Any seat with a lap belt only",
+        "A child passenger restraint system in a rear seat",
+        "The front seat with a seat belt"
+      ],
+      "answer": 2,
+      "explain": "Children under 8 or under 4'9\" ride in a child restraint in the back seat, with limited exceptions.",
+      "official": false,
+      "ref": "California Driver's Handbook (DL 600, rev. 6/2025), Section 8, 'Child Restraint System and Safety Seats'"
+    },
+    {
+      "id": "ca-215",
+      "topic": "safety",
+      "q": "Where may a rear-facing child seat NOT be placed?",
+      "options": [
+        "In the rear seat",
+        "In the middle of the rear seat",
+        "Behind the driver",
+        "In the front seat of a vehicle with an active passenger airbag"
+      ],
+      "answer": 3,
+      "explain": "A rear-facing child restraint may not ride in front of an airbag.",
+      "official": false,
+      "ref": "California Driver's Handbook (DL 600, rev. 6/2025), Section 8, 'Child Restraint System and Safety Seats'"
+    },
+    {
+      "id": "ca-216",
+      "topic": "safety",
+      "q": "How far should you sit from the steering-wheel airbag cover?",
+      "options": [
+        "At least 10 inches, measured from the wheel's center to your breastbone",
+        "At least 3 inches",
+        "At least 24 inches",
+        "As close as possible"
+      ],
+      "answer": 0,
+      "explain": "Sit at least 10 inches from the airbag cover if you can still control the vehicle.",
+      "official": false,
+      "ref": "California Driver's Handbook (DL 600, rev. 6/2025), Section 8, 'Air Bags' / 'Unattended Children and Pets'"
+    },
+    {
+      "id": "ca-217",
+      "topic": "safety",
+      "q": "Under California law, a child may not be left unattended in a vehicle up to and including what age?",
+      "options": [
+        "2 years old or younger",
+        "6 years old or younger",
+        "10 years old or younger",
+        "12 years old or younger"
+      ],
+      "answer": 1,
+      "explain": "A child 6 or younger may not be left alone in a vehicle; supervision by someone at least 12 is allowed.",
+      "official": false,
+      "ref": "California Driver's Handbook (DL 600, rev. 6/2025), Section 8, 'Air Bags' / 'Unattended Children and Pets'"
+    },
+    {
+      "id": "ca-218",
+      "topic": "safety",
+      "q": "Under California law, how may an adult driver use a cell phone while driving?",
+      "options": [
+        "Only in hands-free mode, with a mounted phone and single swipe or tap",
+        "Any way, if using a headset in both ears",
+        "Holding it to talk if driving slowly",
+        "Texting only at red lights"
+      ],
+      "answer": 0,
+      "explain": "Adults may use a phone only hands-free; a mounted phone may be operated with a single swipe or touch.",
+      "official": false,
+      "ref": "California Driver's Handbook (DL 600, rev. 6/2025), Section 8, 'Cell Phones and Texting' / 'Minors and Cell Phones'"
+    },
+    {
+      "id": "ca-219",
+      "topic": "safety",
+      "q": "Can a driver under 18 use a hands-free cell phone while driving?",
+      "options": [
+        "Yes, if it is hands-free",
+        "Yes, for texting only",
+        "No, except to call for emergency help",
+        "Yes, with a parent's permission"
+      ],
+      "answer": 2,
+      "explain": "Minors may not use a phone or wireless device while driving, even hands-free, except for emergency calls.",
+      "official": false,
+      "ref": "California Driver's Handbook (DL 600, rev. 6/2025), Section 8, 'Cell Phones and Texting' / 'Minors and Cell Phones'"
+    },
+    {
+      "id": "ca-220",
+      "topic": "safety",
+      "q": "Your phone rings while you are driving. The best action is to:",
+      "options": [
+        "Answer quickly and keep it short",
+        "Text that you are driving",
+        "Hold it on speaker in your hand",
+        "Let it go to voicemail and pull off the road safely if you must call back"
+      ],
+      "answer": 3,
+      "explain": "Do not answer while driving; pull over safely if you need to return the call.",
+      "official": false,
+      "ref": "California Driver's Handbook (DL 600, rev. 6/2025), Section 8, 'Cell Phones and Texting' / 'Minors and Cell Phones'"
+    },
+    {
+      "id": "ca-221",
+      "topic": "safety",
+      "q": "Which is a common symptom of carbon monoxide poisoning?",
+      "options": [
+        "Itchy skin",
+        "Sneezing",
+        "Improved alertness",
+        "Drowsiness, dizziness, headache or nausea"
+      ],
+      "answer": 3,
+      "explain": "Carbon monoxide symptoms include tiredness, yawning, dizziness, nausea, headache and ringing in the ears.",
+      "official": false,
+      "ref": "California Driver's Handbook (DL 600, rev. 6/2025), Section 8, 'Be Aware of Carbon Monoxide'"
+    },
+    {
+      "id": "ca-222",
+      "topic": "safety",
+      "q": "How do you check your blind spots?",
+      "options": [
+        "Adjust your rearview mirror",
+        "Rely on side mirrors only",
+        "Turn your head and look over your shoulder",
+        "Turn the steering wheel"
+      ],
+      "answer": 2,
+      "explain": "Look over your shoulder through the side windows; turn only your head, not your body or the wheel.",
+      "official": false,
+      "ref": "California Driver's Handbook (DL 600, rev. 6/2025), Section 8, 'Blind Spots'"
+    },
+    {
+      "id": "ca-223",
+      "topic": "safety",
+      "q": "Cargo extends more than 4 feet past your rear bumper. During the day it must display:",
+      "options": [
+        "A 12-inch red or fluorescent orange square flag",
+        "A white rag",
+        "A yellow light",
+        "Nothing"
+      ],
+      "answer": 0,
+      "explain": "Loads extending over 4 feet behind the bumper need a 12-inch red or fluorescent orange flag (two red lights at night).",
+      "official": false,
+      "ref": "California Driver's Handbook (DL 600, rev. 6/2025), Section 7, 'Other Important Roadway Information'"
+    },
+    {
+      "id": "ca-224",
+      "topic": "safety",
+      "q": "May a person ride in the back of a pickup truck?",
+      "options": [
+        "Yes, at speeds under 25 mph",
+        "Only if the truck bed has secured seats and seat belts",
+        "Yes, on private roads only",
+        "Yes, if they are over 18"
+      ],
+      "answer": 1,
+      "explain": "No one may ride in the back of a pickup unless the vehicle has secure seats and seat belts there.",
+      "official": false,
+      "ref": "California Driver's Handbook (DL 600, rev. 6/2025), Section 7, 'Other Important Roadway Information'"
+    },
+    {
+      "id": "ca-225",
+      "topic": "safety",
+      "q": "On a narrow mountain road where you cannot see at least 200 feet ahead, you should:",
+      "options": [
+        "Turn off your headlights",
+        "Drive in the center of the road",
+        "Use your horn to alert oncoming traffic",
+        "Flash your high beams"
+      ],
+      "answer": 2,
+      "explain": "Sound your horn on narrow mountain roads when you can't see 200 feet ahead.",
+      "official": false,
+      "ref": "California Driver's Handbook (DL 600, rev. 6/2025), Section 5, 'Using Your Horn'"
+    },
+    {
+      "id": "ca-226",
+      "topic": "safety",
+      "q": "Being pulled over by law enforcement, you should first:",
+      "options": [
+        "Drive to the next exit before signaling",
+        "Get out and walk to the officer",
+        "Stop immediately in your lane",
+        "Turn on your right signal and move completely onto the right shoulder"
+      ],
+      "answer": 3,
+      "explain": "Signal right to acknowledge the officer and pull fully onto the right shoulder, even from the HOV lane.",
+      "official": false,
+      "ref": "California Driver's Handbook (DL 600, rev. 6/2025), Section 6, 'Law Enforcement Stops'"
+    },
+    {
+      "id": "ca-227",
+      "topic": "safety",
+      "q": "When drivers are in fog or heavy smoke, which statement is true?",
+      "options": [
+        "Use high beams to see farther",
+        "Increase following distance and be able to stop within the distance you can see",
+        "Pass slower vehicles to get out of the fog",
+        "Turn on only fog lights"
+      ],
+      "answer": 1,
+      "explain": "Drive slowly, use low beams, increase following distance and avoid passing.",
+      "official": false,
+      "ref": "California Driver's Handbook (DL 600, rev. 6/2025), Section 8, 'Fog or Heavy Smoke'"
+    },
+    {
+      "id": "ca-228",
+      "topic": "safety",
+      "q": "Prescription and over-the-counter medicines:",
+      "options": [
+        "Can impair your driving; you are responsible for knowing their effects",
+        "Never affect driving",
+        "Only matter for commercial drivers",
+        "Are always safe if a doctor prescribed them"
+      ],
+      "answer": 0,
+      "explain": "Many medicines cause drowsiness; drivers must know the effects of what they take.",
+      "official": false,
+      "ref": "California Driver's Handbook (DL 600, rev. 6/2025), Section 5, 'An Introduction to Driving'"
+    },
+    {
+      "id": "ca-229",
+      "topic": "alcohol",
+      "q": "It is illegal for a driver 21 or older to drive with a blood alcohol concentration (BAC) of:",
+      "options": [
+        "0.05% or higher",
+        "0.08% or higher",
+        "0.10% or higher",
+        "0.12% or higher"
+      ],
+      "answer": 1,
+      "explain": "Drivers 21 and over may not drive with a BAC of 0.08% or more.",
+      "official": false,
+      "ref": "California Driver's Handbook (DL 600, rev. 6/2025), Section 9, 'Blood Alcohol Concentration (BAC) Limits'"
+    },
+    {
+      "id": "ca-230",
+      "topic": "alcohol",
+      "q": "It is illegal for a driver under 21 to drive with a BAC of:",
+      "options": [
+        "0.01% or higher",
+        "0.02% or higher",
+        "0.05% or higher",
+        "0.08% or higher"
+      ],
+      "answer": 0,
+      "explain": "California has a 0.01% limit for drivers under 21.",
+      "official": false,
+      "ref": "California Driver's Handbook (DL 600, rev. 6/2025), Section 9, 'Blood Alcohol Concentration (BAC) Limits'"
+    },
+    {
+      "id": "ca-231",
+      "topic": "alcohol",
+      "q": "What is the BAC limit when driving a vehicle that requires a commercial driver's license?",
+      "options": [
+        "0.01%",
+        "0.04%",
+        "0.06%",
+        "0.08%"
+      ],
+      "answer": 1,
+      "explain": "Commercial drivers are prohibited from driving with a BAC of 0.04% or higher.",
+      "official": false,
+      "ref": "California Driver's Handbook (DL 600, rev. 6/2025), Section 9, 'Blood Alcohol Concentration (BAC) Limits'"
+    },
+    {
+      "id": "ca-232",
+      "topic": "alcohol",
+      "q": "What is the BAC limit for a driver transporting passengers for hire?",
+      "options": [
+        "0.02%",
+        "0.04%",
+        "0.08%",
+        "0.10%"
+      ],
+      "answer": 1,
+      "explain": "Driving a passenger for hire with a BAC of 0.04% or more is illegal.",
+      "official": false,
+      "ref": "California Driver's Handbook (DL 600, rev. 6/2025), Section 9, 'Blood Alcohol Concentration (BAC) Limits'"
+    },
+    {
+      "id": "ca-233",
+      "topic": "alcohol",
+      "q": "A driver of any age who is on DUI probation may not drive with a BAC of:",
+      "options": [
+        "0.01% or higher",
+        "0.04% or higher",
+        "0.05% or higher",
+        "0.08% or higher"
+      ],
+      "answer": 0,
+      "explain": "Drivers on DUI probation are subject to a 0.01% limit at any age.",
+      "official": false,
+      "ref": "California Driver's Handbook (DL 600, rev. 6/2025), Section 9, 'Blood Alcohol Concentration (BAC) Limits'"
+    },
+    {
+      "id": "ca-234",
+      "topic": "alcohol",
+      "q": "By driving in California, you have agreed to:",
+      "options": [
+        "Let police search your phone",
+        "Take a drug test every year",
+        "Surrender your license on request",
+        "Take a breath, blood or urine test if suspected of DUI"
+      ],
+      "answer": 3,
+      "explain": "Under implied consent, drivers consent to chemical testing if lawfully suspected of DUI.",
+      "official": false,
+      "ref": "California Driver's Handbook (DL 600, rev. 6/2025), Section 9, 'DUI Arrests'"
+    },
+    {
+      "id": "ca-235",
+      "topic": "alcohol",
+      "q": "If you refuse to take a required chemical test, the DMV will:",
+      "options": [
+        "Suspend your license for 30 days",
+        "Do nothing without a conviction",
+        "Suspend or revoke your driving privilege for 1 year",
+        "Give a warning"
+      ],
+      "answer": 2,
+      "explain": "Refusing a chemical test results in a one-year suspension or revocation.",
+      "official": false,
+      "ref": "California Driver's Handbook (DL 600, rev. 6/2025), Section 9, 'Alcohol and Drugs'"
+    },
+    {
+      "id": "ca-236",
+      "topic": "alcohol",
+      "q": "When arrested for DUI, an officer may take your license and give you a temporary license valid for:",
+      "options": [
+        "7 days",
+        "10 days",
+        "30 days",
+        "90 days"
+      ],
+      "answer": 2,
+      "explain": "Under Administrative Per Se, the officer may issue a 30-day temporary license.",
+      "official": false,
+      "ref": "California Driver's Handbook (DL 600, rev. 6/2025), Section 9, 'DUI Arrests'"
+    },
+    {
+      "id": "ca-237",
+      "topic": "alcohol",
+      "q": "After a DUI arrest, you may request a DMV administrative hearing within:",
+      "options": [
+        "6 months",
+        "10 days of the arrest",
+        "24 hours",
+        "30 days"
+      ],
+      "answer": 1,
+      "explain": "You have 10 days from the arrest date to request a DMV hearing.",
+      "official": false,
+      "ref": "California Driver's Handbook (DL 600, rev. 6/2025), Section 9, 'DUI Arrests'"
+    },
+    {
+      "id": "ca-238",
+      "topic": "alcohol",
+      "q": "If convicted of DUI, the DMV will suspend or revoke your driving privilege and you must:",
+      "options": [
+        "Retake only the vision test",
+        "Pay a $50 fee only",
+        "Attend traffic violator school",
+        "Complete a DUI program and file proof of insurance (SR 22/SR 1P)"
+      ],
+      "answer": 3,
+      "explain": "A DUI conviction requires a DUI program, SR 22/SR 1P, reissue fees and possibly an ignition interlock device.",
+      "official": false,
+      "ref": "California Driver's Handbook (DL 600, rev. 6/2025), Section 9, 'DUI Convictions'"
+    },
+    {
+      "id": "ca-239",
+      "topic": "alcohol",
+      "q": "How long does a DUI conviction remain on your driver record?",
+      "options": [
+        "5 years",
+        "Permanently erased after 1 year",
+        "10 years",
+        "3 years"
+      ],
+      "answer": 2,
+      "explain": "DUI convictions stay on your record for 10 years.",
+      "official": false,
+      "ref": "California Driver's Handbook (DL 600, rev. 6/2025), Section 9, 'DUI Convictions'"
+    },
+    {
+      "id": "ca-240",
+      "topic": "alcohol",
+      "q": "A DUI conviction can lead to which of the following?",
+      "options": [
+        "Only a warning letter",
+        "Only extra insurance paperwork",
+        "A free defensive driving class",
+        "Jail time, fines and impoundment of your vehicle"
+      ],
+      "answer": 3,
+      "explain": "Penalties can include up to six months in jail, fines and vehicle impoundment, plus civil lawsuits if someone is hurt.",
+      "official": false,
+      "ref": "California Driver's Handbook (DL 600, rev. 6/2025), Section 9, 'DUI Convictions'"
+    },
+    {
+      "id": "ca-241",
+      "topic": "alcohol",
+      "q": "If you carry an opened container of alcohol in your car, where must it be kept?",
+      "options": [
+        "In the trunk or an area where passengers do not sit",
+        "Under the driver's seat",
+        "In the center console",
+        "In the glove box"
+      ],
+      "answer": 0,
+      "explain": "Open containers must be kept in the trunk or a non-passenger area; the glove box is not allowed.",
+      "official": false,
+      "ref": "California Driver's Handbook (DL 600, rev. 6/2025), Section 9, 'Use or Possession of Alcohol or Cannabis Products in a Vehicle'"
+    },
+    {
+      "id": "ca-242",
+      "topic": "alcohol",
+      "q": "Can a passenger legally smoke or eat cannabis in a moving private car?",
+      "options": [
+        "Yes, if it is medical cannabis",
+        "Yes, with the windows open",
+        "Yes, if the driver does not use it",
+        "No"
+      ],
+      "answer": 3,
+      "explain": "No one may drink alcohol or smoke or eat cannabis while driving or riding as a passenger.",
+      "official": false,
+      "ref": "California Driver's Handbook (DL 600, rev. 6/2025), Section 9, 'Use or Possession of Alcohol or Cannabis Products in a Vehicle'"
+    },
+    {
+      "id": "ca-243",
+      "topic": "alcohol",
+      "q": "A driver under 21 may carry alcohol in a vehicle only if:",
+      "options": [
+        "A person 21 or older is present and the container is full, sealed and unopened",
+        "Their parents gave permission",
+        "It is in the glove box",
+        "It is beer or wine only"
+      ],
+      "answer": 0,
+      "explain": "Under 21s may not carry alcohol unless accompanied by someone 21+ with a full, sealed container (with a narrow work exception).",
+      "official": false,
+      "ref": "California Driver's Handbook (DL 600, rev. 6/2025), Section 9, 'Drivers Under 21'"
+    },
+    {
+      "id": "ca-244",
+      "topic": "alcohol",
+      "q": "A driver under 21 is caught with alcohol in the vehicle. The vehicle can be impounded for up to:",
+      "options": [
+        "6 months",
+        "7 days",
+        "24 hours",
+        "30 days"
+      ],
+      "answer": 3,
+      "explain": "Law enforcement can impound the vehicle for up to 30 days, and the court may suspend the license for one year.",
+      "official": false,
+      "ref": "California Driver's Handbook (DL 600, rev. 6/2025), Section 9, 'Drivers Under 21'"
+    },
+    {
+      "id": "ca-245",
+      "topic": "alcohol",
+      "q": "A driver under 21 takes a preliminary alcohol screening (PAS) test that shows a BAC of 0.05% or higher. What may happen?",
+      "options": [
+        "Only a parking ticket",
+        "The driver is warned and released automatically",
+        "The officer may require a breath or blood test and the driver may be arrested for DUI",
+        "Nothing, because the limit is 0.08%"
+      ],
+      "answer": 2,
+      "explain": "A PAS of 0.05% or more may lead to a required breath or blood test and possible DUI arrest.",
+      "official": false,
+      "ref": "California Driver's Handbook (DL 600, rev. 6/2025), Section 9, 'Drivers Under 21'"
+    },
+    {
+      "id": "ca-246",
+      "topic": "alcohol",
+      "q": "Is it illegal to drive under the influence of a legally prescribed medication?",
+      "options": [
+        "Only for commercial drivers",
+        "No, prescriptions are always legal to drive on",
+        "Yes, if it impairs your ability to drive safely",
+        "Only if you have no prescription label"
+      ],
+      "answer": 2,
+      "explain": "The law does not distinguish between illegal drugs and medications when they impair driving.",
+      "official": false,
+      "ref": "California Driver's Handbook (DL 600, rev. 6/2025), Section 9, 'Alcohol and Drugs'"
+    },
+    {
+      "id": "ca-247",
+      "topic": "alcohol",
+      "q": "Can you be convicted of DUI with a BAC below the legal limit?",
+      "options": [
+        "Only if you are under 18",
+        "Yes, if you are impaired",
+        "No, never",
+        "Only if you crash"
+      ],
+      "answer": 1,
+      "explain": "Depending on impairment, you may be arrested and convicted even without a BAC measurement or below the limit.",
+      "official": false,
+      "ref": "California Driver's Handbook (DL 600, rev. 6/2025), Section 9, 'Blood Alcohol Concentration (BAC) Limits'"
+    },
+    {
+      "id": "ca-248",
+      "topic": "alcohol",
+      "q": "Which of these equals one standard drink in the handbook's BAC table?",
+      "options": [
+        "3 ounces of 80-proof liquor",
+        "10 ounces of 12% wine",
+        "12 ounces of 5% beer",
+        "24 ounces of 5% beer"
+      ],
+      "answer": 2,
+      "explain": "One drink is 12 oz of 5% beer, 5 oz of 12% wine, or 1.5 oz of 80-proof liquor.",
+      "official": false,
+      "ref": "California Driver's Handbook (DL 600, rev. 6/2025), Section 9, 'Blood Alcohol Concentration (BAC) Limits'"
+    },
+    {
+      "id": "ca-249",
+      "topic": "alcohol",
+      "q": "A person aged 13 to 20 is convicted of riding a bicycle under the influence. What can happen to their driving privilege?",
+      "options": [
+        "It can be suspended or delayed for 1 year",
+        "A permanent ban",
+        "A 30-day delay only",
+        "Nothing; bicycles are not vehicles"
+      ],
+      "answer": 0,
+      "explain": "Bicycle DUI at ages 13–20 can lead to a one-year suspension or delay once eligible to drive.",
+      "official": false,
+      "ref": "California Driver's Handbook (DL 600, rev. 6/2025), Section 9, 'Alcohol and Drugs'"
+    },
+    {
+      "id": "ca-250",
+      "topic": "alcohol",
+      "q": "A person aged 15 to 20 is convicted of using alcohol or a controlled substance. The court will order the DMV to:",
+      "options": [
+        "Require a vision test",
+        "Suspend their driving privilege for 1 year or delay eligibility",
+        "Reduce their insurance",
+        "Issue a warning only"
+      ],
+      "answer": 1,
+      "explain": "The court orders a one-year suspension or a delay in license eligibility.",
+      "official": false,
+      "ref": "California Driver's Handbook (DL 600, rev. 6/2025), Section 7, 'Maintaining Your Minor's (Provisional) Driver's License'"
+    },
+    {
+      "id": "ca-251",
+      "topic": "alcohol",
+      "q": "Using a vehicle to flee from law enforcement is a misdemeanor punishable by:",
+      "options": [
+        "Up to 1 year in county jail",
+        "A small fine only",
+        "Community service only",
+        "A warning"
+      ],
+      "answer": 0,
+      "explain": "Evading law enforcement is punishable by up to one year in county jail; more if someone is injured or killed.",
+      "official": false,
+      "ref": "California Driver's Handbook (DL 600, rev. 6/2025), Section 7, 'Evading Law Enforcement'"
+    },
+    {
+      "id": "ca-252",
+      "topic": "alcohol",
+      "q": "The DMV will revoke your driving privilege if you are convicted of:",
+      "options": [
+        "A single parking ticket",
+        "One speeding ticket",
+        "Failing to renew registration on time",
+        "Hit-and-run or reckless driving that causes injury"
+      ],
+      "answer": 3,
+      "explain": "Hit-and-run and reckless driving causing injury result in revocation.",
+      "official": false,
+      "ref": "California Driver's Handbook (DL 600, rev. 6/2025), Section 7, 'Traffic Violator School' / 'Suspension or Revocation'"
+    },
+    {
+      "id": "ca-253",
+      "topic": "emergencies",
+      "q": "You are involved in a collision. What must you do first?",
+      "options": [
+        "Drive home and call your insurer",
+        "Stop only if there is major damage",
+        "Leave if it was not your fault",
+        "Stop; leaving the scene is a hit-and-run"
+      ],
+      "answer": 3,
+      "explain": "You must stop at a collision; failing to do so is a hit-and-run with severe penalties.",
+      "official": false,
+      "ref": "California Driver's Handbook (DL 600, rev. 6/2025), Section 10, 'What to Do if You Are in a Collision'"
+    },
+    {
+      "id": "ca-254",
+      "topic": "emergencies",
+      "q": "You must report a collision to the DMV (form SR 1) within 10 days if:",
+      "options": [
+        "Property damage is over $5,000, and in no other case",
+        "Property damage is over $1,000 or anyone is injured or killed",
+        "Police were called to the scene",
+        "You were the driver at fault"
+      ],
+      "answer": 1,
+      "explain": "An SR 1 is required within 10 days for over $1,000 damage or any injury or death.",
+      "official": false,
+      "ref": "California Driver's Handbook (DL 600, rev. 6/2025), Section 10, 'Reporting a Collision'"
+    },
+    {
+      "id": "ca-255",
+      "topic": "emergencies",
+      "q": "Which statement about the SR 1 collision report is true?",
+      "options": [
+        "Only the at-fault driver files it",
+        "It is not needed on private property",
+        "Each driver must file it, even if not at fault and even on private property",
+        "Police file it for you"
+      ],
+      "answer": 2,
+      "explain": "Every driver involved must file; law enforcement will not make the DMV report for you.",
+      "official": false,
+      "ref": "California Driver's Handbook (DL 600, rev. 6/2025), Section 10, 'Reporting a Collision'"
+    },
+    {
+      "id": "ca-256",
+      "topic": "emergencies",
+      "q": "If anyone is injured or killed in a collision, you must report it to law enforcement within:",
+      "options": [
+        "1 hour",
+        "5 days",
+        "10 days",
+        "24 hours"
+      ],
+      "answer": 3,
+      "explain": "Injury or fatal collisions must be reported to law enforcement within 24 hours.",
+      "official": false,
+      "ref": "California Driver's Handbook (DL 600, rev. 6/2025), Section 10, 'What to Do if You Are in a Collision'"
+    },
+    {
+      "id": "ca-257",
+      "topic": "emergencies",
+      "q": "You hit a parked car and cannot find the owner. What must you do?",
+      "options": [
+        "Leave a secure note with your name, phone number and address, and report it to law enforcement",
+        "Leave without a note if the damage is minor",
+        "Report it only to your insurer",
+        "Wait until the owner returns, however long it takes"
+      ],
+      "answer": 0,
+      "explain": "Attach a note with your contact information and report the collision to law enforcement.",
+      "official": false,
+      "ref": "California Driver's Handbook (DL 600, rev. 6/2025), Section 10, 'What to Do if You Are in a Collision'"
+    },
+    {
+      "id": "ca-258",
+      "topic": "emergencies",
+      "q": "California's minimum liability insurance must cover at least how much for injury or death of one person?",
+      "options": [
+        "$15,000",
+        "$25,000",
+        "$30,000",
+        "$50,000"
+      ],
+      "answer": 2,
+      "explain": "Minimum coverage is $30,000 for one person, $60,000 for more than one, and $15,000 for property damage.",
+      "official": false,
+      "ref": "California Driver's Handbook (DL 600, rev. 6/2025), Section 10, 'Insurance Requirements' / 'Driving Without Insurance'"
+    },
+    {
+      "id": "ca-259",
+      "topic": "emergencies",
+      "q": "California's minimum liability insurance for property damage is:",
+      "options": [
+        "$5,000",
+        "$10,000",
+        "$15,000",
+        "$30,000"
+      ],
+      "answer": 2,
+      "explain": "Coverage must include at least $15,000 for property damage.",
+      "official": false,
+      "ref": "California Driver's Handbook (DL 600, rev. 6/2025), Section 10, 'Insurance Requirements' / 'Driving Without Insurance'"
+    },
+    {
+      "id": "ca-260",
+      "topic": "emergencies",
+      "q": "Minimum liability coverage for injury or death of more than one person is:",
+      "options": [
+        "$30,000",
+        "$50,000",
+        "$60,000",
+        "$100,000"
+      ],
+      "answer": 2,
+      "explain": "The minimum is $60,000 for injury or death to more than one person.",
+      "official": false,
+      "ref": "California Driver's Handbook (DL 600, rev. 6/2025), Section 10, 'Insurance Requirements' / 'Driving Without Insurance'"
+    },
+    {
+      "id": "ca-261",
+      "topic": "emergencies",
+      "q": "If you are in a collision without proper insurance, your license can be suspended for up to:",
+      "options": [
+        "1 year, only if you were at fault",
+        "4 years, no matter who was at fault",
+        "6 months",
+        "30 days"
+      ],
+      "answer": 1,
+      "explain": "Driving uninsured and being in a collision can bring up to a four-year suspension regardless of fault.",
+      "official": false,
+      "ref": "California Driver's Handbook (DL 600, rev. 6/2025), Section 10, 'Insurance Requirements' / 'Driving Without Insurance'"
+    },
+    {
+      "id": "ca-262",
+      "topic": "emergencies",
+      "q": "You have a tire blowout. What should you do?",
+      "options": [
+        "Hold the wheel firmly, gradually release the accelerator, and slow down before pulling off",
+        "Turn off the engine",
+        "Swerve onto the shoulder at once",
+        "Brake hard immediately"
+      ],
+      "answer": 0,
+      "explain": "Avoid sudden braking; keep a firm grip, ease off the gas and steer to stabilize, then pull off when safe.",
+      "official": false,
+      "ref": "California Driver's Handbook (DL 600, rev. 6/2025), Section 8, 'Tire Blowouts' / 'Driving Off the Pavement'"
+    },
+    {
+      "id": "ca-263",
+      "topic": "emergencies",
+      "q": "Your right wheels drift off the pavement onto the shoulder. You should:",
+      "options": [
+        "Jerk the wheel back immediately",
+        "Grip the wheel, ease off the gas, brake gently, then steer back carefully",
+        "Brake hard",
+        "Speed up"
+      ],
+      "answer": 1,
+      "explain": "Remove your foot from the accelerator, brake gently, check traffic, then carefully steer back on.",
+      "official": false,
+      "ref": "California Driver's Handbook (DL 600, rev. 6/2025), Section 8, 'Tire Blowouts' / 'Driving Off the Pavement'"
+    },
+    {
+      "id": "ca-264",
+      "topic": "emergencies",
+      "q": "Your car breaks down on the freeway. After pulling onto the right shoulder, you should generally:",
+      "options": [
+        "Walk along the freeway to find help",
+        "Leave the car in the traffic lane",
+        "Stand behind the car to wave down help",
+        "Stay in the vehicle with your seat belt on until help arrives"
+      ],
+      "answer": 3,
+      "explain": "Exit and re-enter on the side away from traffic, and stay inside with your belt on unless it is safer to get out and away.",
+      "official": false,
+      "ref": "California Driver's Handbook (DL 600, rev. 6/2025), Section 8, 'If Your Vehicle Becomes Disabled on the Freeway'"
+    },
+    {
+      "id": "ca-265",
+      "topic": "emergencies",
+      "q": "Your car stalls on railroad tracks and a train is coming. What should you do?",
+      "options": [
+        "Get out immediately and run away from the tracks diagonally toward the direction the train is coming from",
+        "Stay in the car and call 911",
+        "Run away in the same direction the train is traveling",
+        "Try to restart the engine"
+      ],
+      "answer": 0,
+      "explain": "Leave the vehicle at once and move diagonally toward the oncoming train so you avoid flying debris, then call 911.",
+      "official": false,
+      "ref": "California Driver's Handbook (DL 600, rev. 6/2025), Section 8, 'Disabled Vehicles on Railroad Tracks'"
+    },
+    {
+      "id": "ca-266",
+      "topic": "emergencies",
+      "q": "Your car stalls on railroad tracks and no train is coming. You should:",
+      "options": [
+        "Push the car to the next town",
+        "Get out and call the number posted at the crossing, then call 911",
+        "Wait in the car for the next train to pass",
+        "Leave and do nothing"
+      ],
+      "answer": 1,
+      "explain": "Exit and call the railroad emergency number on the crossing post or control box, giving the crossing number, then 911.",
+      "official": false,
+      "ref": "California Driver's Handbook (DL 600, rev. 6/2025), Section 8, 'Disabled Vehicles on Railroad Tracks'"
+    },
+    {
+      "id": "ca-267",
+      "topic": "emergencies",
+      "q": "When a train is approaching a crossing, you must stop at least how far from the nearest track?",
+      "options": [
+        "5 feet",
+        "10 feet",
+        "15 feet",
+        "50 feet"
+      ],
+      "answer": 2,
+      "explain": "Stop at least 15 feet from the nearest rail when warned of a train.",
+      "official": false,
+      "ref": "California Driver's Handbook (DL 600, rev. 6/2025), Section 7, 'Near Railroad or Light Rail Tracks'"
+    },
+    {
+      "id": "ca-268",
+      "topic": "emergencies",
+      "q": "Red lights are flashing at a railroad crossing and the gate rises. You should:",
+      "options": [
+        "Cross as soon as the gate rises",
+        "Honk and cross",
+        "Drive around the other gate",
+        "Wait until the red lights stop flashing before crossing"
+      ],
+      "answer": 3,
+      "explain": "Do not cross until the lights stop flashing, even if the gate goes up.",
+      "official": false,
+      "ref": "California Driver's Handbook (DL 600, rev. 6/2025), Section 7, 'Near Railroad or Light Rail Tracks'"
+    },
+    {
+      "id": "ca-269",
+      "topic": "emergencies",
+      "q": "The crossing gates are down but you see no train. You should:",
+      "options": [
+        "Stay behind the gates and call the posted railroad number or 911",
+        "Back up and take the tracks at speed",
+        "Drive around the gates carefully",
+        "Go under the gate"
+      ],
+      "answer": 0,
+      "explain": "Never go around or under lowered gates; call the posted number or 911 if no train comes.",
+      "official": false,
+      "ref": "California Driver's Handbook (DL 600, rev. 6/2025), Section 7, 'Near Railroad or Light Rail Tracks'"
+    },
+    {
+      "id": "ca-270",
+      "topic": "emergencies",
+      "q": "You see a collision ahead. How can you warn drivers behind you?",
+      "options": [
+        "Turn on emergency flashers or tap your brakes three or four times",
+        "Turn on high beams",
+        "Stop suddenly in your lane",
+        "Honk continuously"
+      ],
+      "answer": 0,
+      "explain": "Use flashers, lightly tap the brakes several times, or use a hand signal when slowing.",
+      "official": false,
+      "ref": "California Driver's Handbook (DL 600, rev. 6/2025), Section 5, 'Using Your Emergency Flashers'"
+    },
+    {
+      "id": "ca-271",
+      "topic": "emergencies",
+      "q": "If your car has trouble and you must stop, where should you avoid stopping?",
+      "options": [
+        "Well off the road on a straight section",
+        "In a visible spot on the shoulder",
+        "In a parking lot",
+        "Just over a hill or just around a curve"
+      ],
+      "answer": 3,
+      "explain": "Other drivers may not see you in time if you stop just over a hill or around a curve.",
+      "official": false,
+      "ref": "California Driver's Handbook (DL 600, rev. 6/2025), Section 5, 'Using Your Emergency Flashers'"
+    },
+    {
+      "id": "ca-272",
+      "topic": "emergencies",
+      "q": "An officer is conducting a traffic break, weaving across lanes with lights on. You should:",
+      "options": [
+        "Stop immediately in your lane",
+        "Turn on your flashers, slow gradually to the officer's speed, and not pass the patrol car",
+        "Pass the patrol car quickly",
+        "Exit the freeway on the shoulder"
+      ],
+      "answer": 1,
+      "explain": "Slow down gradually, keep a safe distance and do not pass until the officer turns off the lights.",
+      "official": false,
+      "ref": "California Driver's Handbook (DL 600, rev. 6/2025), Section 8, 'Law Enforcement Traffic Breaks'"
+    },
+    {
+      "id": "ca-273",
+      "topic": "emergencies",
+      "q": "Your brake pedal suddenly sinks to the floor. First you should:",
+      "options": [
+        "Pump the brake pedal quickly",
+        "Open the door",
+        "Turn off the engine",
+        "Shift into reverse"
+      ],
+      "answer": 0,
+      "explain": "Quickly pump the brakes; if needed, downshift and use the parking/emergency brake.",
+      "official": false,
+      "ref": "California Driver's Handbook (DL 600, rev. 6/2025), Section 8, 'Skids'"
+    },
+    {
+      "id": "ca-274",
+      "topic": "emergencies",
+      "q": "What should you do if anyone is hurt in a collision?",
+      "options": [
+        "Drive the injured person to a hospital yourself",
+        "Call 911 right away",
+        "Move the injured person immediately",
+        "Wait for someone else to call"
+      ],
+      "answer": 1,
+      "explain": "Call 911 immediately if anyone is injured.",
+      "official": false,
+      "ref": "California Driver's Handbook (DL 600, rev. 6/2025), Section 10, 'What to Do if You Are in a Collision'"
+    }
+  ],
+  "version": 1
+}

@@ -1,0 +1,4317 @@
+{
+  "code": "tx",
+  "test": "Texas DPS Class C Knowledge Exam (learner license / first driver license)",
+  "edition": "Based on the Texas Driver Handbook (DL-7), Texas Department of Public Safety, Driver License Division, revised January 2026 (current edition as of October 2026)",
+  "language": "en",
+  "exam": {
+    "questions": 30,
+    "passMark": 21,
+    "minutes": null,
+    "rules": "Every first-time (original) Texas applicant must pass the Class C knowledge exam; you need 70 percent or better (21 of 30). Teens 15–17 usually take it as part of the classroom phase of a driver education course—many TDLR-approved online, school, and parent-taught providers give the test inside the course—and otherwise take it at a DPS driver license office when applying for the learner license. Applicants under 25 must complete driver education (18–24: a 6-hour adult course, which may also include the knowledge test). There is no separately scored road-sign section: signs, signals, and rules are mixed in one test. Adults 18 and older who surrender a valid out-of-state license do not take the knowledge or driving exams. If you fail, your application stays open for 90 days; after 90 days or three failed exams you must re-apply and pay the fee again. All in-person DPS services are by appointment. The Impact Texas Drivers (ITD) video course is required before the driving test (certificate dated within 90 days), not before the knowledge exam. DPS states the 70% pass mark; the 30-question count comes from driver-education providers and test-prep sources because DPS does not publish it."
+  },
+  "sources": [
+    {
+      "title": "Texas Driver Handbook (DL-7), revised January 2026",
+      "url": "https://www.dps.texas.gov/internetforms/Forms/DL-7.pdf",
+      "licence": "state government publication (questions written in our own words)",
+      "note": "Primary source for all rules, numbers and penalties; section named in each question's ref. Full text read from an identical copy (title 'DL-7 - Texas Driver Handbook', revised January 2026) because dps.texas.gov blocked direct download."
+    },
+    {
+      "title": "Texas DPS – Texas Learner License as a Teen",
+      "url": "https://www.dps.texas.gov/section/driver-license/texas-learners-license-teen",
+      "licence": "state government publication (questions written in our own words)",
+      "note": "Learner license steps; knowledge test may be taken in the classroom phase of driver education or at DPS."
+    },
+    {
+      "title": "Texas DPS – Texas Provisional License as a Teen",
+      "url": "https://www.dps.texas.gov/section/driver-license/texas-provisional-license-teen",
+      "licence": "state government publication (questions written in our own words)",
+      "note": "30 hours of practice including 10 at night; ITTD within 90 days of the driving test; GDL restrictions."
+    },
+    {
+      "title": "Texas DPS – Apply for a Texas Driver License",
+      "url": "https://www.dps.texas.gov/section/driver-license/apply-texas-driver-license",
+      "licence": "state government publication (questions written in our own words)",
+      "note": "Adult applicants: testing at DPS or a third-party provider; ITD certificate dated within 90 days of the driving test."
+    },
+    {
+      "title": "Texas DPS – Choosing a Driver Education Course",
+      "url": "https://www.dps.texas.gov/section/driver-license/choosing-driver-education-course",
+      "licence": "state government publication (questions written in our own words)",
+      "note": "6-hour adult driver education required for ages 18–24."
+    },
+    {
+      "title": "TDLR – Parent-Taught Driver Education: Classroom Instruction",
+      "url": "https://www.tdlr.texas.gov/driver/education/parent-taught/classroom-instruction.htm",
+      "licence": "state government publication (questions written in our own words)",
+      "note": "The written exam may be given by the course provider; otherwise it is taken at DPS."
+    }
+  ],
+  "topics": [
+    {
+      "id": "licensing",
+      "title": "Permits & licensing"
+    },
+    {
+      "id": "signs",
+      "title": "Signs, signals & markings"
+    },
+    {
+      "id": "right-of-way",
+      "title": "Right of way"
+    },
+    {
+      "id": "speed",
+      "title": "Speed & following distance"
+    },
+    {
+      "id": "turns",
+      "title": "Turning, lanes & passing"
+    },
+    {
+      "id": "parking",
+      "title": "Parking"
+    },
+    {
+      "id": "sharing",
+      "title": "Sharing the road"
+    },
+    {
+      "id": "safety",
+      "title": "Safe driving & hazards"
+    },
+    {
+      "id": "alcohol",
+      "title": "Alcohol, drugs & penalties"
+    },
+    {
+      "id": "emergencies",
+      "title": "Emergencies & crashes"
+    }
+  ],
+  "questions": [
+    {
+      "id": "tx-001",
+      "topic": "licensing",
+      "q": "What is the youngest age at which a Texas teen who has completed the classroom part of driver education can get a learner license?",
+      "options": [
+        "14",
+        "15",
+        "16",
+        "17"
+      ],
+      "answer": 1,
+      "explain": "A learner license (instruction permit) can be issued from age 15 once the classroom portion of driver education, the vision exam and the knowledge exam are complete.",
+      "official": false,
+      "ref": "Texas Driver Handbook (DL-7, rev. January 2026), Chapter 1: Your License to Drive, section 'Learner License (Instruction Permit)'"
+    },
+    {
+      "id": "tx-002",
+      "topic": "licensing",
+      "q": "Who may supervise a driver holding a Texas learner license?",
+      "options": [
+        "A licensed driver at least 21 years old with at least one year of driving experience, seated beside the learner",
+        "Any licensed passenger, as long as there are no other passengers under 21",
+        "Any licensed driver at least 18 years old, seated anywhere in the vehicle",
+        "A licensed driver at least 25 years old with at least five years of driving experience, seated in the back"
+      ],
+      "answer": 0,
+      "explain": "The supervising driver must be 21 or older, have at least one year of driving experience, occupy the seat beside the learner, and be alert and sober.",
+      "official": false,
+      "ref": "Texas Driver Handbook (DL-7, rev. January 2026), Chapter 1: Your License to Drive, section 'Learner License (Instruction Permit)'"
+    },
+    {
+      "id": "tx-003",
+      "topic": "licensing",
+      "q": "A learner license issued to a person under 18 expires:",
+      "options": [
+        "Six months after it is issued",
+        "One year after it is issued",
+        "On the holder's 21st birthday",
+        "On the holder's 18th birthday"
+      ],
+      "answer": 3,
+      "explain": "A Texas learner license issued to a minor expires on the minor's 18th birthday.",
+      "official": false,
+      "ref": "Texas Driver Handbook (DL-7, rev. January 2026), Chapter 1: Your License to Drive, section 'Learner License (Instruction Permit)'"
+    },
+    {
+      "id": "tx-004",
+      "topic": "licensing",
+      "q": "Under the Graduated Driver License program, how long must a driver under 18 hold a learner or hardship license before getting a provisional license?",
+      "options": [
+        "At least 30 days",
+        "At least three months",
+        "At least six months",
+        "At least one year"
+      ],
+      "answer": 2,
+      "explain": "Phase One requires holding a learner, hardship, or combination license for a minimum of six months before a provisional license is issued.",
+      "official": false,
+      "ref": "Texas Driver Handbook (DL-7, rev. January 2026), Chapter 1: Your License to Drive, section 'Graduated Driver License (GDL)'"
+    },
+    {
+      "id": "tx-005",
+      "topic": "licensing",
+      "q": "If a teen's learner license is suspended during Phase One of the GDL program, what happens to the required six-month holding period?",
+      "options": [
+        "It starts over from zero",
+        "It is extended by the number of days the license was suspended",
+        "It is not affected",
+        "It is waived once the suspension ends"
+      ],
+      "answer": 1,
+      "explain": "Because the license is invalid while suspended, the six-month period is extended by the length of the suspension.",
+      "official": false,
+      "ref": "Texas Driver Handbook (DL-7, rev. January 2026), Chapter 1: Your License to Drive, section 'Graduated Driver License (GDL)'"
+    },
+    {
+      "id": "tx-006",
+      "topic": "licensing",
+      "q": "A 16-year-old with a provisional license may NOT drive with:",
+      "options": [
+        "More than three passengers of any age",
+        "Any passenger who is a family member",
+        "Any passenger over 21",
+        "More than one passenger under 21 who is not a family member"
+      ],
+      "answer": 3,
+      "explain": "During Phase Two, a provisional driver may not carry more than one passenger under 21 who is not a family member.",
+      "official": false,
+      "ref": "Texas Driver Handbook (DL-7, rev. January 2026), Chapter 1: Your License to Drive, section 'Graduated Driver License (GDL)'"
+    },
+    {
+      "id": "tx-007",
+      "topic": "licensing",
+      "q": "During which hours is a Texas provisional (Phase Two) driver generally not allowed to drive?",
+      "options": [
+        "Midnight to 5:00 a.m.",
+        "9:00 p.m. to 5:00 a.m.",
+        "10:00 p.m. to 6:00 a.m.",
+        "11:00 p.m. to 4:00 a.m."
+      ],
+      "answer": 0,
+      "explain": "Provisional drivers may not drive between midnight and 5:00 a.m. unless it is necessary for work, a school-related activity, or a medical emergency.",
+      "official": false,
+      "ref": "Texas Driver Handbook (DL-7, rev. January 2026), Chapter 1: Your License to Drive, section 'Graduated Driver License (GDL)'"
+    },
+    {
+      "id": "tx-008",
+      "topic": "licensing",
+      "q": "Which reason allows a provisional driver to drive between midnight and 5:00 a.m.?",
+      "options": [
+        "Practicing for the driving exam with friends",
+        "Driving friends home from a party",
+        "Driving to or from work",
+        "Running errands for a neighbor"
+      ],
+      "answer": 2,
+      "explain": "The late-night restriction has exceptions only for work, school-related activities, and medical emergencies.",
+      "official": false,
+      "ref": "Texas Driver Handbook (DL-7, rev. January 2026), Chapter 1: Your License to Drive, section 'Graduated Driver License (GDL)'"
+    },
+    {
+      "id": "tx-009",
+      "topic": "licensing",
+      "q": "What does Texas law say about drivers under 18 using a cell phone while driving?",
+      "options": [
+        "They may not use a wireless device at all, even hands-free, except in an emergency",
+        "They may use a phone while stopped at a red light",
+        "They may use a phone only with a hands-free device",
+        "They may make calls but not send texts"
+      ],
+      "answer": 0,
+      "explain": "All drivers under 18 are barred from using a wireless communication device, including hands-free devices, except in an emergency.",
+      "official": false,
+      "ref": "Texas Driver Handbook (DL-7, rev. January 2026), Chapter 1: Your License to Drive, section 'Graduated Driver License (GDL)'"
+    },
+    {
+      "id": "tx-010",
+      "topic": "licensing",
+      "q": "A provisional license issued to a 16- or 17-year-old is marked 'PROVISIONAL' and expires:",
+      "options": [
+        "On the holder's 21st birthday",
+        "Eight years after it is issued",
+        "Two years after it is issued",
+        "On the holder's 18th birthday"
+      ],
+      "answer": 3,
+      "explain": "A provisional license expires on the holder's 18th birthday.",
+      "official": false,
+      "ref": "Texas Driver Handbook (DL-7, rev. January 2026), Chapter 1: Your License to Drive, section 'Provisional License'"
+    },
+    {
+      "id": "tx-011",
+      "topic": "licensing",
+      "q": "For a first Texas license, an applicant under 18 who is enrolled in school must show attendance of at least how many days in the fall or spring semester before applying?",
+      "options": [
+        "45 days",
+        "60 days",
+        "80 days",
+        "90 days"
+      ],
+      "answer": 2,
+      "explain": "The Verification of Enrollment and Attendance (VOE) form must show at least 80 days of attendance in the preceding fall or spring semester.",
+      "official": false,
+      "ref": "Texas Driver Handbook (DL-7, rev. January 2026), Chapter 1: Your License to Drive, section 'Verification of Enrollment and Attendance (VOE) Form'"
+    },
+    {
+      "id": "tx-012",
+      "topic": "licensing",
+      "q": "During the school year, the VOE form you bring to the driver license office may not be dated more than how many days before your application?",
+      "options": [
+        "10 days",
+        "30 days",
+        "60 days",
+        "90 days"
+      ],
+      "answer": 1,
+      "explain": "The VOE may be no more than 30 days old during the school year (90 days during the summer).",
+      "official": false,
+      "ref": "Texas Driver Handbook (DL-7, rev. January 2026), Chapter 1: Your License to Drive, section 'Verification of Enrollment and Attendance (VOE) Form'"
+    },
+    {
+      "id": "tx-013",
+      "topic": "licensing",
+      "q": "Which first-time Texas license applicants are required to complete an approved driver education course?",
+      "options": [
+        "Applicants younger than 25",
+        "Only applicants younger than 21",
+        "Every applicant, regardless of age",
+        "Only applicants younger than 18"
+      ],
+      "answer": 0,
+      "explain": "Individuals younger than 25 must successfully complete an approved driver education course; those 18 to 24 take an adult course.",
+      "official": false,
+      "ref": "Texas Driver Handbook (DL-7, rev. January 2026), Chapter 1: Your License to Drive, section 'Driver Education'"
+    },
+    {
+      "id": "tx-014",
+      "topic": "licensing",
+      "q": "An 18-year-old applying for a first Texas license must complete which driver education course?",
+      "options": [
+        "A 32-hour teen classroom course",
+        "A 6-hour adult driver education course",
+        "No course is required at 18",
+        "A 16-hour motorcycle operator course"
+      ],
+      "answer": 1,
+      "explain": "Applicants aged 18 through 24 must complete a 6-hour adult driver education course; there is no driver education requirement at 25 and older.",
+      "official": false,
+      "ref": "Texas DPS web page 'Choosing a Driver Education Course' (dps.texas.gov, checked October 2026); Texas Driver Handbook (DL-7, rev. January 2026), Chapter 1: Your License to Drive, section 'Driver Education'"
+    },
+    {
+      "id": "tx-015",
+      "topic": "licensing",
+      "q": "Before the driving exam, every applicant must complete the Impact Texas Drivers (ITD) program. How recent must the ITD certificate be?",
+      "options": [
+        "Dated within one year of the driving test",
+        "Any date, as long as it is before the test",
+        "Dated within 30 days of the driving test",
+        "Dated within 90 days of the driving test"
+      ],
+      "answer": 3,
+      "explain": "The ITD certificate appropriate to your age must be completed before the driving exam and be dated within 90 days of the driving skills test.",
+      "official": false,
+      "ref": "Texas DPS web page 'Apply for a Texas Driver License' (dps.texas.gov, checked October 2026); Texas Driver Handbook (DL-7, rev. January 2026), Chapter 1: Your License to Drive, section 'Impact Texas Drivers (ITD)'"
+    },
+    {
+      "id": "tx-016",
+      "topic": "licensing",
+      "q": "What score do you need to pass a Texas knowledge (written) exam?",
+      "options": [
+        "60 percent or better",
+        "70 percent or better",
+        "80 percent or better",
+        "90 percent or better"
+      ],
+      "answer": 1,
+      "explain": "You must score 70 percent or better to pass any Texas knowledge exam.",
+      "official": false,
+      "ref": "Texas Driver Handbook (DL-7, rev. January 2026), Chapter 1: Your License to Drive, section 'Part 1: The Knowledge exam'"
+    },
+    {
+      "id": "tx-017",
+      "topic": "licensing",
+      "q": "If you do not pass your exams, your application is held for a limited time. When must you submit a new application and pay the fee again?",
+      "options": [
+        "After every failed exam",
+        "After one year or after five failed exams",
+        "After 90 days or after three failed exams",
+        "After 30 days or after two failed exams"
+      ],
+      "answer": 2,
+      "explain": "Texas keeps a failed applicant's file open for 90 days. Once 90 days pass or you fail three exams, you must reapply and pay the fee again.",
+      "official": false,
+      "ref": "Texas Driver Handbook (DL-7, rev. January 2026), Chapter 1: Your License to Drive, section 'Examinations'"
+    },
+    {
+      "id": "tx-018",
+      "topic": "licensing",
+      "q": "After passing all required exams, you receive a temporary license. How long may you use it?",
+      "options": [
+        "10 days",
+        "30 days",
+        "45 days, or until the permanent card arrives",
+        "90 days"
+      ],
+      "answer": 2,
+      "explain": "The temporary license is valid for 45 days or until you receive your permanent license in the mail.",
+      "official": false,
+      "ref": "Texas Driver Handbook (DL-7, rev. January 2026), Chapter 1: Your License to Drive, section 'Examinations'"
+    },
+    {
+      "id": "tx-019",
+      "topic": "licensing",
+      "q": "Before a teen can get a provisional license, DPS requires how much behind-the-wheel practice?",
+      "options": [
+        "14 hours, with no night requirement",
+        "20 hours, including at least 5 hours at night",
+        "30 hours, including at least 10 hours at night",
+        "50 hours, including at least 10 hours at night"
+      ],
+      "answer": 2,
+      "explain": "DPS requires 30 hours of behind-the-wheel practice, at least 10 of them at night, before a teen can apply for a provisional license.",
+      "official": false,
+      "ref": "Texas DPS web page 'Texas Provisional License as a Teen' (dps.texas.gov, checked October 2026)"
+    },
+    {
+      "id": "tx-020",
+      "topic": "licensing",
+      "q": "How often must a standard Texas driver license be renewed (for drivers 18 to 84)?",
+      "options": [
+        "Every eight years",
+        "Every four years",
+        "Every ten years",
+        "Every six years"
+      ],
+      "answer": 0,
+      "explain": "A Texas driver license must be renewed every eight years; drivers 85 and older receive two-year licenses.",
+      "official": false,
+      "ref": "Texas Driver Handbook (DL-7, rev. January 2026), Chapter 1: Your License to Drive, section 'Application for Renewal'"
+    },
+    {
+      "id": "tx-021",
+      "topic": "licensing",
+      "q": "Even if you renew online or by mail, how often must you visit a driver license office in person for a vision check and new photo?",
+      "options": [
+        "At least once every 4 years",
+        "At least once every 8 years",
+        "At least once every 20 years",
+        "At least once every 16 years"
+      ],
+      "answer": 3,
+      "explain": "You must appear in person at least once every sixteen years for a vision exam and to update your photo, signature and fingerprints.",
+      "official": false,
+      "ref": "Texas Driver Handbook (DL-7, rev. January 2026), Chapter 1: Your License to Drive, section 'Application for Renewal'"
+    },
+    {
+      "id": "tx-022",
+      "topic": "licensing",
+      "q": "After you move, how soon must you report your new address to DPS?",
+      "options": [
+        "Within 10 days",
+        "Within 30 days",
+        "At your next renewal",
+        "Within 60 days"
+      ],
+      "answer": 1,
+      "explain": "A change of address must be reported to DPS within 30 days.",
+      "official": false,
+      "ref": "Texas Driver Handbook (DL-7, rev. January 2026), Chapter 1: Your License to Drive, section 'Replacement (Duplicate) or Change of Information on a Driver License or ID Card'"
+    },
+    {
+      "id": "tx-023",
+      "topic": "licensing",
+      "q": "What are Texas's minimum liability insurance amounts?",
+      "options": [
+        "$15,000 per injured person, $30,000 per crash for injuries, and $5,000 for property damage",
+        "$25,000 per injured person, $50,000 per crash for injuries, and $25,000 for property damage",
+        "$30,000 per injured person, $60,000 per crash for injuries, and $25,000 for property damage",
+        "$50,000 per injured person, $100,000 per crash for injuries, and $50,000 for property damage"
+      ],
+      "answer": 2,
+      "explain": "Texas minimums are 30/60/25: $30,000 for one person, $60,000 for two or more people, and $25,000 for property damage.",
+      "official": false,
+      "ref": "Texas Driver Handbook (DL-7, rev. January 2026), Chapter 3: Safety Responsibility, section 'The Liability Insurance Law'"
+    },
+    {
+      "id": "tx-024",
+      "topic": "licensing",
+      "q": "What is the fine for a first conviction of driving without proof of financial responsibility (insurance)?",
+      "options": [
+        "$25 to $50",
+        "$175 to $350",
+        "$500 to $1,000",
+        "$1,000 to $2,000"
+      ],
+      "answer": 1,
+      "explain": "A first conviction carries a fine of $175 to $350; later convictions bring license suspension, a $350–$1,000 fine and possible vehicle impoundment.",
+      "official": false,
+      "ref": "Texas Driver Handbook (DL-7, rev. January 2026), Chapter 3: Safety Responsibility, section 'Failure to Provide Evidence of Financial Responsibility'"
+    },
+    {
+      "id": "tx-025",
+      "topic": "licensing",
+      "q": "What is the maximum fine for a first conviction of driving without a license?",
+      "options": [
+        "$50",
+        "$200",
+        "$500",
+        "$1,000"
+      ],
+      "answer": 1,
+      "explain": "A first conviction for driving without a license is punishable by a fine of up to $200.",
+      "official": false,
+      "ref": "Texas Driver Handbook (DL-7, rev. January 2026), Chapter 1: Your License to Drive, section 'Penalties for Driving Without a License'"
+    },
+    {
+      "id": "tx-026",
+      "topic": "licensing",
+      "q": "Driving while your license is suspended (with no aggravating factors) is:",
+      "options": [
+        "Only a warning on a first offense",
+        "A civil matter with no fine",
+        "A felony with mandatory prison time",
+        "A Class C misdemeanor with a fine of up to $500"
+      ],
+      "answer": 3,
+      "explain": "Basic Driving While License Invalid is a Class C misdemeanor punishable by a fine of up to $500; it rises to Class B with a prior conviction, no insurance, or a DWI-related suspension.",
+      "official": false,
+      "ref": "Texas Driver Handbook (DL-7, rev. January 2026), Chapter 1: Your License to Drive, section 'Driving While License Invalid (DWLI)'"
+    },
+    {
+      "id": "tx-027",
+      "topic": "licensing",
+      "q": "DPS may suspend the license of a driver who is convicted of how many separate traffic violations within any 12-month period?",
+      "options": [
+        "Four or more",
+        "Seven or more",
+        "Three or more",
+        "Two or more"
+      ],
+      "answer": 0,
+      "explain": "Repeated violations—four or more convictions in 12 months or seven or more in 24 months—are grounds for suspension after a hearing.",
+      "official": false,
+      "ref": "Texas Driver Handbook (DL-7, rev. January 2026), Chapter 1: Your License to Drive, section 'Administrative Suspensions and Revocations'"
+    },
+    {
+      "id": "tx-028",
+      "topic": "licensing",
+      "q": "For a driver under 18, DPS may suspend the license after a hearing for how many separate traffic convictions in a 12-month period?",
+      "options": [
+        "Two or more",
+        "Seven or more",
+        "Four or more",
+        "Five or more"
+      ],
+      "answer": 0,
+      "explain": "For drivers younger than 18, two or more traffic convictions occurring separately within 12 months are grounds for suspension.",
+      "official": false,
+      "ref": "Texas Driver Handbook (DL-7, rev. January 2026), Chapter 1: Your License to Drive, section 'Suspend or Revoke After Hearing of Minor'"
+    },
+    {
+      "id": "tx-029",
+      "topic": "licensing",
+      "q": "To whom must you show your driver license when asked?",
+      "options": [
+        "Any person who asks, including other drivers who were not in a crash with you",
+        "Only a court clerk after you receive a ticket",
+        "Only a state trooper",
+        "A peace officer or judge, and anyone involved in a crash with you"
+      ],
+      "answer": 3,
+      "explain": "Carry your license when driving and show it on request to any peace officer, sheriff, constable, judge, justice of the peace, or trooper, and to anyone involved in a crash with you.",
+      "official": false,
+      "ref": "Texas Driver Handbook (DL-7, rev. January 2026), Chapter 1: Your License to Drive, section 'Pass or Fail Driving Exam'"
+    },
+    {
+      "id": "tx-030",
+      "topic": "licensing",
+      "q": "Before a minor's 18th birthday, who can ask DPS to cancel the minor's driver license?",
+      "options": [
+        "Only a district judge",
+        "Any licensed driver over 21",
+        "Any teacher at the minor's school",
+        "The adult who signed the minor's license application"
+      ],
+      "answer": 3,
+      "explain": "The parent, guardian, or other adult who signed the application may ask in writing, under oath, for the license to be cancelled any time before the minor turns 18.",
+      "official": false,
+      "ref": "Texas Driver Handbook (DL-7, rev. January 2026), Chapter 1: Your License to Drive, section 'Minors'"
+    },
+    {
+      "id": "tx-031",
+      "topic": "signs",
+      "q": "What must you do when you see this sign?",
+      "options": [
+        "Come to a complete stop, yield to traffic and pedestrians, then proceed when safe",
+        "Stop only if there is cross traffic",
+        "Slow down and go through if no one is coming",
+        "Yield to traffic from the left only"
+      ],
+      "answer": 0,
+      "explain": "A stop sign requires a full stop before the crosswalk, stop line or intersection—slowing down is not enough.",
+      "official": false,
+      "ref": "Texas Driver Handbook (DL-7, rev. January 2026), Chapter 5: Signals, Signs, and Markers, section 'Regulatory and Warning Signs'",
+      "image": "signs/stop.png"
+    },
+    {
+      "id": "tx-032",
+      "topic": "signs",
+      "q": "What does this sign require you to do?",
+      "options": [
+        "Always come to a full stop",
+        "Stop only for pedestrians",
+        "Slow down, and stop if needed to let vehicles, pedestrians or bicyclists on the other road go first",
+        "Speed up to merge ahead of other traffic"
+      ],
+      "answer": 2,
+      "explain": "A yield sign means slow down or stop if necessary to give the right-of-way to traffic on the road you are entering.",
+      "official": false,
+      "ref": "Texas Driver Handbook (DL-7, rev. January 2026), Chapter 5: Signals, Signs, and Markers, section 'Regulatory and Warning Signs'",
+      "image": "signs/yield.png"
+    },
+    {
+      "id": "tx-033",
+      "topic": "signs",
+      "q": "What does this sign mean?",
+      "options": [
+        "Enter slowly and with caution",
+        "Road closed for repairs; detour to the right",
+        "You may not enter; traffic on the road ahead flows toward you",
+        "No parking at any time"
+      ],
+      "answer": 2,
+      "explain": "This sign marks a one-way road with traffic coming in the opposite direction; entering would put you into oncoming traffic.",
+      "official": false,
+      "ref": "Texas Driver Handbook (DL-7, rev. January 2026), Chapter 5: Signals, Signs, and Markers, section 'Regulatory and Warning Signs'",
+      "image": "signs/do-not-enter.png"
+    },
+    {
+      "id": "tx-034",
+      "topic": "signs",
+      "q": "If you see this sign facing you, what does it mean?",
+      "options": [
+        "U-turns are allowed here",
+        "The road ahead curves the wrong way",
+        "You have missed your exit",
+        "You are going the wrong way on a one-way road and are facing oncoming traffic"
+      ],
+      "answer": 3,
+      "explain": "This sign tells you that you are driving against the flow of traffic on a one-way street or ramp.",
+      "official": false,
+      "ref": "Texas Driver Handbook (DL-7, rev. January 2026), Chapter 5: Signals, Signs, and Markers, section 'Regulatory and Warning Signs'",
+      "image": "signs/wrong-way.png"
+    },
+    {
+      "id": "tx-035",
+      "topic": "signs",
+      "q": "This sign is posted on a highway. What does it tell you?",
+      "options": [
+        "The maximum lawful speed; you must go slower if conditions require it",
+        "The speed you must drive at all times",
+        "The minimum speed allowed",
+        "The suggested speed for trucks only"
+      ],
+      "answer": 0,
+      "explain": "A speed limit sign shows the maximum speed permitted; under the basic speed law you may not drive faster than is safe for conditions.",
+      "official": false,
+      "ref": "Texas Driver Handbook (DL-7, rev. January 2026), Chapter 5: Signals, Signs, and Markers, section 'Regulatory and Warning Signs'",
+      "image": "signs/speed-limit-55.png"
+    },
+    {
+      "id": "tx-036",
+      "topic": "signs",
+      "q": "What does this sign mean?",
+      "options": [
+        "Keep left of the island",
+        "Left turns are not allowed here",
+        "Turn left only",
+        "Left lane ends ahead"
+      ],
+      "answer": 1,
+      "explain": "Turning left at an intersection where this sign is posted is prohibited.",
+      "official": false,
+      "ref": "Texas Driver Handbook (DL-7, rev. January 2026), Chapter 5: Signals, Signs, and Markers, section 'Regulatory and Warning Signs'",
+      "image": "signs/no-left-turn.png"
+    },
+    {
+      "id": "tx-037",
+      "topic": "signs",
+      "q": "What does this sign mean?",
+      "options": [
+        "Detour ahead",
+        "U-turns are allowed only on green",
+        "You may not make a U-turn here",
+        "The road ahead curves sharply"
+      ],
+      "answer": 2,
+      "explain": "Making a U-turn where this sign is posted is prohibited.",
+      "official": false,
+      "ref": "Texas Driver Handbook (DL-7, rev. January 2026), Chapter 5: Signals, Signs, and Markers, section 'Regulatory and Warning Signs'",
+      "image": "signs/no-u-turn.png"
+    },
+    {
+      "id": "tx-038",
+      "topic": "signs",
+      "q": "You are stopped at a red light and see this sign. What may you do?",
+      "options": [
+        "Turn left after stopping, if it is clear",
+        "Turn right without stopping",
+        "Turn right after stopping, if it is clear",
+        "Wait for a green signal before turning"
+      ],
+      "answer": 3,
+      "explain": "Right turns on red are normally allowed after a full stop, but not where a sign prohibits turning on red.",
+      "official": false,
+      "ref": "Texas Driver Handbook (DL-7, rev. January 2026), Chapter 5: Signals, Signs, and Markers, section 'Steady Red Light (Stop)'",
+      "image": "signs/no-turn-on-red.png"
+    },
+    {
+      "id": "tx-039",
+      "topic": "signs",
+      "q": "What does this sign tell you?",
+      "options": [
+        "Traffic on this street moves only in the direction of the arrow",
+        "Passing is allowed in the direction of the arrow",
+        "The road ahead is a dead end",
+        "Turn in the direction of the arrow immediately"
+      ],
+      "answer": 0,
+      "explain": "A one-way sign shows that traffic may travel only in the direction of the arrow.",
+      "official": false,
+      "ref": "Texas Driver Handbook (DL-7, rev. January 2026), Chapter 5: Signals, Signs, and Markers, section 'Regulatory and Warning Signs'",
+      "image": "signs/one-way.png"
+    },
+    {
+      "id": "tx-040",
+      "topic": "signs",
+      "q": "What does this sign tell you to do?",
+      "options": [
+        "The right lane ends",
+        "Keep to the right of the island or obstruction ahead",
+        "Slower traffic must use the right lane",
+        "Turn right at the next intersection"
+      ],
+      "answer": 1,
+      "explain": "This sign is used ahead of islands and medians: drive to the right of it.",
+      "official": false,
+      "ref": "Texas Driver Handbook (DL-7, rev. January 2026), Chapter 5: Signals, Signs, and Markers, section 'Regulatory and Warning Signs'",
+      "image": "signs/keep-right.png"
+    },
+    {
+      "id": "tx-041",
+      "topic": "signs",
+      "q": "What does this sign mean?",
+      "options": [
+        "You may not pass other vehicles",
+        "You may pass with care",
+        "Do not cross the railroad tracks",
+        "Do not enter the highway"
+      ],
+      "answer": 0,
+      "explain": "This regulatory sign prohibits passing other vehicles.",
+      "official": false,
+      "ref": "Texas Driver Handbook (DL-7, rev. January 2026), Chapter 5: Signals, Signs, and Markers, section 'Regulatory and Warning Signs'",
+      "image": "signs/do-not-pass.png"
+    },
+    {
+      "id": "tx-042",
+      "topic": "signs",
+      "q": "You see this sign beside the road. What should you do?",
+      "options": [
+        "Speed up to clear the tracks quickly",
+        "Stop every time, even if no train is coming",
+        "It marks an abandoned railroad; no action is needed",
+        "Slow down, look and listen, and be ready to yield to a train"
+      ],
+      "answer": 3,
+      "explain": "Crossbuck signs mark the location of tracks at every grade crossing. Slow down, look, listen, and yield to any approaching train.",
+      "official": false,
+      "ref": "Texas Driver Handbook (DL-7, rev. January 2026), Chapter 5: Signals, Signs, and Markers, section 'Railroad Crossbuck'",
+      "image": "signs/railroad-crossbuck.png"
+    },
+    {
+      "id": "tx-043",
+      "topic": "signs",
+      "q": "This plaque is mounted below a stop sign. What does it tell you?",
+      "options": [
+        "You may go without stopping if the road is clear",
+        "Traffic must stop only during school hours",
+        "All approaching traffic must stop; go in order of arrival",
+        "Only cross traffic must stop"
+      ],
+      "answer": 2,
+      "explain": "It means every approach must stop. Proceed in the order of arrival; if two vehicles arrive together, yield to the one on the right.",
+      "official": false,
+      "ref": "Texas Driver Handbook (DL-7, rev. January 2026), Chapter 5: Signals, Signs, and Markers, section 'Regulatory and Warning Signs'",
+      "image": "signs/all-way.png"
+    },
+    {
+      "id": "tx-044",
+      "topic": "signs",
+      "q": "Who may park in a space marked with this sign?",
+      "options": [
+        "Any vehicle with its hazard lights on",
+        "A vehicle with a disabled license plate or windshield placard",
+        "Anyone parking for less than 15 minutes",
+        "Delivery vehicles only"
+      ],
+      "answer": 1,
+      "explain": "Do not park, stop or stand in a disabled-parking space unless the vehicle has a disabled license plate or windshield identification card.",
+      "official": false,
+      "ref": "Texas Driver Handbook (DL-7, rev. January 2026), Chapter 5: Signals, Signs, and Markers, section 'Regulatory and Warning Signs'",
+      "image": "signs/handicapped-parking.png"
+    },
+    {
+      "id": "tx-045",
+      "topic": "signs",
+      "q": "What does this sign warn you about?",
+      "options": [
+        "Turn right at the next street",
+        "The lane ends to the right",
+        "A side road enters from the right",
+        "The road curves gradually in the direction of the arrow; slow down, keep right and do not pass"
+      ],
+      "answer": 3,
+      "explain": "This warns of a gradual curve ahead in the direction shown. Slow down, keep right, and do not pass.",
+      "official": false,
+      "ref": "Texas Driver Handbook (DL-7, rev. January 2026), Chapter 5: Signals, Signs, and Markers, section 'Warning Signs'",
+      "image": "signs/curve-right.png"
+    },
+    {
+      "id": "tx-046",
+      "topic": "signs",
+      "q": "What does this sign mean?",
+      "options": [
+        "Detour ahead",
+        "Slippery road ahead",
+        "A winding road is ahead; drive slowly and do not pass",
+        "A series of hills ahead"
+      ],
+      "answer": 2,
+      "explain": "A winding road is ahead. Drive slowly and carefully, and do not pass.",
+      "official": false,
+      "ref": "Texas Driver Handbook (DL-7, rev. January 2026), Chapter 5: Signals, Signs, and Markers, section 'Warning Signs'",
+      "image": "signs/winding-road.png"
+    },
+    {
+      "id": "tx-047",
+      "topic": "signs",
+      "q": "What does this sign warn you about?",
+      "options": [
+        "Two lanes merge into one",
+        "The road curves one way and then the other",
+        "A U-turn area ahead",
+        "Passing is allowed after the curve"
+      ],
+      "answer": 1,
+      "explain": "A reverse curve: the road bends one way and then the other. Slow down, keep right, and do not pass.",
+      "official": false,
+      "ref": "Texas Driver Handbook (DL-7, rev. January 2026), Chapter 5: Signals, Signs, and Markers, section 'Warning Signs'",
+      "image": "signs/reverse-curve.png"
+    },
+    {
+      "id": "tx-048",
+      "topic": "signs",
+      "q": "What does this sign warn you about?",
+      "options": [
+        "A crossroad ahead; watch for traffic from both sides",
+        "A hospital ahead",
+        "A four-way stop ahead",
+        "A railroad crossing ahead"
+      ],
+      "answer": 0,
+      "explain": "A cross road is ahead. Slow down and look carefully in all directions for cross traffic.",
+      "official": false,
+      "ref": "Texas Driver Handbook (DL-7, rev. January 2026), Chapter 5: Signals, Signs, and Markers, section 'Warning Signs'",
+      "image": "signs/intersection-ahead.png"
+    },
+    {
+      "id": "tx-049",
+      "topic": "signs",
+      "q": "What does this sign tell you?",
+      "options": [
+        "The road ends ahead; you must turn left or right and may need to yield",
+        "A side road joins from the left",
+        "Cross traffic does not stop",
+        "The road continues straight after a short curve"
+      ],
+      "answer": 0,
+      "explain": "You are approaching a T intersection where you must turn left or right. Be prepared to yield.",
+      "official": false,
+      "ref": "Texas Driver Handbook (DL-7, rev. January 2026), Chapter 5: Signals, Signs, and Markers, section 'Warning Signs'",
+      "image": "signs/t-intersection.png"
+    },
+    {
+      "id": "tx-050",
+      "topic": "signs",
+      "q": "What does this sign warn you about?",
+      "options": [
+        "Two-way traffic ahead",
+        "Lanes of traffic are joining your lane from the right",
+        "A right turn is required",
+        "Your lane is ending on the right"
+      ],
+      "answer": 1,
+      "explain": "Other traffic lanes are coming together with yours ahead. Watch for traffic merging from that direction.",
+      "official": false,
+      "ref": "Texas Driver Handbook (DL-7, rev. January 2026), Chapter 5: Signals, Signs, and Markers, section 'Warning Signs'",
+      "image": "signs/merge-right.png"
+    },
+    {
+      "id": "tx-051",
+      "topic": "signs",
+      "q": "You are driving in the right lane and see this sign. What should you do?",
+      "options": [
+        "Nothing; the left lane is ending",
+        "Move to the right shoulder",
+        "Speed up to pass traffic on the left",
+        "Prepare to merge into the left lane because your lane ends"
+      ],
+      "answer": 3,
+      "explain": "The lane ends ahead. If you are in the right lane, merge safely into the left lane.",
+      "official": false,
+      "ref": "Texas Driver Handbook (DL-7, rev. January 2026), Chapter 5: Signals, Signs, and Markers, section 'Warning Signs'",
+      "image": "signs/lane-ends-left.png"
+    },
+    {
+      "id": "tx-052",
+      "topic": "signs",
+      "q": "What should you do when you see this sign?",
+      "options": [
+        "Speed up to keep traction",
+        "Turn on your high beams",
+        "Slow down on a wet road and avoid sudden turns, acceleration or braking",
+        "Shift into neutral"
+      ],
+      "answer": 2,
+      "explain": "The road is slippery when wet. Slow down and do not suddenly turn, speed up, or stop.",
+      "official": false,
+      "ref": "Texas Driver Handbook (DL-7, rev. January 2026), Chapter 5: Signals, Signs, and Markers, section 'Warning Signs'",
+      "image": "signs/slippery-when-wet.png"
+    },
+    {
+      "id": "tx-053",
+      "topic": "signs",
+      "q": "What does this sign warn you about?",
+      "options": [
+        "A truck stop ahead",
+        "A steep downgrade ahead; you may need a lower gear",
+        "Trucks are prohibited",
+        "A runaway truck ramp is closed"
+      ],
+      "answer": 1,
+      "explain": "You are approaching a downgrade. Approach with caution; it may be necessary to use a lower gear to control speed.",
+      "official": false,
+      "ref": "Texas Driver Handbook (DL-7, rev. January 2026), Chapter 5: Signals, Signs, and Markers, section 'Warning Signs'",
+      "image": "signs/hill.png"
+    },
+    {
+      "id": "tx-054",
+      "topic": "signs",
+      "q": "What should you do when you see this five-sided sign?",
+      "options": [
+        "Watch for deer",
+        "Speed up to clear the area quickly",
+        "Stop and wait for a crossing guard",
+        "Slow down and watch for children; be ready to stop"
+      ],
+      "answer": 3,
+      "explain": "This pentagon-shaped sign means you are near a school. Slow down, watch for children, and be prepared to stop suddenly.",
+      "official": false,
+      "ref": "Texas Driver Handbook (DL-7, rev. January 2026), Chapter 5: Signals, Signs, and Markers, section 'Warning Signs'",
+      "image": "signs/school-zone.png"
+    },
+    {
+      "id": "tx-055",
+      "topic": "signs",
+      "q": "What does this round yellow sign mean?",
+      "options": [
+        "A railroad crossing is a few hundred feet ahead",
+        "Railroad tracks are directly under you",
+        "A rest area is ahead",
+        "A traffic circle is ahead"
+      ],
+      "answer": 0,
+      "explain": "The round railroad advance warning sign means you are within a few hundred feet of a crossing. Slow down and be prepared to stop.",
+      "official": false,
+      "ref": "Texas Driver Handbook (DL-7, rev. January 2026), Chapter 5: Signals, Signs, and Markers, section 'Railroad Crossing'",
+      "image": "signs/railroad-advance.png"
+    },
+    {
+      "id": "tx-056",
+      "topic": "signs",
+      "q": "What does this sign warn you about?",
+      "options": [
+        "The distance to the next exit",
+        "A narrow lane width",
+        "An underpass with limited height; do not enter if your vehicle or load is taller",
+        "The minimum speed ahead"
+      ],
+      "answer": 2,
+      "explain": "The sign shows the height of the underpass. Do not try to pass under if your load is higher than the figure shown.",
+      "official": false,
+      "ref": "Texas Driver Handbook (DL-7, rev. January 2026), Chapter 5: Signals, Signs, and Markers, section 'Warning Signs'",
+      "image": "signs/low-clearance.png"
+    },
+    {
+      "id": "tx-057",
+      "topic": "signs",
+      "q": "What does this pennant-shaped sign mean?",
+      "options": [
+        "Road construction ahead",
+        "A school zone begins",
+        "You are entering a no-passing zone",
+        "Passing is allowed with care"
+      ],
+      "answer": 2,
+      "explain": "The pennant is used only to give advance warning of a no-passing zone.",
+      "official": false,
+      "ref": "Texas Driver Handbook (DL-7, rev. January 2026), Chapter 5: Signals, Signs, and Markers, section 'Traffic Signs (Table: Signs by Shape)'",
+      "image": "signs/no-passing-zone.png"
+    },
+    {
+      "id": "tx-058",
+      "topic": "signs",
+      "q": "This plaque is shown below a curve warning sign. What does it mean?",
+      "options": [
+        "35 mph is the highest safe speed for the curve ahead",
+        "The minimum speed is 35 mph",
+        "The speed limit on this road is now 35 mph everywhere",
+        "Trucks must go 35 mph"
+      ],
+      "answer": 0,
+      "explain": "An advisory speed sign gives the highest speed at which you can safely travel around the curve or turn ahead.",
+      "official": false,
+      "ref": "Texas Driver Handbook (DL-7, rev. January 2026), Chapter 5: Signals, Signs, and Markers, section 'Regulatory and Warning Signs'",
+      "image": "signs/advisory-speed-35.png"
+    },
+    {
+      "id": "tx-059",
+      "topic": "signs",
+      "q": "You see this orange sign. What should you expect?",
+      "options": [
+        "A school zone ahead",
+        "A recreation area ahead",
+        "A detour for trucks only",
+        "A work zone ahead where traffic fines double when workers are present"
+      ],
+      "answer": 3,
+      "explain": "Orange signs warn of construction and maintenance. Slow down and be ready to stop or change lanes; fines double when workers are present.",
+      "official": false,
+      "ref": "Texas Driver Handbook (DL-7, rev. January 2026), Chapter 5: Signals, Signs, and Markers, section 'Construction and Maintenance Devices'",
+      "image": "signs/road-work-ahead.png"
+    },
+    {
+      "id": "tx-060",
+      "topic": "signs",
+      "q": "A vehicle displaying this emblem on its rear:",
+      "options": [
+        "Is an emergency vehicle",
+        "Is designed to travel at 25 mph or less",
+        "Is driven by a learner",
+        "Is carrying hazardous materials"
+      ],
+      "answer": 1,
+      "explain": "The slow-moving vehicle emblem is required on vehicles designed to operate at a maximum of 25 mph or less, such as farm machinery.",
+      "official": false,
+      "ref": "Texas Driver Handbook (DL-7, rev. January 2026), Chapter 5: Signals, Signs, and Markers, section 'Slow-Moving Vehicle Emblem'",
+      "image": "signs/slow-moving-vehicle.png"
+    },
+    {
+      "id": "tx-061",
+      "topic": "signs",
+      "q": "This signal is showing a steady light. What does it mean?",
+      "options": [
+        "Stop immediately, even if you are in the intersection",
+        "The light is about to turn red; stop before the crosswalk if you can do so safely",
+        "Proceed; yellow means the same as green",
+        "Speed up to get through before it turns red"
+      ],
+      "answer": 1,
+      "explain": "A steady yellow warns that red is coming. Stop before the nearest crosswalk if you can do so safely; otherwise proceed cautiously.",
+      "official": false,
+      "ref": "Texas Driver Handbook (DL-7, rev. January 2026), Chapter 5: Signals, Signs, and Markers, section 'Steady Yellow Light (Caution)'",
+      "image": "signs/signal-yellow.png"
+    },
+    {
+      "id": "tx-062",
+      "topic": "signs",
+      "q": "What must you do at this signal?",
+      "options": [
+        "Proceed; the light is out of order and has no meaning",
+        "Slow down and proceed with caution without stopping",
+        "Stop and wait for the light to turn green",
+        "Stop completely, then proceed when it is safe"
+      ],
+      "answer": 3,
+      "explain": "At a flashing red light, stop completely before entering the crosswalk or intersection, then go when safe. Cross traffic may not have to stop.",
+      "official": false,
+      "ref": "Texas Driver Handbook (DL-7, rev. January 2026), Chapter 5: Signals, Signs, and Markers, section 'A Flashing Red Light'",
+      "image": "signs/signal-flashing-red.png"
+    },
+    {
+      "id": "tx-063",
+      "topic": "signs",
+      "q": "What does this signal mean?",
+      "options": [
+        "Slow down and proceed with caution",
+        "The signal is about to turn green",
+        "Stop and wait for green",
+        "Only turning vehicles may go"
+      ],
+      "answer": 0,
+      "explain": "A flashing yellow light warns drivers to slow down and proceed with caution.",
+      "official": false,
+      "ref": "Texas Driver Handbook (DL-7, rev. January 2026), Chapter 5: Signals, Signs, and Markers, section 'A Flashing Yellow Light'",
+      "image": "signs/signal-flashing-yellow.png"
+    },
+    {
+      "id": "tx-064",
+      "topic": "signs",
+      "q": "What may you do when the signal shows this lit green arrow?",
+      "options": [
+        "Stop and wait until a full green light appears",
+        "Go straight through the intersection",
+        "Turn left carefully after yielding to vehicles and pedestrians still in the intersection",
+        "Turn right on the arrow"
+      ],
+      "answer": 2,
+      "explain": "A green arrow (even when shown together with a red light) lets you move carefully in the arrow's direction, but you must first yield to any vehicles and pedestrians still in the intersection.",
+      "official": false,
+      "ref": "Texas Driver Handbook (DL-7, rev. January 2026), Chapter 5: Signals, Signs, and Markers, section 'Green Arrow Displayed at the Same Time as a Red Light'",
+      "image": "signs/signal-green-arrow-left.png"
+    },
+    {
+      "id": "tx-065",
+      "topic": "signs",
+      "q": "What do these center lines mean?",
+      "options": [
+        "Passing is allowed from either direction when safe",
+        "Only drivers on the right side may pass",
+        "The lines mark a bicycle lane",
+        "Passing is not allowed from either direction"
+      ],
+      "answer": 3,
+      "explain": "A solid yellow line on your side marks a no-passing zone; with two solid yellow lines, neither direction may pass. On roads of four or more lanes, never cross the double yellow line to pass.",
+      "official": false,
+      "ref": "Texas Driver Handbook (DL-7, rev. January 2026), Chapter 5: Signals, Signs, and Markers, section 'Pavement Markings'",
+      "image": "signs/lines-double-yellow.png"
+    },
+    {
+      "id": "tx-066",
+      "topic": "signs",
+      "q": "You are driving the blue car. What do these center lines allow you to do?",
+      "options": [
+        "You must change lanes now",
+        "You may never pass",
+        "You may pass when it is safe",
+        "Only oncoming traffic may pass"
+      ],
+      "answer": 2,
+      "explain": "A broken line on your side permits passing when safe; the solid line on the other side bars traffic from that direction from passing.",
+      "official": false,
+      "ref": "Texas Driver Handbook (DL-7, rev. January 2026), Chapter 5: Signals, Signs, and Markers, section 'Solid and Broken Lines'",
+      "image": "signs/lines-solid-and-broken-yellow.png"
+    },
+    {
+      "id": "tx-067",
+      "topic": "signs",
+      "q": "What is the center lane marked like this used for?",
+      "options": [
+        "Through traffic during rush hour",
+        "Only for vehicles making a left turn",
+        "Emergency stopping",
+        "Passing slower vehicles"
+      ],
+      "answer": 1,
+      "explain": "The center lane is only for vehicles turning left and must not be used for passing or through travel. Enter it only where you have time to slow down for the turn.",
+      "official": false,
+      "ref": "Texas Driver Handbook (DL-7, rev. January 2026), Chapter 5: Signals, Signs, and Markers, section 'Left Turn Lane Only'",
+      "image": "signs/lines-two-way-left-turn.png"
+    },
+    {
+      "id": "tx-068",
+      "topic": "signs",
+      "q": "Which sign shape is used only for stop signs?",
+      "options": [
+        "Octagon (eight sides)",
+        "Pentagon",
+        "Triangle",
+        "Diamond"
+      ],
+      "answer": 0,
+      "explain": "The octagon is used exclusively for stop signs.",
+      "official": false,
+      "ref": "Texas Driver Handbook (DL-7, rev. January 2026), Chapter 5: Signals, Signs, and Markers, section 'Traffic Signs (Table: Signs by Shape)'"
+    },
+    {
+      "id": "tx-069",
+      "topic": "signs",
+      "q": "What does an orange sign generally indicate?",
+      "options": [
+        "Directions and distances",
+        "Construction or maintenance work ahead",
+        "Motorist services such as food and gas",
+        "Recreation and scenic areas"
+      ],
+      "answer": 1,
+      "explain": "Orange is the standard color for construction and maintenance warnings.",
+      "official": false,
+      "ref": "Texas Driver Handbook (DL-7, rev. January 2026), Chapter 5: Signals, Signs, and Markers, section 'Traffic Signs (Table: Standard Colors)'"
+    },
+    {
+      "id": "tx-070",
+      "topic": "signs",
+      "q": "An overhead lane-use signal shows a steady red X above your lane. What does it mean?",
+      "options": [
+        "You may drive in that lane",
+        "Turn left from that lane only",
+        "Prepare to leave the lane soon",
+        "Do not drive in that lane"
+      ],
+      "answer": 3,
+      "explain": "A red X means do not drive in the lane; a steady yellow X means prepare to safely leave the lane; a downward green arrow means the lane is open.",
+      "official": false,
+      "ref": "Texas Driver Handbook (DL-7, rev. January 2026), Chapter 5: Signals, Signs, and Markers, section 'Guide Signs (lane-use control signals)'"
+    },
+    {
+      "id": "tx-071",
+      "topic": "signs",
+      "q": "A flashing yellow left-turn arrow means you may:",
+      "options": [
+        "Make a U-turn only",
+        "Not turn left until the arrow is green",
+        "Turn left after yielding to oncoming traffic and pedestrians",
+        "Turn left; oncoming traffic is stopped"
+      ],
+      "answer": 2,
+      "explain": "A flashing yellow arrow allows a left turn, but you must yield the right-of-way to oncoming traffic.",
+      "official": false,
+      "ref": "Texas Driver Handbook (DL-7, rev. January 2026), Chapter 5: Signals, Signs, and Markers, section 'A Flashing Yellow Arrow For Left-Turns'"
+    },
+    {
+      "id": "tx-072",
+      "topic": "signs",
+      "q": "When can you turn left on a steady red light in Texas (unless a sign prohibits it)?",
+      "options": [
+        "When turning from a one-way street onto another one-way street, after stopping",
+        "Never",
+        "Whenever no traffic is coming, after stopping",
+        "Only from a two-way street onto a one-way street"
+      ],
+      "answer": 0,
+      "explain": "On a steady red, after stopping you may turn right, or turn left if both streets are one-way, unless prohibited—yielding to pedestrians and traffic.",
+      "official": false,
+      "ref": "Texas Driver Handbook (DL-7, rev. January 2026), Chapter 5: Signals, Signs, and Markers, section 'Steady Red Light (Stop)'"
+    },
+    {
+      "id": "tx-073",
+      "topic": "signs",
+      "q": "A police officer directing traffic signals you to drive through a red light. You should:",
+      "options": [
+        "Back up and choose another route",
+        "Ignore the officer because the signal controls the intersection",
+        "Follow the officer's direction",
+        "Stay stopped until the light turns green"
+      ],
+      "answer": 2,
+      "explain": "You must obey a law enforcement officer directing traffic at all times, even if told to do something normally against the law, such as going through a red light.",
+      "official": false,
+      "ref": "Texas Driver Handbook (DL-7, rev. January 2026), Chapter 5: Signals, Signs, and Markers, section 'Traffic Signals'"
+    },
+    {
+      "id": "tx-074",
+      "topic": "signs",
+      "q": "When is the speed limit on a school zone sign like 'SPEED LIMIT 20 WHEN FLASHING' in effect?",
+      "options": [
+        "When the yellow lights on the sign are flashing",
+        "Only before 8:00 a.m.",
+        "Only when children are visible",
+        "At all times on weekdays"
+      ],
+      "answer": 0,
+      "explain": "The school zone speed is in effect when the yellow light is flashing. Be extremely careful for children.",
+      "official": false,
+      "ref": "Texas Driver Handbook (DL-7, rev. January 2026), Chapter 5: Signals, Signs, and Markers, section 'Regulatory and Warning Signs'"
+    },
+    {
+      "id": "tx-075",
+      "topic": "signs",
+      "q": "Double solid white lines between lanes mean:",
+      "options": [
+        "They mark a bicycle lane only",
+        "Crossing them is prohibited",
+        "They separate opposing traffic",
+        "You may cross them to pass"
+      ],
+      "answer": 1,
+      "explain": "Crossing is prohibited where there are double solid white lines; do not change lanes or turn across them.",
+      "official": false,
+      "ref": "Texas Driver Handbook (DL-7, rev. January 2026), Chapter 5: Signals, Signs, and Markers, section 'Solid Lines'"
+    },
+    {
+      "id": "tx-076",
+      "topic": "right-of-way",
+      "q": "You are on a two-lane road arriving at an intersection with a divided highway. There are no signs or signals. Who must yield?",
+      "options": [
+        "Traffic on the divided highway must yield to you",
+        "The vehicle on the left goes first",
+        "Whoever arrives first goes first",
+        "You must yield to traffic on the divided highway"
+      ],
+      "answer": 3,
+      "explain": "A driver on a single or two-lane road must yield to vehicles on a divided road or a road with three or more lanes.",
+      "official": false,
+      "ref": "Texas Driver Handbook (DL-7, rev. January 2026), Chapter 4: Right-of-Way, section 'Single or Two-Lane Road Intersecting a Multi-Lane Road'"
+    },
+    {
+      "id": "tx-077",
+      "topic": "right-of-way",
+      "q": "A driver on an unpaved road reaches an intersection with a paved road. Who has the right-of-way?",
+      "options": [
+        "Vehicles on the paved road",
+        "The driver on the unpaved road",
+        "The vehicle that is larger",
+        "The vehicle on the left"
+      ],
+      "answer": 0,
+      "explain": "A driver on an unpaved road must yield to vehicles traveling on the paved road.",
+      "official": false,
+      "ref": "Texas Driver Handbook (DL-7, rev. January 2026), Chapter 4: Right-of-Way, section 'Unpaved Road Intersecting a Paved Road'"
+    },
+    {
+      "id": "tx-078",
+      "topic": "right-of-way",
+      "q": "At an intersection with no signs, signals, or lane differences, two vehicles approach at about the same time. Which one must yield?",
+      "options": [
+        "The vehicle turning right always yields",
+        "The vehicle on the right yields to the vehicle on the left",
+        "The slower vehicle yields",
+        "The vehicle on the left yields to the vehicle on the right"
+      ],
+      "answer": 3,
+      "explain": "At an uncontrolled intersection, yield to any vehicle that has entered or is approaching on your right.",
+      "official": false,
+      "ref": "Texas Driver Handbook (DL-7, rev. January 2026), Chapter 4: Right-of-Way, section 'Intersections Not Controlled by Signs, Signals, Multi-Lanes, or Pavement'"
+    },
+    {
+      "id": "tx-079",
+      "topic": "right-of-way",
+      "q": "You are turning left at an intersection and a car is coming straight through from the opposite direction. You must:",
+      "options": [
+        "Turn quickly before it arrives",
+        "Turn first because you were there first",
+        "Yield to the oncoming car",
+        "Sound your horn and turn"
+      ],
+      "answer": 2,
+      "explain": "When turning left, always yield to vehicles coming straight through from the other direction.",
+      "official": false,
+      "ref": "Texas Driver Handbook (DL-7, rev. January 2026), Chapter 4: Right-of-Way, section 'Turning Left'"
+    },
+    {
+      "id": "tx-080",
+      "topic": "right-of-way",
+      "q": "When driving out of a driveway or alley onto a street, you must:",
+      "options": [
+        "Stop only if a pedestrian is on the sidewalk",
+        "Stop before the sidewalk and yield to all pedestrians and approaching vehicles",
+        "Slow down and merge with traffic without stopping",
+        "Sound your horn and pull out, since traffic must yield to you"
+      ],
+      "answer": 1,
+      "explain": "Coming from a private road, alley, building or driveway, stop before the sidewalk and yield to all approaching vehicles and pedestrians.",
+      "official": false,
+      "ref": "Texas Driver Handbook (DL-7, rev. January 2026), Chapter 4: Right-of-Way, section 'Private Roads and Driveways'"
+    },
+    {
+      "id": "tx-081",
+      "topic": "right-of-way",
+      "q": "You are on a street that ends at a T-intersection with a through street. You must:",
+      "options": [
+        "Yield only to vehicles on your right",
+        "Stop and yield to traffic on the through street",
+        "Proceed first because you are turning",
+        "Expect through traffic to stop for you"
+      ],
+      "answer": 1,
+      "explain": "A driver on a street that ends at a through street must stop and yield to vehicles on the through street.",
+      "official": false,
+      "ref": "Texas Driver Handbook (DL-7, rev. January 2026), Chapter 4: Right-of-Way, section 'T-Intersection'"
+    },
+    {
+      "id": "tx-082",
+      "topic": "right-of-way",
+      "q": "You are driving on the frontage road of a freeway. A car is exiting the freeway onto the frontage road ahead. Who must yield?",
+      "options": [
+        "You, the driver on the frontage road",
+        "Whichever vehicle is slower",
+        "The car leaving the freeway",
+        "Neither; both must stop"
+      ],
+      "answer": 0,
+      "explain": "Frontage road drivers must yield to vehicles entering or about to enter the frontage road from the highway, and to vehicles leaving it to enter the highway.",
+      "official": false,
+      "ref": "Texas Driver Handbook (DL-7, rev. January 2026), Chapter 4: Right-of-Way, section 'Enter or Leave Controlled-Access Highway'"
+    },
+    {
+      "id": "tx-083",
+      "topic": "right-of-way",
+      "q": "On a road with three or more lanes going the same way, two cars move into the same middle lane at the same time—one from the right lane and one from the left lane. Who must yield?",
+      "options": [
+        "The car entering from the left lane",
+        "The larger vehicle",
+        "The car that signaled last",
+        "The car entering from the right lane"
+      ],
+      "answer": 3,
+      "explain": "A vehicle entering a lane from the right must yield to a vehicle entering the same lane from the left.",
+      "official": false,
+      "ref": "Texas Driver Handbook (DL-7, rev. January 2026), Chapter 4: Right-of-Way, section 'Driving on Multiple-Lane Roads'"
+    },
+    {
+      "id": "tx-084",
+      "topic": "right-of-way",
+      "q": "An ambulance with its siren on is coming up behind you. If traffic allows, you must:",
+      "options": [
+        "Pull to the left shoulder",
+        "Speed up to stay ahead of it",
+        "Pull to the right edge of the road and stop",
+        "Stop immediately in your lane"
+      ],
+      "answer": 2,
+      "explain": "Yield to emergency vehicles using a siren, bell or flashing red light by pulling to the right edge and stopping; if you cannot, slow down and leave a clear path.",
+      "official": false,
+      "ref": "Texas Driver Handbook (DL-7, rev. January 2026), Chapter 4: Right-of-Way, section 'Yield Right-of-Way to Emergency Vehicles'"
+    },
+    {
+      "id": "tx-085",
+      "topic": "right-of-way",
+      "q": "When following a fire truck that is answering an alarm, you must stay at least how far behind it?",
+      "options": [
+        "100 feet",
+        "200 feet",
+        "500 feet",
+        "1,000 feet"
+      ],
+      "answer": 2,
+      "explain": "You may not follow within 500 feet of a fire truck answering an alarm or an ambulance with its flashing red lights on.",
+      "official": false,
+      "ref": "Texas Driver Handbook (DL-7, rev. January 2026), Chapter 4: Right-of-Way, section 'Yield Right-of-Way to Emergency Vehicles'"
+    },
+    {
+      "id": "tx-086",
+      "topic": "right-of-way",
+      "q": "On a road posted at 65 mph with only one lane in your direction, you approach a police car stopped on the shoulder with its lights flashing. You must slow to no more than:",
+      "options": [
+        "25 mph",
+        "35 mph",
+        "45 mph",
+        "55 mph"
+      ],
+      "answer": 2,
+      "explain": "If you cannot vacate the lane, slow to at least 20 mph below the posted limit when the limit is 25 mph or more: 65 − 20 = 45 mph.",
+      "official": false,
+      "ref": "Texas Driver Handbook (DL-7, rev. January 2026), Chapter 4: Right-of-Way, section 'Yield Right-of-Way to Emergency Vehicles'"
+    },
+    {
+      "id": "tx-087",
+      "topic": "right-of-way",
+      "q": "On a street posted at 20 mph, you pass a stopped emergency vehicle with its lights on. You must slow to:",
+      "options": [
+        "Less than 5 mph",
+        "No change is needed below 25 mph",
+        "10 mph",
+        "15 mph"
+      ],
+      "answer": 0,
+      "explain": "When the posted limit is below 25 mph, the move-over/slow-down law requires slowing to less than 5 mph.",
+      "official": false,
+      "ref": "Texas Driver Handbook (DL-7, rev. January 2026), Chapter 4: Right-of-Way, section 'Yield Right-of-Way to Emergency Vehicles'"
+    },
+    {
+      "id": "tx-088",
+      "topic": "right-of-way",
+      "q": "On a highway with two lanes in your direction, you approach a stopped emergency vehicle with lights activated in the right lane's shoulder. Unless an officer directs otherwise, you should:",
+      "options": [
+        "Stop completely behind the emergency vehicle",
+        "Stay in your lane and keep your speed",
+        "Drive onto the shoulder to give room",
+        "Move out of the lane closest to the emergency vehicle"
+      ],
+      "answer": 3,
+      "explain": "On roads with two or more lanes in that direction, vacate the lane closest to the stopped emergency vehicle (or slow to 20 mph below the limit).",
+      "official": false,
+      "ref": "Texas Driver Handbook (DL-7, rev. January 2026), Chapter 4: Right-of-Way, section 'Yield Right-of-Way to Emergency Vehicles'"
+    },
+    {
+      "id": "tx-089",
+      "topic": "right-of-way",
+      "q": "Texas's 'Slow Down or Move Over' law applies when which vehicle is stopped on the road with its lights on?",
+      "options": [
+        "A city bus at a bus stop",
+        "A tow truck",
+        "A pizza delivery car",
+        "A car with a flat tire and no lights"
+      ],
+      "answer": 1,
+      "explain": "The law covers emergency medical vehicles, police, fire trucks, tow trucks, utility service vehicles and TxDOT or other highway maintenance vehicles with lights activated.",
+      "official": false,
+      "ref": "Texas Driver Handbook (DL-7, rev. January 2026), Chapter 8: Speed and Speed Limits, section 'Slow Down or Move Over'"
+    },
+    {
+      "id": "tx-090",
+      "topic": "right-of-way",
+      "q": "On a two-lane road, a school bus coming toward you stops and turns on its alternately flashing red lights. You must:",
+      "options": [
+        "Slow to 20 mph and pass carefully",
+        "Continue, because you are going the opposite way",
+        "Stop only if children are visible",
+        "Stop"
+      ],
+      "answer": 3,
+      "explain": "You must stop when approaching a school bus from either direction that is displaying alternately flashing red lights.",
+      "official": false,
+      "ref": "Texas Driver Handbook (DL-7, rev. January 2026), Chapter 4: Right-of-Way, section 'Yield Right-of-Way to School Buses'"
+    },
+    {
+      "id": "tx-091",
+      "topic": "right-of-way",
+      "q": "After stopping for a school bus with flashing red lights, when may you go?",
+      "options": [
+        "After waiting 30 seconds",
+        "When the bus starts moving, the driver signals you to go, or the red lights stop flashing",
+        "As soon as no children are in the road",
+        "After the stop arm begins to fold, even if the lights are still flashing"
+      ],
+      "answer": 1,
+      "explain": "Do not pass until the bus resumes motion, the driver signals you to proceed, or the red lights are no longer flashing.",
+      "official": false,
+      "ref": "Texas Driver Handbook (DL-7, rev. January 2026), Chapter 4: Right-of-Way, section 'Yield Right-of-Way to School Buses'"
+    },
+    {
+      "id": "tx-092",
+      "topic": "right-of-way",
+      "q": "In which situation are you NOT required to stop for a school bus with flashing red lights?",
+      "options": [
+        "The bus is on a different road from the one you are on",
+        "It is a weekend",
+        "The bus is on the other side of a two-lane road",
+        "You are behind the bus on a four-lane undivided street"
+      ],
+      "answer": 0,
+      "explain": "Stopping is not required when the bus is on a different road, or on a controlled-access highway where the bus is in a loading zone and pedestrians may not cross.",
+      "official": false,
+      "ref": "Texas Driver Handbook (DL-7, rev. January 2026), Chapter 4: Right-of-Way, section 'Yield Right-of-Way to School Buses'"
+    },
+    {
+      "id": "tx-093",
+      "topic": "right-of-way",
+      "q": "What is the fine for a first conviction of illegally passing a stopped school bus?",
+      "options": [
+        "$50 to $200",
+        "$100 to $250",
+        "$500 to $1,250",
+        "$2,000 to $4,000"
+      ],
+      "answer": 2,
+      "explain": "A first conviction carries a fine of $500 to $1,250; a second within five years brings $1,000 to $2,000 and a possible six-month suspension.",
+      "official": false,
+      "ref": "Texas Driver Handbook (DL-7, rev. January 2026), Chapter 4: Right-of-Way, section 'Yield Right-of-Way to School Buses'"
+    },
+    {
+      "id": "tx-094",
+      "topic": "right-of-way",
+      "q": "Your light turns green, but a pedestrian who started crossing earlier is still in the crosswalk. You must:",
+      "options": [
+        "Drive around the pedestrian",
+        "Proceed, because you have a green light",
+        "Honk so the pedestrian hurries",
+        "Wait for the pedestrian to finish crossing"
+      ],
+      "answer": 3,
+      "explain": "If the light changes after a pedestrian has entered the crosswalk, you must still give the pedestrian the right-of-way.",
+      "official": false,
+      "ref": "Texas Driver Handbook (DL-7, rev. January 2026), Chapter 4: Right-of-Way, section 'Yield the Right-of-Way to Pedestrians (Persons on Foot)'"
+    },
+    {
+      "id": "tx-095",
+      "topic": "right-of-way",
+      "q": "At an intersection with a green light but no pedestrian signal, a pedestrian is crossing in front of you. Who has the right-of-way?",
+      "options": [
+        "The pedestrian",
+        "You, because you have the green light",
+        "The pedestrian only if using a cane",
+        "Whoever entered the intersection last"
+      ],
+      "answer": 0,
+      "explain": "If there is no pedestrian control signal, give pedestrians the right-of-way on a green light.",
+      "official": false,
+      "ref": "Texas Driver Handbook (DL-7, rev. January 2026), Chapter 4: Right-of-Way, section 'Yield the Right-of-Way to Pedestrians (Persons on Foot)'"
+    },
+    {
+      "id": "tx-096",
+      "topic": "right-of-way",
+      "q": "Which statement about right-of-way is correct?",
+      "options": [
+        "If you have the right-of-way, you may proceed no matter what",
+        "Right-of-way is given, not taken; yield if another driver does not",
+        "Right-of-way rules apply only at signals",
+        "The faster vehicle always has the right-of-way"
+      ],
+      "answer": 1,
+      "explain": "Right-of-way is something given, not taken. If another driver does not follow the rules, let them go.",
+      "official": false,
+      "ref": "Texas Driver Handbook (DL-7, rev. January 2026), Chapter 4: Right-of-Way, section 'Chapter 4 introduction'"
+    },
+    {
+      "id": "tx-097",
+      "topic": "right-of-way",
+      "q": "When you must stop for a train at a railroad crossing, how far from the nearest rail must you stop?",
+      "options": [
+        "Between 50 and 100 feet",
+        "At least 100 feet",
+        "Between 5 and 10 feet",
+        "Between 15 and 50 feet"
+      ],
+      "answer": 3,
+      "explain": "Stop between 15 and 50 feet from the nearest rail when a signal, gate, flagger, or approaching train requires it.",
+      "official": false,
+      "ref": "Texas Driver Handbook (DL-7, rev. January 2026), Chapter 4: Right-of-Way, section 'Railroad Grade Crossings'"
+    },
+    {
+      "id": "tx-098",
+      "topic": "right-of-way",
+      "q": "A train within about 1,500 feet of a crossing sounds its horn. What must you do?",
+      "options": [
+        "Stop and stay stopped until it is safe to cross",
+        "Stop only if the lights are flashing",
+        "Cross quickly before the train arrives",
+        "Slow down and cross if the gates are still up"
+      ],
+      "answer": 0,
+      "explain": "You must stop when an approaching train is within about 1,500 feet and gives an audible signal, and remain stopped until it is safe.",
+      "official": false,
+      "ref": "Texas Driver Handbook (DL-7, rev. January 2026), Chapter 4: Right-of-Way, section 'Railroad Grade Crossings'"
+    },
+    {
+      "id": "tx-099",
+      "topic": "right-of-way",
+      "q": "What is the fine range for disobeying the law at a railroad grade crossing?",
+      "options": [
+        "$1 to $25",
+        "$50 to $200",
+        "$500 to $1,250",
+        "$2,000 to $4,000"
+      ],
+      "answer": 1,
+      "explain": "A person who fails to obey railroad grade crossing laws faces a fine of $50 to $200.",
+      "official": false,
+      "ref": "Texas Driver Handbook (DL-7, rev. January 2026), Chapter 4: Right-of-Way, section 'Railroad Grade Crossings'"
+    },
+    {
+      "id": "tx-100",
+      "topic": "right-of-way",
+      "q": "When entering a freeway from an on-ramp, you must:",
+      "options": [
+        "Expect freeway traffic to make room for you",
+        "Stop at the end of the ramp",
+        "Yield to vehicles already on the freeway",
+        "Enter at a slow speed and let others go around"
+      ],
+      "answer": 2,
+      "explain": "Yield the right-of-way to vehicles already on the highway, then use the speed change lane to match traffic speed and merge.",
+      "official": false,
+      "ref": "Texas Driver Handbook (DL-7, rev. January 2026), Chapter 9: Some Special Driving Situations, section 'Entering the Highway'"
+    },
+    {
+      "id": "tx-101",
+      "topic": "right-of-way",
+      "q": "At an all-way stop, you and another vehicle stop at the same time. The other vehicle is on your right. What should you do?",
+      "options": [
+        "Go first because it is on your right",
+        "Let the vehicle on your right go first",
+        "Go first if you are going straight",
+        "Wait for a third vehicle to decide"
+      ],
+      "answer": 1,
+      "explain": "Every driver stops and goes in the order they arrived; when two arrive together, the driver on the left lets the driver on the right go first.",
+      "official": false,
+      "ref": "Texas Driver Handbook (DL-7, rev. January 2026), Chapter 5: Signals, Signs, and Markers, section 'Regulatory and Warning Signs'"
+    },
+    {
+      "id": "tx-102",
+      "topic": "right-of-way",
+      "q": "When entering a modern roundabout, you must:",
+      "options": [
+        "Yield to traffic already circulating in the roundabout",
+        "Expect circulating traffic to yield to you",
+        "Stop even if the circle is empty",
+        "Enter to the left and travel clockwise"
+      ],
+      "answer": 0,
+      "explain": "Slow down, yield to traffic already in the circle, enter when there is a gap, and travel counterclockwise.",
+      "official": false,
+      "ref": "Texas Driver Handbook (DL-7, rev. January 2026), Chapter 9: Some Special Driving Situations, section 'Roundabouts'"
+    },
+    {
+      "id": "tx-103",
+      "topic": "right-of-way",
+      "q": "A driver who fails to yield the right-of-way and causes bodily injury to another person faces a fine of:",
+      "options": [
+        "$25 to $200",
+        "$50 to $500",
+        "$500 to $2,000",
+        "$5,000 to $10,000"
+      ],
+      "answer": 2,
+      "explain": "Failure to yield causing bodily injury is punishable by a fine of $500 to $2,000 ($1,000 to $4,000 for serious bodily injury).",
+      "official": false,
+      "ref": "Texas Driver Handbook (DL-7, rev. January 2026), Chapter 4: Right-of-Way, section 'Right-of-Way (Table: Penalties for Failure to Yield Right-of-Way)'"
+    },
+    {
+      "id": "tx-104",
+      "topic": "right-of-way",
+      "q": "A pedestrian carrying a white cane is crossing the street ahead of you. What does the law require?",
+      "options": [
+        "Yield only if the pedestrian is in a marked crosswalk",
+        "Sound your horn to warn the pedestrian",
+        "Proceed if you have a green light",
+        "Take all needed precautions, and come to a full stop if that is the only way to avoid danger"
+      ],
+      "answer": 3,
+      "explain": "A white cane indicates the person may be blind or disabled. Drivers must take necessary precautions and stop if needed to avoid injuring them.",
+      "official": false,
+      "ref": "Texas Driver Handbook (DL-7, rev. January 2026), Chapter 12: Pedestrian Safety, section 'Laws and Safety Tips for Motorists'"
+    },
+    {
+      "id": "tx-105",
+      "topic": "right-of-way",
+      "q": "A pedestrian crosses the street in the middle of the block, away from any crosswalk. Under Texas law, the pedestrian:",
+      "options": [
+        "May cross only if carrying a light",
+        "Must yield the right-of-way to vehicles",
+        "Always has the right-of-way",
+        "Has the right-of-way only at night"
+      ],
+      "answer": 1,
+      "explain": "A pedestrian crossing anywhere other than within a crosswalk at an intersection must yield to vehicles (drivers must still try to avoid hitting them).",
+      "official": false,
+      "ref": "Texas Driver Handbook (DL-7, rev. January 2026), Chapter 12: Pedestrian Safety, section 'Laws and Safety Tips for Pedestrians'"
+    },
+    {
+      "id": "tx-106",
+      "topic": "right-of-way",
+      "q": "Who has the right-of-way at a railroad crossing?",
+      "options": [
+        "Whoever is on the right",
+        "Vehicles, if the crossing has no gates",
+        "The train, always",
+        "The first vehicle to reach the crossing"
+      ],
+      "answer": 2,
+      "explain": "A train cannot stop quickly and does not stop for crossings, so it always has the right-of-way.",
+      "official": false,
+      "ref": "Texas Driver Handbook (DL-7, rev. January 2026), Chapter 4: Right-of-Way, section 'Additional Safe Driving Procedures at Railroad Crossings'"
+    },
+    {
+      "id": "tx-107",
+      "topic": "speed",
+      "q": "Unless another limit is posted, what is the speed limit in a Texas urban district?",
+      "options": [
+        "25 mph",
+        "30 mph",
+        "35 mph",
+        "40 mph"
+      ],
+      "answer": 1,
+      "explain": "The prima facie speed limit in an urban district is 30 mph.",
+      "official": false,
+      "ref": "Texas Driver Handbook (DL-7, rev. January 2026), Chapter 8: Speed and Speed Limits, section 'Speed Limits'"
+    },
+    {
+      "id": "tx-108",
+      "topic": "speed",
+      "q": "Unless posted otherwise, what is the speed limit in an alley?",
+      "options": [
+        "10 mph",
+        "15 mph",
+        "20 mph",
+        "25 mph"
+      ],
+      "answer": 1,
+      "explain": "The speed limit in an alley is 15 mph.",
+      "official": false,
+      "ref": "Texas Driver Handbook (DL-7, rev. January 2026), Chapter 8: Speed and Speed Limits, section 'Speed Limits'"
+    },
+    {
+      "id": "tx-109",
+      "topic": "speed",
+      "q": "Unless posted otherwise, what is the maximum speed for a passenger car on a U.S. or Texas-numbered highway (including Farm-to-Market roads) outside an urban district?",
+      "options": [
+        "55 mph",
+        "60 mph",
+        "70 mph",
+        "75 mph"
+      ],
+      "answer": 2,
+      "explain": "Numbered highways outside urban districts have a 70 mph limit for passenger cars unless another limit is posted.",
+      "official": false,
+      "ref": "Texas Driver Handbook (DL-7, rev. January 2026), Chapter 8: Speed and Speed Limits, section 'Speed Limits'"
+    },
+    {
+      "id": "tx-110",
+      "topic": "speed",
+      "q": "Unless posted otherwise, what is the maximum speed for a passenger car on a highway outside an urban district that is NOT numbered by Texas or the U.S.?",
+      "options": [
+        "50 mph",
+        "55 mph",
+        "60 mph",
+        "70 mph"
+      ],
+      "answer": 2,
+      "explain": "On un-numbered highways outside an urban district, the limit is 60 mph.",
+      "official": false,
+      "ref": "Texas Driver Handbook (DL-7, rev. January 2026), Chapter 8: Speed and Speed Limits, section 'Speed Limits'"
+    },
+    {
+      "id": "tx-111",
+      "topic": "speed",
+      "q": "On a public beach where the county commissioners court has set a limit, the speed limit is:",
+      "options": [
+        "10 mph",
+        "15 mph",
+        "25 mph",
+        "30 mph"
+      ],
+      "answer": 1,
+      "explain": "Beaches and county roads next to a public beach (if declared by the commissioners court) have a 15 mph limit.",
+      "official": false,
+      "ref": "Texas Driver Handbook (DL-7, rev. January 2026), Chapter 8: Speed and Speed Limits, section 'Speed Limits'"
+    },
+    {
+      "id": "tx-112",
+      "topic": "speed",
+      "q": "Some Texas limited-access highways have posted speed limits as high as:",
+      "options": [
+        "70 mph",
+        "75 mph",
+        "85 mph",
+        "90 mph"
+      ],
+      "answer": 2,
+      "explain": "Based on traffic studies, many limited-access highways are posted at 75 up to 85 mph. Always obey the posted limit.",
+      "official": false,
+      "ref": "Texas Driver Handbook (DL-7, rev. January 2026), Chapter 8: Speed and Speed Limits, section 'Speed Limits'"
+    },
+    {
+      "id": "tx-113",
+      "topic": "speed",
+      "q": "When a city or county sets or changes a speed limit, what must be true about daytime and nighttime limits?",
+      "options": [
+        "The nighttime limit must be 5 mph lower",
+        "The nighttime limit must be 10 mph lower",
+        "Only a daytime limit is set",
+        "They must be the same"
+      ],
+      "answer": 3,
+      "explain": "Entities that establish or alter a speed limit must set the same limit for daytime and nighttime.",
+      "official": false,
+      "ref": "Texas Driver Handbook (DL-7, rev. January 2026), Chapter 8: Speed and Speed Limits, section 'Speed Limits'"
+    },
+    {
+      "id": "tx-114",
+      "topic": "speed",
+      "q": "In good conditions at 30 mph or less, what is the minimum following time behind the car ahead?",
+      "options": [
+        "1 second",
+        "2 seconds",
+        "4 seconds",
+        "6 seconds"
+      ],
+      "answer": 1,
+      "explain": "At speeds of 30 mph or less in good road conditions, keep at least 2 seconds between you and the vehicle ahead.",
+      "official": false,
+      "ref": "Texas Driver Handbook (DL-7, rev. January 2026), Chapter 8: Speed and Speed Limits, section 'Speed'"
+    },
+    {
+      "id": "tx-115",
+      "topic": "speed",
+      "q": "In good conditions at speeds above 30 mph, the Texas handbook says to keep a following gap of:",
+      "options": [
+        "1 second",
+        "2 seconds",
+        "4 seconds",
+        "10 seconds"
+      ],
+      "answer": 2,
+      "explain": "Above 30 mph, maintain a 4-second gap in good conditions, and more in poor conditions. Four seconds is also the best practice for new drivers.",
+      "official": false,
+      "ref": "Texas Driver Handbook (DL-7, rev. January 2026), Chapter 8: Speed and Speed Limits, section 'Speed'"
+    },
+    {
+      "id": "tx-116",
+      "topic": "speed",
+      "q": "How do you check your following distance?",
+      "options": [
+        "Count the seconds from when the vehicle ahead passes a fixed object until you reach it",
+        "Keep the car ahead's bumper visible over your hood",
+        "Watch your speedometer and stay 10 mph slower",
+        "Count the car lengths between you and the vehicle ahead"
+      ],
+      "answer": 0,
+      "explain": "Pick a fixed object; when the vehicle ahead passes it, count until you reach it. Reaching it in under two seconds means you are too close.",
+      "official": false,
+      "ref": "Texas Driver Handbook (DL-7, rev. January 2026), Chapter 8: Speed and Speed Limits, section 'Speed'"
+    },
+    {
+      "id": "tx-117",
+      "topic": "speed",
+      "q": "With good brakes on dry, level pavement, about how many feet does it take an average driver to stop from 70 mph (including reaction distance)?",
+      "options": [
+        "164 feet",
+        "229 feet",
+        "387 feet",
+        "500 feet"
+      ],
+      "answer": 2,
+      "explain": "The handbook's stopping table shows about 387 feet to stop from 70 mph, even with good brakes and tires on dry, level pavement.",
+      "official": false,
+      "ref": "Texas Driver Handbook (DL-7, rev. January 2026), Chapter 8: Speed and Speed Limits, section 'Approximate Stopping Distances'"
+    },
+    {
+      "id": "tx-118",
+      "topic": "speed",
+      "q": "About how many feet does it take to stop from 50 mph (thinking plus braking distance) on dry pavement?",
+      "options": [
+        "109 feet",
+        "164 feet",
+        "229 feet",
+        "303 feet"
+      ],
+      "answer": 2,
+      "explain": "The stopping table gives about 229 feet at 50 mph.",
+      "official": false,
+      "ref": "Texas Driver Handbook (DL-7, rev. January 2026), Chapter 8: Speed and Speed Limits, section 'Approximate Stopping Distances'"
+    },
+    {
+      "id": "tx-119",
+      "topic": "speed",
+      "q": "About how many feet does it take to stop from 20 mph on dry pavement?",
+      "options": [
+        "25 feet",
+        "63 feet",
+        "109 feet",
+        "164 feet"
+      ],
+      "answer": 1,
+      "explain": "At 20 mph the total stopping distance is about 63 feet.",
+      "official": false,
+      "ref": "Texas Driver Handbook (DL-7, rev. January 2026), Chapter 8: Speed and Speed Limits, section 'Approximate Stopping Distances'"
+    },
+    {
+      "id": "tx-120",
+      "topic": "speed",
+      "q": "About how long does it take the average driver to think, react and apply the brakes?",
+      "options": [
+        "5 seconds",
+        "3 seconds",
+        "½ second",
+        "1½ seconds"
+      ],
+      "answer": 3,
+      "explain": "It takes the average person about 1½ seconds to think, react and apply the brakes.",
+      "official": false,
+      "ref": "Texas Driver Handbook (DL-7, rev. January 2026), Chapter 8: Speed and Speed Limits, section 'Approximate Stopping Distances'"
+    },
+    {
+      "id": "tx-121",
+      "topic": "speed",
+      "q": "How does higher speed affect your field of vision?",
+      "options": [
+        "It narrows it—at 60 mph you see only about one-fifth of what you see when stopped",
+        "It widens it because you scan more",
+        "It does not change it",
+        "It narrows only at night"
+      ],
+      "answer": 0,
+      "explain": "Speed reduces your field of vision: about 2/3 at 20 mph, 2/5 at 40 mph, and 1/5 at 60 mph.",
+      "official": false,
+      "ref": "Texas Driver Handbook (DL-7, rev. January 2026), Chapter 8: Speed and Speed Limits, section 'Speed Reduces Your Field of Vision'"
+    },
+    {
+      "id": "tx-122",
+      "topic": "speed",
+      "q": "The posted limit is 55 mph, but there is heavy rain and poor visibility. What speed is legal?",
+      "options": [
+        "Exactly 55 mph",
+        "Any speed, as long as your headlights are on",
+        "Up to 60 mph to keep up with traffic",
+        "A speed slower than 55 that is safe for the conditions"
+      ],
+      "answer": 3,
+      "explain": "Under the basic speed law you may not drive faster than is safe and prudent for conditions, regardless of the posted limit.",
+      "official": false,
+      "ref": "Texas Driver Handbook (DL-7, rev. January 2026), Chapter 8: Speed and Speed Limits, section 'Speed Limits'; Appendix A: Glossary, 'basic speed law'"
+    },
+    {
+      "id": "tx-123",
+      "topic": "speed",
+      "q": "What should you do when the road is wet or crowded, or when your vision is limited?",
+      "options": [
+        "Slow down and increase your following distance",
+        "Keep the same speed but use high beams",
+        "Speed up to get through quickly",
+        "Follow closer so you can see the taillights ahead"
+      ],
+      "answer": 0,
+      "explain": "Slow down and increase following distance on wet or crowded roads and when your vision is limited.",
+      "official": false,
+      "ref": "Texas Driver Handbook (DL-7, rev. January 2026), Chapter 8: Speed and Speed Limits, section 'Speed'"
+    },
+    {
+      "id": "tx-124",
+      "topic": "speed",
+      "q": "In a construction or maintenance work zone, traffic fines:",
+      "options": [
+        "Double when workers are present",
+        "Are the same as anywhere else",
+        "Apply only to trucks",
+        "Triple at all times"
+      ],
+      "answer": 0,
+      "explain": "Fines double in a construction or maintenance work zone when workers are present.",
+      "official": false,
+      "ref": "Texas Driver Handbook (DL-7, rev. January 2026), Chapter 5: Signals, Signs, and Markers, section 'Obey Warning Signs and Barricades'"
+    },
+    {
+      "id": "tx-125",
+      "topic": "speed",
+      "q": "If you cannot or do not want to drive at least the minimum posted speed on a highway, you should:",
+      "options": [
+        "Drive on the shoulder",
+        "Drive at any speed you choose in the right lane",
+        "Turn on your hazard lights and drive in the left lane",
+        "Use a different road"
+      ],
+      "answer": 3,
+      "explain": "Drivers who are unable or unwilling to keep up with the posted minimum speed should stay off that highway.",
+      "official": false,
+      "ref": "Texas Driver Handbook (DL-7, rev. January 2026), Chapter 9: Some Special Driving Situations, section 'Before Using a Highway'"
+    },
+    {
+      "id": "tx-126",
+      "topic": "speed",
+      "q": "Taking part in a street race or drag race on a public road in Texas is:",
+      "options": [
+        "A crime ranging from a Class B misdemeanor to a second-degree felony",
+        "Legal at night when roads are empty",
+        "Only a traffic warning",
+        "A civil fine of $25"
+      ],
+      "answer": 0,
+      "explain": "Street racing is illegal; penalties range from a Class B misdemeanor up to a second-degree felony.",
+      "official": false,
+      "ref": "Texas Driver Handbook (DL-7, rev. January 2026), Chapter 8: Speed and Speed Limits, section 'Street Racing'"
+    },
+    {
+      "id": "tx-127",
+      "topic": "speed",
+      "q": "When should you begin slowing down when leaving a freeway?",
+      "options": [
+        "You should not slow down until you see a stop sign",
+        "On the freeway, well before the exit ramp",
+        "Only after you reach the end of the ramp",
+        "On the exit ramp, so you are within the new, lower speed by the end of the ramp"
+      ],
+      "answer": 3,
+      "explain": "Do your slowing on the exit ramp itself, so you are down to the lower posted speed by the time you leave the ramp.",
+      "official": false,
+      "ref": "Texas Driver Handbook (DL-7, rev. January 2026), Chapter 9: Some Special Driving Situations, section 'Leaving the Highway'"
+    },
+    {
+      "id": "tx-128",
+      "topic": "speed",
+      "q": "At night, how fast should you drive?",
+      "options": [
+        "Slowly enough to stop within the distance lit by your headlights",
+        "As fast as the vehicle ahead",
+        "At the posted limit, regardless of visibility",
+        "Faster than in the day because traffic is lighter"
+      ],
+      "answer": 0,
+      "explain": "Slow down at night and make sure you can stop within the distance your headlights light up.",
+      "official": false,
+      "ref": "Texas Driver Handbook (DL-7, rev. January 2026), Chapter 9: Some Special Driving Situations, section 'Headlights'"
+    },
+    {
+      "id": "tx-129",
+      "topic": "speed",
+      "q": "On a freeway, you should generally:",
+      "options": [
+        "Change lanes often to find the fastest lane",
+        "Drive in the left lane at the minimum speed",
+        "Speed up and slow down to keep others from passing",
+        "Keep pace with traffic, maintain a steady speed and avoid weaving"
+      ],
+      "answer": 3,
+      "explain": "Stay in the middle of your lane, don't weave, and keep a constant speed with the flow of traffic.",
+      "official": false,
+      "ref": "Texas Driver Handbook (DL-7, rev. January 2026), Chapter 9: Some Special Driving Situations, section 'Once You are in the Proper Lane'"
+    },
+    {
+      "id": "tx-130",
+      "topic": "turns",
+      "q": "How far before turning must you signal continuously?",
+      "options": [
+        "At least 50 feet",
+        "At least 100 feet",
+        "At least 200 feet",
+        "At least 500 feet"
+      ],
+      "answer": 1,
+      "explain": "Signal continuously for at least 100 feet before turning or stopping, and turn the signal off after the turn.",
+      "official": false,
+      "ref": "Texas Driver Handbook (DL-7, rev. January 2026), Chapter 6: Signaling, Passing, and Turning, section 'How to Signal'"
+    },
+    {
+      "id": "tx-131",
+      "topic": "turns",
+      "q": "To signal a left turn by hand, you extend your left arm:",
+      "options": [
+        "Upward, bent at the elbow",
+        "Out and wave it back and forth",
+        "Downward, bent at the elbow",
+        "Straight out, horizontally"
+      ],
+      "answer": 3,
+      "explain": "Left turn: left arm straight out. Right turn: arm bent upward. Stop or slow: arm bent downward.",
+      "official": false,
+      "ref": "Texas Driver Handbook (DL-7, rev. January 2026), Chapter 6: Signaling, Passing, and Turning, section 'How to Signal'"
+    },
+    {
+      "id": "tx-132",
+      "topic": "turns",
+      "q": "A driver's left arm is extended out the window and bent upward at the elbow. This driver intends to:",
+      "options": [
+        "Turn right",
+        "Pull over for an emergency vehicle",
+        "Turn left",
+        "Stop or slow down"
+      ],
+      "answer": 0,
+      "explain": "A left arm bent upward is the hand signal for a right turn.",
+      "official": false,
+      "ref": "Texas Driver Handbook (DL-7, rev. January 2026), Chapter 6: Signaling, Passing, and Turning, section 'How to Signal'"
+    },
+    {
+      "id": "tx-133",
+      "topic": "turns",
+      "q": "A driver's left arm is extended out the window and pointed downward. This driver intends to:",
+      "options": [
+        "Let you pass",
+        "Turn left",
+        "Stop or slow down",
+        "Turn right"
+      ],
+      "answer": 2,
+      "explain": "A left arm bent downward means the driver is stopping or slowing down.",
+      "official": false,
+      "ref": "Texas Driver Handbook (DL-7, rev. January 2026), Chapter 6: Signaling, Passing, and Turning, section 'How to Signal'"
+    },
+    {
+      "id": "tx-134",
+      "topic": "turns",
+      "q": "Which of these requires a turn signal?",
+      "options": [
+        "Driving straight through an intersection",
+        "Slowing for a speed bump in a parking lot with no one around",
+        "Turning on your headlights",
+        "Pulling away from a parallel parking space at the curb"
+      ],
+      "answer": 3,
+      "explain": "Signal to change lanes, turn, pull away from a parallel parking space, slow or stop, enter or leave a highway, and pull to the side of the road.",
+      "official": false,
+      "ref": "Texas Driver Handbook (DL-7, rev. January 2026), Chapter 6: Signaling, Passing, and Turning, section 'Signaling'"
+    },
+    {
+      "id": "tx-135",
+      "topic": "turns",
+      "q": "You may not drive on the left side of the road within how many feet of an intersection or railroad crossing?",
+      "options": [
+        "50 feet",
+        "100 feet",
+        "200 feet",
+        "500 feet"
+      ],
+      "answer": 1,
+      "explain": "Never drive on the left side within 100 feet of or while crossing an intersection or railroad crossing.",
+      "official": false,
+      "ref": "Texas Driver Handbook (DL-7, rev. January 2026), Chapter 6: Signaling, Passing, and Turning, section 'Keep to the Right'"
+    },
+    {
+      "id": "tx-136",
+      "topic": "turns",
+      "q": "You may not drive on the left side of the road to pass within how many feet of a bridge, viaduct, or tunnel?",
+      "options": [
+        "50 feet",
+        "100 feet",
+        "300 feet",
+        "1,000 feet"
+      ],
+      "answer": 1,
+      "explain": "Passing on the left is prohibited within 100 feet of a bridge, viaduct, or tunnel.",
+      "official": false,
+      "ref": "Texas Driver Handbook (DL-7, rev. January 2026), Chapter 6: Signaling, Passing, and Turning, section 'Keep to the Right'"
+    },
+    {
+      "id": "tx-137",
+      "topic": "turns",
+      "q": "In which situation is it illegal to drive on the left side of the road to pass?",
+      "options": [
+        "On a hill or curve where your view is limited",
+        "On a one-way street",
+        "On a straight two-lane road with a broken yellow line and no oncoming traffic",
+        "When the right half of the road is closed"
+      ],
+      "answer": 0,
+      "explain": "Never drive on the left on a hill, curve, or other place with limited vision, in a no-passing zone, or on roads with two or more lanes in each direction.",
+      "official": false,
+      "ref": "Texas Driver Handbook (DL-7, rev. January 2026), Chapter 6: Signaling, Passing, and Turning, section 'Keep to the Right'"
+    },
+    {
+      "id": "tx-138",
+      "topic": "turns",
+      "q": "When passing on a two-lane road, you must be able to return to the right lane before an oncoming vehicle comes within:",
+      "options": [
+        "50 feet",
+        "100 feet",
+        "200 feet",
+        "500 feet"
+      ],
+      "answer": 2,
+      "explain": "Be sure you have time and space to pass and return to the right lane before an approaching car comes within 200 feet.",
+      "official": false,
+      "ref": "Texas Driver Handbook (DL-7, rev. January 2026), Chapter 6: Signaling, Passing, and Turning, section 'How to Pass on a Two-Lane Road'"
+    },
+    {
+      "id": "tx-139",
+      "topic": "turns",
+      "q": "After passing a car, when is it safe to move back into the right lane?",
+      "options": [
+        "When the other driver flashes the high beams, regardless of distance",
+        "As soon as your front bumper is past its front bumper",
+        "After counting to two",
+        "When you can see the passed car in your rearview mirror"
+      ],
+      "answer": 3,
+      "explain": "Do not return until you have safely cleared the vehicle—wait until you can see it in your rearview mirror.",
+      "official": false,
+      "ref": "Texas Driver Handbook (DL-7, rev. January 2026), Chapter 6: Signaling, Passing, and Turning, section 'How to Pass on a Two-Lane Road'"
+    },
+    {
+      "id": "tx-140",
+      "topic": "turns",
+      "q": "When may you pass another vehicle on the right in Texas?",
+      "options": [
+        "On a road with two or more lanes in each direction that is clear of obstructions, or on a one-way road",
+        "By driving onto an unpaved shoulder",
+        "Whenever the driver ahead is going below the limit",
+        "Only on two-lane roads"
+      ],
+      "answer": 0,
+      "explain": "Passing on the right is allowed only when safe: on roads wide enough for two or more lanes each way and clear of obstructions, on one-way roads, or on a paved shoulder in limited cases.",
+      "official": false,
+      "ref": "Texas Driver Handbook (DL-7, rev. January 2026), Chapter 6: Signaling, Passing, and Turning, section 'Passing on the Right'"
+    },
+    {
+      "id": "tx-141",
+      "topic": "turns",
+      "q": "You may use a paved shoulder to pass on the right when the vehicle ahead is:",
+      "options": [
+        "Stopped or preparing to turn left",
+        "Changing radio stations",
+        "Going 5 mph under the limit",
+        "A truck"
+      ],
+      "answer": 0,
+      "explain": "Passing on a paved shoulder is allowed when the vehicle ahead is slowing or stopped on the main road, disabled, or preparing to turn left. Never pass off the paved portion of the road.",
+      "official": false,
+      "ref": "Texas Driver Handbook (DL-7, rev. January 2026), Chapter 6: Signaling, Passing, and Turning, section 'Passing on the Right'"
+    },
+    {
+      "id": "tx-142",
+      "topic": "turns",
+      "q": "Another vehicle is passing you on the left. You should:",
+      "options": [
+        "Speed up so the pass is shorter",
+        "Stay in your lane and not speed up",
+        "Brake hard",
+        "Move to the left to block the pass"
+      ],
+      "answer": 1,
+      "explain": "When being passed, do not increase your speed, stay in your lane, and make it as easy as possible for the other driver.",
+      "official": false,
+      "ref": "Texas Driver Handbook (DL-7, rev. January 2026), Chapter 6: Signaling, Passing, and Turning, section 'When Another Vehicle is Passing'"
+    },
+    {
+      "id": "tx-143",
+      "topic": "turns",
+      "q": "You are near an intersection and realize you are not in the correct lane to turn, and you cannot safely get there within half a block. You should:",
+      "options": [
+        "Stop in your lane until you can move over",
+        "Turn from the lane you are in",
+        "Back up to the correct lane",
+        "Continue straight and find another way back"
+      ],
+      "answer": 3,
+      "explain": "If you cannot move into the proper lane at least half a block before the turn, skip the turn and keep going straight.",
+      "official": false,
+      "ref": "Texas Driver Handbook (DL-7, rev. January 2026), Chapter 6: Signaling, Passing, and Turning, section 'Turning'"
+    },
+    {
+      "id": "tx-144",
+      "topic": "turns",
+      "q": "When making a right turn, you should:",
+      "options": [
+        "Swing wide to the left first",
+        "Turn from the center lane",
+        "Signal, slow down, and keep as close as possible to the right edge of the road",
+        "Speed up through the turn"
+      ],
+      "answer": 2,
+      "explain": "Move to the far right lane, signal and slow at least 100 feet from the corner, and keep as close as possible to the right edge.",
+      "official": false,
+      "ref": "Texas Driver Handbook (DL-7, rev. January 2026), Chapter 6: Signaling, Passing, and Turning, section 'How to Make a Right Turn'"
+    },
+    {
+      "id": "tx-145",
+      "topic": "turns",
+      "q": "When making a left turn from a two-way street onto another two-way street, where should you finish your turn?",
+      "options": [
+        "In any lane, as long as you signal",
+        "To the right of the center line of the street you enter",
+        "On the shoulder, then merge",
+        "In the far left lane of the new street, against traffic"
+      ],
+      "answer": 1,
+      "explain": "Stay to the right of the center line as you enter, and complete the turn to the right of the center line of the road you are turning into.",
+      "official": false,
+      "ref": "Texas Driver Handbook (DL-7, rev. January 2026), Chapter 6: Signaling, Passing, and Turning, section 'How to Make a Left Turn'"
+    },
+    {
+      "id": "tx-146",
+      "topic": "turns",
+      "q": "When turning left onto a one-way street, you should enter:",
+      "options": [
+        "The lane in which you will interfere least with other traffic",
+        "Always the far right lane",
+        "Any lane, then cross quickly",
+        "The lane closest to the oncoming traffic"
+      ],
+      "answer": 0,
+      "explain": "When turning left onto a one-way street, enter the lane where you will interfere the least with other traffic.",
+      "official": false,
+      "ref": "Texas Driver Handbook (DL-7, rev. January 2026), Chapter 6: Signaling, Passing, and Turning, section 'Making a Left Turn From a Two-Way Onto a One-Way Street'"
+    },
+    {
+      "id": "tx-147",
+      "topic": "turns",
+      "q": "How should you use a center left-turn lane?",
+      "options": [
+        "Use it to pass slow traffic",
+        "Use it to merge into traffic from a side street at high speed",
+        "Enter it only where you have time to slow or stop for your left turn",
+        "Drive in it for several blocks to bypass congestion"
+      ],
+      "answer": 2,
+      "explain": "The center lane is only for vehicles turning left; never use it for passing or through traffic.",
+      "official": false,
+      "ref": "Texas Driver Handbook (DL-7, rev. January 2026), Chapter 5: Signals, Signs, and Markers, section 'Left Turn Lane Only'"
+    },
+    {
+      "id": "tx-148",
+      "topic": "turns",
+      "q": "On a road with several lanes in your direction, the farthest left lane is meant for:",
+      "options": [
+        "Parking",
+        "Slower traffic",
+        "Trucks only",
+        "Passing"
+      ],
+      "answer": 3,
+      "explain": "Slower traffic should use a lane other than the farthest left lane, which is for passing only.",
+      "official": false,
+      "ref": "Texas Driver Handbook (DL-7, rev. January 2026), Chapter 5: Signals, Signs, and Markers, section 'Regulatory and Warning Signs'"
+    },
+    {
+      "id": "tx-149",
+      "topic": "turns",
+      "q": "When passing another vehicle, you should avoid:",
+      "options": [
+        "Checking your mirrors",
+        "Tapping your horn when necessary",
+        "Signaling before changing lanes",
+        "Lingering in the other driver's blind spot"
+      ],
+      "answer": 3,
+      "explain": "Do not drive or linger in another driver's blind spot; either pass or drop back.",
+      "official": false,
+      "ref": "Texas Driver Handbook (DL-7, rev. January 2026), Chapter 6: Signaling, Passing, and Turning, section 'Blind Spot Driving'"
+    },
+    {
+      "id": "tx-150",
+      "topic": "turns",
+      "q": "When you plan to exit a busy freeway, you should:",
+      "options": [
+        "Move into the exit lane well before the exit",
+        "Cross several lanes right at the exit",
+        "Slow down in the travel lane before moving over",
+        "Stay in the left lane until the last moment"
+      ],
+      "answer": 0,
+      "explain": "Move into the proper lane well before the exit—the heavier the traffic, the earlier. Exit signs are usually at least 1,000 yards ahead.",
+      "official": false,
+      "ref": "Texas Driver Handbook (DL-7, rev. January 2026), Chapter 9: Some Special Driving Situations, section 'Leaving the Highway'"
+    },
+    {
+      "id": "tx-151",
+      "topic": "turns",
+      "q": "How should you enter a freeway?",
+      "options": [
+        "Drive onto the shoulder until a gap appears",
+        "Use the acceleration lane, signal, and speed up to merge with the flow when clear",
+        "Merge at a low speed and let traffic go around you",
+        "Stop at the end of the ramp and wait for a large gap"
+      ],
+      "answer": 1,
+      "explain": "Enter the speed change lane, stay right, signal left, and increase speed to merge with the flow of traffic when it is clear.",
+      "official": false,
+      "ref": "Texas Driver Handbook (DL-7, rev. January 2026), Chapter 9: Some Special Driving Situations, section 'Entering the Highway'"
+    },
+    {
+      "id": "tx-152",
+      "topic": "turns",
+      "q": "On a multi-lane freeway, which lane should you use if you are driving slower than other traffic?",
+      "options": [
+        "The left lane",
+        "The shoulder",
+        "The right lane",
+        "The middle lane"
+      ],
+      "answer": 2,
+      "explain": "Use the right lane at the minimum speed or below the normal flow; use middle or left lanes to travel faster or pass.",
+      "official": false,
+      "ref": "Texas Driver Handbook (DL-7, rev. January 2026), Chapter 9: Some Special Driving Situations, section 'Choose the Proper Lane'"
+    },
+    {
+      "id": "tx-153",
+      "topic": "turns",
+      "q": "Inside a modern roundabout, traffic travels:",
+      "options": [
+        "Clockwise, and you exit by turning left",
+        "Counterclockwise, and you exit by turning right",
+        "Straight across the center island",
+        "In either direction"
+      ],
+      "answer": 1,
+      "explain": "A modern roundabout is a one-way circle; traffic flows counterclockwise and you signal right to exit.",
+      "official": false,
+      "ref": "Texas Driver Handbook (DL-7, rev. January 2026), Chapter 9: Some Special Driving Situations, section 'Roundabouts'"
+    },
+    {
+      "id": "tx-154",
+      "topic": "turns",
+      "q": "In a multi-lane roundabout, you should:",
+      "options": [
+        "Stop in the circle to let others merge",
+        "Change lanes freely inside the circle",
+        "Always use the inside lane",
+        "Pick the correct lane before entering and not change lanes in the circle"
+      ],
+      "answer": 3,
+      "explain": "Use the lane-movement sign to choose your entry lane, and do not change lanes while in the circle.",
+      "official": false,
+      "ref": "Texas Driver Handbook (DL-7, rev. January 2026), Chapter 9: Some Special Driving Situations, section 'Roundabouts'"
+    },
+    {
+      "id": "tx-155",
+      "topic": "turns",
+      "q": "On a highway with four or more lanes and a double yellow center line, you may:",
+      "options": [
+        "Cross it only on weekends",
+        "Cross it to pass trucks",
+        "Never cross the double yellow line to pass",
+        "Cross it to pass when the road is clear"
+      ],
+      "answer": 2,
+      "explain": "On multi-lane highways, do not cross the double yellow line to pass. Stay in your lane and keep right if driving slower.",
+      "official": false,
+      "ref": "Texas Driver Handbook (DL-7, rev. January 2026), Chapter 5: Signals, Signs, and Markers, section 'Multi-lane Highway (Four or More Lanes)'"
+    },
+    {
+      "id": "tx-156",
+      "topic": "turns",
+      "q": "What should you do after completing a turn or lane change?",
+      "options": [
+        "Make sure your turn signal is off",
+        "Leave the signal on for the next turn",
+        "Flash your headlights",
+        "Sound your horn"
+      ],
+      "answer": 0,
+      "explain": "Turn off your signal once the turn is complete—an unintended signal still tells others you plan to turn.",
+      "official": false,
+      "ref": "Texas Driver Handbook (DL-7, rev. January 2026), Chapter 6: Signaling, Passing, and Turning, section 'How to Signal'"
+    },
+    {
+      "id": "tx-157",
+      "topic": "parking",
+      "q": "How close to a fire hydrant may you park?",
+      "options": [
+        "No closer than 5 feet",
+        "No closer than 10 feet",
+        "No closer than 30 feet",
+        "No closer than 15 feet"
+      ],
+      "answer": 3,
+      "explain": "Do not park or stand within 15 feet of a fire hydrant.",
+      "official": false,
+      "ref": "Texas Driver Handbook (DL-7, rev. January 2026), Chapter 7: Parking, Stopping, or Standing, section 'Do Not Park or Stand a Vehicle'"
+    },
+    {
+      "id": "tx-158",
+      "topic": "parking",
+      "q": "When parking near a corner, how far must you stay from a crosswalk at an intersection?",
+      "options": [
+        "10 feet",
+        "15 feet",
+        "20 feet",
+        "50 feet"
+      ],
+      "answer": 2,
+      "explain": "Do not park within 20 feet of a crosswalk at an intersection.",
+      "official": false,
+      "ref": "Texas Driver Handbook (DL-7, rev. January 2026), Chapter 7: Parking, Stopping, or Standing, section 'Do Not Park or Stand a Vehicle'"
+    },
+    {
+      "id": "tx-159",
+      "topic": "parking",
+      "q": "How far must you park from a stop sign, yield sign, or flashing signal on the approach side?",
+      "options": [
+        "10 feet",
+        "20 feet",
+        "30 feet",
+        "50 feet"
+      ],
+      "answer": 2,
+      "explain": "Do not park within 30 feet on the approach to a flashing signal, stop sign, yield sign, or traffic signal at the side of the road.",
+      "official": false,
+      "ref": "Texas Driver Handbook (DL-7, rev. January 2026), Chapter 7: Parking, Stopping, or Standing, section 'Do Not Park or Stand a Vehicle'"
+    },
+    {
+      "id": "tx-160",
+      "topic": "parking",
+      "q": "On the same side of the street as a fire station's driveway, you may not park within:",
+      "options": [
+        "5 feet of the driveway entrance",
+        "20 feet of the driveway entrance",
+        "50 feet of the driveway entrance",
+        "100 feet of the driveway entrance"
+      ],
+      "answer": 1,
+      "explain": "Do not park within 20 feet of a fire station driveway on the same side; on the opposite side, stay 75 feet from the entrance.",
+      "official": false,
+      "ref": "Texas Driver Handbook (DL-7, rev. January 2026), Chapter 7: Parking, Stopping, or Standing, section 'Do Not Park or Stand a Vehicle'"
+    },
+    {
+      "id": "tx-161",
+      "topic": "parking",
+      "q": "On the side of the street opposite a fire station entrance, how far away must you park?",
+      "options": [
+        "At least 75 feet",
+        "At least 20 feet",
+        "At least 150 feet",
+        "At least 30 feet"
+      ],
+      "answer": 0,
+      "explain": "On the side opposite a fire station entrance, do not park within 75 feet of the entrance.",
+      "official": false,
+      "ref": "Texas Driver Handbook (DL-7, rev. January 2026), Chapter 7: Parking, Stopping, or Standing, section 'Do Not Park or Stand a Vehicle'"
+    },
+    {
+      "id": "tx-162",
+      "topic": "parking",
+      "q": "How close may you park to the nearest rail of a railroad crossing?",
+      "options": [
+        "No closer than 50 feet",
+        "No closer than 25 feet",
+        "No closer than 15 feet",
+        "No closer than 100 feet"
+      ],
+      "answer": 0,
+      "explain": "Do not park within 50 feet of the nearest rail of a railroad crossing.",
+      "official": false,
+      "ref": "Texas Driver Handbook (DL-7, rev. January 2026), Chapter 7: Parking, Stopping, or Standing, section 'Do Not Park a Vehicle'"
+    },
+    {
+      "id": "tx-163",
+      "topic": "parking",
+      "q": "When parallel parked, your curb-side wheels may be no more than how far from the curb?",
+      "options": [
+        "6 inches",
+        "12 inches",
+        "18 inches",
+        "24 inches"
+      ],
+      "answer": 2,
+      "explain": "Your curb-side wheels may be at most 18 inches from the curb or road edge; about 6 inches is ideal.",
+      "official": false,
+      "ref": "Texas Driver Handbook (DL-7, rev. January 2026), Chapter 7: Parking, Stopping, or Standing, section 'Parallel Parking'"
+    },
+    {
+      "id": "tx-164",
+      "topic": "parking",
+      "q": "When starting to parallel park, how far out from the parked car ahead of the space should you stop?",
+      "options": [
+        "About six inches",
+        "About two feet",
+        "About five feet",
+        "About one car length"
+      ],
+      "answer": 1,
+      "explain": "Signal, then stop even with the front car about two feet out from it before backing into the space.",
+      "official": false,
+      "ref": "Texas Driver Handbook (DL-7, rev. January 2026), Chapter 7: Parking, Stopping, or Standing, section 'Parallel Parking'"
+    },
+    {
+      "id": "tx-165",
+      "topic": "parking",
+      "q": "You park uphill next to a curb. How should you turn your front wheels?",
+      "options": [
+        "Straight ahead",
+        "Toward the curb",
+        "It does not matter if the parking brake is set",
+        "Away from the curb, so the back of the front tire rests against it"
+      ],
+      "answer": 3,
+      "explain": "Uphill with a curb: turn the wheels away from the curb so the back of the wheel rests against it; if the car rolls, the curb stops it.",
+      "official": false,
+      "ref": "Texas Driver Handbook (DL-7, rev. January 2026), Chapter 7: Parking, Stopping, or Standing, section 'Parking on Hills'"
+    },
+    {
+      "id": "tx-166",
+      "topic": "parking",
+      "q": "You park downhill next to a curb. How should you turn your front wheels?",
+      "options": [
+        "Away from the curb",
+        "Toward the curb",
+        "Straight ahead",
+        "Toward the center of the street"
+      ],
+      "answer": 1,
+      "explain": "When parking downhill with a curb, turn the front wheels toward the curb.",
+      "official": false,
+      "ref": "Texas Driver Handbook (DL-7, rev. January 2026), Chapter 7: Parking, Stopping, or Standing, section 'Parking on Hills'"
+    },
+    {
+      "id": "tx-167",
+      "topic": "parking",
+      "q": "You park on a hill on a road with no curb. Which way should your front wheels point?",
+      "options": [
+        "Left when uphill and straight when downhill",
+        "Toward the center of the road (to the left)",
+        "Straight ahead",
+        "Toward the edge of the road (to the right)"
+      ],
+      "answer": 3,
+      "explain": "With no curb, turn the wheels to the right, toward the edge of the road, so the car would roll away from traffic.",
+      "official": false,
+      "ref": "Texas Driver Handbook (DL-7, rev. January 2026), Chapter 7: Parking, Stopping, or Standing, section 'Parking on Hills'"
+    },
+    {
+      "id": "tx-168",
+      "topic": "parking",
+      "q": "In which of these places is stopping, standing, or parking prohibited (except to avoid conflict with traffic or obey an officer or signal)?",
+      "options": [
+        "On a bridge",
+        "60 feet from a railroad crossing",
+        "25 feet from a fire hydrant",
+        "40 feet from a stop sign"
+      ],
+      "answer": 0,
+      "explain": "You may not park, stop or stand on a bridge, elevated structure, or in a highway tunnel, nor in an intersection, on a crosswalk or sidewalk, or on railroad tracks.",
+      "official": false,
+      "ref": "Texas Driver Handbook (DL-7, rev. January 2026), Chapter 7: Parking, Stopping, or Standing, section 'Do Not Park, Stop, or Stand a Vehicle'"
+    },
+    {
+      "id": "tx-169",
+      "topic": "parking",
+      "q": "Stopping or parking on the roadway side of a vehicle already parked at the curb ('double parking') is:",
+      "options": [
+        "Allowed if your hazard lights are on",
+        "Prohibited",
+        "Allowed for up to five minutes",
+        "Allowed for deliveries at any time"
+      ],
+      "answer": 1,
+      "explain": "Stopping, standing or parking beside a vehicle that is already stopped or parked at the curb (double parking) is prohibited.",
+      "official": false,
+      "ref": "Texas Driver Handbook (DL-7, rev. January 2026), Chapter 7: Parking, Stopping, or Standing, section 'Do Not Park, Stop, or Stand a Vehicle'"
+    },
+    {
+      "id": "tx-170",
+      "topic": "parking",
+      "q": "Before leaving your vehicle unattended, Texas law requires you to:",
+      "options": [
+        "Leave the engine running if you will be back within five minutes",
+        "Only lock the doors",
+        "Only set the parking brake",
+        "Stop the engine, lock the ignition, remove the key and set the brake"
+      ],
+      "answer": 3,
+      "explain": "It is illegal to leave a vehicle unattended without turning off the engine, locking the ignition, removing the key, and setting the brake (and turning the wheels to the curb on a grade).",
+      "official": false,
+      "ref": "Texas Driver Handbook (DL-7, rev. January 2026), Chapter 7: Parking, Stopping, or Standing, section 'Unattended Motor Vehicle'"
+    },
+    {
+      "id": "tx-171",
+      "topic": "parking",
+      "q": "What is the fine for a first offense of illegally parking in a space reserved for people with disabilities?",
+      "options": [
+        "$25 to $50",
+        "$100 to $200",
+        "$500 to $750",
+        "$2,000 to $4,000"
+      ],
+      "answer": 2,
+      "explain": "Illegally parking in a disabled space is a misdemeanor with a fine of $500 to $750 for a first offense, rising to $1,250 for five or more offenses.",
+      "official": false,
+      "ref": "Texas Driver Handbook (DL-7, rev. January 2026), Chapter 7: Parking, Stopping, or Standing, section 'Disabled Parking'"
+    },
+    {
+      "id": "tx-172",
+      "topic": "parking",
+      "q": "May you park in the striped area next to a disabled parking space?",
+      "options": [
+        "No; those areas are for wheelchair lifts and access",
+        "Yes, if you have a compact car",
+        "Yes, if all other spaces are full",
+        "Yes, for up to 15 minutes"
+      ],
+      "answer": 0,
+      "explain": "Do not park in striped areas next to disabled parking spaces; they are needed for wheelchair lifts.",
+      "official": false,
+      "ref": "Texas Driver Handbook (DL-7, rev. January 2026), Chapter 7: Parking, Stopping, or Standing, section 'Disabled Parking'"
+    },
+    {
+      "id": "tx-173",
+      "topic": "parking",
+      "q": "When may you use someone else's disabled-parking windshield placard?",
+      "options": [
+        "When you are running an errand for them",
+        "Any time you borrow their car",
+        "Only when you are transporting the person to whom it was issued",
+        "Never, even when driving them"
+      ],
+      "answer": 2,
+      "explain": "A disabled-parking placard may be used only when transporting the disabled person to whom it was issued; it may not be lent.",
+      "official": false,
+      "ref": "Texas Driver Handbook (DL-7, rev. January 2026), Chapter 7: Parking, Stopping, or Standing, section 'Disabled Parking'"
+    },
+    {
+      "id": "tx-174",
+      "topic": "parking",
+      "q": "Outside a business or residential district, if you must stop on the paved part of a highway, your vehicle must be visible from each direction for at least:",
+      "options": [
+        "50 feet",
+        "100 feet",
+        "200 feet",
+        "1,000 feet"
+      ],
+      "answer": 2,
+      "explain": "If you cannot park off the road, leave room for others to pass and be sure your vehicle can be seen for at least 200 feet in each direction.",
+      "official": false,
+      "ref": "Texas Driver Handbook (DL-7, rev. January 2026), Chapter 7: Parking, Stopping, or Standing, section 'Parking, Stopping, or Standing on a Highway Outside an Urban Area'"
+    },
+    {
+      "id": "tx-175",
+      "topic": "parking",
+      "q": "If you must park on an unlighted highway at night, you should:",
+      "options": [
+        "Leave your parking lights or low-beam headlights on",
+        "Turn on only the interior light",
+        "Turn all lights off to save the battery",
+        "Leave your high beams on"
+      ],
+      "answer": 0,
+      "explain": "At night, use your parking lights or leave your headlights on low beam when parked on an unlit highway.",
+      "official": false,
+      "ref": "Texas Driver Handbook (DL-7, rev. January 2026), Chapter 9: Some Special Driving Situations, section 'Headlights'; Texas Driver Handbook (DL-7, rev. January 2026), Chapter 7: Parking, Stopping, or Standing, section 'Parking, Stopping, or Standing on a Highway Outside an Urban Area'"
+    },
+    {
+      "id": "tx-176",
+      "topic": "parking",
+      "q": "Which of these is NOT a legal place to park or stand?",
+      "options": [
+        "Thirty feet from a fire hydrant",
+        "In a marked space in a parking lot",
+        "Forty feet from a crosswalk",
+        "In front of a public or private driveway"
+      ],
+      "answer": 3,
+      "explain": "Whether occupied or not, you may not park or stand in front of a public or private driveway.",
+      "official": false,
+      "ref": "Texas Driver Handbook (DL-7, rev. January 2026), Chapter 7: Parking, Stopping, or Standing, section 'Do Not Park or Stand a Vehicle'"
+    },
+    {
+      "id": "tx-177",
+      "topic": "sharing",
+      "q": "Compared with passing a car, passing a large truck on a level highway takes about:",
+      "options": [
+        "The same time",
+        "3 to 5 seconds longer",
+        "1 second less",
+        "15 seconds longer"
+      ],
+      "answer": 1,
+      "explain": "On level ground, passing a truck takes roughly 3 to 5 seconds more than passing a car.",
+      "official": false,
+      "ref": "Texas Driver Handbook (DL-7, rev. January 2026), Chapter 9: Some Special Driving Situations, section 'Share the Road with Trucks (Passing)'"
+    },
+    {
+      "id": "tx-178",
+      "topic": "sharing",
+      "q": "After passing a large truck, when is it safe to move back in front of it?",
+      "options": [
+        "Immediately, so you don't stay alongside",
+        "When the whole front of the truck is visible in your rearview mirror",
+        "As soon as you are past its cab",
+        "When you are one car length ahead"
+      ],
+      "answer": 1,
+      "explain": "Wait until the whole front of the truck appears in your rearview mirror before moving back in, then keep your speed up.",
+      "official": false,
+      "ref": "Texas Driver Handbook (DL-7, rev. January 2026), Chapter 9: Some Special Driving Situations, section 'Share the Road with Trucks (Passing)'"
+    },
+    {
+      "id": "tx-179",
+      "topic": "sharing",
+      "q": "When you are following a tractor-trailer, a good rule of thumb is:",
+      "options": [
+        "If you can't see the driver in the truck's side mirror, the driver can't see you",
+        "Flash your high beams so the driver sees you",
+        "Stay directly behind the trailer so the driver knows where you are",
+        "Follow closely to stay out of the wind"
+      ],
+      "answer": 0,
+      "explain": "Stay out of the truck's rear blind spot; if you cannot see the driver in the side mirror, the driver cannot see you.",
+      "official": false,
+      "ref": "Texas Driver Handbook (DL-7, rev. January 2026), Chapter 9: Some Special Driving Situations, section 'Following a Truck'"
+    },
+    {
+      "id": "tx-180",
+      "topic": "sharing",
+      "q": "When following a truck at night, you should:",
+      "options": [
+        "Follow more closely",
+        "Use your high beams so the driver sees you",
+        "Turn your headlights off",
+        "Dim your headlights"
+      ],
+      "answer": 3,
+      "explain": "Always dim your headlights when following a truck at night; bright lights reflect off its large mirrors and blind the driver.",
+      "official": false,
+      "ref": "Texas Driver Handbook (DL-7, rev. January 2026), Chapter 9: Some Special Driving Situations, section 'Following a Truck'"
+    },
+    {
+      "id": "tx-181",
+      "topic": "sharing",
+      "q": "You are stopped behind a truck on an uphill grade. You should:",
+      "options": [
+        "Leave extra space in case it rolls back, and stay to the left in your lane",
+        "Stay to the right in your lane",
+        "Pull up close behind it",
+        "Sound your horn so it knows you are there"
+      ],
+      "answer": 0,
+      "explain": "Leave space in case the truck drifts back as it starts, and keep to the left in your lane so the driver can see you.",
+      "official": false,
+      "ref": "Texas Driver Handbook (DL-7, rev. January 2026), Chapter 9: Some Special Driving Situations, section 'Following a Truck'"
+    },
+    {
+      "id": "tx-182",
+      "topic": "sharing",
+      "q": "A large truck ahead is signaling a right turn and has moved left, leaving space on its right. You should:",
+      "options": [
+        "Honk and pass on the left",
+        "Stay behind the truck and not pass on the right",
+        "Pull alongside the truck",
+        "Quickly pass on the right before it turns"
+      ],
+      "answer": 1,
+      "explain": "Trucks make wide right turns and may leave an open space on the right. Don't pass on the right if the truck might turn.",
+      "official": false,
+      "ref": "Texas Driver Handbook (DL-7, rev. January 2026), Chapter 9: Some Special Driving Situations, section 'Right Turns'"
+    },
+    {
+      "id": "tx-183",
+      "topic": "sharing",
+      "q": "A truck is backing into a loading area and is blocking the road. You should:",
+      "options": [
+        "Squeeze past on the shoulder",
+        "Sound your horn continuously",
+        "Wait until it finishes the maneuver",
+        "Drive behind it quickly"
+      ],
+      "answer": 2,
+      "explain": "Never cross behind a truck preparing to back up; wait for it to complete its maneuver.",
+      "official": false,
+      "ref": "Texas Driver Handbook (DL-7, rev. January 2026), Chapter 9: Some Special Driving Situations, section 'Backing Crashes'"
+    },
+    {
+      "id": "tx-184",
+      "topic": "sharing",
+      "q": "A loaded tractor-trailer traveling at 55 mph may need how much distance to stop?",
+      "options": [
+        "About 240 feet, the same as a car",
+        "About 100 feet",
+        "About 150 feet",
+        "More than 400 feet"
+      ],
+      "answer": 3,
+      "explain": "A car at 55 mph can stop in about 240 feet; a fully loaded tractor-trailer may need more than 400 feet.",
+      "official": false,
+      "ref": "Texas Driver Handbook (DL-7, rev. January 2026), Chapter 9: Some Special Driving Situations, section 'Following a Truck'"
+    },
+    {
+      "id": "tx-185",
+      "topic": "sharing",
+      "q": "When you meet a large truck coming from the opposite direction, you should:",
+      "options": [
+        "Speed up",
+        "Flash your high beams",
+        "Keep as far to the side of your lane as possible",
+        "Move toward the center line"
+      ],
+      "answer": 2,
+      "explain": "Keep as far to the side as possible to avoid a sideswipe and reduce wind turbulence, which pushes vehicles apart.",
+      "official": false,
+      "ref": "Texas Driver Handbook (DL-7, rev. January 2026), Chapter 9: Some Special Driving Situations, section 'Share the Road with Trucks (Passing)'"
+    },
+    {
+      "id": "tx-186",
+      "topic": "sharing",
+      "q": "How much of a lane is a motorcycle entitled to?",
+      "options": [
+        "Only the right third of the lane",
+        "A full lane width",
+        "Half a lane",
+        "None; motorcycles must ride on the shoulder"
+      ],
+      "answer": 1,
+      "explain": "Allow a motorcyclist a full lane width; do not try to share the lane with a motorcycle.",
+      "official": false,
+      "ref": "Texas Driver Handbook (DL-7, rev. January 2026), Chapter 9: Some Special Driving Situations, section 'Respect a Motorcycle'"
+    },
+    {
+      "id": "tx-187",
+      "topic": "sharing",
+      "q": "When following a motorcycle, allow at least:",
+      "options": [
+        "One car length",
+        "1 second of following distance",
+        "2 seconds, the same as for a car",
+        "4 to 6 seconds of following distance"
+      ],
+      "answer": 3,
+      "explain": "Allow more following distance—at least four to six seconds—behind a motorcycle.",
+      "official": false,
+      "ref": "Texas Driver Handbook (DL-7, rev. January 2026), Chapter 9: Some Special Driving Situations, section 'Allow Plenty of Space When Following a Motorcycle'"
+    },
+    {
+      "id": "tx-188",
+      "topic": "sharing",
+      "q": "What is the most common crash between a car and a motorcycle?",
+      "options": [
+        "A car turning left in front of a motorcycle at an intersection",
+        "A car backing out of a driveway",
+        "A motorcycle running off the road on a curve",
+        "A motorcycle rear-ending a car on the freeway"
+      ],
+      "answer": 0,
+      "explain": "The most common car–motorcycle crash happens when a car makes a left turn in front of a motorcycle at an intersection.",
+      "official": false,
+      "ref": "Texas Driver Handbook (DL-7, rev. January 2026), Chapter 9: Some Special Driving Situations, section 'Left Turns'"
+    },
+    {
+      "id": "tx-189",
+      "topic": "sharing",
+      "q": "A motorcycle approaching you has its turn signal flashing. You should:",
+      "options": [
+        "Pull out, since the motorcycle is turning",
+        "Flash your lights at the rider",
+        "Speed up to get ahead of it",
+        "Wait to be sure it is actually turning before you proceed"
+      ],
+      "answer": 3,
+      "explain": "Motorcycle signals usually are not self-canceling and riders sometimes forget them; make sure the rider is turning before you go.",
+      "official": false,
+      "ref": "Texas Driver Handbook (DL-7, rev. January 2026), Chapter 9: Some Special Driving Situations, section 'Signal Your Intentions'"
+    },
+    {
+      "id": "tx-190",
+      "topic": "sharing",
+      "q": "Under Texas law, a person riding a bicycle on the road:",
+      "options": [
+        "Has the same rights and responsibilities as a driver of a vehicle",
+        "Has no right to use a traffic lane",
+        "Must always ride on the sidewalk",
+        "Must ride facing traffic"
+      ],
+      "answer": 0,
+      "explain": "A bicycle is a vehicle, and its rider has the same rights and duties as other drivers.",
+      "official": false,
+      "ref": "Texas Driver Handbook (DL-7, rev. January 2026), Chapter 9: Some Special Driving Situations, section 'Share the Road with Bicycles'"
+    },
+    {
+      "id": "tx-191",
+      "topic": "sharing",
+      "q": "A bicyclist may use the full lane, instead of riding near the right edge, when the outside lane is narrower than:",
+      "options": [
+        "8 feet",
+        "10 feet",
+        "14 feet with no bike lane",
+        "20 feet"
+      ],
+      "answer": 2,
+      "explain": "A bicyclist may take the lane when it is less than 14 feet wide without an adjacent bike lane, or otherwise too narrow to share safely.",
+      "official": false,
+      "ref": "Texas Driver Handbook (DL-7, rev. January 2026), Chapter 13: Bicycle Laws and Safety, section 'Bicycle Traffic Laws'"
+    },
+    {
+      "id": "tx-192",
+      "topic": "sharing",
+      "q": "You are about to turn right and a bicyclist is riding beside you on the right. You should:",
+      "options": [
+        "Turn quickly in front of the bicycle",
+        "Slow down and merge behind the bicycle, then turn",
+        "Honk to make the cyclist stop",
+        "Turn from the left lane to avoid the cyclist"
+      ],
+      "answer": 1,
+      "explain": "A motorist should slow and merge with bicycle traffic before a right turn instead of turning across the cyclist's path.",
+      "official": false,
+      "ref": "Texas Driver Handbook (DL-7, rev. January 2026), Chapter 9: Some Special Driving Situations, section 'Car-Bicycle Crashes'"
+    },
+    {
+      "id": "tx-193",
+      "topic": "sharing",
+      "q": "A bicycle ridden at night in Texas must have a white front lamp visible from at least:",
+      "options": [
+        "50 feet",
+        "100 feet",
+        "500 feet",
+        "1,000 feet"
+      ],
+      "answer": 2,
+      "explain": "At night a bicycle needs a front white lamp visible from at least 500 feet and a red rear reflector (a red rear light may be added).",
+      "official": false,
+      "ref": "Texas Driver Handbook (DL-7, rev. January 2026), Chapter 13: Bicycle Laws and Safety, section 'Bicycles Must Be Properly Equipped'"
+    },
+    {
+      "id": "tx-194",
+      "topic": "sharing",
+      "q": "A bicyclist extends the right arm straight out horizontally. The rider intends to:",
+      "options": [
+        "Turn right",
+        "Stop",
+        "Turn left",
+        "Let you pass"
+      ],
+      "answer": 0,
+      "explain": "Bicyclists signal a right turn with the left arm pointed up or the right arm extended horizontally.",
+      "official": false,
+      "ref": "Texas Driver Handbook (DL-7, rev. January 2026), Chapter 13: Bicycle Laws and Safety, section 'Bicycle Traffic Laws'"
+    },
+    {
+      "id": "tx-195",
+      "topic": "sharing",
+      "q": "You see a small flag on the back of a bicycle. What might it indicate?",
+      "options": [
+        "The bicycle is motorized",
+        "The rider may be hearing impaired",
+        "The rider is turning soon",
+        "The rider is in a race"
+      ],
+      "answer": 1,
+      "explain": "A safety flag on a bicycle (or a vehicle) may show that the operator is hearing impaired; slow down.",
+      "official": false,
+      "ref": "Texas Driver Handbook (DL-7, rev. January 2026), Chapter 5: Signals, Signs, and Markers, section 'Hearing Impaired'"
+    },
+    {
+      "id": "tx-196",
+      "topic": "sharing",
+      "q": "Why must drivers be especially careful near light rail trains?",
+      "options": [
+        "They must yield to cars at crossings",
+        "They always stop for cars",
+        "They only run in one direction",
+        "They are very quiet and cannot stop quickly"
+      ],
+      "answer": 3,
+      "explain": "Light rail is quieter than most cars and buses, travels in both directions, and cannot start or stop quickly. Never drive around crossing gates.",
+      "official": false,
+      "ref": "Texas Driver Handbook (DL-7, rev. January 2026), Chapter 9: Some Special Driving Situations, section 'Share the Road with Light Rail'"
+    },
+    {
+      "id": "tx-197",
+      "topic": "sharing",
+      "q": "Ahead of you, a mail truck is making frequent stops in your lane. You should:",
+      "options": [
+        "Follow closely so you can pass quickly",
+        "Proceed with caution and change lanes if possible before passing",
+        "Pass on the right shoulder",
+        "Sound your horn to make it move"
+      ],
+      "answer": 1,
+      "explain": "Mail, delivery, and trash vehicles stop frequently in the road. Proceed with caution and, if possible, change lanes before passing.",
+      "official": false,
+      "ref": "Texas Driver Handbook (DL-7, rev. January 2026), Chapter 8: Speed and Speed Limits, section 'Slow Down or Move Over'"
+    },
+    {
+      "id": "tx-198",
+      "topic": "sharing",
+      "q": "Where there are no sidewalks, pedestrians should walk:",
+      "options": [
+        "On the left side of the road, facing traffic",
+        "On the right side, with traffic",
+        "On whichever side is shadier",
+        "In the middle of the lane"
+      ],
+      "answer": 0,
+      "explain": "Pedestrians should walk on the left side when there are no sidewalks and step off the pavement when a car approaches.",
+      "official": false,
+      "ref": "Texas Driver Handbook (DL-7, rev. January 2026), Chapter 12: Pedestrian Safety, section 'Laws and Safety Tips for Pedestrians'"
+    },
+    {
+      "id": "tx-199",
+      "topic": "sharing",
+      "q": "A neighborhood electric vehicle may be driven only on streets with a posted speed limit of:",
+      "options": [
+        "25 mph or less",
+        "35 mph or less",
+        "45 mph or less",
+        "55 mph or less"
+      ],
+      "answer": 2,
+      "explain": "Neighborhood electric vehicles may be used on streets posted at 45 mph or less; motor-assisted scooters on streets posted at 35 mph or less.",
+      "official": false,
+      "ref": "Texas Driver Handbook (DL-7, rev. January 2026), Chapter 14: Additional Safety Tips, section 'Neighborhood Electronic Vehicles and Motor Assisted Scooters'"
+    },
+    {
+      "id": "tx-200",
+      "topic": "sharing",
+      "q": "Why do many drivers misjudge an approaching tractor-trailer at an intersection?",
+      "options": [
+        "Its lights are dimmer than a car's",
+        "It must stop at every intersection",
+        "It always travels below the speed limit",
+        "Its large size makes it seem slower than it really is"
+      ],
+      "answer": 3,
+      "explain": "Because of its size, a tractor-trailer often appears to be moving slower than it is, a factor in many intersection crashes.",
+      "official": false,
+      "ref": "Texas Driver Handbook (DL-7, rev. January 2026), Chapter 9: Some Special Driving Situations, section 'Never Underestimate the Size and Speed of an Approaching Tractor-trailer'"
+    },
+    {
+      "id": "tx-201",
+      "topic": "safety",
+      "q": "When are you required to use headlights in Texas?",
+      "options": [
+        "Only in rain",
+        "From sunset to sunrise only",
+        "Only after dark when streetlights are off",
+        "From 30 minutes after sunset to 30 minutes before sunrise, and whenever you cannot see clearly for 1,000 feet"
+      ],
+      "answer": 3,
+      "explain": "Headlights are required from 30 minutes after sunset to 30 minutes before sunrise, and any time people or vehicles cannot be seen clearly at 1,000 feet.",
+      "official": false,
+      "ref": "Texas Driver Handbook (DL-7, rev. January 2026), Chapter 9: Some Special Driving Situations, section 'Headlights'"
+    },
+    {
+      "id": "tx-202",
+      "topic": "safety",
+      "q": "You must switch to low beams when an oncoming vehicle is within:",
+      "options": [
+        "100 feet",
+        "200 feet",
+        "500 feet",
+        "1,000 feet"
+      ],
+      "answer": 2,
+      "explain": "Use low beams within 500 feet of an approaching vehicle.",
+      "official": false,
+      "ref": "Texas Driver Handbook (DL-7, rev. January 2026), Chapter 9: Some Special Driving Situations, section 'Headlights'"
+    },
+    {
+      "id": "tx-203",
+      "topic": "safety",
+      "q": "You must use low beams when following another vehicle within:",
+      "options": [
+        "100 feet",
+        "300 feet",
+        "500 feet",
+        "1,000 feet"
+      ],
+      "answer": 1,
+      "explain": "Dim your lights when following closely, within 300 feet, behind another vehicle.",
+      "official": false,
+      "ref": "Texas Driver Handbook (DL-7, rev. January 2026), Chapter 9: Some Special Driving Situations, section 'Headlights'"
+    },
+    {
+      "id": "tx-204",
+      "topic": "safety",
+      "q": "Which headlights should you use in fog, heavy rain, sleet, snow, or dust?",
+      "options": [
+        "Low beams",
+        "High beams",
+        "No lights",
+        "Parking lights only"
+      ],
+      "answer": 0,
+      "explain": "Use low-beam headlights in fog, heavy rain, sleet, snow, or dust; high beams reflect back and reduce visibility.",
+      "official": false,
+      "ref": "Texas Driver Handbook (DL-7, rev. January 2026), Chapter 9: Some Special Driving Situations, section 'Headlights'"
+    },
+    {
+      "id": "tx-205",
+      "topic": "safety",
+      "q": "To avoid being blinded by the headlights of an oncoming car at night, you should:",
+      "options": [
+        "Look directly at the headlights",
+        "Look toward the lower right side of your lane",
+        "Close one eye",
+        "Switch on your high beams"
+      ],
+      "answer": 1,
+      "explain": "Avoid looking into oncoming headlights; shift your eyes down to the lower right side of your lane.",
+      "official": false,
+      "ref": "Texas Driver Handbook (DL-7, rev. January 2026), Chapter 9: Some Special Driving Situations, section 'Headlights'"
+    },
+    {
+      "id": "tx-206",
+      "topic": "safety",
+      "q": "To fight highway hypnosis on a long trip, the handbook recommends stopping at least every:",
+      "options": [
+        "Two hours or 100 miles",
+        "30 minutes or 25 miles",
+        "Five hours or 300 miles",
+        "Eight hours"
+      ],
+      "answer": 0,
+      "explain": "Stop at least every two hours or every 100 miles, get out and walk around, and don't drive more than eight hours a day.",
+      "official": false,
+      "ref": "Texas Driver Handbook (DL-7, rev. January 2026), Chapter 9: Some Special Driving Situations, section 'Fight Highway Hypnosis'"
+    },
+    {
+      "id": "tx-207",
+      "topic": "safety",
+      "q": "Under Texas law, a driver of any age may not:",
+      "options": [
+        "Listen to the radio",
+        "Talk with passengers",
+        "Use a navigation system mounted on the dashboard",
+        "Read, write, or send an electronic message on a phone while driving"
+      ],
+      "answer": 3,
+      "explain": "Texas law bars every driver from reading, writing or sending electronic messages on a phone or other portable wireless device while driving.",
+      "official": false,
+      "ref": "Texas Driver Handbook (DL-7, rev. January 2026), Chapter 9: Some Special Driving Situations, section 'Texting While Driving'"
+    },
+    {
+      "id": "tx-208",
+      "topic": "safety",
+      "q": "Who must wear a seat belt in a passenger vehicle in Texas?",
+      "options": [
+        "Only the driver and front-seat passenger",
+        "Only passengers under 17",
+        "The driver and every passenger, in every seat that has a belt",
+        "Only on highways"
+      ],
+      "answer": 2,
+      "explain": "The driver and all passengers, regardless of age or seat, must use safety belts if the seat is equipped with one.",
+      "official": false,
+      "ref": "Texas Driver Handbook (DL-7, rev. January 2026), Chapter 14: Additional Safety Tips, section 'Safety Belts'"
+    },
+    {
+      "id": "tx-209",
+      "topic": "safety",
+      "q": "A child must ride in a federally approved child safety seat if the child is:",
+      "options": [
+        "Younger than 4, regardless of height",
+        "Younger than 12",
+        "Younger than 8, unless taller than 4 feet 9 inches",
+        "Under 40 pounds only"
+      ],
+      "answer": 2,
+      "explain": "Any child under 8 years old must be in a child safety seat unless the child is more than 4'9\" tall.",
+      "official": false,
+      "ref": "Texas Driver Handbook (DL-7, rev. January 2026), Chapter 14: Additional Safety Tips, section 'Safety Belts'"
+    },
+    {
+      "id": "tx-210",
+      "topic": "safety",
+      "q": "If a passenger under 17 is not wearing a seat belt, who gets the fine?",
+      "options": [
+        "The passenger, $25 to $50",
+        "No one; it is a warning only",
+        "The vehicle owner, $500",
+        "The driver, $100 to $200"
+      ],
+      "answer": 3,
+      "explain": "The driver is fined $100 to $200 for each passenger under 17 riding without a safety belt.",
+      "official": false,
+      "ref": "Texas Driver Handbook (DL-7, rev. January 2026), Chapter 14: Additional Safety Tips, section 'Penalties for Driving Without a Safety Belt'"
+    },
+    {
+      "id": "tx-211",
+      "topic": "safety",
+      "q": "What is the fine range for a driver who is not wearing a seat belt?",
+      "options": [
+        "$25 to $50",
+        "$100 to $200",
+        "$250 to $500",
+        "$1,000"
+      ],
+      "answer": 0,
+      "explain": "Driving without a safety belt carries a fine of $25 to $50.",
+      "official": false,
+      "ref": "Texas Driver Handbook (DL-7, rev. January 2026), Chapter 14: Additional Safety Tips, section 'Penalties for Driving Without a Safety Belt'"
+    },
+    {
+      "id": "tx-212",
+      "topic": "safety",
+      "q": "Texas law generally prohibits a child under what age from riding in the open bed of a pickup?",
+      "options": [
+        "12",
+        "16",
+        "18",
+        "21"
+      ],
+      "answer": 2,
+      "explain": "It is an offense to drive an open-bed or flatbed truck with a child younger than 18 in the bed, except in limited situations such as parades or emergencies.",
+      "official": false,
+      "ref": "Texas Driver Handbook (DL-7, rev. January 2026), Chapter 14: Additional Safety Tips, section 'Vehicles with Open Beds'"
+    },
+    {
+      "id": "tx-213",
+      "topic": "safety",
+      "q": "Your car begins to skid. What should you do first?",
+      "options": [
+        "Slam on the brakes",
+        "Take your foot off the gas and steer in the direction of the skid",
+        "Steer hard in the opposite direction",
+        "Shift into neutral and pull the parking brake"
+      ],
+      "answer": 1,
+      "explain": "Don't brake suddenly; ease off the accelerator and turn the steering wheel in the direction of the skid, then straighten as you regain control.",
+      "official": false,
+      "ref": "Texas Driver Handbook (DL-7, rev. January 2026), Chapter 9: Some Special Driving Situations, section 'Steering Out of a Skid'"
+    },
+    {
+      "id": "tx-214",
+      "topic": "safety",
+      "q": "If your brakes fail, you should:",
+      "options": [
+        "Turn off the engine immediately",
+        "Shift to a lower gear and apply the parking brake carefully",
+        "Shift into neutral",
+        "Pull the parking brake as hard as possible"
+      ],
+      "answer": 1,
+      "explain": "Don't panic: use the parking brake cautiously so you don't lock the wheels, and shift to a lower gear.",
+      "official": false,
+      "ref": "Texas Driver Handbook (DL-7, rev. January 2026), Chapter 9: Some Special Driving Situations, section 'Brake Failure'"
+    },
+    {
+      "id": "tx-215",
+      "topic": "safety",
+      "q": "Your right wheels drop off the pavement onto the shoulder. You should:",
+      "options": [
+        "Ease off the gas, brake gently, and return to the pavement when your speed is reduced and traffic is clear",
+        "Brake hard and steer sharply back onto the road",
+        "Speed up and swerve back",
+        "Stop immediately on the shoulder edge"
+      ],
+      "answer": 0,
+      "explain": "Don't brake hard or swing back. Grip the wheel, take your foot off the gas, slow down, check traffic, and carefully drive back onto the pavement.",
+      "official": false,
+      "ref": "Texas Driver Handbook (DL-7, rev. January 2026), Chapter 9: Some Special Driving Situations, section 'Running Off the Pavement'"
+    },
+    {
+      "id": "tx-216",
+      "topic": "safety",
+      "q": "If a tire blows out while you are driving, you should:",
+      "options": [
+        "Turn sharply onto the shoulder",
+        "Speed up to keep control",
+        "Brake hard immediately",
+        "Hold the wheel firmly, ease off the gas, brake gently and steer straight to a stop"
+      ],
+      "answer": 3,
+      "explain": "With a blowout, don't brake hard; take your foot off the gas, apply the brakes gently, and steer straight ahead to a stop.",
+      "official": false,
+      "ref": "Texas Driver Handbook (DL-7, rev. January 2026), Chapter 9: Some Special Driving Situations, section 'Flat Tire or Blowout'"
+    },
+    {
+      "id": "tx-217",
+      "topic": "safety",
+      "q": "When driving down a long, steep hill, you should:",
+      "options": [
+        "Turn off the engine",
+        "Ride the brakes the whole way",
+        "Shift into neutral and coast",
+        "Shift into a lower gear to help control your speed"
+      ],
+      "answer": 3,
+      "explain": "Shift into a low gear to help slow the vehicle. Never coast in neutral (or with the clutch pressed in).",
+      "official": false,
+      "ref": "Texas Driver Handbook (DL-7, rev. January 2026), Chapter 9: Some Special Driving Situations, section 'Driving Down a Steep Hill'"
+    },
+    {
+      "id": "tx-218",
+      "topic": "safety",
+      "q": "Coasting downhill with the transmission in neutral is:",
+      "options": [
+        "Allowed only for manual transmissions",
+        "Illegal",
+        "Recommended to save fuel",
+        "Allowed on short hills"
+      ],
+      "answer": 1,
+      "explain": "Texas law forbids coasting downhill with the vehicle in neutral.",
+      "official": false,
+      "ref": "Texas Driver Handbook (DL-7, rev. January 2026), Chapter 7: Parking, Stopping, or Standing, section 'Coasting'"
+    },
+    {
+      "id": "tx-219",
+      "topic": "safety",
+      "q": "In winter, where is ice most likely to form first?",
+      "options": [
+        "On sunny stretches of road",
+        "Near traffic signals",
+        "On bridges and in shaded areas",
+        "On roads with heavy traffic"
+      ],
+      "answer": 2,
+      "explain": "Bridges may be icy when the rest of the pavement is clear, and snow melts more slowly in shady areas.",
+      "official": false,
+      "ref": "Texas Driver Handbook (DL-7, rev. January 2026), Chapter 9: Some Special Driving Situations, section 'Winter Driving'"
+    },
+    {
+      "id": "tx-220",
+      "topic": "safety",
+      "q": "About how deep must water be to float many cars?",
+      "options": [
+        "About 12 inches",
+        "About 3 feet",
+        "About 5 feet",
+        "About 2 inches"
+      ],
+      "answer": 0,
+      "explain": "Six inches of water reaches the bottom of most cars, 12 inches will float many cars, and two feet of rushing water can carry away most vehicles.",
+      "official": false,
+      "ref": "Texas Driver Handbook (DL-7, rev. January 2026), Chapter 9: Some Special Driving Situations, section 'Floods'"
+    },
+    {
+      "id": "tx-221",
+      "topic": "safety",
+      "q": "About how much water will reach the bottom of most passenger cars and can cause loss of control or stalling?",
+      "options": [
+        "Two feet",
+        "One inch",
+        "Six inches",
+        "Three feet"
+      ],
+      "answer": 2,
+      "explain": "About six inches of water reaches the underside of most cars and can cause stalling and loss of control; a foot of water floats many cars.",
+      "official": false,
+      "ref": "Texas Driver Handbook (DL-7, rev. January 2026), Chapter 9: Some Special Driving Situations, section 'Floods'"
+    },
+    {
+      "id": "tx-222",
+      "topic": "safety",
+      "q": "You come to a road covered with water. What is the safest action?",
+      "options": [
+        "Turn around and find another route",
+        "Drive through quickly to avoid stalling",
+        "Drive through slowly in low gear",
+        "Follow a larger vehicle through"
+      ],
+      "answer": 0,
+      "explain": "Water can hide a washed-out road. 'Turn Around Don't Drown®'—choose another route. If your vehicle stalls in floodwater, get out and move to higher ground.",
+      "official": false,
+      "ref": "Texas Driver Handbook (DL-7, rev. January 2026), Chapter 9: Some Special Driving Situations, section 'Floods'"
+    },
+    {
+      "id": "tx-223",
+      "topic": "safety",
+      "q": "Driving around a barricade or ignoring a warning sign placed where water is over the road is:",
+      "options": [
+        "Legal if your vehicle is high enough",
+        "A $1 to $25 fine",
+        "Only a warning",
+        "A Class B misdemeanor, with a fine of up to $2,000 and/or up to 180 days in jail"
+      ],
+      "answer": 3,
+      "explain": "Normally disobeying a warning sign or barricade is a $1–$200 misdemeanor, but where water is over the road it becomes a Class B misdemeanor.",
+      "official": false,
+      "ref": "Texas Driver Handbook (DL-7, rev. January 2026), Chapter 5: Signals, Signs, and Markers, section 'Obey Warning Signs and Barricades'"
+    },
+    {
+      "id": "tx-224",
+      "topic": "safety",
+      "q": "According to the handbook, if a driver reacts just half a second slower because of a distraction, crashes:",
+      "options": [
+        "Fall by half",
+        "Double",
+        "Barely change",
+        "Increase by 5 percent"
+      ],
+      "answer": 1,
+      "explain": "If drivers react a half-second slower because of distractions, crashes double.",
+      "official": false,
+      "ref": "Texas Driver Handbook (DL-7, rev. January 2026), Chapter 9: Some Special Driving Situations, section 'Distracted driving'"
+    },
+    {
+      "id": "tx-225",
+      "topic": "safety",
+      "q": "Which of these helps prevent carbon monoxide poisoning?",
+      "options": [
+        "Follow closely behind other cars with vents open",
+        "Keep windows closed while idling",
+        "Never leave the motor running in a closed garage",
+        "Use the heater in a parked car in an enclosed space"
+      ],
+      "answer": 2,
+      "explain": "Carbon monoxide is deadly. Don't run the motor in a garage, don't idle with windows closed, and keep your exhaust system in good repair.",
+      "official": false,
+      "ref": "Texas Driver Handbook (DL-7, rev. January 2026), Chapter 14: Additional Safety Tips, section 'Carbon Monoxide'"
+    },
+    {
+      "id": "tx-226",
+      "topic": "safety",
+      "q": "When a law enforcement officer stops you, you should:",
+      "options": [
+        "Drive to the next exit before stopping, no matter how far",
+        "Pull safely to the right, stay in the car, and keep your hands visible on the steering wheel",
+        "Get out and walk to the officer's car",
+        "Search the glove box for your documents as the officer approaches"
+      ],
+      "answer": 1,
+      "explain": "Pull over to the right, turn off the engine, turn on hazard lights (and the dome light at night), stay in the vehicle, and keep your hands visible.",
+      "official": false,
+      "ref": "Texas Driver Handbook (DL-7, rev. January 2026), Chapter 14: Additional Safety Tips, section 'When Stopped by Law Enforcement'"
+    },
+    {
+      "id": "tx-227",
+      "topic": "safety",
+      "q": "When one vehicle tows another with a chain or rope, the connection may be no longer than:",
+      "options": [
+        "10 feet, with no flag",
+        "15 feet, with a white flag at least 12 inches square attached",
+        "25 feet, with a red flag",
+        "50 feet, with a reflector"
+      ],
+      "answer": 1,
+      "explain": "A tow connection may not be longer than 15 feet and must have a white flag at least 12 inches square.",
+      "official": false,
+      "ref": "Texas Driver Handbook (DL-7, rev. January 2026), Chapter 14: Additional Safety Tips, section 'Towing'"
+    },
+    {
+      "id": "tx-228",
+      "topic": "safety",
+      "q": "What is the minimum legal tire tread depth for vehicles in Texas?",
+      "options": [
+        "2/32 of an inch",
+        "4/32 of an inch",
+        "1/4 of an inch",
+        "1/32 of an inch"
+      ],
+      "answer": 0,
+      "explain": "Tires must be in safe condition with at least 2/32 of an inch of tread.",
+      "official": false,
+      "ref": "Texas Driver Handbook (DL-7, rev. January 2026), Chapter 2: Vehicle Inspection and Registration, section 'Required Equipment for Vehicles'"
+    },
+    {
+      "id": "tx-229",
+      "topic": "safety",
+      "q": "A load or object on your car may not extend more than how far beyond the left side of the body?",
+      "options": [
+        "2 feet",
+        "3 inches",
+        "6 inches",
+        "12 inches"
+      ],
+      "answer": 1,
+      "explain": "The limit is 3 inches past the left side and 6 inches past the right side of the car's body, fenders or running board.",
+      "official": false,
+      "ref": "Texas Driver Handbook (DL-7, rev. January 2026), Chapter 2: Vehicle Inspection and Registration, section 'Equipment You Must Not Have'"
+    },
+    {
+      "id": "tx-230",
+      "topic": "safety",
+      "q": "If another driver is weaving, driving at inconsistent speeds, or appears to be using a phone, you should:",
+      "options": [
+        "Pass closely to get ahead quickly",
+        "Follow closely to signal your annoyance",
+        "Pull alongside and honk",
+        "Give the driver plenty of room and keep a safe following distance"
+      ],
+      "answer": 3,
+      "explain": "Recognize distracted drivers, give them plenty of room, and be careful when passing—they may drift in front of you.",
+      "official": false,
+      "ref": "Texas Driver Handbook (DL-7, rev. January 2026), Chapter 9: Some Special Driving Situations, section 'Distracted driving'"
+    },
+    {
+      "id": "tx-231",
+      "topic": "safety",
+      "q": "To avoid road rage, you should:",
+      "options": [
+        "Tailgate drivers who cut you off",
+        "Brake suddenly to warn a tailgater",
+        "Speed up to keep others from merging",
+        "Tap the horn rather than holding it, and never confront other drivers"
+      ],
+      "answer": 3,
+      "explain": "Plan ahead, stay calm, tap the horn instead of holding it, don't tailgate, and don't speed up or brake to block others.",
+      "official": false,
+      "ref": "Texas Driver Handbook (DL-7, rev. January 2026), Chapter 14: Additional Safety Tips, section 'Tips to Avoid Road Rage'"
+    },
+    {
+      "id": "tx-232",
+      "topic": "safety",
+      "q": "If you are tired or not feeling well, you should:",
+      "options": [
+        "Not drive",
+        "Drive with the windows closed and the heater on",
+        "Drink coffee and drive the usual way",
+        "Drive faster to get home sooner"
+      ],
+      "answer": 0,
+      "explain": "Adjust to your physical condition; if you are tired or not feeling well, do not drive.",
+      "official": false,
+      "ref": "Texas Driver Handbook (DL-7, rev. January 2026), Chapter 8: Speed and Speed Limits, section 'Speed'"
+    },
+    {
+      "id": "tx-233",
+      "topic": "alcohol",
+      "q": "In Texas, a driver 21 or older is legally intoxicated with a blood alcohol concentration (BAC) of:",
+      "options": [
+        "0.05 or more",
+        "0.08 or more",
+        "0.10 or more",
+        "0.15 or more"
+      ],
+      "answer": 1,
+      "explain": "A person 21 or older is legally intoxicated at a BAC of 0.08 or more—or at any level that causes loss of normal use of mental or physical faculties.",
+      "official": false,
+      "ref": "Texas Driver Handbook (DL-7, rev. January 2026), Chapter 10: Alcohol and Drug Impact on the Driving Ability, section 'Know Your Legal Limit'"
+    },
+    {
+      "id": "tx-234",
+      "topic": "alcohol",
+      "q": "Under Texas's zero tolerance law, a driver under 21 commits an offense if driving with:",
+      "options": [
+        "A BAC of 0.08 or more",
+        "A BAC of 0.02 or more",
+        "Any detectable amount of alcohol",
+        "A BAC of 0.05 or more"
+      ],
+      "answer": 2,
+      "explain": "A minor with any detectable amount of alcohol while operating a motor vehicle in a public place commits Driving Under the Influence by a Minor.",
+      "official": false,
+      "ref": "Texas Driver Handbook (DL-7, rev. January 2026), Chapter 10: Alcohol and Drug Impact on the Driving Ability, section 'Zero Tolerance for Minors'"
+    },
+    {
+      "id": "tx-235",
+      "topic": "alcohol",
+      "q": "Can a driver be considered intoxicated in Texas with a BAC below 0.08?",
+      "options": [
+        "Only on a second offense",
+        "No, never below 0.08",
+        "Yes, if alcohol or drugs cause the loss of normal use of mental or physical faculties",
+        "Only if the driver is over 65"
+      ],
+      "answer": 2,
+      "explain": "The legal limit is 0.08 BAC or any amount that results in the loss of normal use of mental or physical faculties.",
+      "official": false,
+      "ref": "Texas Driver Handbook (DL-7, rev. January 2026), Chapter 10: Alcohol and Drug Impact on the Driving Ability, section 'Know Your Legal Limit'"
+    },
+    {
+      "id": "tx-236",
+      "topic": "alcohol",
+      "q": "What is the BAC limit for a person driving a commercial motor vehicle?",
+      "options": [
+        "0.02",
+        "0.04",
+        "0.08",
+        "0.10"
+      ],
+      "answer": 1,
+      "explain": "Commercial drivers have a stricter limit of 0.04 BAC while operating a commercial motor vehicle (federal rule, also in the Texas CDL handbook). The Class C handbook does not cover this.",
+      "official": false,
+      "ref": "Texas Commercial Motor Vehicle Drivers Handbook (DL-7C) / 49 CFR 382.201; not covered in DL-7"
+    },
+    {
+      "id": "tx-237",
+      "topic": "alcohol",
+      "q": "What is the penalty for a first offense of Driving Under the Influence of alcohol by a minor (any detectable amount)?",
+      "options": [
+        "Class C misdemeanor: fine up to $500, 20–40 hours of community service, and an alcohol awareness course",
+        "Class A misdemeanor with one year in jail",
+        "A $50 fine with no other penalties",
+        "A warning only"
+      ],
+      "answer": 0,
+      "explain": "A minor's first DUI is a Class C misdemeanor with a fine up to $500, 20 to 40 hours of community service, and a required alcohol awareness course.",
+      "official": false,
+      "ref": "Texas Driver Handbook (DL-7, rev. January 2026), Chapter 10: Alcohol and Drug Impact on the Driving Ability, section 'Table 29: Penalties for Driving Under the Influence (DUI) of Alcohol and Drugs – Minors'"
+    },
+    {
+      "id": "tx-238",
+      "topic": "alcohol",
+      "q": "A driver under 21 refuses to give a breath or blood specimen for the first time. The license is suspended for:",
+      "options": [
+        "2 years",
+        "30 days",
+        "60 days",
+        "180 days"
+      ],
+      "answer": 3,
+      "explain": "A minor's first refusal brings a 180-day suspension; a second or later refusal brings 2 years.",
+      "official": false,
+      "ref": "Texas Driver Handbook (DL-7, rev. January 2026), Chapter 10: Alcohol and Drug Impact on the Driving Ability, section 'Implied Consent Laws for Minors'"
+    },
+    {
+      "id": "tx-239",
+      "topic": "alcohol",
+      "q": "A minor's breath test shows a detectable amount of alcohol below 0.08. On a first offense, the license is suspended for:",
+      "options": [
+        "60 days",
+        "30 days",
+        "One year",
+        "180 days"
+      ],
+      "answer": 0,
+      "explain": "For a minor whose specimen shows a detectable amount of alcohol: 60 days (1st), 120 days (2nd), 180 days (3rd and later).",
+      "official": false,
+      "ref": "Texas Driver Handbook (DL-7, rev. January 2026), Chapter 10: Alcohol and Drug Impact on the Driving Ability, section 'Implied Consent Laws for Minors'"
+    },
+    {
+      "id": "tx-240",
+      "topic": "alcohol",
+      "q": "An adult driver refuses a breath or blood test after a DWI arrest. For a first refusal, the license is suspended for:",
+      "options": [
+        "90 days",
+        "Five years",
+        "30 days",
+        "180 days"
+      ],
+      "answer": 3,
+      "explain": "Refusing a specimen results in a 180-day suspension, or up to 730 days for later offenses.",
+      "official": false,
+      "ref": "Texas Driver Handbook (DL-7, rev. January 2026), Chapter 10: Alcohol and Drug Impact on the Driving Ability, section 'Implied Consent Laws for Adults'"
+    },
+    {
+      "id": "tx-241",
+      "topic": "alcohol",
+      "q": "An adult driver submits to a test that shows a BAC of 0.08 or more (first offense). Under administrative license revocation, the license may be suspended for:",
+      "options": [
+        "180 days",
+        "Two years",
+        "90 days",
+        "30 days"
+      ],
+      "answer": 2,
+      "explain": "A test result of 0.08 or more brings a 90-day suspension, or up to 365 days for later offenses.",
+      "official": false,
+      "ref": "Texas Driver Handbook (DL-7, rev. January 2026), Chapter 10: Alcohol and Drug Impact on the Driving Ability, section 'Implied Consent Laws for Adults'"
+    },
+    {
+      "id": "tx-242",
+      "topic": "alcohol",
+      "q": "What does Texas's implied consent law mean?",
+      "options": [
+        "By driving, you have agreed to give a breath or blood specimen if lawfully arrested for DWI",
+        "Police need your written permission to test you",
+        "You may refuse a test with no penalty",
+        "Only drivers under 21 can be tested"
+      ],
+      "answer": 0,
+      "explain": "Drivers are considered to have consented to breath or blood testing if arrested for driving while intoxicated; refusing leads to suspension.",
+      "official": false,
+      "ref": "Texas Driver Handbook (DL-7, rev. January 2026), Chapter 10: Alcohol and Drug Impact on the Driving Ability, section 'Implied Consent Laws for Adults'; Appendix A: Glossary, 'implied-consent law'"
+    },
+    {
+      "id": "tx-243",
+      "topic": "alcohol",
+      "q": "What is the reinstatement fee after an Administrative License Revocation (ALR) suspension?",
+      "options": [
+        "$25",
+        "$50",
+        "$125",
+        "$1,000"
+      ],
+      "answer": 2,
+      "explain": "A $125 reinstatement fee is required for all ALR suspensions.",
+      "official": false,
+      "ref": "Texas Driver Handbook (DL-7, rev. January 2026), Chapter 1: Your License to Drive, section 'Administrative License Revocation (ALR)'"
+    },
+    {
+      "id": "tx-244",
+      "topic": "alcohol",
+      "q": "For an adult's first DWI conviction, the maximum fine is:",
+      "options": [
+        "$500",
+        "$2,000",
+        "$4,000",
+        "$10,000"
+      ],
+      "answer": 1,
+      "explain": "A first DWI carries a fine of up to $2,000, 72 hours to 180 days in jail, and a 90-day to 365-day license suspension.",
+      "official": false,
+      "ref": "Texas Driver Handbook (DL-7, rev. January 2026), Chapter 10: Alcohol and Drug Impact on the Driving Ability, section 'Table 31: Penalties for DWI and DUI of Alcohol or Drugs – Adults'"
+    },
+    {
+      "id": "tx-245",
+      "topic": "alcohol",
+      "q": "A first DWI conviction can bring jail time of:",
+      "options": [
+        "30 days to 1 year",
+        "2 to 10 years",
+        "No jail time",
+        "72 hours to 180 days"
+      ],
+      "answer": 3,
+      "explain": "A first DWI is punishable by 72 hours to 180 days in jail.",
+      "official": false,
+      "ref": "Texas Driver Handbook (DL-7, rev. January 2026), Chapter 10: Alcohol and Drug Impact on the Driving Ability, section 'Table 31: Penalties for DWI and DUI of Alcohol or Drugs – Adults'"
+    },
+    {
+      "id": "tx-246",
+      "topic": "alcohol",
+      "q": "If a driver convicted of a first DWI also had an open container of alcohol, the minimum jail time increases to:",
+      "options": [
+        "One day",
+        "30 days",
+        "One year",
+        "Six days"
+      ],
+      "answer": 3,
+      "explain": "Possession of an open container of an alcoholic beverage increases the minimum confinement for a first DWI to six days.",
+      "official": false,
+      "ref": "Texas Driver Handbook (DL-7, rev. January 2026), Chapter 10: Alcohol and Drug Impact on the Driving Ability, section 'Table 30: Penalties for Driving While Intoxicated (Alcohol)'"
+    },
+    {
+      "id": "tx-247",
+      "topic": "alcohol",
+      "q": "A second DWI conviction is punishable by:",
+      "options": [
+        "A fine up to $500 only",
+        "Probation only",
+        "A fine up to $4,000 and 30 days to 1 year in jail",
+        "A fine up to $2,000 and 72 hours in jail"
+      ],
+      "answer": 2,
+      "explain": "A second DWI brings a fine up to $4,000, 30 days to 1 year in jail, and a 180-day to 2-year license suspension.",
+      "official": false,
+      "ref": "Texas Driver Handbook (DL-7, rev. January 2026), Chapter 10: Alcohol and Drug Impact on the Driving Ability, section 'Table 31: Penalties for DWI and DUI of Alcohol or Drugs – Adults'"
+    },
+    {
+      "id": "tx-248",
+      "topic": "alcohol",
+      "q": "A third DWI conviction in Texas is:",
+      "options": [
+        "A felony punishable by 2 to 10 years in prison and a fine up to $10,000",
+        "Handled only by license suspension",
+        "A Class C misdemeanor",
+        "A Class B misdemeanor"
+      ],
+      "answer": 0,
+      "explain": "A third or later DWI is a third-degree felony: 2 to 10 years in the Texas Department of Criminal Justice and up to $10,000.",
+      "official": false,
+      "ref": "Texas Driver Handbook (DL-7, rev. January 2026), Chapter 10: Alcohol and Drug Impact on the Driving Ability, section 'Table 31: Penalties for DWI and DUI of Alcohol or Drugs – Adults'"
+    },
+    {
+      "id": "tx-249",
+      "topic": "alcohol",
+      "q": "Driving while intoxicated with a passenger younger than 15 is:",
+      "options": [
+        "The same as a regular first DWI",
+        "Only a traffic ticket",
+        "A Class C misdemeanor",
+        "A state jail felony"
+      ],
+      "answer": 3,
+      "explain": "DWI with a passenger under 15 is a state jail felony punishable by 180 days to 2 years and a fine up to $10,000.",
+      "official": false,
+      "ref": "Texas Driver Handbook (DL-7, rev. January 2026), Chapter 10: Alcohol and Drug Impact on the Driving Ability, section 'Table 31: Penalties for DWI and DUI of Alcohol or Drugs – Adults'"
+    },
+    {
+      "id": "tx-250",
+      "topic": "alcohol",
+      "q": "Intoxication manslaughter (causing a death while intoxicated) is punishable by:",
+      "options": [
+        "Up to 180 days in jail",
+        "2 to 20 years in prison and a fine up to $10,000",
+        "One year of probation",
+        "A fine up to $2,000 only"
+      ],
+      "answer": 1,
+      "explain": "Intoxication manslaughter is a second-degree felony with 2 to 20 years in prison and a fine up to $10,000.",
+      "official": false,
+      "ref": "Texas Driver Handbook (DL-7, rev. January 2026), Chapter 10: Alcohol and Drug Impact on the Driving Ability, section 'Table 31: Penalties for DWI and DUI of Alcohol or Drugs – Adults'"
+    },
+    {
+      "id": "tx-251",
+      "topic": "alcohol",
+      "q": "Is it legal to have an open container of alcohol in the passenger area of a car parked on a public highway?",
+      "options": [
+        "No; it is illegal whether the car is moving, stopped or parked, with a fine up to $500",
+        "Yes, if the car is parked",
+        "Yes, if only passengers drink",
+        "Yes, if the container is less than half full"
+      ],
+      "answer": 0,
+      "explain": "Possessing an open container in a vehicle's passenger area on a public highway is illegal whether the vehicle is operated, stopped, or parked.",
+      "official": false,
+      "ref": "Texas Driver Handbook (DL-7, rev. January 2026), Chapter 10: Alcohol and Drug Impact on the Driving Ability, section 'Open Container'"
+    },
+    {
+      "id": "tx-252",
+      "topic": "alcohol",
+      "q": "What is the only thing that sobers up a person who has been drinking?",
+      "options": [
+        "Exercise",
+        "Black coffee",
+        "Time",
+        "A cold shower"
+      ],
+      "answer": 2,
+      "explain": "Coffee, cold showers and exercise do not work. Only time—about one hour per drink—reduces the effects of alcohol.",
+      "official": false,
+      "ref": "Texas Driver Handbook (DL-7, rev. January 2026), Chapter 10: Alcohol and Drug Impact on the Driving Ability, section 'Myths about Drinking Alcohol'"
+    },
+    {
+      "id": "tx-253",
+      "topic": "alcohol",
+      "q": "About how long does it take the body to get rid of the alcohol in one drink?",
+      "options": [
+        "About one hour",
+        "About 10 minutes",
+        "About 4 hours",
+        "About 24 hours"
+      ],
+      "answer": 0,
+      "explain": "It takes about one hour for the body to rid itself of each drink.",
+      "official": false,
+      "ref": "Texas Driver Handbook (DL-7, rev. January 2026), Chapter 10: Alcohol and Drug Impact on the Driving Ability, section 'Myths about Drinking Alcohol'"
+    },
+    {
+      "id": "tx-254",
+      "topic": "alcohol",
+      "q": "Which contains about the same amount of alcohol as a 12-ounce can of beer?",
+      "options": [
+        "A 12-ounce glass of wine",
+        "Three ounces of liquor",
+        "A 24-ounce beer",
+        "A 5-ounce glass of wine"
+      ],
+      "answer": 3,
+      "explain": "A 12-ounce beer, a 5-ounce glass of wine, and a mixed drink with 1.5 ounces of liquor all contain about the same amount of alcohol.",
+      "official": false,
+      "ref": "Texas Driver Handbook (DL-7, rev. January 2026), Chapter 10: Alcohol and Drug Impact on the Driving Ability, section 'Table 32: Alcohol and Driving. Why Take the Risk?'"
+    },
+    {
+      "id": "tx-255",
+      "topic": "alcohol",
+      "q": "A minor's first conviction for a non-driving alcohol offense (such as possession) results in a license suspension of:",
+      "options": [
+        "180 days",
+        "60 days",
+        "30 days",
+        "One year"
+      ],
+      "answer": 2,
+      "explain": "A first non-driving alcohol offense by a minor brings a fine up to $500, 8–12 hours of community service, an alcohol awareness course, and a 30-day suspension.",
+      "official": false,
+      "ref": "Texas Driver Handbook (DL-7, rev. January 2026), Chapter 10: Alcohol and Drug Impact on the Driving Ability, section 'Penalties for Non-Driving Alcohol-Related Offenses by Minors'"
+    },
+    {
+      "id": "tx-256",
+      "topic": "alcohol",
+      "q": "An adult who buys alcohol for, or gives alcohol to, a minor faces:",
+      "options": [
+        "A warning on the first offense",
+        "A fine of up to $4,000 and/or up to one year in jail",
+        "Only a license suspension",
+        "A $50 fine"
+      ],
+      "answer": 1,
+      "explain": "Purchasing, furnishing, or selling alcohol to a minor is punishable by a fine up to $4,000 and/or up to one year in jail.",
+      "official": false,
+      "ref": "Texas Driver Handbook (DL-7, rev. January 2026), Chapter 1: Your License to Drive, section 'Other Non-Driving Penalties for Alcohol-Related Offenses'"
+    },
+    {
+      "id": "tx-257",
+      "topic": "alcohol",
+      "q": "One of the first effects of alcohol on a driver is:",
+      "options": [
+        "Better ability to judge speed",
+        "Loss of good judgment",
+        "Improved reaction time",
+        "Sharper vision"
+      ],
+      "answer": 1,
+      "explain": "Alcohol, a depressant, first affects judgment and vision, slowing reactions and the ability to judge other vehicles' speed.",
+      "official": false,
+      "ref": "Texas Driver Handbook (DL-7, rev. January 2026), Chapter 10: Alcohol and Drug Impact on the Driving Ability, section 'Chapter 10 introduction'"
+    },
+    {
+      "id": "tx-258",
+      "topic": "alcohol",
+      "q": "Why is it dangerous to combine alcohol with tranquilizers or sedatives?",
+      "options": [
+        "Alcohol increases their depressant effects",
+        "Tranquilizers make you sober faster",
+        "It is only dangerous for drivers under 21",
+        "They cancel each other out"
+      ],
+      "answer": 0,
+      "explain": "Alcohol increases the depressant effects of tranquilizers and barbiturates; mixing drugs can be very hazardous.",
+      "official": false,
+      "ref": "Texas Driver Handbook (DL-7, rev. January 2026), Chapter 10: Alcohol and Drug Impact on the Driving Ability, section 'Table 25: Alcohol and Other Types of Drugs'"
+    },
+    {
+      "id": "tx-259",
+      "topic": "alcohol",
+      "q": "Before driving after taking an over-the-counter cold medicine or antihistamine, you should:",
+      "options": [
+        "Drive only on highways",
+        "Drink coffee to cancel the effect",
+        "Read the label, because many cause drowsiness",
+        "Take a double dose to feel better quickly"
+      ],
+      "answer": 2,
+      "explain": "Many over-the-counter drugs cause drowsiness. Read labels and ask a doctor or pharmacist if unsure.",
+      "official": false,
+      "ref": "Texas Driver Handbook (DL-7, rev. January 2026), Chapter 10: Alcohol and Drug Impact on the Driving Ability, section 'Table 25: Alcohol and Other Types of Drugs'"
+    },
+    {
+      "id": "tx-260",
+      "topic": "alcohol",
+      "q": "How does marijuana affect driving?",
+      "options": [
+        "It has no effect on driving",
+        "It improves concentration",
+        "It affects only night vision",
+        "Even typical doses can impair concentration, judgment and perception"
+      ],
+      "answer": 3,
+      "explain": "Research shows even typical social doses of marijuana can affect the concentration, judgment and perceptual skills needed for driving.",
+      "official": false,
+      "ref": "Texas Driver Handbook (DL-7, rev. January 2026), Chapter 10: Alcohol and Drug Impact on the Driving Ability, section 'Table 25: Alcohol and Other Types of Drugs'"
+    },
+    {
+      "id": "tx-261",
+      "topic": "emergencies",
+      "q": "You are in a crash in which someone is injured. You must:",
+      "options": [
+        "Stop only if the crash was your fault",
+        "Leave and call police from home",
+        "Stop at or near the scene, exchange information, and give reasonable help to the injured",
+        "Move all injured people into your car"
+      ],
+      "answer": 2,
+      "explain": "Stop immediately at or as close as possible to the scene, give your name, address, registration and insurer, show your license if asked, and provide reasonable assistance.",
+      "official": false,
+      "ref": "Texas Driver Handbook (DL-7, rev. January 2026), Chapter 11: Motor Vehicle Crashes, section 'Crash Resulting in Injury to, or Death of a person'"
+    },
+    {
+      "id": "tx-262",
+      "topic": "emergencies",
+      "q": "After a crash involving another driver, what information should you provide?",
+      "options": [
+        "Only your phone number",
+        "Your name and address, vehicle registration number, and liability insurer",
+        "Only your insurance agent's name",
+        "Nothing until police arrive"
+      ],
+      "answer": 1,
+      "explain": "Give your name, address, vehicle registration number and the name of your liability insurer, and show your driver license if requested.",
+      "official": false,
+      "ref": "Texas Driver Handbook (DL-7, rev. January 2026), Chapter 11: Motor Vehicle Crashes, section 'Crash Resulting in Injury to, or Death of a person'"
+    },
+    {
+      "id": "tx-263",
+      "topic": "emergencies",
+      "q": "You have a minor crash on a freeway main lane. No one is hurt and both cars can be driven safely. You should:",
+      "options": [
+        "Move the vehicles off the main lanes to a safe nearby location",
+        "Stand between the cars to direct traffic",
+        "Leave the cars where they are until police arrive",
+        "Drive away without stopping"
+      ],
+      "answer": 0,
+      "explain": "If each vehicle can be driven safely, move it as soon as possible to a crash investigation site, the frontage road, a nearby cross street, or another safe spot.",
+      "official": false,
+      "ref": "Texas Driver Handbook (DL-7, rev. January 2026), Chapter 11: Motor Vehicle Crashes, section 'Crash Resulting in Damage to a Vehicle'"
+    },
+    {
+      "id": "tx-264",
+      "topic": "emergencies",
+      "q": "You hit a parked car and cannot find the owner. You must:",
+      "options": [
+        "Report it only if the damage is over $1,000",
+        "Wait one hour, then leave",
+        "Drive away; it was parked illegally",
+        "Leave a note in a visible place with your name, address, and an explanation of what happened"
+      ],
+      "answer": 3,
+      "explain": "Stop and either locate the owner or securely attach a written notice with your name, address, and the circumstances of the collision.",
+      "official": false,
+      "ref": "Texas Driver Handbook (DL-7, rev. January 2026), Chapter 11: Motor Vehicle Crashes, section 'Crash Involving an Unattended Vehicle'"
+    },
+    {
+      "id": "tx-265",
+      "topic": "emergencies",
+      "q": "In which situation should you notify law enforcement about a crash as soon as possible?",
+      "options": [
+        "When the other driver offers to pay cash",
+        "Only when the crash is on a freeway",
+        "When someone is injured or killed",
+        "Only when your car cannot be driven"
+      ],
+      "answer": 2,
+      "explain": "Notify law enforcement when there is an injury or fatality, the vehicles cannot be moved, a driver leaves the scene, or you suspect a driver is intoxicated.",
+      "official": false,
+      "ref": "Texas Driver Handbook (DL-7, rev. January 2026), Chapter 11: Motor Vehicle Crashes, section 'Chapter 11 introduction'"
+    },
+    {
+      "id": "tx-266",
+      "topic": "emergencies",
+      "q": "Leaving the scene of a crash that caused someone's death (failure to stop and render aid) is:",
+      "options": [
+        "A second-degree felony punishable by 2 to 20 years in prison",
+        "A Class C misdemeanor",
+        "A $200 fine",
+        "Only a license suspension"
+      ],
+      "answer": 0,
+      "explain": "Failure to stop in a crash resulting in death is a second-degree felony with a fine up to $10,000 and 2 to 20 years in prison.",
+      "official": false,
+      "ref": "Texas Driver Handbook (DL-7, rev. January 2026), Chapter 11: Motor Vehicle Crashes, section 'Table 33: Penalties for Failure to Stop'"
+    },
+    {
+      "id": "tx-267",
+      "topic": "emergencies",
+      "q": "Failing to stop after damaging an attended vehicle, with less than $200 in damage, is:",
+      "options": [
+        "Not an offense",
+        "A felony",
+        "A Class A misdemeanor",
+        "A Class C misdemeanor with a fine up to $500"
+      ],
+      "answer": 3,
+      "explain": "With less than $200 in damage it is a Class C misdemeanor; with $200 or more it is a Class B misdemeanor.",
+      "official": false,
+      "ref": "Texas Driver Handbook (DL-7, rev. January 2026), Chapter 11: Motor Vehicle Crashes, section 'Table 34: Penalties for Failure to Stop'"
+    },
+    {
+      "id": "tx-268",
+      "topic": "emergencies",
+      "q": "You are the victim of a hit-and-run crash. What should you do?",
+      "options": [
+        "Do nothing, since you can't find the other driver",
+        "Report it to law enforcement",
+        "Wait to see if the other driver calls you",
+        "Report it only to your mechanic"
+      ],
+      "answer": 1,
+      "explain": "Report hit-and-run crashes to law enforcement. Uninsured motorist coverage pays for hit-and-run damage only when it has been reported.",
+      "official": false,
+      "ref": "Texas Driver Handbook (DL-7, rev. January 2026), Chapter 11: Motor Vehicle Crashes, section 'Hit-and-Run Crashes'"
+    },
+    {
+      "id": "tx-269",
+      "topic": "emergencies",
+      "q": "When helping someone injured in a crash, you should:",
+      "options": [
+        "Give the person something to drink",
+        "Move the person to your car right away",
+        "Not move the injured person unless it is absolutely necessary",
+        "Help the person stand up and walk around"
+      ],
+      "answer": 2,
+      "explain": "Send for skilled help. Do not move or lift victims unless absolutely necessary, and keep them comfortable.",
+      "official": false,
+      "ref": "Texas Driver Handbook (DL-7, rev. January 2026), Chapter 11: Motor Vehicle Crashes, section 'Aiding the Injured'"
+    },
+    {
+      "id": "tx-270",
+      "topic": "emergencies",
+      "q": "How should you try to control serious bleeding while waiting for help?",
+      "options": [
+        "Pour water on the wound",
+        "Raise the person to a standing position",
+        "Leave the wound uncovered",
+        "Press thick, clean cloth pads firmly on the wound"
+      ],
+      "answer": 3,
+      "explain": "Stop serious bleeding by applying pressure with thick, clean cloth pads, by hand or with a bandage.",
+      "official": false,
+      "ref": "Texas Driver Handbook (DL-7, rev. January 2026), Chapter 11: Motor Vehicle Crashes, section 'Aiding the Injured'"
+    },
+    {
+      "id": "tx-271",
+      "topic": "emergencies",
+      "q": "Your car stalls on railroad tracks and a train is coming. You should:",
+      "options": [
+        "Run along the tracks away from the train",
+        "Get everyone out and move away from the tracks toward the direction the train is coming from",
+        "Get out and stand beside the car",
+        "Stay in the car and try to restart it"
+      ],
+      "answer": 1,
+      "explain": "Get out quickly and move away from the tracks, going toward the approaching train (off to the side) to avoid flying debris.",
+      "official": false,
+      "ref": "Texas Driver Handbook (DL-7, rev. January 2026), Chapter 4: Right-of-Way, section 'Additional Safe Driving Procedures at Railroad Crossings'"
+    },
+    {
+      "id": "tx-272",
+      "topic": "emergencies",
+      "q": "The blue and white Emergency Notification System (ENS) sign at a railroad crossing is used to:",
+      "options": [
+        "Call the railroad about an emergency or a signal problem, giving the crossing's ID number",
+        "Show the train schedule",
+        "Mark a quiet zone where trains don't sound horns",
+        "Tell drivers to stop at all times"
+      ],
+      "answer": 0,
+      "explain": "The ENS sign lists the railroad's emergency number and the USDOT crossing number, which identifies the exact location of the crossing.",
+      "official": false,
+      "ref": "Texas Driver Handbook (DL-7, rev. January 2026), Chapter 4: Right-of-Way, section 'Highway-Rail Grade Crossings Emergency Notification System (ENS)'"
+    },
+    {
+      "id": "tx-273",
+      "topic": "emergencies",
+      "q": "Your car breaks down and you cannot get it completely off the road. What should you do?",
+      "options": [
+        "Stay inside with the doors locked and wait",
+        "Stand behind the car to wave traffic around",
+        "Leave the lights off to save the battery",
+        "Get everyone out of the car and away from the road, and warn oncoming traffic"
+      ],
+      "answer": 3,
+      "explain": "If you can't get the car off the road, get everyone out and off the road and use warning devices to alert traffic.",
+      "official": false,
+      "ref": "Texas Driver Handbook (DL-7, rev. January 2026), Chapter 9: Some Special Driving Situations, section 'Vehicle Breakdown'"
+    },
+    {
+      "id": "tx-274",
+      "topic": "emergencies",
+      "q": "To signal that your stopped vehicle needs help, you can:",
+      "options": [
+        "Park in the travel lane",
+        "Turn on your hazard lights and tie a white cloth to the antenna or door handle, or raise the hood",
+        "Keep honking",
+        "Leave your high beams on"
+      ],
+      "answer": 1,
+      "explain": "Turn on emergency flashers and tie a white cloth where it can be seen; if you have no cloth, raise the hood.",
+      "official": false,
+      "ref": "Texas Driver Handbook (DL-7, rev. January 2026), Chapter 9: Some Special Driving Situations, section 'Vehicle Breakdown'"
+    },
+    {
+      "id": "tx-275",
+      "topic": "emergencies",
+      "q": "You are driving in a roundabout when an emergency vehicle approaches with its siren on. You should:",
+      "options": [
+        "Continue to your exit, leave the circle, and then pull over",
+        "Stop immediately inside the circle",
+        "Speed up to stay ahead of it in the circle",
+        "Reverse out of the circle"
+      ],
+      "answer": 0,
+      "explain": "Do not stop inside the roundabout. Clear the circle first, then pull over for the emergency vehicle.",
+      "official": false,
+      "ref": "Texas Driver Handbook (DL-7, rev. January 2026), Chapter 9: Some Special Driving Situations, section 'Roundabouts'"
+    },
+    {
+      "id": "tx-276",
+      "topic": "emergencies",
+      "q": "An unmarked car signals you to stop at night on a dark road, and you are unsure it is a real police vehicle. What does the handbook say you may do?",
+      "options": [
+        "Ignore the signal and keep driving normally",
+        "Speed away to escape",
+        "Turn on your hazard lights, drive slowly, call 9-1-1, and stop at a nearby well-lit, populated place",
+        "Stop in a travel lane and get out"
+      ],
+      "answer": 2,
+      "explain": "You may turn on hazards, drive slowly below the limit, call 9-1-1 to verify, and go to a nearby well-lit, populated place to stop.",
+      "official": false,
+      "ref": "Texas Driver Handbook (DL-7, rev. January 2026), Chapter 14: Additional Safety Tips, section 'Obligations, Responsibilities, Courtesy and Safety'"
+    },
+    {
+      "id": "tx-277",
+      "topic": "emergencies",
+      "q": "You find someone overcome by carbon monoxide in a car. What should you do?",
+      "options": [
+        "Give the person coffee",
+        "Let the person sleep it off in the car",
+        "Turn the car's heater on",
+        "Move the person to fresh air and call 911"
+      ],
+      "answer": 3,
+      "explain": "Move a carbon monoxide victim into fresh air and call 911.",
+      "official": false,
+      "ref": "Texas Driver Handbook (DL-7, rev. January 2026), Chapter 14: Additional Safety Tips, section 'Carbon Monoxide'"
+    },
+    {
+      "id": "tx-278",
+      "topic": "emergencies",
+      "q": "You notice a railroad crossing signal is not working properly. Whom can you call?",
+      "options": [
+        "No one; railroads check them daily",
+        "The DPS Communications Center or local police or sheriff, giving the crossing's ID number",
+        "The Texas Department of Motor Vehicles title office",
+        "Your insurance company"
+      ],
+      "answer": 1,
+      "explain": "Report signal problems to DPS at (800) 772-7677 or to local police or the sheriff, and give the crossing signal's identification number.",
+      "official": false,
+      "ref": "Texas Driver Handbook (DL-7, rev. January 2026), Chapter 4: Right-of-Way, section 'Additional Safe Driving Procedures at Railroad Crossings'"
+    },
+    {
+      "id": "tx-279",
+      "topic": "emergencies",
+      "q": "If your vehicle stalls in floodwater, you should:",
+      "options": [
+        "Get out quickly and move to higher ground",
+        "Try to push the car through the water",
+        "Stay inside and wait for the water to go down",
+        "Keep restarting the engine"
+      ],
+      "answer": 0,
+      "explain": "National Weather Service and state officials advise getting out quickly and moving to higher ground if your vehicle stalls in floodwater.",
+      "official": false,
+      "ref": "Texas Driver Handbook (DL-7, rev. January 2026), Chapter 9: Some Special Driving Situations, section 'Floods'"
+    }
+  ],
+  "version": 1
+}

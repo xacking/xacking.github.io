@@ -1,0 +1,4238 @@
+{
+ "code": "mi",
+ "test": "Michigan Driver's License Knowledge Test (operator, Class O)",
+ "edition": "Based on 'What Every Driver Must Know' (Michigan Department of State, SOS-133 Rev. 10/2025; PDF dated January 2026 on michigan.gov/sos), plus Michigan State Police OHSP 'Impaired Driving Law' page for BAC limits. Checked October 2026.",
+ "language": "en",
+ "exam": {
+  "questions": 50,
+  "passMark": 40,
+  "minutes": null,
+  "rules": "Adults (18 and older) who have never been licensed take the written knowledge test, which includes a separate road-sign portion, before a Temporary Instruction Permit (TIP) is issued. It is multiple choice, offered free at a computer station in a Secretary of State office (arrive at least one hour before closing) or online at home for a $6.50 fee; both portions (an 'Operator' section of about 45 minutes and a 'Signs' section of about 15 minutes) must be passed. Failing ends that day's session and you must retest on another day; passed results are valid for one year. Teens under 18 do not take the SOS test: they pass the Segment 1 state exam (minimum 70 percent) in a certified driver education course before getting a Level 1 Learner's License. Michigan does not publish the exact number of questions; this mock uses the commonly reported 50 questions (25 operator + 25 signs) with 80 percent needed on each part.",
+  "parts": [
+   {
+    "title": "Operator (traffic laws & safe driving)",
+    "topics": [
+     "licensing",
+     "right-of-way",
+     "speed",
+     "turns",
+     "parking",
+     "sharing",
+     "safety",
+     "alcohol",
+     "emergencies"
+    ],
+    "questions": 25,
+    "passMark": 20
+   },
+   {
+    "title": "Road signs",
+    "topics": [
+     "signs"
+    ],
+    "questions": 25,
+    "passMark": 20
+   }
+  ]
+ },
+ "sources": [
+  {
+   "title": "What Every Driver Must Know (SOS-133, Rev. 10/2025)",
+   "url": "https://www.michigan.gov/sos/resources/forms/what-every-driver-must-know",
+   "licence": "state government publication (questions written in our own words)",
+   "note": "Primary source for every question; chapters 1, 2, 4, 5, 6 and 7."
+  },
+  {
+   "title": "Michigan SOS - New drivers (18 and older)",
+   "url": "https://www.michigan.gov/sos/license-id/new-drivers-18-older",
+   "licence": "state government web page (facts only)",
+   "note": "Test format: knowledge test includes a road sign test; Operator (~45 min) and Signs (~15 min) portions; $6.50 online fee; results valid one year; retest on a different day."
+  },
+  {
+   "title": "Michigan SOS - New drivers (under 18)",
+   "url": "https://www.michigan.gov/sos/license-id/new-drivers-under-18",
+   "licence": "state government web page (facts only)",
+   "note": "GDL steps; Segment 1 state exam 70 percent; Level 2 restrictions."
+  },
+  {
+   "title": "Michigan State Police OHSP - Impaired Driving Law",
+   "url": "https://www.michigan.gov/msp/divisions/ohsp/safety-programs/impaired-driving/impaired-driving-law",
+   "licence": "state government web page (facts only)",
+   "note": "BAC limits (.08, .02 under 21, .17 high BAC), first-offense penalties, refusal suspensions (the handbook no longer lists BAC numbers)."
+  }
+ ],
+ "topics": [
+  {
+   "id": "licensing",
+   "title": "Permits & licensing"
+  },
+  {
+   "id": "signs",
+   "title": "Signs, signals & markings"
+  },
+  {
+   "id": "right-of-way",
+   "title": "Right of way"
+  },
+  {
+   "id": "speed",
+   "title": "Speed & following distance"
+  },
+  {
+   "id": "turns",
+   "title": "Turning, lanes & passing"
+  },
+  {
+   "id": "parking",
+   "title": "Parking"
+  },
+  {
+   "id": "sharing",
+   "title": "Sharing the road"
+  },
+  {
+   "id": "safety",
+   "title": "Safe driving & hazards"
+  },
+  {
+   "id": "alcohol",
+   "title": "Alcohol, drugs & penalties"
+  },
+  {
+   "id": "emergencies",
+   "title": "Emergencies & crashes"
+  }
+ ],
+ "questions": [
+  {
+   "id": "mi-001",
+   "topic": "licensing",
+   "q": "What is the minimum age to enroll in Segment 1 driver education in Michigan?",
+   "options": [
+    "14 years, 8 months",
+    "15 years",
+    "14 years",
+    "15 years, 6 months"
+   ],
+   "answer": 0,
+   "explain": "Teens must be at least 14 years and 8 months old, with parental permission, to begin Segment 1.",
+   "official": false,
+   "ref": "What Every Driver Must Know (Michigan SOS, SOS-133 Rev. 10/2025), Ch. 1, 'Under 18 – Graduated Driver Licensing'"
+  },
+  {
+   "id": "mi-002",
+   "topic": "licensing",
+   "q": "What is the minimum age for a GDL Level 1 Learner's License?",
+   "options": [
+    "15 years",
+    "14 years, 9 months",
+    "14 years, 8 months",
+    "16 years"
+   ],
+   "answer": 1,
+   "explain": "A Level 1 Learner's License can be issued at 14 years, 9 months after Segment 1 is completed.",
+   "official": false,
+   "ref": "What Every Driver Must Know (Michigan SOS, SOS-133 Rev. 10/2025), Ch. 1, 'Under 18 – Graduated Driver Licensing'"
+  },
+  {
+   "id": "mi-003",
+   "topic": "licensing",
+   "q": "What minimum score must a teen earn on the Segment 1 and Segment 2 state exams?",
+   "options": [
+    "90 percent",
+    "60 percent",
+    "70 percent",
+    "80 percent"
+   ],
+   "answer": 2,
+   "explain": "Both driver education segments require at least 70 percent on the state exam.",
+   "official": false,
+   "ref": "What Every Driver Must Know (Michigan SOS, SOS-133 Rev. 10/2025), Ch. 1, 'Under 18 – Graduated Driver Licensing'"
+  },
+  {
+   "id": "mi-004",
+   "topic": "licensing",
+   "q": "With a Level 1 Learner's License, who may supervise the teen driver?",
+   "options": [
+    "Any licensed driver age 18 or older riding anywhere in the vehicle",
+    "A licensed parent, guardian, or a designated licensed adult age 21 or older seated in the front seat",
+    "Any passenger age 16 or older",
+    "Only a certified driving instructor"
+   ],
+   "answer": 1,
+   "explain": "Level 1 drivers may drive only with a licensed parent, guardian or designated licensed adult 21+ in the front seat beside them.",
+   "official": false,
+   "ref": "What Every Driver Must Know (Michigan SOS, SOS-133 Rev. 10/2025), Ch. 1, 'Under 18 – Graduated Driver Licensing'"
+  },
+  {
+   "id": "mi-005",
+   "topic": "licensing",
+   "q": "How many hours of supervised driving must a Level 1 driver log before taking the driving skills test?",
+   "options": [
+    "50 hours, including 10 hours at night",
+    "30 hours, including 2 hours at night",
+    "40 hours, including 5 hours at night",
+    "60 hours, including 15 hours at night"
+   ],
+   "answer": 0,
+   "explain": "A minimum of 50 logged hours, 10 of them at night, is required before the skills test.",
+   "official": false,
+   "ref": "What Every Driver Must Know (Michigan SOS, SOS-133 Rev. 10/2025), Ch. 1, 'Under 18 – Graduated Driver Licensing'"
+  },
+  {
+   "id": "mi-006",
+   "topic": "licensing",
+   "q": "Before starting Segment 2, a teen must have logged at least how many hours of supervised driving?",
+   "options": [
+    "50 hours, including 10 hours at night",
+    "10 hours, all in daylight",
+    "20 hours, including 5 hours at night",
+    "30 hours, including at least 2 hours at night"
+   ],
+   "answer": 3,
+   "explain": "Segment 2 requires a log of at least 30 supervised hours (2 at night) and a Level 1 license held at least 3 consecutive months.",
+   "official": false,
+   "ref": "What Every Driver Must Know (Michigan SOS, SOS-133 Rev. 10/2025), Ch. 1, 'Under 18 – Graduated Driver Licensing'"
+  },
+  {
+   "id": "mi-007",
+   "topic": "licensing",
+   "q": "How long must a teen have held a Level 1 Learner's License before enrolling in Segment 2?",
+   "options": [
+    "At least six months",
+    "At least one year",
+    "At least three consecutive months",
+    "At least 30 days"
+   ],
+   "answer": 2,
+   "explain": "Segment 2 requires the Level 1 license to have been held for at least three consecutive months.",
+   "official": false,
+   "ref": "What Every Driver Must Know (Michigan SOS, SOS-133 Rev. 10/2025), Ch. 1, 'Under 18 – Graduated Driver Licensing'"
+  },
+  {
+   "id": "mi-008",
+   "topic": "licensing",
+   "q": "What is the minimum age to apply for a GDL Level 2 Intermediate License?",
+   "options": [
+    "15",
+    "16",
+    "15 and a half",
+    "17"
+   ],
+   "answer": 1,
+   "explain": "A Level 2 license requires age 16, six months on Level 1, and a clean record for the preceding 90 days.",
+   "official": false,
+   "ref": "What Every Driver Must Know (Michigan SOS, SOS-133 Rev. 10/2025), Ch. 1, 'Under 18 – Graduated Driver Licensing'"
+  },
+  {
+   "id": "mi-009",
+   "topic": "licensing",
+   "q": "To advance to Level 2, a teen's driving record must be free of violations, at-fault crashes and suspensions for how long before applying?",
+   "options": [
+    "12 months",
+    "30 days",
+    "90 days",
+    "6 months"
+   ],
+   "answer": 2,
+   "explain": "There must be no violations, at-fault crashes or suspensions in the 90 days before the Level 2 application.",
+   "official": false,
+   "ref": "What Every Driver Must Know (Michigan SOS, SOS-133 Rev. 10/2025), Ch. 1, 'Under 18 – Graduated Driver Licensing'"
+  },
+  {
+   "id": "mi-010",
+   "topic": "licensing",
+   "q": "A Level 2 Intermediate License holder may not drive during which hours unless an exception applies?",
+   "options": [
+    "11 p.m. to 6 a.m.",
+    "9 p.m. to 6 a.m.",
+    "10 p.m. to 5 a.m.",
+    "Midnight to 5 a.m."
+   ],
+   "answer": 2,
+   "explain": "Level 2 drivers may not drive between 10 p.m. and 5 a.m. unless supervised by a qualifying adult or driving for work or an authorized activity.",
+   "official": false,
+   "ref": "What Every Driver Must Know (Michigan SOS, SOS-133 Rev. 10/2025), Ch. 1, 'Under 18 – Graduated Driver Licensing'"
+  },
+  {
+   "id": "mi-011",
+   "topic": "licensing",
+   "q": "Under a Level 2 license, how many passengers under age 21 may ride with the teen (when no exception applies)?",
+   "options": [
+    "No more than two",
+    "No more than one",
+    "None",
+    "No more than three"
+   ],
+   "answer": 1,
+   "explain": "Level 2 drivers may carry no more than one passenger under 21 unless a qualifying adult is present, the passengers are immediate family, or it is work or an authorized activity.",
+   "official": false,
+   "ref": "What Every Driver Must Know (Michigan SOS, SOS-133 Rev. 10/2025), Ch. 1, 'Under 18 – Graduated Driver Licensing'"
+  },
+  {
+   "id": "mi-012",
+   "topic": "licensing",
+   "q": "Which situation is an exception to the Level 2 passenger restriction?",
+   "options": [
+    "The passengers are members of the teen's immediate family",
+    "The passengers are all age 18 or older",
+    "It is daytime on a weekend",
+    "The trip is shorter than 10 miles"
+   ],
+   "answer": 0,
+   "explain": "Immediate family passengers are exempt, as are trips with a qualifying adult or for work or authorized activities; age 18-20 passengers still count.",
+   "official": false,
+   "ref": "What Every Driver Must Know (Michigan SOS, SOS-133 Rev. 10/2025), Ch. 1, 'Under 18 – Graduated Driver Licensing'"
+  },
+  {
+   "id": "mi-013",
+   "topic": "licensing",
+   "q": "What is required to receive a GDL Level 3 Full License?",
+   "options": [
+    "Be at least 16 and pass a second driving skills test",
+    "Be at least 17, hold Level 2 for 6 months, and drive 12 consecutive months without a moving violation, at-fault crash, suspension or GDL violation",
+    "Complete 100 hours of supervised driving",
+    "Be at least 18 and pay a full license fee"
+   ],
+   "answer": 1,
+   "explain": "Level 3 requires age 17, six months on Level 2 and 12 consecutive clean months; it is issued automatically at no fee.",
+   "official": false,
+   "ref": "What Every Driver Must Know (Michigan SOS, SOS-133 Rev. 10/2025), Ch. 1, 'Under 18 – Graduated Driver Licensing'"
+  },
+  {
+   "id": "mi-014",
+   "topic": "licensing",
+   "q": "At what age does Michigan's Graduated Driver Licensing program end?",
+   "options": [
+    "19",
+    "18",
+    "17",
+    "21"
+   ],
+   "answer": 1,
+   "explain": "GDL ends when the driver turns 18.",
+   "official": false,
+   "ref": "What Every Driver Must Know (Michigan SOS, SOS-133 Rev. 10/2025), Ch. 1, 'Under 18 – Graduated Driver Licensing'"
+  },
+  {
+   "id": "mi-015",
+   "topic": "licensing",
+   "q": "What does Kelsey's Law prohibit?",
+   "options": [
+    "Passengers under 16 from riding in the front seat",
+    "Level 1 and Level 2 GDL drivers using a cell phone while driving, except in an emergency",
+    "All drivers from eating while driving",
+    "Teens from driving after 9 p.m."
+   ],
+   "answer": 1,
+   "explain": "Kelsey's Law bars GDL Level 1 and Level 2 drivers from phone use while driving except to report an emergency.",
+   "official": false,
+   "ref": "What Every Driver Must Know (Michigan SOS, SOS-133 Rev. 10/2025), Ch. 4, 'Cell phone use prohibited for all drivers – including teens'"
+  },
+  {
+   "id": "mi-016",
+   "topic": "licensing",
+   "q": "How long is a Michigan temporary instruction permit (TIP) valid?",
+   "options": [
+    "One year",
+    "30 days",
+    "90 days",
+    "180 days"
+   ],
+   "answer": 3,
+   "explain": "A TIP is valid for 180 days.",
+   "official": false,
+   "ref": "What Every Driver Must Know (Michigan SOS, SOS-133 Rev. 10/2025), Ch. 1, 'Temporary instruction permit'"
+  },
+  {
+   "id": "mi-017",
+   "topic": "licensing",
+   "q": "An adult on a TIP must practice for at least how long before taking the driving skills test?",
+   "options": [
+    "90 days",
+    "180 days",
+    "7 days",
+    "30 days"
+   ],
+   "answer": 3,
+   "explain": "Adults must complete at least 30 days of supervised practice on a TIP before the skills test.",
+   "official": false,
+   "ref": "What Every Driver Must Know (Michigan SOS, SOS-133 Rev. 10/2025), Ch. 1, 'Temporary instruction permit'"
+  },
+  {
+   "id": "mi-018",
+   "topic": "licensing",
+   "q": "Which tests must an adult pass before a temporary instruction permit is issued?",
+   "options": [
+    "The on-road driving skills test",
+    "Only a vision test",
+    "A written test only; vision is tested later",
+    "A vision test plus the written knowledge and road sign tests"
+   ],
+   "answer": 3,
+   "explain": "To get a TIP you must pass the vision test and the written knowledge and road sign tests and meet health standards.",
+   "official": false,
+   "ref": "What Every Driver Must Know (Michigan SOS, SOS-133 Rev. 10/2025), Ch. 1, 'Temporary instruction permit'"
+  },
+  {
+   "id": "mi-019",
+   "topic": "licensing",
+   "q": "Once passed, how long are Michigan knowledge test results valid?",
+   "options": [
+    "Four years",
+    "One year",
+    "30 days",
+    "180 days"
+   ],
+   "answer": 1,
+   "explain": "Passed knowledge test results are valid for one year (a new test is needed if a TIP is reapplied for after expiring).",
+   "official": false,
+   "ref": "Michigan SOS web page 'New drivers (18 and older)' (michigan.gov/sos)"
+  },
+  {
+   "id": "mi-020",
+   "topic": "licensing",
+   "q": "If you must take a knowledge test at a Secretary of State office, when should you arrive?",
+   "options": [
+    "Any time before closing",
+    "At least 15 minutes before closing",
+    "At least one hour before closing",
+    "Only first thing in the morning"
+   ],
+   "answer": 2,
+   "explain": "Arrive at least one hour before closing to allow time to complete the test.",
+   "official": false,
+   "ref": "What Every Driver Must Know (Michigan SOS, SOS-133 Rev. 10/2025), Ch. 1, 'Vision and knowledge tests'"
+  },
+  {
+   "id": "mi-021",
+   "topic": "licensing",
+   "q": "New Michigan drivers, including GDL teens, are placed on probation for a minimum of:",
+   "options": [
+    "Five years",
+    "Three years",
+    "Two years",
+    "One year"
+   ],
+   "answer": 1,
+   "explain": "All newly licensed drivers are on probation for at least three years.",
+   "official": false,
+   "ref": "What Every Driver Must Know (Michigan SOS, SOS-133 Rev. 10/2025), Ch. 1, 'Probationary license program'"
+  },
+  {
+   "id": "mi-022",
+   "topic": "licensing",
+   "q": "How long is a Michigan driver's license usually valid?",
+   "options": [
+    "Two years",
+    "Twelve years",
+    "Four years, expiring on your birthday",
+    "Eight years"
+   ],
+   "answer": 2,
+   "explain": "Licenses are usually valid four years and expire on your birthday (under-21 licenses expire on the 21st birthday).",
+   "official": false,
+   "ref": "What Every Driver Must Know (Michigan SOS, SOS-133 Rev. 10/2025), Ch. 1, 'Renewing your license'"
+  },
+  {
+   "id": "mi-023",
+   "topic": "licensing",
+   "q": "If you are under age 21, when does your Michigan driver's license expire?",
+   "options": [
+    "On your 25th birthday",
+    "On your 21st birthday",
+    "Four years after issue regardless of age",
+    "On your 18th birthday"
+   ],
+   "answer": 1,
+   "explain": "A driver's license held by someone under 21 expires on the 21st birthday.",
+   "official": false,
+   "ref": "What Every Driver Must Know (Michigan SOS, SOS-133 Rev. 10/2025), Ch. 1, 'Renewing your license'"
+  },
+  {
+   "id": "mi-024",
+   "topic": "licensing",
+   "q": "What can happen if you move and fail to change your address with the Secretary of State?",
+   "options": [
+    "Your license may be suspended or revoked",
+    "You automatically receive 2 points",
+    "Nothing; address changes are optional",
+    "Your vehicle registration is cancelled immediately"
+   ],
+   "answer": 0,
+   "explain": "Michigan requires your license address to match your residence; failure to change it can lead to suspension or revocation.",
+   "official": false,
+   "ref": "What Every Driver Must Know (Michigan SOS, SOS-133 Rev. 10/2025), Ch. 1, 'Changing information on your license'"
+  },
+  {
+   "id": "mi-025",
+   "topic": "licensing",
+   "q": "A person who has never been licensed anywhere will be refused a Michigan license if they have:",
+   "options": [
+    "An unpaid toll",
+    "One moving violation in the past five years",
+    "Any parking ticket in the past year",
+    "Two or more moving-violation convictions within three years of applying"
+   ],
+   "answer": 3,
+   "explain": "An applicant never previously licensed may have no more than one conviction on record within three years of the application.",
+   "official": false,
+   "ref": "What Every Driver Must Know (Michigan SOS, SOS-133 Rev. 10/2025), Ch. 1, 'Licensing requirements'"
+  },
+  {
+   "id": "mi-026",
+   "topic": "licensing",
+   "q": "A new resident with a valid license from which of these places can convert it without the written, TIP and skills tests?",
+   "options": [
+    "Canada",
+    "Mexico",
+    "France",
+    "Japan"
+   ],
+   "answer": 0,
+   "explain": "Licenses from other U.S. states, Canada, Germany and South Korea can be converted without those tests.",
+   "official": false,
+   "ref": "What Every Driver Must Know (Michigan SOS, SOS-133 Rev. 10/2025), Ch. 1, 'Moved to Michigan from another state or country'"
+  },
+  {
+   "id": "mi-027",
+   "topic": "alcohol",
+   "q": "For a driver age 21 or older, what bodily alcohol content (BAC) makes driving a crime in Michigan?",
+   "options": [
+    "0.05 or higher",
+    "0.10 or higher",
+    "0.17 or higher",
+    "0.08 or higher"
+   ],
+   "answer": 3,
+   "explain": "It is a crime for a driver 21 or older to drive with a BAC of .08 or more; drivers can be arrested at lower levels if impaired.",
+   "official": false,
+   "ref": "Michigan State Police OHSP, 'Impaired Driving Law' (michigan.gov/msp)"
+  },
+  {
+   "id": "mi-028",
+   "topic": "alcohol",
+   "q": "For a driver under age 21, Michigan's zero-tolerance law applies at what BAC?",
+   "options": [
+    "0.08 or higher",
+    "0.05 or higher",
+    "0.10 or higher",
+    "0.02 or higher (any bodily alcohol content)"
+   ],
+   "answer": 3,
+   "explain": "Michigan's zero-tolerance law for drivers under 21 covers a BAC of .02 or more, and also any presence of alcohol from drinking (the handbook gives 4 points for any bodily alcohol content).",
+   "official": false,
+   "ref": "Michigan State Police OHSP, 'Impaired Driving Law' (michigan.gov/msp)"
+  },
+  {
+   "id": "mi-029",
+   "topic": "alcohol",
+   "q": "Michigan's high-BAC ('super drunk') law applies to drivers with a BAC of:",
+   "options": [
+    "0.12 or higher",
+    "0.25 or higher",
+    "0.10 or higher",
+    "0.17 or higher"
+   ],
+   "answer": 3,
+   "explain": "Enhanced penalties apply at a BAC of .17 or higher.",
+   "official": false,
+   "ref": "Michigan State Police OHSP, 'Impaired Driving Law' (michigan.gov/msp)"
+  },
+  {
+   "id": "mi-030",
+   "topic": "alcohol",
+   "q": "What is the BAC limit for a person driving a commercial motor vehicle in Michigan?",
+   "options": [
+    "0.02",
+    "0.08",
+    "0.04",
+    "0.10"
+   ],
+   "answer": 2,
+   "explain": "Commercial drivers may not operate with a BAC of .04 or more (MCL 257.625m).",
+   "official": false,
+   "ref": "Michigan Vehicle Code MCL 257.625m; Michigan Commercial Driver License Manual"
+  },
+  {
+   "id": "mi-031",
+   "topic": "alcohol",
+   "q": "How many points are added to your record for operating while intoxicated?",
+   "options": [
+    "3",
+    "6",
+    "2",
+    "4"
+   ],
+   "answer": 1,
+   "explain": "Operating while intoxicated (or with any Schedule 1 drug or cocaine) is a six-point violation.",
+   "official": false,
+   "ref": "What Every Driver Must Know (Michigan SOS, SOS-133 Rev. 10/2025), Ch. 2, 'Michigan's point system'"
+  },
+  {
+   "id": "mi-032",
+   "topic": "alcohol",
+   "q": "A driver under 21 convicted of driving with any bodily alcohol content receives how many points?",
+   "options": [
+    "4",
+    "3",
+    "2",
+    "6"
+   ],
+   "answer": 0,
+   "explain": "Under 21 with any bodily alcohol content is a four-point violation.",
+   "official": false,
+   "ref": "What Every Driver Must Know (Michigan SOS, SOS-133 Rev. 10/2025), Ch. 2, 'Michigan's point system'"
+  },
+  {
+   "id": "mi-033",
+   "topic": "alcohol",
+   "q": "How many points does refusing a chemical (alcohol) test carry?",
+   "options": [
+    "4",
+    "3",
+    "6",
+    "2"
+   ],
+   "answer": 2,
+   "explain": "Refusal to take a chemical alcohol test is a six-point violation.",
+   "official": false,
+   "ref": "What Every Driver Must Know (Michigan SOS, SOS-133 Rev. 10/2025), Ch. 2, 'Michigan's point system'"
+  },
+  {
+   "id": "mi-034",
+   "topic": "alcohol",
+   "q": "Refusing a Preliminary Breath Test (PBT) is a 2-point violation for which drivers?",
+   "options": [
+    "Commercial drivers only",
+    "Drivers younger than 21",
+    "Drivers older than 65",
+    "All drivers"
+   ],
+   "answer": 1,
+   "explain": "Refusal of a PBT by anyone younger than 21 carries two points.",
+   "official": false,
+   "ref": "What Every Driver Must Know (Michigan SOS, SOS-133 Rev. 10/2025), Ch. 2, 'Michigan's point system'"
+  },
+  {
+   "id": "mi-035",
+   "topic": "alcohol",
+   "q": "Under Michigan's implied consent law, when are drivers considered to have agreed to chemical testing?",
+   "options": [
+    "Only when they sign a form at the scene",
+    "Only if they have a prior conviction",
+    "Only after they are arrested",
+    "When they apply for or renew their driver's license"
+   ],
+   "answer": 3,
+   "explain": "All drivers are deemed to have consented to chemical tests when they apply for or renew a license; refusal brings a suspension.",
+   "official": false,
+   "ref": "What Every Driver Must Know (Michigan SOS, SOS-133 Rev. 10/2025), Ch. 2, 'Alcohol and drugs'"
+  },
+  {
+   "id": "mi-036",
+   "topic": "alcohol",
+   "q": "What is the license suspension for a first refusal to take a breath (chemical) test?",
+   "options": [
+    "One year",
+    "90 days",
+    "30 days",
+    "Two years"
+   ],
+   "answer": 0,
+   "explain": "A first refusal brings an automatic one-year suspension; a second within seven years brings two years.",
+   "official": false,
+   "ref": "Michigan State Police OHSP, 'Impaired Driving Law' (michigan.gov/msp)"
+  },
+  {
+   "id": "mi-037",
+   "topic": "alcohol",
+   "q": "A second chemical-test refusal within seven years results in a license suspension of:",
+   "options": [
+    "Six months",
+    "One year",
+    "Five years",
+    "Two years"
+   ],
+   "answer": 3,
+   "explain": "A second refusal within seven years carries a two-year suspension.",
+   "official": false,
+   "ref": "Michigan State Police OHSP, 'Impaired Driving Law' (michigan.gov/msp)"
+  },
+  {
+   "id": "mi-038",
+   "topic": "alcohol",
+   "q": "Which drink contains the same amount of alcohol as a 12-ounce can of beer?",
+   "options": [
+    "A 12-ounce glass of wine",
+    "Two 1.5-ounce shots of whiskey",
+    "A 5-ounce glass of wine",
+    "A 4-ounce shot of whiskey"
+   ],
+   "answer": 2,
+   "explain": "A 12-oz beer, a 5-oz glass of wine and a 1.5-oz shot of whiskey contain the same amount of alcohol.",
+   "official": false,
+   "ref": "What Every Driver Must Know (Michigan SOS, SOS-133 Rev. 10/2025), Ch. 2, 'Alcohol and drugs'"
+  },
+  {
+   "id": "mi-039",
+   "topic": "alcohol",
+   "q": "What is the only thing that sobers up a person who has been drinking?",
+   "options": [
+    "Black coffee",
+    "A cold shower",
+    "Exercise and fresh air",
+    "Time"
+   ],
+   "answer": 3,
+   "explain": "Coffee, cold showers, exercise and fresh air do not work; only time sobers you up.",
+   "official": false,
+   "ref": "What Every Driver Must Know (Michigan SOS, SOS-133 Rev. 10/2025), Ch. 2, 'Alcohol and drugs'"
+  },
+  {
+   "id": "mi-040",
+   "topic": "alcohol",
+   "q": "For a first operating-while-intoxicated offense with a BAC below .17, the maximum jail time is:",
+   "options": [
+    "93 days",
+    "180 days",
+    "One year",
+    "30 days"
+   ],
+   "answer": 0,
+   "explain": "A first OWI below .17 can bring up to 93 days in jail, a $500 fine, and six points.",
+   "official": false,
+   "ref": "Michigan State Police OHSP, 'Impaired Driving Law' (michigan.gov/msp)"
+  },
+  {
+   "id": "mi-041",
+   "topic": "alcohol",
+   "q": "For a first offense with a BAC of .17 or higher, which penalty can apply?",
+   "options": [
+    "Up to 180 days in jail and mandatory completion of an alcohol treatment program",
+    "Two points and a $100 fine",
+    "A warning letter only",
+    "Up to 30 days in jail and no license action"
+   ],
+   "answer": 0,
+   "explain": "High-BAC first offenses carry up to 180 days in jail, up to a $700 fine, up to a one-year suspension and mandatory treatment.",
+   "official": false,
+   "ref": "Michigan State Police OHSP, 'Impaired Driving Law' (michigan.gov/msp)"
+  },
+  {
+   "id": "mi-042",
+   "topic": "alcohol",
+   "q": "Under Michigan law, the penalties for driving under the influence of marijuana are:",
+   "options": [
+    "The same as for driving under the influence of alcohol",
+    "A civil infraction with no points",
+    "Only a fine for drivers under 21",
+    "Lower, because marijuana is legal for adults"
+   ],
+   "answer": 0,
+   "explain": "Penalties match alcohol OWI: up to 93 days jail, up to $500 fine, suspension and six points.",
+   "official": false,
+   "ref": "What Every Driver Must Know (Michigan SOS, SOS-133 Rev. 10/2025), Ch. 2, 'Alcohol and drugs'"
+  },
+  {
+   "id": "mi-043",
+   "topic": "alcohol",
+   "q": "Which of the following is illegal in Michigan, even for an adult 21 or older?",
+   "options": [
+    "Smoking marijuana in the passenger area of a vehicle on a public road",
+    "Transporting 1 ounce of marijuana in a vehicle",
+    "Riding as a sober passenger with someone who has marijuana in the trunk",
+    "Owning marijuana at home"
+   ],
+   "answer": 0,
+   "explain": "Drivers and passengers are prohibited from smoking marijuana in the passenger area of a vehicle on a public way.",
+   "official": false,
+   "ref": "What Every Driver Must Know (Michigan SOS, SOS-133 Rev. 10/2025), Ch. 2, 'Alcohol and drugs'"
+  },
+  {
+   "id": "mi-044",
+   "topic": "alcohol",
+   "q": "Drivers with any amount of a Schedule 1 drug or cocaine in their body face:",
+   "options": [
+    "The same fines and penalties as drunk drivers",
+    "Only a two-point violation",
+    "No penalty unless they crash",
+    "A warning on the first offense"
+   ],
+   "answer": 0,
+   "explain": "Operating with any presence of a Schedule 1 drug or cocaine is treated like drunk driving and carries six points.",
+   "official": false,
+   "ref": "What Every Driver Must Know (Michigan SOS, SOS-133 Rev. 10/2025), Ch. 2, 'Michigan's point system'"
+  },
+  {
+   "id": "mi-045",
+   "topic": "alcohol",
+   "q": "For a first drug conviction (even when not driving), how long is the driver's license suspended?",
+   "options": [
+    "Six months",
+    "One year",
+    "30 days",
+    "Two years"
+   ],
+   "answer": 0,
+   "explain": "With no prior drug violations, the license is suspended six months; no restricted license during the first 30 days.",
+   "official": false,
+   "ref": "What Every Driver Must Know (Michigan SOS, SOS-133 Rev. 10/2025), Ch. 2, 'Alcohol and drugs'"
+  },
+  {
+   "id": "mi-046",
+   "topic": "alcohol",
+   "q": "How long do points stay on your Michigan driving record?",
+   "options": [
+    "Permanently",
+    "Five years",
+    "Two years from the date of conviction",
+    "Six months"
+   ],
+   "answer": 2,
+   "explain": "Points remain on the record for two years from the conviction date.",
+   "official": false,
+   "ref": "What Every Driver Must Know (Michigan SOS, SOS-133 Rev. 10/2025), Ch. 2, 'Michigan's point system'"
+  },
+  {
+   "id": "mi-047",
+   "topic": "alcohol",
+   "q": "Accumulating how many points within two years requires a driver assessment reexamination?",
+   "options": [
+    "20 or more",
+    "4 or more",
+    "12 or more",
+    "8 or more"
+   ],
+   "answer": 2,
+   "explain": "Twelve or more points within two years (or six or more one-point violations) triggers a driver assessment reexamination.",
+   "official": false,
+   "ref": "What Every Driver Must Know (Michigan SOS, SOS-133 Rev. 10/2025), Ch. 2, 'Michigan's point system'"
+  },
+  {
+   "id": "mi-048",
+   "topic": "alcohol",
+   "q": "How many points are assessed for driving 16 mph or more over the legal speed limit (outside a work zone)?",
+   "options": [
+    "2",
+    "4",
+    "6",
+    "3"
+   ],
+   "answer": 1,
+   "explain": "Speeding 16 mph or more over the limit is a four-point violation.",
+   "official": false,
+   "ref": "What Every Driver Must Know (Michigan SOS, SOS-133 Rev. 10/2025), Ch. 2, 'Michigan's point system'"
+  },
+  {
+   "id": "mi-049",
+   "topic": "alcohol",
+   "q": "How many points are assessed for driving 6 to 10 mph over the speed limit (outside a work zone)?",
+   "options": [
+    "4",
+    "1",
+    "2",
+    "3"
+   ],
+   "answer": 2,
+   "explain": "6-10 mph over is a two-point violation.",
+   "official": false,
+   "ref": "What Every Driver Must Know (Michigan SOS, SOS-133 Rev. 10/2025), Ch. 2, 'Michigan's point system'"
+  },
+  {
+   "id": "mi-050",
+   "topic": "alcohol",
+   "q": "Reckless driving carries how many points?",
+   "options": [
+    "3",
+    "6",
+    "4",
+    "2"
+   ],
+   "answer": 1,
+   "explain": "Reckless driving is a six-point violation.",
+   "official": false,
+   "ref": "What Every Driver Must Know (Michigan SOS, SOS-133 Rev. 10/2025), Ch. 2, 'Michigan's point system'"
+  },
+  {
+   "id": "mi-051",
+   "topic": "alcohol",
+   "q": "Failing to stop for a school bus carries how many points?",
+   "options": [
+    "4",
+    "3",
+    "6",
+    "2"
+   ],
+   "answer": 1,
+   "explain": "Failure to stop for a school bus or disobeying a school crossing guard is a three-point violation.",
+   "official": false,
+   "ref": "What Every Driver Must Know (Michigan SOS, SOS-133 Rev. 10/2025), Ch. 2, 'Michigan's point system'"
+  },
+  {
+   "id": "mi-052",
+   "topic": "alcohol",
+   "q": "Having an open alcohol container in the vehicle is a violation worth how many points?",
+   "options": [
+    "4",
+    "2",
+    "6",
+    "3"
+   ],
+   "answer": 1,
+   "explain": "An open container in a vehicle carries two points.",
+   "official": false,
+   "ref": "What Every Driver Must Know (Michigan SOS, SOS-133 Rev. 10/2025), Ch. 2, 'Michigan's point system'"
+  },
+  {
+   "id": "mi-053",
+   "topic": "alcohol",
+   "q": "How long does a conviction for impaired driving remain on your Michigan driving record?",
+   "options": [
+    "Permanently",
+    "Seven years",
+    "Two years",
+    "Ten years"
+   ],
+   "answer": 0,
+   "explain": "Most convictions stay at least seven years, but fatality and impaired-driving convictions stay permanently.",
+   "official": false,
+   "ref": "What Every Driver Must Know (Michigan SOS, SOS-133 Rev. 10/2025), Ch. 2, 'Your driving record'"
+  },
+  {
+   "id": "mi-054",
+   "topic": "alcohol",
+   "q": "Which statement about Michigan's point system is correct?",
+   "options": [
+    "Insurance companies set the points on your state record",
+    "Points are posted when a ticket is written, even if dismissed",
+    "Points are posted only after you are convicted of a moving violation",
+    "Parking tickets add two points"
+   ],
+   "answer": 2,
+   "explain": "Points go on your record only after conviction and are separate from insurance company points.",
+   "official": false,
+   "ref": "What Every Driver Must Know (Michigan SOS, SOS-133 Rev. 10/2025), Ch. 2, 'Michigan's point system'"
+  },
+  {
+   "id": "mi-055",
+   "topic": "alcohol",
+   "q": "Which of these can lead to a driver reexamination?",
+   "options": [
+    "Renewing a license online",
+    "One parking ticket",
+    "Three or more crashes resulting in injury or property damage within two years",
+    "Changing your address"
+   ],
+   "answer": 2,
+   "explain": "Three or more crashes in two years, 12+ points in two years, or violating license restrictions can lead to reexamination.",
+   "official": false,
+   "ref": "What Every Driver Must Know (Michigan SOS, SOS-133 Rev. 10/2025), Ch. 2, 'Driver reexaminations'"
+  },
+  {
+   "id": "mi-056",
+   "topic": "alcohol",
+   "q": "If someone you know has been drinking and plans to drive, what is the best action?",
+   "options": [
+    "Do not let them drive; arrange a sober driver, taxi or place to stay",
+    "Let them drive if they drink coffee first",
+    "Let them drive slowly on back roads",
+    "Follow them in your own car"
+   ],
+   "answer": 0,
+   "explain": "Never let someone who has been drinking drive; take their keys if needed and find other transportation.",
+   "official": false,
+   "ref": "What Every Driver Must Know (Michigan SOS, SOS-133 Rev. 10/2025), Ch. 2, 'Alcohol and drugs'"
+  },
+  {
+   "id": "mi-057",
+   "topic": "speed",
+   "q": "Michigan's Basic Speed Law requires you to drive:",
+   "options": [
+    "At the speed of surrounding traffic, even above the limit",
+    "At exactly the posted speed limit at all times",
+    "No slower than 10 mph below the limit",
+    "At a careful and prudent speed that lets you stop within the clear distance ahead"
+   ],
+   "answer": 3,
+   "explain": "You must drive at a careful and prudent speed—never above the limit and slower when conditions require.",
+   "official": false,
+   "ref": "What Every Driver Must Know (Michigan SOS, SOS-133 Rev. 10/2025), Ch. 4, 'Speed limits'"
+  },
+  {
+   "id": "mi-058",
+   "topic": "speed",
+   "q": "Unless otherwise posted, what is the maximum speed on Michigan freeways?",
+   "options": [
+    "70 mph",
+    "65 mph",
+    "75 mph",
+    "55 mph"
+   ],
+   "answer": 0,
+   "explain": "Freeways are 70 mph maximum unless posted otherwise.",
+   "official": false,
+   "ref": "What Every Driver Must Know (Michigan SOS, SOS-133 Rev. 10/2025), Ch. 4, 'Speed limits'"
+  },
+  {
+   "id": "mi-059",
+   "topic": "speed",
+   "q": "Unless otherwise posted, what is the minimum speed on Michigan freeways?",
+   "options": [
+    "45 mph",
+    "55 mph",
+    "40 mph",
+    "50 mph"
+   ],
+   "answer": 1,
+   "explain": "Freeways have a 55 mph minimum unless posted otherwise.",
+   "official": false,
+   "ref": "What Every Driver Must Know (Michigan SOS, SOS-133 Rev. 10/2025), Ch. 4, 'Speed limits'"
+  },
+  {
+   "id": "mi-060",
+   "topic": "speed",
+   "q": "Unless otherwise posted, what is the speed limit on Michigan highways and streets that are not freeways?",
+   "options": [
+    "45 mph",
+    "70 mph",
+    "55 mph",
+    "65 mph"
+   ],
+   "answer": 2,
+   "explain": "The default limit on non-freeway highways and streets is 55 mph unless posted.",
+   "official": false,
+   "ref": "What Every Driver Must Know (Michigan SOS, SOS-133 Rev. 10/2025), Ch. 4, 'Speed limits'"
+  },
+  {
+   "id": "mi-061",
+   "topic": "speed",
+   "q": "What is the standard speed limit in a platted subdivision or condominium complex?",
+   "options": [
+    "25 mph",
+    "15 mph",
+    "30 mph",
+    "35 mph"
+   ],
+   "answer": 0,
+   "explain": "Platted subdivisions and condominium complexes have a 25 mph limit.",
+   "official": false,
+   "ref": "What Every Driver Must Know (Michigan SOS, SOS-133 Rev. 10/2025), Ch. 4, 'Speed limits'"
+  },
+  {
+   "id": "mi-062",
+   "topic": "speed",
+   "q": "What is the standard speed limit in mobile home parks?",
+   "options": [
+    "10 mph",
+    "15 mph",
+    "25 mph",
+    "20 mph"
+   ],
+   "answer": 1,
+   "explain": "Mobile home parks and some municipal parks have a 15 mph limit.",
+   "official": false,
+   "ref": "What Every Driver Must Know (Michigan SOS, SOS-133 Rev. 10/2025), Ch. 4, 'Speed limits'"
+  },
+  {
+   "id": "mi-063",
+   "topic": "speed",
+   "q": "On a Michigan freeway posted at 70 mph, school buses and trucks are limited to:",
+   "options": [
+    "55 mph",
+    "60 mph",
+    "70 mph",
+    "65 mph"
+   ],
+   "answer": 3,
+   "explain": "School buses and trucks are limited to 65 mph on 70 mph freeways and to 55 mph where the freeway limit is lower.",
+   "official": false,
+   "ref": "What Every Driver Must Know (Michigan SOS, SOS-133 Rev. 10/2025), Ch. 4, 'Speed limits'"
+  },
+  {
+   "id": "mi-064",
+   "topic": "speed",
+   "q": "When a work zone is posted for 45 mph, what does that mean?",
+   "options": [
+    "The minimum speed is 45 mph",
+    "You may drive 45 mph only in the left lane",
+    "45 mph is only a suggestion",
+    "The speed limit in the work zone is 45 mph"
+   ],
+   "answer": 3,
+   "explain": "For most construction work the limit is 45 mph when posted; if not posted for 45, the normal limit applies.",
+   "official": false,
+   "ref": "What Every Driver Must Know (Michigan SOS, SOS-133 Rev. 10/2025), Ch. 4, 'Construction zones'"
+  },
+  {
+   "id": "mi-065",
+   "topic": "speed",
+   "q": "A 'Where Workers Present 45' sign means you should:",
+   "options": [
+    "Drive 45 mph faster than workers' vehicles",
+    "Ignore the sign if you do not see equipment",
+    "Slow to 45 mph or less where workers are present; the normal limit may apply when they are absent",
+    "Always drive 45 mph through the entire zone, day or night"
+   ],
+   "answer": 2,
+   "explain": "Some work zones limit speeds to 45 mph only when workers are present, returning to the normal limit otherwise.",
+   "official": false,
+   "ref": "What Every Driver Must Know (Michigan SOS, SOS-133 Rev. 10/2025), Ch. 4, 'Construction zones'"
+  },
+  {
+   "id": "mi-066",
+   "topic": "speed",
+   "q": "Fines for moving violations in Michigan work zones are:",
+   "options": [
+    "Doubled",
+    "Waived if no workers are present",
+    "Tripled",
+    "The same as elsewhere"
+   ],
+   "answer": 0,
+   "explain": "All moving-violation fines are doubled in work zones.",
+   "official": false,
+   "ref": "What Every Driver Must Know (Michigan SOS, SOS-133 Rev. 10/2025), Ch. 4, 'Construction zones'"
+  },
+  {
+   "id": "mi-067",
+   "topic": "speed",
+   "q": "How many points are assessed for speeding 10 mph or less over the limit in a work zone?",
+   "options": [
+    "4",
+    "2",
+    "3",
+    "1"
+   ],
+   "answer": 2,
+   "explain": "Work zone speeding carries increased points: 3 points for 10 mph or less over.",
+   "official": false,
+   "ref": "What Every Driver Must Know (Michigan SOS, SOS-133 Rev. 10/2025), Ch. 4, 'Construction zones'"
+  },
+  {
+   "id": "mi-068",
+   "topic": "speed",
+   "q": "How many points are assessed for speeding more than 15 mph over the limit in a work zone?",
+   "options": [
+    "4",
+    "3",
+    "6",
+    "5"
+   ],
+   "answer": 3,
+   "explain": "Work zone speeding more than 15 mph over the limit is a five-point violation.",
+   "official": false,
+   "ref": "What Every Driver Must Know (Michigan SOS, SOS-133 Rev. 10/2025), Ch. 4, 'Construction zones'"
+  },
+  {
+   "id": "mi-069",
+   "topic": "speed",
+   "q": "Causing injury or death to a person in a work zone can lead to a fine of up to:",
+   "options": [
+    "$2,500 and 5 years in prison",
+    "$7,500 and up to 15 years in prison",
+    "$1,000 and 1 year in jail",
+    "$500 and 93 days in jail"
+   ],
+   "answer": 1,
+   "explain": "Injuring or killing someone in a work zone can bring fines up to $7,500 and imprisonment up to 15 years.",
+   "official": false,
+   "ref": "What Every Driver Must Know (Michigan SOS, SOS-133 Rev. 10/2025), Ch. 4, 'Construction zones'"
+  },
+  {
+   "id": "mi-070",
+   "topic": "speed",
+   "q": "What following distance does the Michigan handbook recommend under normal conditions?",
+   "options": [
+    "3 to 4 seconds",
+    "2 seconds",
+    "10 seconds",
+    "1 second"
+   ],
+   "answer": 0,
+   "explain": "A 3- to 4-second following distance is required; count from when the vehicle ahead passes a fixed point.",
+   "official": false,
+   "ref": "What Every Driver Must Know (Michigan SOS, SOS-133 Rev. 10/2025), Ch. 7, 'Stopping distances'"
+  },
+  {
+   "id": "mi-071",
+   "topic": "speed",
+   "q": "At higher speeds or in poor conditions, you should increase your following distance up to:",
+   "options": [
+    "3 seconds",
+    "6 seconds or more",
+    "4 seconds",
+    "2 seconds"
+   ],
+   "answer": 1,
+   "explain": "At higher speeds or in adverse conditions, increase following distance to 6 seconds or more if necessary.",
+   "official": false,
+   "ref": "What Every Driver Must Know (Michigan SOS, SOS-133 Rev. 10/2025), Ch. 7, 'Stopping distances'"
+  },
+  {
+   "id": "mi-072",
+   "topic": "speed",
+   "q": "How should you measure your following distance?",
+   "options": [
+    "Count seconds from when the vehicle ahead passes a fixed object until you reach it",
+    "Use your speedometer reading divided by ten",
+    "Stay close enough to read the vehicle's license plate",
+    "Count car lengths between you and the vehicle ahead"
+   ],
+   "answer": 0,
+   "explain": "Pick a stationary point; if you reach it before counting 3 seconds, you are following too closely.",
+   "official": false,
+   "ref": "What Every Driver Must Know (Michigan SOS, SOS-133 Rev. 10/2025), Ch. 7, 'Stopping distances'"
+  },
+  {
+   "id": "mi-073",
+   "topic": "speed",
+   "q": "In the quarter second it takes the brain to shift attention, how far does a car at 65 mph travel?",
+   "options": [
+    "About 5 feet",
+    "About 100 feet",
+    "About 240 feet",
+    "About 24 feet"
+   ],
+   "answer": 3,
+   "explain": "At 65 mph a car covers roughly 24 feet in a quarter second.",
+   "official": false,
+   "ref": "What Every Driver Must Know (Michigan SOS, SOS-133 Rev. 10/2025), Ch. 4, 'Distracted driving'"
+  },
+  {
+   "id": "mi-074",
+   "topic": "speed",
+   "q": "A passenger vehicle at 55 mph can stop in about 130 feet. About how far does a loaded commercial truck need at the same speed?",
+   "options": [
+    "About 130 feet",
+    "About 1,000 feet",
+    "About 400 feet",
+    "About 200 feet"
+   ],
+   "answer": 2,
+   "explain": "A commercial vehicle at 55 mph needs about 400 feet to stop.",
+   "official": false,
+   "ref": "What Every Driver Must Know (Michigan SOS, SOS-133 Rev. 10/2025), Ch. 6, 'Commercial vehicles'"
+  },
+  {
+   "id": "mi-075",
+   "topic": "speed",
+   "q": "How far ahead should you look while driving to spot hazards early?",
+   "options": [
+    "20 to 30 seconds down the road",
+    "Only at the vehicle directly in front",
+    "2 to 3 seconds ahead",
+    "About one car length"
+   ],
+   "answer": 0,
+   "explain": "Look 20-30 seconds ahead to anticipate hazards and avoid last-second reactions.",
+   "official": false,
+   "ref": "What Every Driver Must Know (Michigan SOS, SOS-133 Rev. 10/2025), Ch. 7, 'Stopping distances'"
+  },
+  {
+   "id": "mi-076",
+   "topic": "speed",
+   "q": "When following a horse and rider or a horse-drawn buggy, reduce your speed to about:",
+   "options": [
+    "5 mph and stay 5 feet back",
+    "The posted limit and pass immediately",
+    "35 mph and stay 50 feet back",
+    "15-20 mph and stay at least 20 feet back"
+   ],
+   "answer": 3,
+   "explain": "Slow to 15-20 mph and keep at least 20 feet away so you do not spook the horse.",
+   "official": false,
+   "ref": "What Every Driver Must Know (Michigan SOS, SOS-133 Rev. 10/2025), Ch. 6, 'Slow-moving vehicles'"
+  },
+  {
+   "id": "mi-077",
+   "topic": "speed",
+   "q": "Slow-moving vehicles that display an orange triangle cannot travel faster than:",
+   "options": [
+    "15 mph",
+    "35 mph",
+    "45 mph",
+    "25 mph"
+   ],
+   "answer": 3,
+   "explain": "Slow-moving vehicles are those that cannot exceed 25 mph, such as farm machinery and Amish buggies.",
+   "official": false,
+   "ref": "What Every Driver Must Know (Michigan SOS, SOS-133 Rev. 10/2025), Ch. 6, 'Slow-moving vehicles'"
+  },
+  {
+   "id": "mi-078",
+   "topic": "speed",
+   "q": "On a freeway with three or more lanes in your direction, if you are driving near the minimum speed you should:",
+   "options": [
+    "Use the far-left lane",
+    "Turn on your hazard lights and use any lane",
+    "Stay in the lane with the slower-moving traffic",
+    "Drive on the shoulder"
+   ],
+   "answer": 2,
+   "explain": "On freeways with 3+ lanes you may use any lane, but slow drivers should stay with slower traffic.",
+   "official": false,
+   "ref": "What Every Driver Must Know (Michigan SOS, SOS-133 Rev. 10/2025), Ch. 7, 'Freeway driving'"
+  },
+  {
+   "id": "mi-079",
+   "topic": "right-of-way",
+   "q": "At a four-way stop, which vehicle goes first?",
+   "options": [
+    "The vehicle on the busier road",
+    "The largest vehicle",
+    "The vehicle that arrived and stopped first",
+    "The vehicle turning left"
+   ],
+   "answer": 2,
+   "explain": "At an all-way stop the first driver to arrive and stop has the right of way.",
+   "official": false,
+   "ref": "What Every Driver Must Know (Michigan SOS, SOS-133 Rev. 10/2025), Ch. 4, 'Right of way at intersections'"
+  },
+  {
+   "id": "mi-080",
+   "topic": "right-of-way",
+   "q": "Two vehicles arrive at a four-way stop at the same time. Who must yield?",
+   "options": [
+    "The vehicle on the left yields to the vehicle on its right",
+    "Neither; both may go",
+    "The vehicle on the right yields to the vehicle on its left",
+    "The vehicle going straight yields to the turning vehicle"
+   ],
+   "answer": 0,
+   "explain": "When arriving together, the driver on the left yields to the driver on the right.",
+   "official": false,
+   "ref": "What Every Driver Must Know (Michigan SOS, SOS-133 Rev. 10/2025), Ch. 4, 'Right of way at intersections'"
+  },
+  {
+   "id": "mi-081",
+   "topic": "right-of-way",
+   "q": "You reach an intersection where the traffic signal is not working and no officer is present. You must:",
+   "options": [
+    "Treat it like a yield sign",
+    "Come to a complete stop and proceed as at a four-way stop",
+    "Proceed if you are on the larger road",
+    "Slow down and proceed if no one is coming"
+   ],
+   "answer": 1,
+   "explain": "Stop completely, yield to vehicles already at the intersection, and yield to the right if arriving together.",
+   "official": false,
+   "ref": "What Every Driver Must Know (Michigan SOS, SOS-133 Rev. 10/2025), Ch. 4, 'Right of way at intersections'"
+  },
+  {
+   "id": "mi-082",
+   "topic": "right-of-way",
+   "q": "At a T-intersection with no signs or signals, who has the right of way?",
+   "options": [
+    "Vehicles on the road that ends",
+    "The vehicle turning left",
+    "Vehicles on the through road",
+    "Whoever is going faster"
+   ],
+   "answer": 2,
+   "explain": "At an uncontrolled T-intersection, yield to vehicles on the through road.",
+   "official": false,
+   "ref": "What Every Driver Must Know (Michigan SOS, SOS-133 Rev. 10/2025), Ch. 4, 'Right of way at intersections'"
+  },
+  {
+   "id": "mi-083",
+   "topic": "right-of-way",
+   "q": "Your light turns green but vehicles are still in the intersection. What should you do?",
+   "options": [
+    "Proceed; your green gives you the right of way",
+    "Yield to them before proceeding",
+    "Back up to give them room",
+    "Honk to clear the intersection"
+   ],
+   "answer": 1,
+   "explain": "If vehicles are still in the intersection when your light changes, you must yield before going.",
+   "official": false,
+   "ref": "What Every Driver Must Know (Michigan SOS, SOS-133 Rev. 10/2025), Ch. 4, 'Right of way at intersections'"
+  },
+  {
+   "id": "mi-084",
+   "topic": "right-of-way",
+   "q": "When turning left on a green light (no arrow), you must:",
+   "options": [
+    "Expect oncoming traffic to stop for you",
+    "Wait for the light to turn yellow",
+    "Yield to oncoming traffic and pedestrians, then turn when clear",
+    "Turn before oncoming traffic starts moving"
+   ],
+   "answer": 2,
+   "explain": "On a green ball you may turn left once oncoming traffic has cleared.",
+   "official": false,
+   "ref": "What Every Driver Must Know (Michigan SOS, SOS-133 Rev. 10/2025), Ch. 4, 'Right of way at intersections'"
+  },
+  {
+   "id": "mi-085",
+   "topic": "right-of-way",
+   "q": "In Michigan, may you turn left on a red light from a one-way street onto another one-way street?",
+   "options": [
+    "Only between midnight and 6 a.m.",
+    "No, never",
+    "Yes, after a complete stop and yielding, unless a sign prohibits it",
+    "Yes, without stopping"
+   ],
+   "answer": 2,
+   "explain": "A left on red from one-way to one-way is allowed after a full stop and yielding to traffic.",
+   "official": false,
+   "ref": "What Every Driver Must Know (Michigan SOS, SOS-133 Rev. 10/2025), Ch. 4, 'Right of way when turning'"
+  },
+  {
+   "id": "mi-086",
+   "topic": "right-of-way",
+   "q": "In Michigan, a left turn on red from a two-way street onto a one-way street is:",
+   "options": [
+    "Allowed without stopping",
+    "Allowed only with a green arrow",
+    "Never allowed",
+    "Allowed after a full stop, yielding to traffic and to opposite vehicles turning right"
+   ],
+   "answer": 3,
+   "explain": "Michigan permits this turn after a full stop, scanning for traffic, and yielding to opposite right-turning vehicles.",
+   "official": false,
+   "ref": "What Every Driver Must Know (Michigan SOS, SOS-133 Rev. 10/2025), Ch. 4, 'Right of way at intersections'"
+  },
+  {
+   "id": "mi-087",
+   "topic": "right-of-way",
+   "q": "When turning right on a red light, you must:",
+   "options": [
+    "Turn only if a green arrow appears",
+    "Stop completely and yield to pedestrians and other traffic",
+    "Slow down and turn if no cars are visible",
+    "Honk to warn pedestrians"
+   ],
+   "answer": 1,
+   "explain": "Drivers turning right—including on red—must yield to other vehicles and pedestrians.",
+   "official": false,
+   "ref": "What Every Driver Must Know (Michigan SOS, SOS-133 Rev. 10/2025), Ch. 4, 'Right of way when turning'"
+  },
+  {
+   "id": "mi-088",
+   "topic": "right-of-way",
+   "q": "When entering a roundabout, you must yield to:",
+   "options": [
+    "No one; entering traffic has priority",
+    "Traffic already in the roundabout, approaching from your left",
+    "Only large trucks",
+    "Traffic entering from your right"
+   ],
+   "answer": 1,
+   "explain": "Entering vehicles yield to traffic circulating counterclockwise, which approaches from the left.",
+   "official": false,
+   "ref": "What Every Driver Must Know (Michigan SOS, SOS-133 Rev. 10/2025), Ch. 4, 'Roundabouts'"
+  },
+  {
+   "id": "mi-089",
+   "topic": "right-of-way",
+   "q": "You are inside a roundabout and hear an emergency vehicle approaching. You should:",
+   "options": [
+    "Drive onto the center island",
+    "Continue to the nearest exit, then pull over to the right and stop",
+    "Stop immediately inside the roundabout",
+    "Speed up and stay in the circle"
+   ],
+   "answer": 1,
+   "explain": "Do not stop in the roundabout; exit at the nearest exit and then pull over.",
+   "official": false,
+   "ref": "What Every Driver Must Know (Michigan SOS, SOS-133 Rev. 10/2025), Ch. 4, 'Roundabouts'"
+  },
+  {
+   "id": "mi-090",
+   "topic": "right-of-way",
+   "q": "When an emergency vehicle with flashing red or blue lights and siren approaches, you must:",
+   "options": [
+    "Stop immediately where you are, even in an intersection",
+    "Pull to the right edge of the road, clear of intersections, and stop until it passes",
+    "Pull to the left lane",
+    "Speed up to get out of its way"
+   ],
+   "answer": 1,
+   "explain": "Drive to the right-hand edge or curb, clear of intersections, and stop until it has passed.",
+   "official": false,
+   "ref": "What Every Driver Must Know (Michigan SOS, SOS-133 Rev. 10/2025), Ch. 4, 'Emergency vehicles'"
+  },
+  {
+   "id": "mi-091",
+   "topic": "right-of-way",
+   "q": "How far must you stay behind a moving emergency vehicle that is using flashing lights and a siren?",
+   "options": [
+    "At least 100 feet",
+    "At least 200 feet",
+    "At least 1,000 feet",
+    "At least 500 feet"
+   ],
+   "answer": 3,
+   "explain": "Stay at least 500 feet behind a moving emergency vehicle displaying lights and siren.",
+   "official": false,
+   "ref": "What Every Driver Must Know (Michigan SOS, SOS-133 Rev. 10/2025), Ch. 4, 'Emergency vehicles'"
+  },
+  {
+   "id": "mi-092",
+   "topic": "right-of-way",
+   "q": "When passing a stopped emergency vehicle with flashing lights, Michigan law requires you to:",
+   "options": [
+    "Stop completely behind it",
+    "Maintain your speed and stay in your lane",
+    "Slow by 5 mph only",
+    "Slow to at least 10 mph below the posted limit and move over a lane if safe"
+   ],
+   "answer": 3,
+   "explain": "The move-over law requires slowing at least 10 mph below the limit and changing lanes if conditions allow.",
+   "official": false,
+   "ref": "What Every Driver Must Know (Michigan SOS, SOS-133 Rev. 10/2025), Ch. 4, 'Emergency vehicles'"
+  },
+  {
+   "id": "mi-093",
+   "topic": "right-of-way",
+   "q": "Michigan's move-over law also covers which of these stopped vehicles with flashing lights?",
+   "options": [
+    "Only ambulances and fire trucks",
+    "Tow trucks, waste haulers, utility and road maintenance vehicles",
+    "Only school buses",
+    "Only police cars"
+   ],
+   "answer": 1,
+   "explain": "Tow/road service vehicles count as emergency vehicles, and drivers must also use caution for waste, utility and maintenance vehicles.",
+   "official": false,
+   "ref": "What Every Driver Must Know (Michigan SOS, SOS-133 Rev. 10/2025), Ch. 4, 'Emergency vehicles'"
+  },
+  {
+   "id": "mi-094",
+   "topic": "right-of-way",
+   "q": "Failing to move over for a stopped emergency vehicle is a civil infraction unless:",
+   "options": [
+    "It happens at night",
+    "You are driving a truck",
+    "It happens on a freeway",
+    "Emergency personnel are injured or killed, which makes it a felony"
+   ],
+   "answer": 3,
+   "explain": "Ordinarily it is a civil infraction, but injuring or killing emergency personnel makes it a felony.",
+   "official": false,
+   "ref": "What Every Driver Must Know (Michigan SOS, SOS-133 Rev. 10/2025), Ch. 4, 'Emergency vehicles'"
+  },
+  {
+   "id": "mi-095",
+   "topic": "right-of-way",
+   "q": "A funeral procession has the right of way over all vehicles except:",
+   "options": [
+    "Vehicles on freeways",
+    "School buses",
+    "Trucks",
+    "Fire trucks, ambulances and police vehicles"
+   ],
+   "answer": 3,
+   "explain": "Funeral processions yield only to fire trucks, ambulances and police vehicles.",
+   "official": false,
+   "ref": "What Every Driver Must Know (Michigan SOS, SOS-133 Rev. 10/2025), Ch. 4, 'Right of way and funerals'"
+  },
+  {
+   "id": "mi-096",
+   "topic": "right-of-way",
+   "q": "A pedestrian is in a marked crosswalk and your light is green. You must:",
+   "options": [
+    "Honk and proceed slowly",
+    "Proceed because you have a green light",
+    "Go around the pedestrian",
+    "Yield to the pedestrian"
+   ],
+   "answer": 3,
+   "explain": "You must yield to pedestrians in a crosswalk even when your light is green.",
+   "official": false,
+   "ref": "What Every Driver Must Know (Michigan SOS, SOS-133 Rev. 10/2025), Ch. 4, 'Right of way and pedestrians'"
+  },
+  {
+   "id": "mi-097",
+   "topic": "right-of-way",
+   "q": "You must stop or yield for a pedestrian who is using:",
+   "options": [
+    "A crosswalk in another city only",
+    "A white cane or a guide dog",
+    "A bicycle helmet",
+    "Headphones"
+   ],
+   "answer": 1,
+   "explain": "Michigan law requires drivers to stop or yield for pedestrians with a white cane or guide dog.",
+   "official": false,
+   "ref": "What Every Driver Must Know (Michigan SOS, SOS-133 Rev. 10/2025), Ch. 6, 'Pedestrians'"
+  },
+  {
+   "id": "mi-098",
+   "topic": "right-of-way",
+   "q": "When approaching a MERGE sign, who must adjust speed to merge safely?",
+   "options": [
+    "Traffic already on the roadway",
+    "The vehicle entering the roadway",
+    "Whichever vehicle is larger",
+    "The vehicle in the left lane"
+   ],
+   "answer": 1,
+   "explain": "The merging vehicle must yield and adjust its speed to merge safely with through traffic (MCL 257.649(7)).",
+   "official": false,
+   "ref": "What Every Driver Must Know (Michigan SOS, SOS-133 Rev. 10/2025), Ch. 7, 'A word about merging'"
+  },
+  {
+   "id": "mi-099",
+   "topic": "right-of-way",
+   "q": "At an intersection with a flashing yellow arrow, you may turn:",
+   "options": [
+    "Without yielding, because the arrow protects you",
+    "Only after coming to a full stop and waiting for green",
+    "Never; the turn is prohibited",
+    "After yielding to oncoming traffic and pedestrians"
+   ],
+   "answer": 3,
+   "explain": "A flashing yellow arrow permits a turn after yielding to oncoming traffic, pedestrians and bicyclists.",
+   "official": false,
+   "ref": "What Every Driver Must Know (Michigan SOS, SOS-133 Rev. 10/2025), Ch. 4, 'Right of way at intersections'"
+  },
+  {
+   "id": "mi-100",
+   "topic": "right-of-way",
+   "q": "At a stop sign with no stop line or crosswalk, where should you stop?",
+   "options": [
+    "In the middle of the intersection",
+    "Ten car lengths before the sign",
+    "At a point where you can see approaching traffic without entering the intersection",
+    "Anywhere, as long as you slow down"
+   ],
+   "answer": 2,
+   "explain": "Without a stop line or crosswalk, stop where you can see all approaching traffic without pulling into the intersection.",
+   "official": false,
+   "ref": "What Every Driver Must Know (Michigan SOS, SOS-133 Rev. 10/2025), Ch. 4, 'Right of way at intersections'"
+  },
+  {
+   "id": "mi-101",
+   "topic": "right-of-way",
+   "q": "Whose directions take priority over traffic signals and signs?",
+   "options": [
+    "Other drivers waving you through",
+    "The driver with the larger vehicle",
+    "Pavement markings",
+    "A law enforcement officer's (and in work zones, a construction worker's)"
+   ],
+   "answer": 3,
+   "explain": "Always obey an officer's orders; construction workers directing traffic must also be obeyed even if they conflict with signals.",
+   "official": false,
+   "ref": "What Every Driver Must Know (Michigan SOS, SOS-133 Rev. 10/2025), Ch. 7, 'In conclusion'"
+  },
+  {
+   "id": "mi-102",
+   "topic": "right-of-way",
+   "q": "You are approaching a vehicle stopped at a crosswalk to let a pedestrian cross. You should:",
+   "options": [
+    "Stop as well; never pass a vehicle stopped for a pedestrian",
+    "Honk to let the pedestrian know you are coming",
+    "Pass it on the right",
+    "Pass it carefully on the left"
+   ],
+   "answer": 0,
+   "explain": "Never pass a vehicle stopped for a pedestrian; the stopped vehicle may hide the pedestrian.",
+   "official": false,
+   "ref": "What Every Driver Must Know (Michigan SOS, SOS-133 Rev. 10/2025), Ch. 6, 'Pedestrians'"
+  },
+  {
+   "id": "mi-103",
+   "topic": "turns",
+   "q": "When passing on a two-lane road, you must return to your lane before coming within how many feet of an oncoming vehicle?",
+   "options": [
+    "100 feet",
+    "500 feet",
+    "50 feet",
+    "200 feet"
+   ],
+   "answer": 3,
+   "explain": "You must return to your lane before you are within 200 feet of any oncoming vehicle.",
+   "official": false,
+   "ref": "What Every Driver Must Know (Michigan SOS, SOS-133 Rev. 10/2025), Ch. 4, 'Passing on the left'"
+  },
+  {
+   "id": "mi-104",
+   "topic": "turns",
+   "q": "Passing is prohibited within how many feet of an intersection or railroad crossing?",
+   "options": [
+    "100 feet",
+    "50 feet",
+    "200 feet",
+    "500 feet"
+   ],
+   "answer": 0,
+   "explain": "Do not pass within 100 feet of an intersection or railroad crossing.",
+   "official": false,
+   "ref": "What Every Driver Must Know (Michigan SOS, SOS-133 Rev. 10/2025), Ch. 4, 'When passing is prohibited'"
+  },
+  {
+   "id": "mi-105",
+   "topic": "turns",
+   "q": "After passing a vehicle, when is it safe to move back into the right lane?",
+   "options": [
+    "After counting one second",
+    "As soon as your rear bumper clears its front bumper",
+    "When you can see the entire vehicle you passed in your rearview mirror",
+    "When the other driver flashes headlights"
+   ],
+   "answer": 2,
+   "explain": "Do not cut back in until the whole vehicle you passed is visible in your rearview mirror.",
+   "official": false,
+   "ref": "What Every Driver Must Know (Michigan SOS, SOS-133 Rev. 10/2025), Ch. 4, 'Passing on the left'"
+  },
+  {
+   "id": "mi-106",
+   "topic": "turns",
+   "q": "Which is a situation where passing on the right is allowed?",
+   "options": [
+    "Whenever the driver ahead is going under the limit",
+    "Using the paved shoulder on a two-lane road",
+    "On any two-lane road if no one is oncoming",
+    "On a one-way street with more than one lane"
+   ],
+   "answer": 3,
+   "explain": "Passing on the right is allowed on multi-lane one-way streets, roads with 2+ lanes each way, or when the vehicle ahead turns left and there is room—never using the shoulder.",
+   "official": false,
+   "ref": "What Every Driver Must Know (Michigan SOS, SOS-133 Rev. 10/2025), Ch. 4, 'Passing on the right'"
+  },
+  {
+   "id": "mi-107",
+   "topic": "turns",
+   "q": "Which is NOT a place where passing is prohibited?",
+   "options": [
+    "Where a solid yellow line is on your side of the center line",
+    "When approaching a hill or curve that blocks your view",
+    "On a straight road with a broken yellow center line and clear view ahead",
+    "When a school bus is stopped with red lights flashing"
+   ],
+   "answer": 2,
+   "explain": "A broken yellow line with clear visibility permits passing when safe; the other situations prohibit it.",
+   "official": false,
+   "ref": "What Every Driver Must Know (Michigan SOS, SOS-133 Rev. 10/2025), Ch. 4, 'When passing is prohibited'"
+  },
+  {
+   "id": "mi-108",
+   "topic": "turns",
+   "q": "You are passing on a two-lane road and your view is blocked within 100 feet of a:",
+   "options": [
+    "Parking lot—so you may pass",
+    "Billboard—so you may pass",
+    "Gas station—so you may pass",
+    "Bridge, viaduct or tunnel—so you must not pass"
+   ],
+   "answer": 3,
+   "explain": "Passing is prohibited when your view is obstructed within 100 feet of a bridge, viaduct or tunnel.",
+   "official": false,
+   "ref": "What Every Driver Must Know (Michigan SOS, SOS-133 Rev. 10/2025), Ch. 4, 'When passing is prohibited'"
+  },
+  {
+   "id": "mi-109",
+   "topic": "turns",
+   "q": "When another vehicle is passing you, you should:",
+   "options": [
+    "Speed up to stay even with it",
+    "Flash your high beams",
+    "Move to the left to block it",
+    "Maintain or reduce speed and let it complete the pass"
+   ],
+   "answer": 3,
+   "explain": "Never increase your speed or race a driver who is passing you.",
+   "official": false,
+   "ref": "What Every Driver Must Know (Michigan SOS, SOS-133 Rev. 10/2025), Ch. 4, 'Passing on the left'"
+  },
+  {
+   "id": "mi-110",
+   "topic": "turns",
+   "q": "The center lane of a three-lane road is marked for left turns only. You may use it to:",
+   "options": [
+    "Make a left turn",
+    "Travel when the right lane is busy",
+    "Merge into traffic over a long distance",
+    "Pass slower vehicles"
+   ],
+   "answer": 0,
+   "explain": "Using a left-turn-only center lane for passing or merging is prohibited.",
+   "official": false,
+   "ref": "What Every Driver Must Know (Michigan SOS, SOS-133 Rev. 10/2025), Ch. 5, 'Left turn only center lane'"
+  },
+  {
+   "id": "mi-111",
+   "topic": "turns",
+   "q": "When driving on a Michigan interstate or full-access-controlled freeway, which lane should you normally use?",
+   "options": [
+    "The right-hand lane, except for permitted reasons such as passing",
+    "The left lane",
+    "The center lane only",
+    "Any lane at any time"
+   ],
+   "answer": 0,
+   "explain": "On interstates and controlled freeways you must drive in the right lane except for listed exceptions.",
+   "official": false,
+   "ref": "What Every Driver Must Know (Michigan SOS, SOS-133 Rev. 10/2025), Ch. 4, 'Lane usage'"
+  },
+  {
+   "id": "mi-112",
+   "topic": "turns",
+   "q": "On a two-lane freeway, which is a valid reason to drive in the left lane?",
+   "options": [
+    "Driving at the minimum speed",
+    "Preparing to exit right in five miles",
+    "Avoiding the sun glare",
+    "Allowing another vehicle to merge onto the freeway"
+   ],
+   "answer": 3,
+   "explain": "Use the left lane on a two-lane freeway for passing, left exits, letting vehicles merge, congestion, or emergency/construction on the shoulder.",
+   "official": false,
+   "ref": "What Every Driver Must Know (Michigan SOS, SOS-133 Rev. 10/2025), Ch. 7, 'Freeway driving'"
+  },
+  {
+   "id": "mi-113",
+   "topic": "turns",
+   "q": "To use a High Occupancy Vehicle (HOV) lane during its hours of operation, a car must carry at least:",
+   "options": [
+    "Two occupants",
+    "Four occupants",
+    "Three occupants",
+    "One occupant"
+   ],
+   "answer": 0,
+   "explain": "HOV lanes require two or more occupants during peak hours; motorcycles may use them any time.",
+   "official": false,
+   "ref": "What Every Driver Must Know (Michigan SOS, SOS-133 Rev. 10/2025), Ch. 7, 'Freeway driving'"
+  },
+  {
+   "id": "mi-114",
+   "topic": "turns",
+   "q": "You miss your freeway exit. What should you do?",
+   "options": [
+    "Continue to the next exit and come back",
+    "Use the median crossover to turn around",
+    "Stop and wait for a gap to reverse",
+    "Back up on the shoulder"
+   ],
+   "answer": 0,
+   "explain": "Do not reverse, turn around or cut across the median; go on to the next exit and come back.",
+   "official": false,
+   "ref": "What Every Driver Must Know (Michigan SOS, SOS-133 Rev. 10/2025), Ch. 7, 'Leaving a freeway'"
+  },
+  {
+   "id": "mi-115",
+   "topic": "turns",
+   "q": "Who may use the emergency crossover in a freeway median?",
+   "options": [
+    "Trucks only",
+    "Any driver during light traffic",
+    "Only authorized emergency, police and MDOT/maintenance vehicles",
+    "Any driver who missed an exit"
+   ],
+   "answer": 2,
+   "explain": "Median crossovers are only for emergency and Michigan Department of Transportation vehicles.",
+   "official": false,
+   "ref": "What Every Driver Must Know (Michigan SOS, SOS-133 Rev. 10/2025), Ch. 7, 'Leaving a freeway'"
+  },
+  {
+   "id": "mi-116",
+   "topic": "turns",
+   "q": "How is a 'Michigan Left' made?",
+   "options": [
+    "Go straight or turn right, then make a U-turn at a designated median crossover",
+    "Turn left directly from the right lane",
+    "Turn left from the shoulder",
+    "Make a left turn on any red light"
+   ],
+   "answer": 0,
+   "explain": "Michigan Lefts prohibit direct left turns; drivers pass the intersection (or turn right) and use a median crossover.",
+   "official": false,
+   "ref": "What Every Driver Must Know (Michigan SOS, SOS-133 Rev. 10/2025), Ch. 5, 'Michigan Lefts'"
+  },
+  {
+   "id": "mi-117",
+   "topic": "turns",
+   "q": "An unmarked median crossover used for a Michigan Left should be treated as:",
+   "options": [
+    "A passing lane",
+    "A parking area",
+    "A two-lane crossover",
+    "A single-lane crossover, one vehicle at a time"
+   ],
+   "answer": 3,
+   "explain": "Extra width is for large vehicles; unless marked for two lanes, treat a crossover as single-lane.",
+   "official": false,
+   "ref": "What Every Driver Must Know (Michigan SOS, SOS-133 Rev. 10/2025), Ch. 5, 'Michigan Lefts'"
+  },
+  {
+   "id": "mi-118",
+   "topic": "turns",
+   "q": "When there are two left-turn lanes, you should:",
+   "options": [
+    "Finish your turn in the lane that corresponds to your turn lane",
+    "Turn into any lane that is open",
+    "Cross into the far lane to pass",
+    "Always finish in the right lane"
+   ],
+   "answer": 0,
+   "explain": "With multiple turn lanes, complete the turn into the corresponding lane to avoid cutting others off.",
+   "official": false,
+   "ref": "What Every Driver Must Know (Michigan SOS, SOS-133 Rev. 10/2025), Ch. 4, 'Turning'"
+  },
+  {
+   "id": "mi-119",
+   "topic": "turns",
+   "q": "While waiting to make a left turn, keep your front wheels:",
+   "options": [
+    "Pointed straight ahead until you begin the turn",
+    "Turned left so you are ready",
+    "In any position",
+    "Turned right toward the curb"
+   ],
+   "answer": 0,
+   "explain": "Straight wheels prevent you from being pushed into oncoming traffic if struck from behind.",
+   "official": false,
+   "ref": "What Every Driver Must Know (Michigan SOS, SOS-133 Rev. 10/2025), Ch. 4, 'Turning'"
+  },
+  {
+   "id": "mi-120",
+   "topic": "turns",
+   "q": "When making a right turn, you should:",
+   "options": [
+    "Swing wide into the left lane first",
+    "Not signal if no one is behind you",
+    "Turn from the center lane",
+    "Follow the curve of the curb and stay in your lane"
+   ],
+   "answer": 3,
+   "explain": "Turn from the correct lane, signal, and follow the general curve of the curb.",
+   "official": false,
+   "ref": "What Every Driver Must Know (Michigan SOS, SOS-133 Rev. 10/2025), Ch. 4, 'Turning'"
+  },
+  {
+   "id": "mi-121",
+   "topic": "turns",
+   "q": "Before changing lanes to the left, you should:",
+   "options": [
+    "Only check the inside mirror",
+    "Honk your horn",
+    "Check mirrors, do a head check over your left shoulder, and signal",
+    "Signal while moving over at the same time"
+   ],
+   "answer": 2,
+   "explain": "Look behind and to the left with a head check, signal, then move carefully.",
+   "official": false,
+   "ref": "What Every Driver Must Know (Michigan SOS, SOS-133 Rev. 10/2025), Ch. 4, 'Changing lanes'"
+  },
+  {
+   "id": "mi-122",
+   "topic": "turns",
+   "q": "Which is a reason you may drive left of the center line on a two-way road?",
+   "options": [
+    "To pass an obstruction when the way is clear, yielding to oncoming traffic",
+    "To drive faster than traffic",
+    "To make a right turn",
+    "To avoid potholes on a curve without checking"
+   ],
+   "answer": 0,
+   "explain": "You may cross the center line around stopped vehicles or obstacles, but must yield to oncoming traffic.",
+   "official": false,
+   "ref": "What Every Driver Must Know (Michigan SOS, SOS-133 Rev. 10/2025), Ch. 4, 'Lane usage'"
+  },
+  {
+   "id": "mi-123",
+   "topic": "turns",
+   "q": "Weaving from lane to lane to speed through traffic is:",
+   "options": [
+    "Illegal",
+    "Legal if you signal",
+    "Legal at night",
+    "Legal on freeways"
+   ],
+   "answer": 0,
+   "explain": "Michigan law forbids darting between lanes to get ahead of other traffic.",
+   "official": false,
+   "ref": "What Every Driver Must Know (Michigan SOS, SOS-133 Rev. 10/2025), Ch. 4, 'Lane usage'"
+  },
+  {
+   "id": "mi-124",
+   "topic": "turns",
+   "q": "When should you use your turn signal before turning?",
+   "options": [
+    "Only at intersections with signals",
+    "Only when other vehicles are visible",
+    "Always, for every turn and lane change",
+    "Only on freeways"
+   ],
+   "answer": 2,
+   "explain": "Always use your turn signal when turning.",
+   "official": false,
+   "ref": "What Every Driver Must Know (Michigan SOS, SOS-133 Rev. 10/2025), Ch. 4, 'Turning'"
+  },
+  {
+   "id": "mi-125",
+   "topic": "turns",
+   "q": "Which hand signal is shown by the left arm extended straight out?",
+   "options": [
+    "Right turn",
+    "Left turn",
+    "Pass me",
+    "Stop or slow"
+   ],
+   "answer": 1,
+   "explain": "Left arm straight out signals a left turn; arm up signals right; arm down signals stop.",
+   "official": false,
+   "ref": "What Every Driver Must Know (Michigan SOS, SOS-133 Rev. 10/2025), Ch. 4, 'Turning'"
+  },
+  {
+   "id": "mi-126",
+   "topic": "turns",
+   "q": "Inside a roundabout, you should:",
+   "options": [
+    "Stop to let others in",
+    "Pass slower vehicles on the left",
+    "Turn left to reach your exit faster",
+    "Avoid changing lanes and choose your lane before entering"
+   ],
+   "answer": 3,
+   "explain": "Choose the correct lane before entering; avoid lane changes and passing in the roundabout.",
+   "official": false,
+   "ref": "What Every Driver Must Know (Michigan SOS, SOS-133 Rev. 10/2025), Ch. 4, 'Roundabouts'"
+  },
+  {
+   "id": "mi-127",
+   "topic": "turns",
+   "q": "When is it legal to drive across a freeway median strip?",
+   "options": [
+    "When oncoming traffic is light and visibility is good",
+    "When traffic is light",
+    "Never, unless you are an authorized emergency vehicle",
+    "When you missed your exit"
+   ],
+   "answer": 2,
+   "explain": "Driving over a freeway median or through a barrier is against the law; freeway crossovers are for emergency and MDOT vehicles only.",
+   "official": false,
+   "ref": "What Every Driver Must Know (Michigan SOS, SOS-133 Rev. 10/2025), Ch. 4, 'Lane usage'"
+  },
+  {
+   "id": "mi-128",
+   "topic": "parking",
+   "q": "You may not park within how many feet of a fire hydrant?",
+   "options": [
+    "15 feet",
+    "30 feet",
+    "20 feet",
+    "10 feet"
+   ],
+   "answer": 0,
+   "explain": "Never park within 15 feet of a fire hydrant.",
+   "official": false,
+   "ref": "What Every Driver Must Know (Michigan SOS, SOS-133 Rev. 10/2025), Ch. 4, 'Parking violations'"
+  },
+  {
+   "id": "mi-129",
+   "topic": "parking",
+   "q": "You may not park within how many feet of a marked crosswalk?",
+   "options": [
+    "20 feet",
+    "30 feet",
+    "15 feet",
+    "10 feet"
+   ],
+   "answer": 0,
+   "explain": "Do not park within 20 feet of a marked crosswalk (or 15 feet of an intersection with no crosswalk).",
+   "official": false,
+   "ref": "What Every Driver Must Know (Michigan SOS, SOS-133 Rev. 10/2025), Ch. 4, 'Parking violations'"
+  },
+  {
+   "id": "mi-130",
+   "topic": "parking",
+   "q": "You may not park within how many feet of a stop sign, traffic light or flashing beacon?",
+   "options": [
+    "30 feet",
+    "50 feet",
+    "20 feet",
+    "15 feet"
+   ],
+   "answer": 0,
+   "explain": "Parking is prohibited within 30 feet of a stop sign, traffic signal or flashing beacon.",
+   "official": false,
+   "ref": "What Every Driver Must Know (Michigan SOS, SOS-133 Rev. 10/2025), Ch. 4, 'Parking violations'"
+  },
+  {
+   "id": "mi-131",
+   "topic": "parking",
+   "q": "You may not park within how many feet of the nearest rail of a railroad crossing?",
+   "options": [
+    "100 feet",
+    "30 feet",
+    "15 feet",
+    "50 feet"
+   ],
+   "answer": 3,
+   "explain": "Do not park within 50 feet of the nearest rail of a railroad crossing.",
+   "official": false,
+   "ref": "What Every Driver Must Know (Michigan SOS, SOS-133 Rev. 10/2025), Ch. 4, 'Parking violations'"
+  },
+  {
+   "id": "mi-132",
+   "topic": "parking",
+   "q": "On the same side of the street, you may not park within how many feet of a fire station driveway?",
+   "options": [
+    "50 feet",
+    "10 feet",
+    "75 feet",
+    "20 feet"
+   ],
+   "answer": 3,
+   "explain": "Stay 20 feet from a fire station driveway on the same side (75 feet on the opposite side when marked).",
+   "official": false,
+   "ref": "What Every Driver Must Know (Michigan SOS, SOS-133 Rev. 10/2025), Ch. 4, 'Parking violations'"
+  },
+  {
+   "id": "mi-133",
+   "topic": "parking",
+   "q": "You may not park within how many feet of a fire or a crash?",
+   "options": [
+    "200 feet",
+    "50 feet",
+    "100 feet",
+    "500 feet"
+   ],
+   "answer": 3,
+   "explain": "Never park within 500 feet of a fire or crash.",
+   "official": false,
+   "ref": "What Every Driver Must Know (Michigan SOS, SOS-133 Rev. 10/2025), Ch. 4, 'Parking violations'"
+  },
+  {
+   "id": "mi-134",
+   "topic": "parking",
+   "q": "When parallel parked, your vehicle must be no more than how far from the curb?",
+   "options": [
+    "18 inches",
+    "6 inches",
+    "12 inches",
+    "24 inches"
+   ],
+   "answer": 2,
+   "explain": "Parking more than 12 inches from the curb is prohibited; aim for 6-12 inches.",
+   "official": false,
+   "ref": "What Every Driver Must Know (Michigan SOS, SOS-133 Rev. 10/2025), Ch. 4, 'Parking violations'"
+  },
+  {
+   "id": "mi-135",
+   "topic": "parking",
+   "q": "When parking downhill next to a curb, turn your front wheels:",
+   "options": [
+    "Toward the center of the road",
+    "Away from the curb",
+    "Straight ahead",
+    "Toward the curb"
+   ],
+   "answer": 3,
+   "explain": "Turn wheels toward the curb when parking downhill.",
+   "official": false,
+   "ref": "What Every Driver Must Know (Michigan SOS, SOS-133 Rev. 10/2025), Ch. 4, 'Parking on a hill'"
+  },
+  {
+   "id": "mi-136",
+   "topic": "parking",
+   "q": "When parking uphill next to a curb, turn your front wheels:",
+   "options": [
+    "Toward the curb",
+    "It does not matter if the brake is set",
+    "Away from the curb",
+    "Straight ahead"
+   ],
+   "answer": 2,
+   "explain": "Turn wheels away from the curb when parking uphill.",
+   "official": false,
+   "ref": "What Every Driver Must Know (Michigan SOS, SOS-133 Rev. 10/2025), Ch. 4, 'Parking on a hill'"
+  },
+  {
+   "id": "mi-137",
+   "topic": "parking",
+   "q": "When parking on a hill with no curb, turn your wheels:",
+   "options": [
+    "Straight ahead",
+    "So the vehicle will roll away from traffic if it moves",
+    "Toward oncoming traffic",
+    "Toward the center of the road"
+   ],
+   "answer": 1,
+   "explain": "With no curb, turn the wheels so the vehicle will not roll into traffic.",
+   "official": false,
+   "ref": "What Every Driver Must Know (Michigan SOS, SOS-133 Rev. 10/2025), Ch. 4, 'Parking on a hill'"
+  },
+  {
+   "id": "mi-138",
+   "topic": "parking",
+   "q": "Whenever you park, you should:",
+   "options": [
+    "Leave the engine running for security",
+    "Leave the keys in the ignition for valets",
+    "Set the parking brake and not rely on the transmission to hold the vehicle",
+    "Put the car in neutral"
+   ],
+   "answer": 2,
+   "explain": "Always set the parking brake, turn off the engine and take the keys.",
+   "official": false,
+   "ref": "What Every Driver Must Know (Michigan SOS, SOS-133 Rev. 10/2025), Ch. 4, 'Parking'"
+  },
+  {
+   "id": "mi-139",
+   "topic": "parking",
+   "q": "When starting to parallel park, how far from the parked vehicle ahead of the space should you pull alongside?",
+   "options": [
+    "8 to 10 feet",
+    "6 inches",
+    "As close as possible without touching",
+    "2 to 5 feet"
+   ],
+   "answer": 3,
+   "explain": "Pull alongside the vehicle ahead of the space with 2-5 feet between the vehicles.",
+   "official": false,
+   "ref": "What Every Driver Must Know (Michigan SOS, SOS-133 Rev. 10/2025), Ch. 4, 'Parallel parking'"
+  },
+  {
+   "id": "mi-140",
+   "topic": "parking",
+   "q": "To park in a disability parking space, you must:",
+   "options": [
+    "Have hazard lights on",
+    "Only be in a hurry",
+    "Be over 65",
+    "Have a disability plate or placard and the person with the disability must be with you"
+   ],
+   "answer": 3,
+   "explain": "A qualifying disability and a disability plate or placard are required; the person must be accompanying you.",
+   "official": false,
+   "ref": "What Every Driver Must Know (Michigan SOS, SOS-133 Rev. 10/2025), Ch. 4, 'Disability parking'"
+  },
+  {
+   "id": "mi-141",
+   "topic": "parking",
+   "q": "Which vehicles receive free metered parking in Michigan?",
+   "options": [
+    "Electric vehicles",
+    "Those displaying a disability placard with a yellow free-parking sticker",
+    "Vehicles with out-of-state plates",
+    "Any vehicle with a disability plate"
+   ],
+   "answer": 1,
+   "explain": "Only placards with a yellow free-parking sticker get free parking.",
+   "official": false,
+   "ref": "What Every Driver Must Know (Michigan SOS, SOS-133 Rev. 10/2025), Ch. 4, 'Disability parking'"
+  },
+  {
+   "id": "mi-142",
+   "topic": "parking",
+   "q": "Why must you never park on the blue-striped area beside a van-accessible space?",
+   "options": [
+    "It is reserved for motorcycles",
+    "It is a loading zone for deliveries",
+    "It is needed for a wheelchair lift or ramp",
+    "It is a fire lane for trucks"
+   ],
+   "answer": 2,
+   "explain": "The striped area gives room for a van's wheelchair lift and ramp.",
+   "official": false,
+   "ref": "What Every Driver Must Know (Michigan SOS, SOS-133 Rev. 10/2025), Ch. 4, 'Van-accessible disability parking'"
+  },
+  {
+   "id": "mi-143",
+   "topic": "parking",
+   "q": "Before opening your door after parking on a street, what technique helps you spot cyclists?",
+   "options": [
+    "Open the door quickly to reduce exposure",
+    "Honk before opening",
+    "Rely only on the side mirror",
+    "Open the door with your right hand so you naturally look over your left shoulder"
+   ],
+   "answer": 3,
+   "explain": "Using the right hand turns your body so you look back for cyclists and pedestrians.",
+   "official": false,
+   "ref": "What Every Driver Must Know (Michigan SOS, SOS-133 Rev. 10/2025), Ch. 4, 'Parking'"
+  },
+  {
+   "id": "mi-144",
+   "topic": "sharing",
+   "q": "When passing a bicyclist, Michigan law requires at least how much space?",
+   "options": [
+    "1 foot",
+    "6 feet",
+    "3 feet",
+    "2 feet"
+   ],
+   "answer": 2,
+   "explain": "You must leave at least 3 feet when passing a bicyclist (some cities require 5).",
+   "official": false,
+   "ref": "What Every Driver Must Know (Michigan SOS, SOS-133 Rev. 10/2025), Ch. 6, 'Bicyclists'"
+  },
+  {
+   "id": "mi-145",
+   "topic": "sharing",
+   "q": "May you pass a bicyclist in a no-passing zone in Michigan?",
+   "options": [
+    "Only on freeways",
+    "Yes, if it is safe to do so",
+    "No, never",
+    "Only if the cyclist waves you on"
+   ],
+   "answer": 1,
+   "explain": "The handbook allows passing a bicyclist in a no-passing zone when it is safe.",
+   "official": false,
+   "ref": "What Every Driver Must Know (Michigan SOS, SOS-133 Rev. 10/2025), Ch. 6, 'Bicyclists'"
+  },
+  {
+   "id": "mi-146",
+   "topic": "sharing",
+   "q": "Bicyclists in Michigan may legally ride on:",
+   "options": [
+    "All roads except limited-access freeways",
+    "Only roads with bike lanes",
+    "Any road, including freeways",
+    "Only sidewalks"
+   ],
+   "answer": 0,
+   "explain": "Cyclists may use any Michigan road other than limited-access freeways, with the same rights and duties as drivers.",
+   "official": false,
+   "ref": "What Every Driver Must Know (Michigan SOS, SOS-133 Rev. 10/2025), Ch. 6, 'Bicyclists'"
+  },
+  {
+   "id": "mi-147",
+   "topic": "sharing",
+   "q": "Are bicyclists required to ride in an available bicycle lane?",
+   "options": [
+    "Yes, always",
+    "No; they may leave it to turn left or avoid hazards",
+    "Yes, except at night",
+    "Only on state highways"
+   ],
+   "answer": 1,
+   "explain": "Bicyclists are not required to use a bike lane.",
+   "official": false,
+   "ref": "What Every Driver Must Know (Michigan SOS, SOS-133 Rev. 10/2025), Ch. 6, 'Bicyclists'"
+  },
+  {
+   "id": "mi-148",
+   "topic": "sharing",
+   "q": "A green-painted bicycle lane indicates:",
+   "options": [
+    "A potential conflict point between cars and bicycles",
+    "A lane open to cars on weekends",
+    "A parking area for bicycles",
+    "A lane drivers may use for right turns"
+   ],
+   "answer": 0,
+   "explain": "Green bike lanes mark conflict points; it is illegal to drive, turn or park in bike lanes.",
+   "official": false,
+   "ref": "What Every Driver Must Know (Michigan SOS, SOS-133 Rev. 10/2025), Ch. 5, 'Bicycle lanes'"
+  },
+  {
+   "id": "mi-149",
+   "topic": "sharing",
+   "q": "What following distance should you keep behind a motorcycle, scooter or bicycle?",
+   "options": [
+    "2 car lengths",
+    "No more than 10 feet",
+    "1 second",
+    "At least 3 or 4 seconds"
+   ],
+   "answer": 3,
+   "explain": "Tailgating is illegal; leave at least 3-4 seconds behind motorcyclists and cyclists.",
+   "official": false,
+   "ref": "What Every Driver Must Know (Michigan SOS, SOS-133 Rev. 10/2025), Ch. 6, 'Motorcycles, scooters, mopeds and bicycles'"
+  },
+  {
+   "id": "mi-150",
+   "topic": "sharing",
+   "q": "Driving beside a motorcyclist in the same lane is:",
+   "options": [
+    "Legal when traffic is slow",
+    "Illegal; pass using an adjacent lane",
+    "Legal on freeways",
+    "Legal if the lane is wide"
+   ],
+   "answer": 1,
+   "explain": "You may not share a lane with a motorcycle or pass one within its lane; use the next lane when it is legal and safe.",
+   "official": false,
+   "ref": "What Every Driver Must Know (Michigan SOS, SOS-133 Rev. 10/2025), Ch. 6, 'Specifically about motorcyclists'"
+  },
+  {
+   "id": "mi-151",
+   "topic": "sharing",
+   "q": "Why should you leave extra space behind a motorcyclist in city traffic?",
+   "options": [
+    "Motorcycles cannot stop quickly",
+    "Motorcyclists often slow by downshifting, which does not turn on the brake light",
+    "Motorcycles always swerve",
+    "It is required only at night"
+   ],
+   "answer": 1,
+   "explain": "Engine braking and downshifting slow a motorcycle without activating brake lights.",
+   "official": false,
+   "ref": "What Every Driver Must Know (Michigan SOS, SOS-133 Rev. 10/2025), Ch. 6, 'Specifically about motorcyclists'"
+  },
+  {
+   "id": "mi-152",
+   "topic": "sharing",
+   "q": "Where do most vehicle-motorcycle crashes occur?",
+   "options": [
+    "At intersections and on busy city streets",
+    "On gravel roads",
+    "On rural freeways",
+    "In parking lots"
+   ],
+   "answer": 0,
+   "explain": "Intersections are among the highest-risk locations for crashes with motorcycles.",
+   "official": false,
+   "ref": "What Every Driver Must Know (Michigan SOS, SOS-133 Rev. 10/2025), Ch. 6, 'Specifically about motorcyclists'"
+  },
+  {
+   "id": "mi-153",
+   "topic": "sharing",
+   "q": "Motorcycles may legally use freeways if their engine size is:",
+   "options": [
+    "125cc or greater",
+    "50cc or greater",
+    "250cc or greater",
+    "100cc or greater"
+   ],
+   "answer": 0,
+   "explain": "Motorcycles of 125cc or more may use freeways; 124cc or less may not.",
+   "official": false,
+   "ref": "What Every Driver Must Know (Michigan SOS, SOS-133 Rev. 10/2025), Ch. 6, 'Specifically about motorcyclists'"
+  },
+  {
+   "id": "mi-154",
+   "topic": "sharing",
+   "q": "Which of these is NOT allowed on Michigan freeways?",
+   "options": [
+    "Pickup trucks",
+    "Mopeds",
+    "Passenger vans",
+    "Motorcycles of 250cc"
+   ],
+   "answer": 1,
+   "explain": "Pedestrians, small motorcycles (124cc or less), mopeds, bicycles, ATVs and slow-moving vehicles are not allowed on freeways.",
+   "official": false,
+   "ref": "What Every Driver Must Know (Michigan SOS, SOS-133 Rev. 10/2025), Ch. 7, 'Freeway driving'"
+  },
+  {
+   "id": "mi-155",
+   "topic": "sharing",
+   "q": "When you see a commercial truck signaling a right turn at an intersection, expect it to:",
+   "options": [
+    "Stop and back up",
+    "Turn left instead",
+    "Swing wide to the left before turning right",
+    "Turn sharply from the right lane"
+   ],
+   "answer": 2,
+   "explain": "Trucks may swing wide to the left to make a right turn—do not squeeze in on the right.",
+   "official": false,
+   "ref": "What Every Driver Must Know (Michigan SOS, SOS-133 Rev. 10/2025), Ch. 6, 'Commercial vehicles'"
+  },
+  {
+   "id": "mi-156",
+   "topic": "sharing",
+   "q": "Why is it important to stop behind the white stop line at intersections when trucks are turning?",
+   "options": [
+    "A turning truck may need that space and could hit you",
+    "It helps pedestrians see your plate",
+    "It is only a suggestion",
+    "Stopping past the line gives you a better view"
+   ],
+   "answer": 0,
+   "explain": "If you stop past the line, a truck may be unable to complete its turn without hitting you.",
+   "official": false,
+   "ref": "What Every Driver Must Know (Michigan SOS, SOS-133 Rev. 10/2025), Ch. 6, 'Commercial vehicles'"
+  },
+  {
+   "id": "mi-157",
+   "topic": "sharing",
+   "q": "The areas around a large truck where the driver cannot see you are called:",
+   "options": [
+    "No zones",
+    "Draft zones",
+    "Safe zones",
+    "Clear zones"
+   ],
+   "answer": 0,
+   "explain": "Trucks have large blind spots called 'no zones' where you should not linger.",
+   "official": false,
+   "ref": "What Every Driver Must Know (Michigan SOS, SOS-133 Rev. 10/2025), Ch. 6, 'Commercial vehicles'"
+  },
+  {
+   "id": "mi-158",
+   "topic": "sharing",
+   "q": "After passing a large truck, when should you move back in front of it?",
+   "options": [
+    "When you can see the entire cab in your rearview mirror",
+    "After counting one second",
+    "Immediately after your car clears its bumper",
+    "When the truck driver honks"
+   ],
+   "answer": 0,
+   "explain": "Signal and pull back only when the whole cab is visible in your rearview mirror.",
+   "official": false,
+   "ref": "What Every Driver Must Know (Michigan SOS, SOS-133 Rev. 10/2025), Ch. 6, 'Passing a commercial vehicle safely'"
+  },
+  {
+   "id": "mi-159",
+   "topic": "sharing",
+   "q": "When following a truck or bus at night, use:",
+   "options": [
+    "Parking lights only",
+    "High beams",
+    "Low beams",
+    "Fog lights only"
+   ],
+   "answer": 2,
+   "explain": "Use low beams when following a truck or bus at night.",
+   "official": false,
+   "ref": "What Every Driver Must Know (Michigan SOS, SOS-133 Rev. 10/2025), Ch. 6, 'Commercial vehicles'"
+  },
+  {
+   "id": "mi-160",
+   "topic": "sharing",
+   "q": "You are behind a truck that is backing up. You should:",
+   "options": [
+    "Never cross behind it",
+    "Pass quickly behind it",
+    "Honk and drive around",
+    "Flash your lights and proceed"
+   ],
+   "answer": 0,
+   "explain": "Do not pass behind a truck that is backing; an 8.5-foot-wide trailer can block the driver's view of your car.",
+   "official": false,
+   "ref": "What Every Driver Must Know (Michigan SOS, SOS-133 Rev. 10/2025), Ch. 6, 'Commercial vehicles'"
+  },
+  {
+   "id": "mi-161",
+   "topic": "sharing",
+   "q": "When a large truck or bus is passing you in bad weather, you should:",
+   "options": [
+    "Move toward the truck",
+    "Speed up to stay ahead",
+    "Slow down and start your wipers before spray reduces visibility",
+    "Turn on high beams"
+   ],
+   "answer": 2,
+   "explain": "Splash and spray can reduce visibility; slow down and start your wipers early.",
+   "official": false,
+   "ref": "What Every Driver Must Know (Michigan SOS, SOS-133 Rev. 10/2025), Ch. 6, 'Passing a commercial vehicle safely'"
+  },
+  {
+   "id": "mi-162",
+   "topic": "sharing",
+   "q": "Which of these is NOT considered a slow-moving vehicle?",
+   "options": [
+    "A farm combine",
+    "An Amish buggy",
+    "A tractor pulling a wagon",
+    "A golf cart"
+   ],
+   "answer": 3,
+   "explain": "Golf carts and four-wheel ATVs do not count as slow-moving vehicles under the handbook.",
+   "official": false,
+   "ref": "What Every Driver Must Know (Michigan SOS, SOS-133 Rev. 10/2025), Ch. 6, 'Slow-moving vehicles'"
+  },
+  {
+   "id": "mi-163",
+   "topic": "sharing",
+   "q": "If a street has no sidewalk, pedestrians walking along the road should:",
+   "options": [
+    "Walk in the center of the lane",
+    "Walk on the freeway shoulder",
+    "Walk with their back to traffic",
+    "Face oncoming traffic"
+   ],
+   "answer": 3,
+   "explain": "Pedestrians walking along a road without sidewalks should face oncoming traffic.",
+   "official": false,
+   "ref": "What Every Driver Must Know (Michigan SOS, SOS-133 Rev. 10/2025), Ch. 6, 'Pedestrians'"
+  },
+  {
+   "id": "mi-164",
+   "topic": "sharing",
+   "q": "Near a person who is blind or visually impaired, you should avoid:",
+   "options": [
+    "Honking or revving your engine",
+    "Yielding the right of way",
+    "Stopping for them",
+    "Waiting patiently"
+   ],
+   "answer": 0,
+   "explain": "Noise covers audible cues used by people with visual impairments.",
+   "official": false,
+   "ref": "What Every Driver Must Know (Michigan SOS, SOS-133 Rev. 10/2025), Ch. 6, 'Pedestrians'"
+  },
+  {
+   "id": "mi-165",
+   "topic": "sharing",
+   "q": "Before turning right at an intersection, you should check for:",
+   "options": [
+    "Only pedestrians on the far corner",
+    "Only cars in the left lane",
+    "Bicyclists coming from behind on the shoulder or in a bike lane",
+    "Nothing if your light is green"
+   ],
+   "answer": 2,
+   "explain": "Look for cyclists approaching from behind on your right and yield before turning.",
+   "official": false,
+   "ref": "What Every Driver Must Know (Michigan SOS, SOS-133 Rev. 10/2025), Ch. 6, 'Bicyclists'"
+  },
+  {
+   "id": "mi-166",
+   "topic": "sharing",
+   "q": "Why is it hard to judge an approaching motorcycle's speed and distance?",
+   "options": [
+    "Motorcycles are always louder than cars",
+    "Motorcycles always have bright colors",
+    "Its single headlight and small profile make it seem farther away and slower",
+    "Motorcycles travel only in groups"
+   ],
+   "answer": 2,
+   "explain": "A motorcycle's small profile can distort your perception, making it seem you have more time than you do.",
+   "official": false,
+   "ref": "What Every Driver Must Know (Michigan SOS, SOS-133 Rev. 10/2025), Ch. 6, 'Specifically about motorcyclists'"
+  },
+  {
+   "id": "mi-167",
+   "topic": "sharing",
+   "q": "When should you be especially watchful for children?",
+   "options": [
+    "Only near shopping malls",
+    "Only at night",
+    "Only on freeways",
+    "Near parked cars, school zones, playgrounds and parks"
+   ],
+   "answer": 3,
+   "explain": "Children are unpredictable and may dart into the street near these locations.",
+   "official": false,
+   "ref": "What Every Driver Must Know (Michigan SOS, SOS-133 Rev. 10/2025), Ch. 6, 'Children'"
+  },
+  {
+   "id": "mi-168",
+   "topic": "safety",
+   "q": "Under Michigan's cell phone law (effective for all drivers), which is illegal while driving?",
+   "options": [
+    "Using the vehicle's built-in controls",
+    "A single tap to answer in hands-free mode",
+    "Holding a phone to make a call or read a text",
+    "Using a GPS without entering data by hand"
+   ],
+   "answer": 2,
+   "explain": "Michigan prohibits holding or manually using a mobile device while driving; limited hands-free use is allowed.",
+   "official": false,
+   "ref": "What Every Driver Must Know (Michigan SOS, SOS-133 Rev. 10/2025), Ch. 4, 'Cell phone use prohibited for all drivers – including teens'"
+  },
+  {
+   "id": "mi-169",
+   "topic": "safety",
+   "q": "What is the fine for a first violation of Michigan's hand-held phone law?",
+   "options": [
+    "$500",
+    "$100",
+    "$250",
+    "$50"
+   ],
+   "answer": 1,
+   "explain": "The fine is $100 for a first offense and $250 for subsequent violations.",
+   "official": false,
+   "ref": "What Every Driver Must Know (Michigan SOS, SOS-133 Rev. 10/2025), Ch. 4, 'Distracted driving'"
+  },
+  {
+   "id": "mi-170",
+   "topic": "safety",
+   "q": "When may any driver, including a teen, use a mobile device while driving?",
+   "options": [
+    "To report a crash, crime, medical emergency or dangerous driver to 9-1-1 or emergency services",
+    "To text a parent that they are running late",
+    "To check social media at a red light",
+    "To record a video of traffic"
+   ],
+   "answer": 0,
+   "explain": "Emergency exceptions allow calling or texting 9-1-1 or emergency services to report emergencies.",
+   "official": false,
+   "ref": "What Every Driver Must Know (Michigan SOS, SOS-133 Rev. 10/2025), Ch. 4, 'Cell phone use prohibited for all drivers – including teens'"
+  },
+  {
+   "id": "mi-171",
+   "topic": "safety",
+   "q": "Under Michigan's seat belt law, who must be buckled up?",
+   "options": [
+    "Only front-seat passengers on freeways",
+    "Only passengers under 8",
+    "Only the driver",
+    "The driver, all front-seat passengers, and all passengers under 16 in any seat"
+   ],
+   "answer": 3,
+   "explain": "All front-seat occupants and all passengers under 16 in every seat must be buckled.",
+   "official": false,
+   "ref": "What Every Driver Must Know (Michigan SOS, SOS-133 Rev. 10/2025), Ch. 4, 'Buckle up, it's the law!'"
+  },
+  {
+   "id": "mi-172",
+   "topic": "safety",
+   "q": "Children must ride in a car seat or booster seat until they are:",
+   "options": [
+    "4 years old or 40 pounds",
+    "12 years old or 5 feet tall",
+    "6 years old or 4 feet tall",
+    "8 years old or 4 feet 9 inches tall"
+   ],
+   "answer": 3,
+   "explain": "A child restraint is required until age 8 or 4'9\", whichever comes first.",
+   "official": false,
+   "ref": "What Every Driver Must Know (Michigan SOS, SOS-133 Rev. 10/2025), Ch. 4, 'Protecting children and teens'"
+  },
+  {
+   "id": "mi-173",
+   "topic": "safety",
+   "q": "Children younger than what age must ride in a rear seat if the vehicle has one available?",
+   "options": [
+    "8",
+    "4",
+    "12",
+    "2"
+   ],
+   "answer": 1,
+   "explain": "Children under 4 must be in a rear seat if available (unless all rear seats are occupied by children under 4).",
+   "official": false,
+   "ref": "What Every Driver Must Know (Michigan SOS, SOS-133 Rev. 10/2025), Ch. 4, 'Protecting children and teens'"
+  },
+  {
+   "id": "mi-174",
+   "topic": "safety",
+   "q": "A child in a rear-facing car seat may ride in the front seat only if:",
+   "options": [
+    "The child is over 1 year old",
+    "The trip is short",
+    "The front passenger air bag is turned off",
+    "The driver is a parent"
+   ],
+   "answer": 2,
+   "explain": "Rear-facing seats may be placed in front only if the passenger air bag is deactivated.",
+   "official": false,
+   "ref": "What Every Driver Must Know (Michigan SOS, SOS-133 Rev. 10/2025), Ch. 4, 'Protecting children and teens'"
+  },
+  {
+   "id": "mi-175",
+   "topic": "safety",
+   "q": "Anyone under 18 may not ride in the open bed of a pickup truck traveling faster than:",
+   "options": [
+    "15 mph",
+    "5 mph",
+    "25 mph",
+    "35 mph"
+   ],
+   "answer": 0,
+   "explain": "Riding in an open pickup bed over 15 mph is prohibited for those under 18, with limited exceptions.",
+   "official": false,
+   "ref": "What Every Driver Must Know (Michigan SOS, SOS-133 Rev. 10/2025), Ch. 4, 'Protecting children and teens'"
+  },
+  {
+   "id": "mi-176",
+   "topic": "safety",
+   "q": "It is illegal to leave a child unattended in a vehicle if the child is younger than:",
+   "options": [
+    "10 years old",
+    "6 years old and the situation poses an unreasonable risk",
+    "2 years old",
+    "16 years old"
+   ],
+   "answer": 1,
+   "explain": "Children under 6 may not be left unattended when it creates an unreasonable risk; supervision by someone 13+ is allowed.",
+   "official": false,
+   "ref": "What Every Driver Must Know (Michigan SOS, SOS-133 Rev. 10/2025), Ch. 4, 'Children left unattended in vehicles'"
+  },
+  {
+   "id": "mi-177",
+   "topic": "safety",
+   "q": "How far should the center of your breastbone be from the center of the steering wheel?",
+   "options": [
+    "At least 10 inches",
+    "About 5 inches",
+    "At least 24 inches",
+    "About 2 inches"
+   ],
+   "answer": 0,
+   "explain": "Sit with at least 10 inches between your breastbone and the steering wheel air bag.",
+   "official": false,
+   "ref": "What Every Driver Must Know (Michigan SOS, SOS-133 Rev. 10/2025), Ch. 4, 'Air bags'"
+  },
+  {
+   "id": "mi-178",
+   "topic": "safety",
+   "q": "When are headlights required in Michigan?",
+   "options": [
+    "Only after midnight",
+    "From sunset to sunrise only on freeways",
+    "From a half hour after sunset to a half hour before sunrise, and whenever you cannot see clearly 500 feet ahead",
+    "Only when it is raining"
+   ],
+   "answer": 2,
+   "explain": "Headlights must be on from 30 minutes after sunset to 30 minutes before sunrise and any time visibility is under 500 feet.",
+   "official": false,
+   "ref": "What Every Driver Must Know (Michigan SOS, SOS-133 Rev. 10/2025), Ch. 7, 'Driving at night'"
+  },
+  {
+   "id": "mi-179",
+   "topic": "safety",
+   "q": "You must dim your high beams within how many feet of an oncoming vehicle?",
+   "options": [
+    "200 feet",
+    "1,000 feet",
+    "500 feet",
+    "100 feet"
+   ],
+   "answer": 2,
+   "explain": "It is illegal to use or flash high beams within 500 feet of an oncoming vehicle.",
+   "official": false,
+   "ref": "What Every Driver Must Know (Michigan SOS, SOS-133 Rev. 10/2025), Ch. 7, 'Driving at night'"
+  },
+  {
+   "id": "mi-180",
+   "topic": "safety",
+   "q": "An oncoming driver does not dim their high beams. Where should you look?",
+   "options": [
+    "Directly at the oncoming headlights",
+    "At the center line",
+    "Toward the right edge of the road ahead",
+    "In your rearview mirror"
+   ],
+   "answer": 2,
+   "explain": "Look at the right edge of your lane to avoid being blinded by glare.",
+   "official": false,
+   "ref": "What Every Driver Must Know (Michigan SOS, SOS-133 Rev. 10/2025), Ch. 7, 'Driving at night'"
+  },
+  {
+   "id": "mi-181",
+   "topic": "safety",
+   "q": "When driving in fog, you should use:",
+   "options": [
+    "Parking lights only",
+    "High-beam headlights",
+    "No lights, to reduce glare",
+    "Low-beam headlights"
+   ],
+   "answer": 3,
+   "explain": "Use low beams in fog; high beams reflect back and reduce visibility.",
+   "official": false,
+   "ref": "What Every Driver Must Know (Michigan SOS, SOS-133 Rev. 10/2025), Ch. 7, 'Rain and fog'"
+  },
+  {
+   "id": "mi-182",
+   "topic": "safety",
+   "q": "If fog becomes so thick you cannot see, you should:",
+   "options": [
+    "Pull off the road, turn on hazard flashers and wait",
+    "Stop in your lane",
+    "Follow the taillights ahead closely",
+    "Turn on your high beams and keep going"
+   ],
+   "answer": 0,
+   "explain": "Pull completely off the road, use four-way flashers and wait for the fog to lift.",
+   "official": false,
+   "ref": "What Every Driver Must Know (Michigan SOS, SOS-133 Rev. 10/2025), Ch. 7, 'Rain and fog'"
+  },
+  {
+   "id": "mi-183",
+   "topic": "safety",
+   "q": "When are roads most slippery after it starts to rain?",
+   "options": [
+    "Only at night",
+    "After it has rained for three hours",
+    "During the first half hour",
+    "Only when it stops raining"
+   ],
+   "answer": 2,
+   "explain": "Oil on the pavement makes roads most slippery in the first half hour of rain.",
+   "official": false,
+   "ref": "What Every Driver Must Know (Michigan SOS, SOS-133 Rev. 10/2025), Ch. 7, 'Rain and fog'"
+  },
+  {
+   "id": "mi-184",
+   "topic": "safety",
+   "q": "On wet roads, how much should you increase your following distance?",
+   "options": [
+    "By one car length",
+    "At least twice the normal distance",
+    "Not at all",
+    "By one second"
+   ],
+   "answer": 1,
+   "explain": "Slow down and allow at least twice the normal following distance in rain.",
+   "official": false,
+   "ref": "What Every Driver Must Know (Michigan SOS, SOS-133 Rev. 10/2025), Ch. 7, 'Rain and fog'"
+  },
+  {
+   "id": "mi-185",
+   "topic": "safety",
+   "q": "What contributes to hydroplaning?",
+   "options": [
+    "Driving slowly on dry roads",
+    "Using low beams",
+    "Worn tires, low tire pressure and driving too fast on wet roads",
+    "Having new tires"
+   ],
+   "answer": 2,
+   "explain": "Hydroplaning happens when tires ride on water; worn tires, low pressure and speed contribute.",
+   "official": false,
+   "ref": "What Every Driver Must Know (Michigan SOS, SOS-133 Rev. 10/2025), Ch. 7, 'Rain and fog'"
+  },
+  {
+   "id": "mi-186",
+   "topic": "safety",
+   "q": "After driving through deep water, you should:",
+   "options": [
+    "Speed up to dry the brakes",
+    "Pump the accelerator",
+    "Test your brakes by gently pressing the pedal until they work normally",
+    "Turn off the engine"
+   ],
+   "answer": 2,
+   "explain": "Wet brakes may pull or fail; slow down and lightly apply them until they work properly.",
+   "official": false,
+   "ref": "What Every Driver Must Know (Michigan SOS, SOS-133 Rev. 10/2025), Ch. 7, 'Rain and fog'"
+  },
+  {
+   "id": "mi-187",
+   "topic": "safety",
+   "q": "In cold weather, which part of the road freezes first?",
+   "options": [
+    "Intersections",
+    "Hilltops",
+    "Freeway on-ramps",
+    "Bridges and underpasses"
+   ],
+   "answer": 3,
+   "explain": "Bridges and underpasses freeze before the road surface does.",
+   "official": false,
+   "ref": "What Every Driver Must Know (Michigan SOS, SOS-133 Rev. 10/2025), Ch. 7, 'Bad weather'"
+  },
+  {
+   "id": "mi-188",
+   "topic": "safety",
+   "q": "If your vehicle begins to skid, what should you do first?",
+   "options": [
+    "Take your foot off the accelerator and steer where you want to go",
+    "Shift into park",
+    "Accelerate to regain traction",
+    "Brake hard and turn sharply"
+   ],
+   "answer": 0,
+   "explain": "Ease off the gas, steer only enough to point the wheels where you want to go, and be ready for a secondary skid.",
+   "official": false,
+   "ref": "What Every Driver Must Know (Michigan SOS, SOS-133 Rev. 10/2025), Ch. 7, 'If your vehicle begins skidding'"
+  },
+  {
+   "id": "mi-189",
+   "topic": "safety",
+   "q": "In an emergency stop with anti-lock brakes (ABS), you should:",
+   "options": [
+    "Release the brake when it vibrates",
+    "Apply firm, hard pressure and hold it until stopped",
+    "Pump the brakes rapidly",
+    "Use the parking brake"
+   ],
+   "answer": 1,
+   "explain": "With ABS, brake hard and maintain pressure; vibration or pulsing is normal.",
+   "official": false,
+   "ref": "What Every Driver Must Know (Michigan SOS, SOS-133 Rev. 10/2025), Ch. 7, 'Braking'"
+  },
+  {
+   "id": "mi-190",
+   "topic": "safety",
+   "q": "Without anti-lock brakes, how should you stop hard on a slippery road?",
+   "options": [
+    "Slam the brake and hold it",
+    "Use only the parking brake",
+    "Brake just hard enough not to lock the wheels; if they lock, release and reapply",
+    "Shift into reverse"
+   ],
+   "answer": 2,
+   "explain": "This 'threshold' or controlled braking keeps the wheels turning so you can steer.",
+   "official": false,
+   "ref": "What Every Driver Must Know (Michigan SOS, SOS-133 Rev. 10/2025), Ch. 7, 'Braking'"
+  },
+  {
+   "id": "mi-191",
+   "topic": "safety",
+   "q": "On long trips, how often should you take a break to fight fatigue?",
+   "options": [
+    "Every six hours",
+    "At least every two hours",
+    "Every 30 minutes",
+    "Only when you feel sleepy"
+   ],
+   "answer": 1,
+   "explain": "Stop for a 10-minute break at least every two hours; do not rely on coffee or stay-awake drugs.",
+   "official": false,
+   "ref": "What Every Driver Must Know (Michigan SOS, SOS-133 Rev. 10/2025), Ch. 7, 'Freeway fatigue'"
+  },
+  {
+   "id": "mi-192",
+   "topic": "safety",
+   "q": "An oncoming vehicle is in your lane. Which way should you try to escape?",
+   "options": [
+    "Into the oncoming lane",
+    "To the right edge of the road",
+    "To the left",
+    "Straight ahead without braking"
+   ],
+   "answer": 1,
+   "explain": "Look for an escape route to the right; the other driver may return to their own lane.",
+   "official": false,
+   "ref": "What Every Driver Must Know (Michigan SOS, SOS-133 Rev. 10/2025), Ch. 7, 'If an oncoming vehicle is in your lane'"
+  },
+  {
+   "id": "mi-193",
+   "topic": "safety",
+   "q": "When a deer crash seems unavoidable, you should:",
+   "options": [
+    "Speed up",
+    "Swerve sharply to avoid it",
+    "Flash your high beams and honk continuously",
+    "Brake firmly, hold the wheel and stay in your lane"
+   ],
+   "answer": 3,
+   "explain": "Don't veer for deer—brake firmly, hold on with both hands and come to a controlled stop.",
+   "official": false,
+   "ref": "What Every Driver Must Know (Michigan SOS, SOS-133 Rev. 10/2025), Ch. 7, 'If a vehicle-deer crash is unavoidable'"
+  },
+  {
+   "id": "mi-194",
+   "topic": "safety",
+   "q": "When are deer crashes most likely?",
+   "options": [
+    "At dawn and dusk, especially in fall and spring",
+    "Only in winter",
+    "Only at midnight",
+    "At noon in summer"
+   ],
+   "answer": 0,
+   "explain": "Be especially alert at dawn and dusk and in fall and spring; deer often travel in groups.",
+   "official": false,
+   "ref": "What Every Driver Must Know (Michigan SOS, SOS-133 Rev. 10/2025), Ch. 7, 'Your best defense against deer'"
+  },
+  {
+   "id": "mi-195",
+   "topic": "safety",
+   "q": "Which of these reduces the risk of hitting deer?",
+   "options": [
+    "Honking continuously",
+    "Flashing your high beams",
+    "Installing a deer whistle",
+    "Slowing down when you see one deer because others may follow"
+   ],
+   "answer": 3,
+   "explain": "Deer whistles, flashing lights and honking do not deter deer; expect more than one.",
+   "official": false,
+   "ref": "What Every Driver Must Know (Michigan SOS, SOS-133 Rev. 10/2025), Ch. 7, 'Your best defense against deer'"
+  },
+  {
+   "id": "mi-196",
+   "topic": "safety",
+   "q": "Where do crashes cause more traffic fatalities and serious injuries than on any other part of the road?",
+   "options": [
+    "Freeway straightaways",
+    "Rural driveways",
+    "Parking lots",
+    "Intersections"
+   ],
+   "answer": 3,
+   "explain": "Intersection crashes cause more fatalities and serious injuries than any other road location.",
+   "official": false,
+   "ref": "What Every Driver Must Know (Michigan SOS, SOS-133 Rev. 10/2025), Ch. 7, 'Take care at intersections'"
+  },
+  {
+   "id": "mi-197",
+   "topic": "safety",
+   "q": "Your view at an intersection is blocked by a snowbank. You should:",
+   "options": [
+    "Go quickly to minimize time exposed",
+    "Back up and choose another route",
+    "Honk and proceed",
+    "Edge forward slowly until you can see"
+   ],
+   "answer": 3,
+   "explain": "Creep forward slowly until you can see past the obstruction.",
+   "official": false,
+   "ref": "What Every Driver Must Know (Michigan SOS, SOS-133 Rev. 10/2025), Ch. 7, 'Take care at intersections'"
+  },
+  {
+   "id": "mi-198",
+   "topic": "safety",
+   "q": "If another driver is tailgating you, the handbook advises you to:",
+   "options": [
+    "Make a gesture",
+    "Move over or pull over and let them pass",
+    "Speed up",
+    "Brake suddenly to warn them"
+   ],
+   "answer": 1,
+   "explain": "It is safer to have tailgaters in front of you.",
+   "official": false,
+   "ref": "What Every Driver Must Know (Michigan SOS, SOS-133 Rev. 10/2025), Ch. 7, 'Are you an aggressive driver?'"
+  },
+  {
+   "id": "mi-199",
+   "topic": "safety",
+   "q": "If confronted by an aggressive driver, you should:",
+   "options": [
+    "Follow them to get their plate number",
+    "Return their gestures",
+    "Block them from passing",
+    "Get out of the way, avoid eye contact and report them if it is safe"
+   ],
+   "answer": 3,
+   "explain": "Avoid confrontation; ignore gestures and call police if safe.",
+   "official": false,
+   "ref": "What Every Driver Must Know (Michigan SOS, SOS-133 Rev. 10/2025), Ch. 7, 'Are you an aggressive driver?'"
+  },
+  {
+   "id": "mi-200",
+   "topic": "safety",
+   "q": "Most cars have blind spots located:",
+   "options": [
+    "To the left rear and right rear of the vehicle",
+    "Only behind the trunk",
+    "Directly in front of the hood",
+    "Above the windshield"
+   ],
+   "answer": 0,
+   "explain": "Blind spots are at the left and right rear; always do a head check before changing lanes.",
+   "official": false,
+   "ref": "What Every Driver Must Know (Michigan SOS, SOS-133 Rev. 10/2025), Ch. 7, 'Before starting the engine'"
+  },
+  {
+   "id": "mi-201",
+   "topic": "safety",
+   "q": "Which is a good way to avoid in-vehicle distractions?",
+   "options": [
+    "Set your navigation and music before you start driving",
+    "Eat a full meal while driving on freeways",
+    "Do grooming at red lights",
+    "Look up phone numbers at stop lights"
+   ],
+   "answer": 0,
+   "explain": "Plan routes, preset radio and finish grooming before driving.",
+   "official": false,
+   "ref": "What Every Driver Must Know (Michigan SOS, SOS-133 Rev. 10/2025), Ch. 4, 'Distracted driving'"
+  },
+  {
+   "id": "mi-202",
+   "topic": "emergencies",
+   "q": "If you are involved in a crash with no serious injury and your car can be driven, you should:",
+   "options": [
+    "Drive home and report it later",
+    "Move it off the main roadway to a safe place such as the shoulder",
+    "Leave it in place until police arrive",
+    "Leave the scene if no one is hurt"
+   ],
+   "answer": 1,
+   "explain": "Drivable vehicles in crashes without serious injury should be moved off the roadway when safe.",
+   "official": false,
+   "ref": "What Every Driver Must Know (Michigan SOS, SOS-133 Rev. 10/2025), Ch. 7, 'Crashes'"
+  },
+  {
+   "id": "mi-203",
+   "topic": "emergencies",
+   "q": "You must notify police of a crash if there are injuries or property damage of more than:",
+   "options": [
+    "$2,500",
+    "$500",
+    "$100",
+    "$1,000"
+   ],
+   "answer": 3,
+   "explain": "Notify police if there are injuries or property damage exceeding $1,000.",
+   "official": false,
+   "ref": "What Every Driver Must Know (Michigan SOS, SOS-133 Rev. 10/2025), Ch. 7, 'Crashes'"
+  },
+  {
+   "id": "mi-204",
+   "topic": "emergencies",
+   "q": "After a crash, what information must drivers exchange?",
+   "options": [
+    "Names, addresses, driver's license numbers, registration and insurance",
+    "Only insurance company names",
+    "Nothing if police are not called",
+    "Only phone numbers"
+   ],
+   "answer": 0,
+   "explain": "Exchange names, addresses, license numbers, registration and insurance information.",
+   "official": false,
+   "ref": "What Every Driver Must Know (Michigan SOS, SOS-133 Rev. 10/2025), Ch. 7, 'Crashes'"
+  },
+  {
+   "id": "mi-205",
+   "topic": "emergencies",
+   "q": "Leaving the scene of a crash you are involved in is:",
+   "options": [
+    "Illegal and punishable by fines, jail or both",
+    "Allowed if you leave a note",
+    "Allowed if damage is minor",
+    "Allowed after 10 minutes"
+   ],
+   "answer": 0,
+   "explain": "Never drive away from a crash; penalties increase with alcohol, injuries or deaths.",
+   "official": false,
+   "ref": "What Every Driver Must Know (Michigan SOS, SOS-133 Rev. 10/2025), Ch. 7, 'Crashes'"
+  },
+  {
+   "id": "mi-206",
+   "topic": "emergencies",
+   "q": "If you hit a deer, who should you report it to?",
+   "options": [
+    "Local police, the county sheriff, the State Police or the DNR",
+    "No one",
+    "The Secretary of State",
+    "Only your insurance company"
+   ],
+   "answer": 0,
+   "explain": "Report deer crashes to law enforcement or the DNR, who can issue a permit to keep the deer.",
+   "official": false,
+   "ref": "What Every Driver Must Know (Michigan SOS, SOS-133 Rev. 10/2025), Ch. 7, 'Vehicle – deer crashes'"
+  },
+  {
+   "id": "mi-207",
+   "topic": "emergencies",
+   "q": "Your car becomes disabled on a busy road. The handbook recommends that you:",
+   "options": [
+    "Get out and stand behind the car",
+    "Pull as far off the road as possible, turn on hazards and stay inside with your seat belt on",
+    "Leave the car in the travel lane",
+    "Walk along the freeway to find help"
+   ],
+   "answer": 1,
+   "explain": "Generally, the safest place is in your car, buckled up, until help arrives.",
+   "official": false,
+   "ref": "What Every Driver Must Know (Michigan SOS, SOS-133 Rev. 10/2025), Ch. 7, 'If your car becomes disabled'"
+  },
+  {
+   "id": "mi-208",
+   "topic": "emergencies",
+   "q": "If you must stop on a freeway because of an emergency, you should:",
+   "options": [
+    "Stop in the left lane",
+    "Stop suddenly where you are",
+    "Back up to the last exit",
+    "Turn on hazard flashers, slow gradually and pull completely off the pavement"
+   ],
+   "answer": 3,
+   "explain": "Never stop on a freeway except in an emergency, and then get fully off the pavement.",
+   "official": false,
+   "ref": "What Every Driver Must Know (Michigan SOS, SOS-133 Rev. 10/2025), Ch. 7, 'Leaving a freeway'"
+  },
+  {
+   "id": "mi-209",
+   "topic": "emergencies",
+   "q": "When an officer signals you to pull over, you should:",
+   "options": [
+    "Reach for your documents before the officer arrives",
+    "Get out and walk to the police car",
+    "Pull to the right side as soon as safe, stay in the car with hands visible on the wheel",
+    "Stop immediately in your lane"
+   ],
+   "answer": 2,
+   "explain": "Pull over safely, stay buckled in the car, keep hands visible and get documents only when asked.",
+   "official": false,
+   "ref": "What Every Driver Must Know (Michigan SOS, SOS-133 Rev. 10/2025), Ch. 7, 'If you are pulled over'"
+  },
+  {
+   "id": "mi-210",
+   "topic": "emergencies",
+   "q": "If you disagree with a ticket you receive during a traffic stop, you should:",
+   "options": [
+    "Discuss it with the court, not the officer",
+    "Drive away",
+    "Argue with the officer at the scene",
+    "Refuse to sign or accept it"
+   ],
+   "answer": 0,
+   "explain": "Do not argue at the stop; take up any dispute with the court.",
+   "official": false,
+   "ref": "What Every Driver Must Know (Michigan SOS, SOS-133 Rev. 10/2025), Ch. 7, 'If you are pulled over'"
+  },
+  {
+   "id": "mi-211",
+   "topic": "emergencies",
+   "q": "Your car stalls on railroad tracks and the crossing lights are flashing. What should you do?",
+   "options": [
+    "Push the car off the tracks",
+    "Try to restart the engine",
+    "Get everyone out immediately, move far away from the tracks and call 911",
+    "Stay in the car with seat belts on"
+   ],
+   "answer": 2,
+   "explain": "If gates are activated or a train is coming, evacuate immediately and get far from the tracks.",
+   "official": false,
+   "ref": "What Every Driver Must Know (Michigan SOS, SOS-133 Rev. 10/2025), Ch. 4, 'If you are stuck on the tracks'"
+  },
+  {
+   "id": "mi-212",
+   "topic": "emergencies",
+   "q": "Your car is stuck on the tracks but no train is coming and signals are not active. After getting everyone out, you should:",
+   "options": [
+    "Leave without reporting it",
+    "Call the number on the blue Emergency Notification Sign and give the crossing ID",
+    "Wait in the car for a tow",
+    "Flag down a train with your hands"
+   ],
+   "answer": 1,
+   "explain": "Call the railroad's emergency number on the blue ENS sign, give the crossing ID, then call 911.",
+   "official": false,
+   "ref": "What Every Driver Must Know (Michigan SOS, SOS-133 Rev. 10/2025), Ch. 4, 'If you are stuck on the tracks'"
+  },
+  {
+   "id": "mi-213",
+   "topic": "emergencies",
+   "q": "Once crossing lights and gates activate, about how long do you have before the train arrives?",
+   "options": [
+    "About 20 seconds",
+    "About 2 minutes",
+    "About 5 minutes",
+    "About 5 seconds"
+   ],
+   "answer": 0,
+   "explain": "You have roughly 20 seconds after activation or hearing the train horn.",
+   "official": false,
+   "ref": "What Every Driver Must Know (Michigan SOS, SOS-133 Rev. 10/2025), Ch. 4, 'If you are stuck on the tracks'"
+  },
+  {
+   "id": "mi-214",
+   "topic": "emergencies",
+   "q": "What information appears on a railroad Emergency Notification System (ENS) sign?",
+   "options": [
+    "The speed limit for trains",
+    "Directions to the nearest station",
+    "A phone number and the crossing's identification number",
+    "The train schedule"
+   ],
+   "answer": 2,
+   "explain": "ENS signs list a phone number and the crossing ID (six digits and a letter) to report emergencies.",
+   "official": false,
+   "ref": "What Every Driver Must Know (Michigan SOS, SOS-133 Rev. 10/2025), Ch. 4, 'What is an Emergency Notification System sign?'"
+  },
+  {
+   "id": "mi-215",
+   "topic": "emergencies",
+   "q": "If someone acting suspiciously approaches your car, you should:",
+   "options": [
+    "Keep doors locked and try to drive away or sound the horn",
+    "Roll down your window to talk",
+    "Turn off the engine",
+    "Get out of the car"
+   ],
+   "answer": 0,
+   "explain": "Drive away or sound the horn and stay inside the locked car.",
+   "official": false,
+   "ref": "What Every Driver Must Know (Michigan SOS, SOS-133 Rev. 10/2025), Ch. 7, 'If you are approached or threatened while in your car'"
+  },
+  {
+   "id": "mi-216",
+   "topic": "emergencies",
+   "q": "Which is true about leaving your vehicle if it becomes disabled on a freeway?",
+   "options": [
+    "Walk along the freeway shoulder to the next exit",
+    "Stand behind the car to warn traffic",
+    "Walking on the freeway is dangerous and illegal; go directly to a safe place far from traffic",
+    "Cross the freeway to get help"
+   ],
+   "answer": 2,
+   "explain": "If you must leave, move to a safe location away from the roadway; walking on freeways is illegal.",
+   "official": false,
+   "ref": "What Every Driver Must Know (Michigan SOS, SOS-133 Rev. 10/2025), Ch. 7, 'If your car becomes disabled'"
+  },
+  {
+   "id": "mi-217",
+   "topic": "signs",
+   "q": "A diamond-shaped sign is used for:",
+   "options": [
+    "Warnings",
+    "Directions",
+    "Stop",
+    "Regulations such as speed limits"
+   ],
+   "answer": 0,
+   "explain": "Diamond signs warn of hazards or changes ahead.",
+   "official": false,
+   "ref": "What Every Driver Must Know (Michigan SOS, SOS-133 Rev. 10/2025), Ch. 5, 'Traffic signs'"
+  },
+  {
+   "id": "mi-218",
+   "topic": "signs",
+   "q": "A five-sided (pentagon) sign indicates:",
+   "options": [
+    "A school zone or school crossing",
+    "A railroad crossing",
+    "A hospital",
+    "A no-passing zone"
+   ],
+   "answer": 0,
+   "explain": "Pentagon-shaped signs mark school areas and crossings.",
+   "official": false,
+   "ref": "What Every Driver Must Know (Michigan SOS, SOS-133 Rev. 10/2025), Ch. 5, 'Traffic signs'"
+  },
+  {
+   "id": "mi-219",
+   "topic": "signs",
+   "q": "Orange signs are used for:",
+   "options": [
+    "Recreation areas",
+    "Services such as gas and food",
+    "Construction and maintenance work zones",
+    "School zones"
+   ],
+   "answer": 2,
+   "explain": "Orange indicates caution for construction or maintenance.",
+   "official": false,
+   "ref": "What Every Driver Must Know (Michigan SOS, SOS-133 Rev. 10/2025), Ch. 5, 'Traffic sign colors'"
+  },
+  {
+   "id": "mi-220",
+   "topic": "signs",
+   "q": "Blue road signs give information about:",
+   "options": [
+    "Services such as gas, food, lodging or hospitals",
+    "Construction",
+    "Speed limits",
+    "Railroad crossings"
+   ],
+   "answer": 0,
+   "explain": "Blue signs indicate services and hospitality.",
+   "official": false,
+   "ref": "What Every Driver Must Know (Michigan SOS, SOS-133 Rev. 10/2025), Ch. 5, 'Traffic sign colors'"
+  },
+  {
+   "id": "mi-221",
+   "topic": "signs",
+   "q": "Fluorescent pink signs are used for:",
+   "options": [
+    "Incidents, emergencies or unplanned events",
+    "School zones",
+    "Bicycle routes",
+    "Hospitals"
+   ],
+   "answer": 0,
+   "explain": "Fluorescent pink marks incident management and unplanned events.",
+   "official": false,
+   "ref": "What Every Driver Must Know (Michigan SOS, SOS-133 Rev. 10/2025), Ch. 5, 'Traffic sign colors'"
+  },
+  {
+   "id": "mi-222",
+   "topic": "signs",
+   "q": "White lines on the pavement separate:",
+   "options": [
+    "Bike lanes from sidewalks",
+    "Lanes moving in opposite directions",
+    "Parking spaces only",
+    "Lanes of traffic moving in the same direction"
+   ],
+   "answer": 3,
+   "explain": "White lines separate same-direction lanes; yellow lines separate opposite directions.",
+   "official": false,
+   "ref": "What Every Driver Must Know (Michigan SOS, SOS-133 Rev. 10/2025), Ch. 5, 'Pavement markings'"
+  },
+  {
+   "id": "mi-223",
+   "topic": "signs",
+   "q": "Yellow lines on the pavement separate:",
+   "options": [
+    "Traffic moving in opposite directions",
+    "Traffic moving in the same direction",
+    "Bike lanes",
+    "Freeway entrance ramps"
+   ],
+   "answer": 0,
+   "explain": "Yellow lines divide traffic flowing in opposite directions.",
+   "official": false,
+   "ref": "What Every Driver Must Know (Michigan SOS, SOS-133 Rev. 10/2025), Ch. 5, 'Yellow lines'"
+  },
+  {
+   "id": "mi-224",
+   "topic": "signs",
+   "q": "A double solid white line between lanes means:",
+   "options": [
+    "It marks a parking area",
+    "Traffic flows in opposite directions",
+    "Travel in the same direction on both sides, but crossing the line is prohibited",
+    "You may cross to pass"
+   ],
+   "answer": 2,
+   "explain": "Do not cross double solid white lines.",
+   "official": false,
+   "ref": "What Every Driver Must Know (Michigan SOS, SOS-133 Rev. 10/2025), Ch. 5, 'Double solid white lines'"
+  },
+  {
+   "id": "mi-225",
+   "topic": "signs",
+   "q": "White triangles painted across a lane (a yield line) mean:",
+   "options": [
+    "Speed bumps ahead",
+    "Parking allowed",
+    "Merge left",
+    "Be ready to stop and yield to pedestrians"
+   ],
+   "answer": 3,
+   "explain": "White triangle yield lines show where to stop when yielding to pedestrians.",
+   "official": false,
+   "ref": "What Every Driver Must Know (Michigan SOS, SOS-133 Rev. 10/2025), Ch. 5, 'Yield lines'"
+  },
+  {
+   "id": "mi-226",
+   "topic": "signs",
+   "q": "A steady red arrow means:",
+   "options": [
+    "Turn only if no pedestrians",
+    "Proceed with caution",
+    "Turn after yielding",
+    "Stop; you may not turn in that direction until the signal changes"
+   ],
+   "answer": 3,
+   "explain": "A solid red arrow requires a stop; no turning until it changes.",
+   "official": false,
+   "ref": "What Every Driver Must Know (Michigan SOS, SOS-133 Rev. 10/2025), Ch. 5, 'Flashing yellow arrow left-turn signal head'"
+  },
+  {
+   "id": "mi-227",
+   "topic": "signs",
+   "q": "Flashing green lights on a state or local road maintenance vehicle mean:",
+   "options": [
+    "The vehicle is an ambulance",
+    "Road work is taking place; slow down and use caution",
+    "You may pass at full speed",
+    "The road is closed"
+   ],
+   "answer": 1,
+   "explain": "Maintenance vehicles may display green lights when working; slow down.",
+   "official": false,
+   "ref": "What Every Driver Must Know (Michigan SOS, SOS-133 Rev. 10/2025), Ch. 4, 'Maintenance vehicles'"
+  },
+  {
+   "id": "mi-228",
+   "topic": "signs",
+   "q": "What must you do at this sign?",
+   "options": [
+    "Yield only to pedestrians",
+    "Stop fully, then let traffic and pedestrians go first before you continue",
+    "Stop only if cross traffic is present",
+    "Slow down and proceed if clear"
+   ],
+   "answer": 1,
+   "explain": "A STOP sign requires a full stop and yielding before proceeding.",
+   "official": false,
+   "ref": "What Every Driver Must Know (Michigan SOS, SOS-133 Rev. 10/2025), Ch. 5, 'Traffic sign challenge answers'",
+   "image": "signs/stop.png"
+  },
+  {
+   "id": "mi-229",
+   "topic": "signs",
+   "q": "What does this sign require?",
+   "options": [
+    "Slow down, be ready to stop, and let crossing traffic go first",
+    "Merge without slowing",
+    "Come to a full stop every time",
+    "Road ends ahead"
+   ],
+   "answer": 0,
+   "explain": "A YIELD sign means slow and give right of way to crossing traffic; stop if necessary.",
+   "official": false,
+   "ref": "What Every Driver Must Know (Michigan SOS, SOS-133 Rev. 10/2025), Ch. 5, 'Traffic sign challenge answers'",
+   "image": "signs/yield.png"
+  },
+  {
+   "id": "mi-230",
+   "topic": "signs",
+   "q": "What does this sign mean?",
+   "options": [
+    "One-way street; enter slowly",
+    "Stop ahead",
+    "You may not enter this road from your direction",
+    "No parking"
+   ],
+   "answer": 2,
+   "explain": "DO NOT ENTER marks roads or ramps you are not allowed to enter.",
+   "official": false,
+   "ref": "What Every Driver Must Know (Michigan SOS, SOS-133 Rev. 10/2025), Ch. 5, 'Traffic sign challenge answers'",
+   "image": "signs/do-not-enter.png"
+  },
+  {
+   "id": "mi-231",
+   "topic": "signs",
+   "q": "You see this sign facing you. What should you do?",
+   "options": [
+    "You are heading into oncoming traffic; leave the roadway as quickly and safely as you can",
+    "Continue carefully to the next exit",
+    "Stop in the lane and wait",
+    "Speed up to pass"
+   ],
+   "answer": 0,
+   "explain": "A WRONG WAY sign facing you means you are driving against traffic and must get out of that lane at once, safely.",
+   "official": false,
+   "ref": "What Every Driver Must Know (Michigan SOS, SOS-133 Rev. 10/2025), Ch. 5, 'Traffic sign challenge answers'",
+   "image": "signs/wrong-way.png"
+  },
+  {
+   "id": "mi-232",
+   "topic": "signs",
+   "q": "What does this sign mean at an intersection?",
+   "options": [
+    "Turn only on red",
+    "You may turn right on red without stopping",
+    "You may not turn while the signal is red",
+    "No turns at any time"
+   ],
+   "answer": 2,
+   "explain": "NO TURN ON RED prohibits turning on a red light; wait for green.",
+   "official": false,
+   "ref": "What Every Driver Must Know (Michigan SOS, SOS-133 Rev. 10/2025), Ch. 5, 'Traffic sign challenge answers'",
+   "image": "signs/no-turn-on-red.png"
+  },
+  {
+   "id": "mi-233",
+   "topic": "signs",
+   "q": "What does this sign tell you?",
+   "options": [
+    "Turn only in the direction of the arrow at the next corner",
+    "Detour route",
+    "Two-way traffic ahead",
+    "All traffic on this road flows in the direction of the arrow"
+   ],
+   "answer": 3,
+   "explain": "ONE WAY means traffic in all lanes moves the same direction.",
+   "official": false,
+   "ref": "What Every Driver Must Know (Michigan SOS, SOS-133 Rev. 10/2025), Ch. 5, 'Traffic sign challenge answers'",
+   "image": "signs/one-way.png"
+  },
+  {
+   "id": "mi-234",
+   "topic": "signs",
+   "q": "What does this sign mean?",
+   "options": [
+    "Divided highway ends",
+    "Pass with care",
+    "No trucks allowed",
+    "Passing is prohibited"
+   ],
+   "answer": 3,
+   "explain": "DO NOT PASS prohibits passing in that area.",
+   "official": false,
+   "ref": "What Every Driver Must Know (Michigan SOS, SOS-133 Rev. 10/2025), Ch. 5, 'Traffic sign challenge answers'",
+   "image": "signs/do-not-pass.png"
+  },
+  {
+   "id": "mi-235",
+   "topic": "signs",
+   "q": "What does this sign mean?",
+   "options": [
+    "The no-passing zone has ended; pass only when it is safe",
+    "Passing is prohibited ahead",
+    "Pass on the right only",
+    "Slow vehicles must pull over"
+   ],
+   "answer": 0,
+   "explain": "PASS WITH CARE marks the end of a no-passing zone.",
+   "official": false,
+   "ref": "What Every Driver Must Know (Michigan SOS, SOS-133 Rev. 10/2025), Ch. 5, 'Traffic sign challenge answers'",
+   "image": "signs/pass-with-care.png"
+  },
+  {
+   "id": "mi-236",
+   "topic": "signs",
+   "q": "What does this sign mean?",
+   "options": [
+    "Oncoming traffic must yield to you",
+    "On a green ball, you may turn left only after yielding to oncoming traffic",
+    "You have a protected left turn on green",
+    "Left turns are prohibited on green"
+   ],
+   "answer": 1,
+   "explain": "LEFT TURN YIELD ON GREEN means the left turn is permissive, not protected.",
+   "official": false,
+   "ref": "What Every Driver Must Know (Michigan SOS, SOS-133 Rev. 10/2025), Ch. 5, 'Traffic signals'",
+   "image": "signs/left-turn-yield-green.png"
+  },
+  {
+   "id": "mi-237",
+   "topic": "signs",
+   "q": "What does this sign mark?",
+   "options": [
+    "A hospital zone",
+    "A railroad crossing; look, listen and yield to trains",
+    "An intersection with a four-way stop",
+    "No through traffic"
+   ],
+   "answer": 1,
+   "explain": "The white X crossbuck marks a highway-rail grade crossing.",
+   "official": false,
+   "ref": "What Every Driver Must Know (Michigan SOS, SOS-133 Rev. 10/2025), Ch. 4, 'Passive railroad crossing control systems'",
+   "image": "signs/railroad-crossbuck.png"
+  },
+  {
+   "id": "mi-238",
+   "topic": "signs",
+   "q": "After passing this sign, a train is approaching the crossing. Where must you stop?",
+   "options": [
+    "No closer than 5 feet",
+    "Right at the rail",
+    "No closer than 15 feet and no farther than 50 feet",
+    "Within 100 to 200 feet"
+   ],
+   "answer": 2,
+   "explain": "All vehicles must stop no more than 50 feet and no less than 15 feet from the tracks.",
+   "official": false,
+   "ref": "What Every Driver Must Know (Michigan SOS, SOS-133 Rev. 10/2025), Ch. 4, 'Railroad crossing advance warning sign'",
+   "image": "signs/railroad-advance.png"
+  },
+  {
+   "id": "mi-239",
+   "topic": "signs",
+   "q": "What does this sign warn of?",
+   "options": [
+    "Divided highway ahead",
+    "Two-way traffic",
+    "Lane ends",
+    "The road curves one way and then the other"
+   ],
+   "answer": 3,
+   "explain": "This is a reverse curve warning; the road bends one way then the other.",
+   "official": false,
+   "ref": "What Every Driver Must Know (Michigan SOS, SOS-133 Rev. 10/2025), Ch. 5, 'Traffic sign challenge answers'",
+   "image": "signs/reverse-curve.png"
+  },
+  {
+   "id": "mi-240",
+   "topic": "signs",
+   "q": "What does this sign warn of?",
+   "options": [
+    "A hospital ahead",
+    "A railroad crossing",
+    "A four-way stop is required",
+    "An intersection ahead; watch for cross traffic"
+   ],
+   "answer": 3,
+   "explain": "The cross symbol warns that a road intersects ahead.",
+   "official": false,
+   "ref": "What Every Driver Must Know (Michigan SOS, SOS-133 Rev. 10/2025), Ch. 5, 'Traffic sign challenge answers'",
+   "image": "signs/intersection-ahead.png"
+  },
+  {
+   "id": "mi-241",
+   "topic": "signs",
+   "q": "What does this sign warn of?",
+   "options": [
+    "Your lane ends; merge right",
+    "Divided highway",
+    "Traffic will be merging from the right",
+    "Right turn only"
+   ],
+   "answer": 2,
+   "explain": "This sign warns that traffic merges into your road from the right.",
+   "official": false,
+   "ref": "What Every Driver Must Know (Michigan SOS, SOS-133 Rev. 10/2025), Ch. 5, 'Traffic sign challenge answers'",
+   "image": "signs/merge-right.png"
+  },
+  {
+   "id": "mi-242",
+   "topic": "signs",
+   "q": "What does this sign mean?",
+   "options": [
+    "The left lane ends",
+    "Two-way traffic ahead",
+    "The right lane ends; merge left and yield to traffic in the left lane",
+    "Road narrows on both sides"
+   ],
+   "answer": 2,
+   "explain": "LANE ENDS MERGE LEFT: the right lane is ending; yield to traffic in the left lane.",
+   "official": false,
+   "ref": "What Every Driver Must Know (Michigan SOS, SOS-133 Rev. 10/2025), Ch. 5, 'Traffic sign challenge answers'",
+   "image": "signs/lane-ends-left.png"
+  },
+  {
+   "id": "mi-243",
+   "topic": "signs",
+   "q": "What does this sign mean?",
+   "options": [
+    "Road closed",
+    "Keep right of the island",
+    "The divided highway begins",
+    "The divided highway ends; traffic will travel in both directions without a median"
+   ],
+   "answer": 3,
+   "explain": "DIVIDED HIGHWAY ENDS means the road becomes two-way without separation.",
+   "official": false,
+   "ref": "What Every Driver Must Know (Michigan SOS, SOS-133 Rev. 10/2025), Ch. 5, 'Traffic sign challenge answers'",
+   "image": "signs/divided-hwy-ends.png"
+  },
+  {
+   "id": "mi-244",
+   "topic": "signs",
+   "q": "What does this sign warn of?",
+   "options": [
+    "Passing lane ahead",
+    "Divided highway",
+    "Two-way traffic ahead; keep right",
+    "One-way street"
+   ],
+   "answer": 2,
+   "explain": "TWO-WAY TRAFFIC warns that opposing traffic shares the road ahead.",
+   "official": false,
+   "ref": "What Every Driver Must Know (Michigan SOS, SOS-133 Rev. 10/2025), Ch. 5, 'Traffic sign challenge answers'",
+   "image": "signs/two-way-traffic.png"
+  },
+  {
+   "id": "mi-245",
+   "topic": "signs",
+   "q": "What does this sign warn of?",
+   "options": [
+    "A yield sign ahead",
+    "A stop sign ahead",
+    "A signal ahead",
+    "The road ends"
+   ],
+   "answer": 1,
+   "explain": "STOP AHEAD warns that you will soon need to stop.",
+   "official": false,
+   "ref": "What Every Driver Must Know (Michigan SOS, SOS-133 Rev. 10/2025), Ch. 5, 'Traffic sign challenge answers'",
+   "image": "signs/stop-ahead.png"
+  },
+  {
+   "id": "mi-246",
+   "topic": "signs",
+   "q": "What does this sign warn of?",
+   "options": [
+    "Winding road",
+    "Hydroplaning is impossible here",
+    "Loose gravel only",
+    "The road becomes slippery when wet; drive carefully"
+   ],
+   "answer": 3,
+   "explain": "SLIPPERY WHEN WET warns of reduced traction in rain or bad weather.",
+   "official": false,
+   "ref": "What Every Driver Must Know (Michigan SOS, SOS-133 Rev. 10/2025), Ch. 5, 'Traffic sign challenge answers'",
+   "image": "signs/slippery-when-wet.png"
+  },
+  {
+   "id": "mi-247",
+   "topic": "signs",
+   "q": "What does this sign warn of?",
+   "options": [
+    "Truck crossing",
+    "A steep downgrade ahead; check your brakes and use a lower gear if needed",
+    "Truck stop ahead",
+    "No trucks allowed"
+   ],
+   "answer": 1,
+   "explain": "The HILL sign warns of a steep downslope, especially important for large trucks.",
+   "official": false,
+   "ref": "What Every Driver Must Know (Michigan SOS, SOS-133 Rev. 10/2025), Ch. 5, 'Traffic sign challenge answers'",
+   "image": "signs/hill.png"
+  },
+  {
+   "id": "mi-248",
+   "topic": "signs",
+   "q": "What does this five-sided sign warn of?",
+   "options": [
+    "A pedestrian mall",
+    "A playground for adults",
+    "A hospital zone",
+    "A school zone or school crossing; watch for children and obey crossing guards"
+   ],
+   "answer": 3,
+   "explain": "The pentagon school sign marks school children present; obey crossing guards.",
+   "official": false,
+   "ref": "What Every Driver Must Know (Michigan SOS, SOS-133 Rev. 10/2025), Ch. 5, 'Traffic sign challenge answers'",
+   "image": "signs/school-zone.png"
+  },
+  {
+   "id": "mi-249",
+   "topic": "signs",
+   "q": "What should you do when you see this sign, especially at dawn or dusk?",
+   "options": [
+    "Flash your high beams to scare deer",
+    "Honk your horn continuously",
+    "Slow down and watch for deer, which often travel in groups",
+    "Speed up through the area"
+   ],
+   "answer": 2,
+   "explain": "Deer crossing signs mark high-risk areas; slow down and stay alert.",
+   "official": false,
+   "ref": "What Every Driver Must Know (Michigan SOS, SOS-133 Rev. 10/2025), Ch. 7, 'Your best defense against deer'",
+   "image": "signs/deer-crossing.png"
+  },
+  {
+   "id": "mi-250",
+   "topic": "signs",
+   "q": "What does this sign tell you?",
+   "options": [
+    "The maximum clearance under the structure ahead is 12 feet 6 inches",
+    "Speed limit 12 mph",
+    "The road is 12 feet 6 inches wide",
+    "Minimum vehicle height"
+   ],
+   "answer": 0,
+   "explain": "This sign gives the maximum height allowed under a bridge or structure.",
+   "official": false,
+   "ref": "What Every Driver Must Know (Michigan SOS, SOS-133 Rev. 10/2025), Ch. 5, 'Traffic sign challenge answers'",
+   "image": "signs/low-clearance.png"
+  },
+  {
+   "id": "mi-251",
+   "topic": "signs",
+   "q": "Where is this pennant-shaped sign posted and what does it mean?",
+   "options": [
+    "On the left side of the road; it marks the start of a no-passing zone",
+    "On the right side; merge ahead",
+    "Over the lane; lane closed",
+    "On the right side; passing allowed"
+   ],
+   "answer": 0,
+   "explain": "The NO PASSING ZONE pennant is placed on the left side of the road.",
+   "official": false,
+   "ref": "What Every Driver Must Know (Michigan SOS, SOS-133 Rev. 10/2025), Ch. 5, 'Traffic sign challenge answers'",
+   "image": "signs/no-passing-zone.png"
+  },
+  {
+   "id": "mi-252",
+   "topic": "signs",
+   "q": "This yellow plaque appears under a curve warning sign. What does it mean?",
+   "options": [
+    "The speed limit for the whole road is 35 mph",
+    "The legal minimum speed is 35 mph",
+    "Trucks must drive 35 mph",
+    "The recommended safe speed for the curve is 35 mph"
+   ],
+   "answer": 3,
+   "explain": "Advisory speed plaques give a recommended speed for the hazard ahead.",
+   "official": false,
+   "ref": "What Every Driver Must Know (Michigan SOS, SOS-133 Rev. 10/2025), Ch. 5, 'Traffic sign challenge answers'",
+   "image": "signs/advisory-speed-35.png"
+  },
+  {
+   "id": "mi-253",
+   "topic": "signs",
+   "q": "What does this orange sign mean?",
+   "options": [
+    "Construction or maintenance crews may be working ahead; drive with care",
+    "End of construction",
+    "Rest area ahead",
+    "Detour ahead; road closed"
+   ],
+   "answer": 0,
+   "explain": "ROAD WORK AHEAD warns of a work zone; fines are doubled there.",
+   "official": false,
+   "ref": "What Every Driver Must Know (Michigan SOS, SOS-133 Rev. 10/2025), Ch. 5, 'Traffic sign challenge answers'",
+   "image": "signs/road-work-ahead.png"
+  },
+  {
+   "id": "mi-254",
+   "topic": "signs",
+   "q": "This orange triangle with a red border on the back of a vehicle means:",
+   "options": [
+    "The vehicle is stopping frequently",
+    "The vehicle carries hazardous materials",
+    "The vehicle is an emergency vehicle",
+    "The vehicle cannot travel faster than 25 mph"
+   ],
+   "answer": 3,
+   "explain": "The slow-moving vehicle emblem marks vehicles that cannot exceed 25 mph.",
+   "official": false,
+   "ref": "What Every Driver Must Know (Michigan SOS, SOS-133 Rev. 10/2025), Ch. 6, 'Slow-moving vehicles'",
+   "image": "signs/slow-moving-vehicle.png"
+  },
+  {
+   "id": "mi-255",
+   "topic": "signs",
+   "q": "What does this signal mean?",
+   "options": [
+    "Stop and wait for a green light",
+    "Slow down and proceed without stopping",
+    "The signal is about to turn green",
+    "Come to a full stop, then proceed when the way is clear"
+   ],
+   "answer": 3,
+   "explain": "A flashing red light is treated like a stop sign.",
+   "official": false,
+   "ref": "What Every Driver Must Know (Michigan SOS, SOS-133 Rev. 10/2025), Ch. 5, 'Flashing red light'",
+   "image": "signs/signal-flashing-red.png"
+  },
+  {
+   "id": "mi-256",
+   "topic": "signs",
+   "q": "What does this signal mean?",
+   "options": [
+    "Stop and wait for green",
+    "Proceed carefully through the intersection, watching for cross traffic",
+    "Turn only",
+    "The signal is broken; treat as a four-way stop"
+   ],
+   "answer": 1,
+   "explain": "A flashing yellow light means proceed with caution.",
+   "official": false,
+   "ref": "What Every Driver Must Know (Michigan SOS, SOS-133 Rev. 10/2025), Ch. 5, 'Flashing yellow light'",
+   "image": "signs/signal-flashing-yellow.png"
+  },
+  {
+   "id": "mi-257",
+   "topic": "signs",
+   "q": "You are approaching this signal and can stop safely before the intersection. What must you do?",
+   "options": [
+    "Continue at the same speed",
+    "Speed up to clear the intersection",
+    "Stop",
+    "Proceed if no one is coming"
+   ],
+   "answer": 2,
+   "explain": "Michigan requires stopping on yellow when you can do so safely.",
+   "official": false,
+   "ref": "What Every Driver Must Know (Michigan SOS, SOS-133 Rev. 10/2025), Ch. 5, 'Traffic signals'",
+   "image": "signs/signal-yellow.png"
+  },
+  {
+   "id": "mi-258",
+   "topic": "signs",
+   "q": "What does this signal mean?",
+   "options": [
+    "Turn left only after oncoming traffic clears",
+    "Oncoming traffic is stopped and you may turn left, yielding to pedestrians in the crosswalk",
+    "Left lane closed",
+    "Do not turn left"
+   ],
+   "answer": 1,
+   "explain": "A steady green arrow gives a protected turn; still yield to pedestrians.",
+   "official": false,
+   "ref": "What Every Driver Must Know (Michigan SOS, SOS-133 Rev. 10/2025), Ch. 5, 'Steady green arrow'",
+   "image": "signs/signal-green-arrow-left.png"
+  },
+  {
+   "id": "mi-259",
+   "topic": "signs",
+   "q": "What do these center-line markings mean?",
+   "options": [
+    "Passing allowed in both directions",
+    "No passing in either direction",
+    "Passing allowed only for the side with the broken line",
+    "Edge of a one-way road"
+   ],
+   "answer": 1,
+   "explain": "A double solid yellow line prohibits passing for traffic in both directions.",
+   "official": false,
+   "ref": "What Every Driver Must Know (Michigan SOS, SOS-133 Rev. 10/2025), Ch. 5, 'Solid yellow lines'",
+   "image": "signs/lines-double-yellow.png"
+  },
+  {
+   "id": "mi-260",
+   "topic": "signs",
+   "q": "Under these markings, which driver may pass?",
+   "options": [
+    "Both drivers",
+    "Only the driver on the side with the broken line, when safe",
+    "Neither driver",
+    "Only the driver on the side with the solid line"
+   ],
+   "answer": 1,
+   "explain": "If the solid yellow line is on your side, you may not cross it to pass.",
+   "official": false,
+   "ref": "What Every Driver Must Know (Michigan SOS, SOS-133 Rev. 10/2025), Ch. 5, 'Solid yellow lines'",
+   "image": "signs/lines-solid-and-broken-yellow.png"
+  },
+  {
+   "id": "mi-261",
+   "topic": "signs",
+   "q": "What do these markings indicate?",
+   "options": [
+    "A merge lane for entering traffic",
+    "A passing lane",
+    "A center lane reserved for left turns by traffic from either direction",
+    "A lane for buses only"
+   ],
+   "answer": 2,
+   "explain": "Left-turn-only center lanes have solid outer and broken inner yellow lines; do not use them to pass.",
+   "official": false,
+   "ref": "What Every Driver Must Know (Michigan SOS, SOS-133 Rev. 10/2025), Ch. 5, 'Left turn only center lane'",
+   "image": "signs/lines-two-way-left-turn.png"
+  },
+  {
+   "id": "mi-262",
+   "topic": "right-of-way",
+   "q": "A school bus ahead has its red overhead lights flashing. You must stop at least how far from the bus?",
+   "options": [
+    "100 feet",
+    "20 feet",
+    "10 feet",
+    "50 feet"
+   ],
+   "answer": 1,
+   "explain": "Stop at least 20 feet from a school bus with flashing red overhead lights.",
+   "official": false,
+   "ref": "What Every Driver Must Know (Michigan SOS, SOS-133 Rev. 10/2025), Ch. 4, 'School buses'"
+  },
+  {
+   "id": "mi-263",
+   "topic": "right-of-way",
+   "q": "How long must you remain stopped for a school bus with flashing red lights?",
+   "options": [
+    "For 30 seconds",
+    "Until the red lights stop flashing or the bus moves on",
+    "Until children reach the curb",
+    "Until the driver waves you on"
+   ],
+   "answer": 1,
+   "explain": "Stay stopped until the red lights are turned off or the bus resumes travel.",
+   "official": false,
+   "ref": "What Every Driver Must Know (Michigan SOS, SOS-133 Rev. 10/2025), Ch. 4, 'School buses'"
+  },
+  {
+   "id": "mi-264",
+   "topic": "right-of-way",
+   "q": "A school bus is stopped with red lights flashing on the other side of a road divided by a grass median. You:",
+   "options": [
+    "Must slow to 15 mph",
+    "Do not need to stop",
+    "Must stop at least 20 feet away",
+    "Must stop only if children are visible"
+   ],
+   "answer": 1,
+   "explain": "No stop is needed for a bus on the other side of a highway divided by a barrier or median.",
+   "official": false,
+   "ref": "What Every Driver Must Know (Michigan SOS, SOS-133 Rev. 10/2025), Ch. 4, 'School buses'"
+  },
+  {
+   "id": "mi-265",
+   "topic": "right-of-way",
+   "q": "A school bus's yellow overhead lights are flashing. This means:",
+   "options": [
+    "Prepare to stop; the bus is about to stop to load or unload",
+    "Pass the bus quickly",
+    "Proceed normally",
+    "The bus is broken down"
+   ],
+   "answer": 0,
+   "explain": "Flashing yellow overhead lights mean prepare to stop.",
+   "official": false,
+   "ref": "What Every Driver Must Know (Michigan SOS, SOS-133 Rev. 10/2025), Ch. 4, 'School bus signals'"
+  },
+  {
+   "id": "mi-266",
+   "topic": "right-of-way",
+   "q": "A school bus is showing its yellow hazard warning lights. You should:",
+   "options": [
+    "Pass on the right",
+    "Proceed with caution",
+    "Stop until the lights go off",
+    "Stop at least 20 feet away"
+   ],
+   "answer": 1,
+   "explain": "Yellow hazard lights on a bus mean proceed with caution.",
+   "official": false,
+   "ref": "What Every Driver Must Know (Michigan SOS, SOS-133 Rev. 10/2025), Ch. 4, 'School bus signals'"
+  },
+  {
+   "id": "mi-267",
+   "topic": "right-of-way",
+   "q": "Fines for failing to stop for a school bus are:",
+   "options": [
+    "Waived for first offenses",
+    "Double the normal fine for a moving violation",
+    "The same as a parking ticket",
+    "Half the normal fine"
+   ],
+   "answer": 1,
+   "explain": "Fines for failing to stop for a school bus are doubled.",
+   "official": false,
+   "ref": "What Every Driver Must Know (Michigan SOS, SOS-133 Rev. 10/2025), Ch. 4, 'School buses'"
+  },
+  {
+   "id": "mi-268",
+   "topic": "right-of-way",
+   "q": "Which vehicles must stop at railroad crossings even when no train is visible and no signal is active (unless marked otherwise)?",
+   "options": [
+    "All passenger cars",
+    "Motorcycles only",
+    "Only vehicles towing trailers",
+    "School buses, vehicles carrying passengers for hire, and hazardous-material vehicles"
+   ],
+   "answer": 3,
+   "explain": "School buses, for-hire passenger vehicles, gasoline trucks and hazmat carriers must stop at crossings.",
+   "official": false,
+   "ref": "What Every Driver Must Know (Michigan SOS, SOS-133 Rev. 10/2025), Ch. 4, 'Railroad crossings'"
+  },
+  {
+   "id": "mi-269",
+   "topic": "right-of-way",
+   "q": "At a railroad crossing with a stop sign, you must:",
+   "options": [
+    "Stop only if a train is coming",
+    "Slow down and cross",
+    "Stop only at night",
+    "Stop whether or not a train is in sight"
+   ],
+   "answer": 3,
+   "explain": "A stop sign at a crossing requires a stop even with no train visible.",
+   "official": false,
+   "ref": "What Every Driver Must Know (Michigan SOS, SOS-133 Rev. 10/2025), Ch. 4, 'Railroad crossings'"
+  },
+  {
+   "id": "mi-270",
+   "topic": "right-of-way",
+   "q": "After a train passes a crossing with gates, when may you proceed?",
+   "options": [
+    "When the gates begin to rise",
+    "When the gates are up, lights stop flashing, bells stop and all tracks are clear",
+    "As soon as the last car passes",
+    "When the car ahead drives around the gate"
+   ],
+   "answer": 1,
+   "explain": "Wait until gates rise, signals and bells stop, and you are sure all tracks are clear.",
+   "official": false,
+   "ref": "What Every Driver Must Know (Michigan SOS, SOS-133 Rev. 10/2025), Ch. 4, 'Railroad crossings'"
+  },
+  {
+   "id": "mi-271",
+   "topic": "right-of-way",
+   "q": "Traffic is backed up on the far side of a railroad crossing. You should not cross unless:",
+   "options": [
+    "The vehicle ahead has crossed",
+    "There is room for your vehicle to clear the far side of the tracks by at least 6 feet",
+    "A train is not visible",
+    "You can partially clear the tracks"
+   ],
+   "answer": 1,
+   "explain": "Never cross unless your vehicle can completely clear the far side by at least 6 feet.",
+   "official": false,
+   "ref": "What Every Driver Must Know (Michigan SOS, SOS-133 Rev. 10/2025), Ch. 4, 'Trains and vehicles DO NOT MIX: Grade crossing safety tips'"
+  },
+  {
+   "id": "mi-272",
+   "topic": "right-of-way",
+   "q": "When crossing railroad tracks in a manual-transmission vehicle, you should:",
+   "options": [
+    "Stop on the tracks to look both ways",
+    "Shift to neutral and coast",
+    "Avoid changing gears while on the tracks",
+    "Shift as often as needed"
+   ],
+   "answer": 2,
+   "explain": "Avoid changing gears on the tracks so you don't stall there.",
+   "official": false,
+   "ref": "What Every Driver Must Know (Michigan SOS, SOS-133 Rev. 10/2025), Ch. 4, 'Trains and vehicles DO NOT MIX: Grade crossing safety tips'"
+  },
+  {
+   "id": "mi-273",
+   "topic": "right-of-way",
+   "q": "Why should you never try to race a train to a crossing?",
+   "options": [
+    "A train is nearer and faster than it appears and may need a mile or more to stop",
+    "Trains are slower than they appear",
+    "Trains always slow down for cars",
+    "Trains must yield to vehicles"
+   ],
+   "answer": 0,
+   "explain": "A train may need a mile or more to stop, and it is nearer and moving faster than it seems.",
+   "official": false,
+   "ref": "What Every Driver Must Know (Michigan SOS, SOS-133 Rev. 10/2025), Ch. 4, 'Railroad crossings'"
+  }
+ ],
+ "version": 1
+}

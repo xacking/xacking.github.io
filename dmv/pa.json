@@ -1,0 +1,4239 @@
+{
+  "code": "pa",
+  "test": "Pennsylvania Non-Commercial Learner's Permit Knowledge Test (Class C)",
+  "edition": "Based on the Pennsylvania Driver's Manual, PUB 95 (rev. 4-21), the edition currently linked by PennDOT Driver & Vehicle Services (pa.gov/dmv), checked October 2026; plus PennDOT's 'Pennsylvania Point System' fact sheet (March 2024) and the 2025/2026 handheld-device law (Paul Miller's Law)",
+  "language": "en",
+  "exam": {
+    "questions": 18,
+    "passMark": 15,
+    "minutes": null,
+    "rules": "Everyone applying for a first Pennsylvania non-commercial learner's permit (age 16 or older; under-18 applicants also need a parent or guardian consent form) takes the same knowledge test at a PennDOT Driver License Center after a vision check. It has 18 multiple-choice questions on traffic signs, Pennsylvania driving laws and safe-driving practices, and you must answer 15 correctly to pass; there is no separately scored sign section. The test is offered in written or audio format and in about 30 languages. You may take it only once per day; if you fail, you can retake it the next business day. Passing earns a learner's permit valid for one year."
+  },
+  "sources": [
+    {
+      "title": "Pennsylvania Driver's Manual (PUB 95, rev. 4-21), English",
+      "url": "https://www.pa.gov/content/dam/copapwp-pagov/en/penndot/documents/public/dvspubsforms/bdl/bdl-manuals/pa-drivers-manual-non-commercial/english/pub%2095.pdf",
+      "licence": "state government publication (questions written in our own words)",
+      "note": "Primary source for all rules, numbers and sign meanings; linked from pa.gov's Pennsylvania Driver's Manual page."
+    },
+    {
+      "title": "PennDOT Online Driver's Manual - Knowledge Test",
+      "url": "https://www.pa.gov/agencies/dmv/driver-services/pennsylvania-drivers-manual/online-drivers-manual/testing",
+      "licence": "state government publication (questions written in our own words)",
+      "note": "Current test format: 18 questions, 15 correct to pass, retake next business day, ~30 languages."
+    },
+    {
+      "title": "PennDOT fact sheet: The Pennsylvania Point System (March 2024)",
+      "url": "https://www.pa.gov/content/dam/copapwp-pagov/en/penndot/documents/public/dvspubsforms/bdl/bdl-fact-sheets/fs-ps.pdf",
+      "licence": "state government publication (questions written in our own words)",
+      "note": "Point values for specific violations, 11-point automatic suspension, 31+ mph hearing."
+    },
+    {
+      "title": "PennDOT news release: Paul Miller's Law fines go into effect June 6, 2026",
+      "url": "https://www.pa.gov/agencies/penndot/news-and-media/newsroom/district-2/2026/penndot--hsn--ferguson-township-police-remind-drivers-of-paul-mi",
+      "licence": "state government publication (questions written in our own words)",
+      "note": "Handheld-device ban (not yet in PUB 95): $50 fine from June 6, 2026; hands-free and emergency calls allowed."
+    },
+    {
+      "title": "Pennsylvania Vehicle Code, 75 Pa.C.S. §3362 (Maximum speed limits)",
+      "url": "https://www.legis.state.pa.us/cfdocs/legis/LI/consCheck.cfm?txtType=HTM&ttl=75&div=0&chpt=33&sctn=62&subsctn=0",
+      "licence": "state statute (questions written in our own words)",
+      "note": "Default 35 mph urban district and 55 mph other-location limits, which the manual does not list."
+    }
+  ],
+  "topics": [
+    {
+      "id": "licensing",
+      "title": "Permits & licensing"
+    },
+    {
+      "id": "signs",
+      "title": "Signs, signals & markings"
+    },
+    {
+      "id": "right-of-way",
+      "title": "Right of way"
+    },
+    {
+      "id": "speed",
+      "title": "Speed & following distance"
+    },
+    {
+      "id": "turns",
+      "title": "Turning, lanes & passing"
+    },
+    {
+      "id": "parking",
+      "title": "Parking"
+    },
+    {
+      "id": "sharing",
+      "title": "Sharing the road"
+    },
+    {
+      "id": "safety",
+      "title": "Safe driving & hazards"
+    },
+    {
+      "id": "alcohol",
+      "title": "Alcohol, drugs & penalties"
+    },
+    {
+      "id": "emergencies",
+      "title": "Emergencies & crashes"
+    }
+  ],
+  "questions": [
+    {
+      "id": "pa-001",
+      "topic": "licensing",
+      "q": "What is the minimum age to apply for a non-commercial learner's permit in Pennsylvania?",
+      "options": [
+        "17",
+        "15 and a half",
+        "15",
+        "16"
+      ],
+      "answer": 3,
+      "explain": "You cannot apply for a Pennsylvania learner's permit before your 16th birthday.",
+      "official": false,
+      "ref": "Pennsylvania Driver's Manual (PUB 95, rev. 4-21), Chapter 1 (Learner's Permit Information), section 'Applying for a Learner's Permit'"
+    },
+    {
+      "id": "pa-002",
+      "topic": "licensing",
+      "q": "How long is a Pennsylvania learner's permit valid from its issue date?",
+      "options": [
+        "1 year",
+        "6 months",
+        "2 years",
+        "90 days"
+      ],
+      "answer": 0,
+      "explain": "The learner's permit is valid for one year from the issue date printed on it.",
+      "official": false,
+      "ref": "Pennsylvania Driver's Manual (PUB 95, rev. 4-21), Chapter 1 (Learner's Permit Information), section 'Junior Learner's Permit Information'"
+    },
+    {
+      "id": "pa-003",
+      "topic": "licensing",
+      "q": "How many questions are on the Pennsylvania knowledge test for a learner's permit?",
+      "options": [
+        "25",
+        "18",
+        "40",
+        "20"
+      ],
+      "answer": 1,
+      "explain": "The knowledge test has 18 multiple-choice questions.",
+      "official": false,
+      "ref": "Pennsylvania Driver's Manual (PUB 95, rev. 4-21), Chapter 1 (Learner's Permit Information), section 'Tests: Knowledge Test'"
+    },
+    {
+      "id": "pa-004",
+      "topic": "licensing",
+      "q": "How many questions must you answer correctly to pass Pennsylvania's knowledge test?",
+      "options": [
+        "16",
+        "14",
+        "15",
+        "12"
+      ],
+      "answer": 2,
+      "explain": "You must answer 15 of the 18 questions correctly (about 83%).",
+      "official": false,
+      "ref": "Pennsylvania Driver's Manual (PUB 95, rev. 4-21), Chapter 1 (Learner's Permit Information), section 'Tests: Knowledge Test'"
+    },
+    {
+      "id": "pa-005",
+      "topic": "licensing",
+      "q": "If you fail the knowledge test, when may you take it again?",
+      "options": [
+        "Later the same day at a different Driver License Center",
+        "After 7 days",
+        "After 30 days",
+        "The following business day"
+      ],
+      "answer": 3,
+      "explain": "You may take the knowledge test only once per day at any location; a retake is allowed the next business day.",
+      "official": false,
+      "ref": "Pennsylvania Driver's Manual (PUB 95, rev. 4-21), Chapter 1 (Learner's Permit Information), section 'Tests: Knowledge Test'"
+    },
+    {
+      "id": "pa-006",
+      "topic": "licensing",
+      "q": "How many hours of supervised behind-the-wheel practice must a driver under 18 complete before the road test?",
+      "options": [
+        "50 hours",
+        "65 hours",
+        "30 hours",
+        "40 hours"
+      ],
+      "answer": 1,
+      "explain": "Drivers under 18 need at least 65 hours of skill-building, certified by a parent or guardian.",
+      "official": false,
+      "ref": "Pennsylvania Driver's Manual (PUB 95, rev. 4-21), Chapter 1 (Learner's Permit Information), section 'Applying for a Learner's Permit'"
+    },
+    {
+      "id": "pa-007",
+      "topic": "licensing",
+      "q": "Of the required practice hours for drivers under 18, how many must be nighttime driving?",
+      "options": [
+        "At least 10 hours",
+        "At least 15 hours",
+        "At least 5 hours",
+        "At least 20 hours"
+      ],
+      "answer": 0,
+      "explain": "The 65 hours must include no less than 10 hours of nighttime driving.",
+      "official": false,
+      "ref": "Pennsylvania Driver's Manual (PUB 95, rev. 4-21), Chapter 1 (Learner's Permit Information), section 'Applying for a Learner's Permit'"
+    },
+    {
+      "id": "pa-008",
+      "topic": "licensing",
+      "q": "Of the required practice hours for drivers under 18, how many must be in bad weather?",
+      "options": [
+        "At least 2 hours",
+        "None are required",
+        "At least 5 hours",
+        "At least 10 hours"
+      ],
+      "answer": 2,
+      "explain": "The 65 hours must include at least 5 hours of bad-weather driving.",
+      "official": false,
+      "ref": "Pennsylvania Driver's Manual (PUB 95, rev. 4-21), Chapter 1 (Learner's Permit Information), section 'Applying for a Learner's Permit'"
+    },
+    {
+      "id": "pa-009",
+      "topic": "licensing",
+      "q": "A permit holder under 18 must wait how long after the permit is issued before taking the road test?",
+      "options": [
+        "30 days",
+        "1 year",
+        "3 months",
+        "6 months"
+      ],
+      "answer": 3,
+      "explain": "There is a mandatory six-month wait from the permit issue date for drivers under 18.",
+      "official": false,
+      "ref": "Pennsylvania Driver's Manual (PUB 95, rev. 4-21), Chapter 1 (Learner's Permit Information), section 'Applying for a Learner's Permit'"
+    },
+    {
+      "id": "pa-010",
+      "topic": "licensing",
+      "q": "Who may supervise a learner's permit holder under 18?",
+      "options": [
+        "A licensed driver at least 21, or a licensed parent, guardian or spouse who is at least 18",
+        "Any passenger at least 25, licensed or not",
+        "Any licensed driver at least 18",
+        "Only a certified driving instructor"
+      ],
+      "answer": 0,
+      "explain": "A supervisor must hold a license and be 21+, unless they are the learner's licensed parent, guardian, person in loco parentis or spouse, who need only be 18+.",
+      "official": false,
+      "ref": "Pennsylvania Driver's Manual (PUB 95, rev. 4-21), Chapter 1 (Learner's Permit Information), section 'Junior Learner's Permit Information'"
+    },
+    {
+      "id": "pa-011",
+      "topic": "licensing",
+      "q": "Where must the supervising driver sit when a permit holder under 18 is driving?",
+      "options": [
+        "Directly behind the driver",
+        "In the front passenger seat",
+        "Anywhere in the vehicle",
+        "In the rear seat on the passenger side"
+      ],
+      "answer": 1,
+      "explain": "The supervising driver must ride in the front seat at all times.",
+      "official": false,
+      "ref": "Pennsylvania Driver's Manual (PUB 95, rev. 4-21), Chapter 1 (Learner's Permit Information), section 'Junior Learner's Permit Information'"
+    },
+    {
+      "id": "pa-012",
+      "topic": "licensing",
+      "q": "During which hours may a junior licensee NOT drive unless accompanied by a parent, guardian or spouse 18 or older (or covered by a work/volunteer exception)?",
+      "options": [
+        "10 p.m. to 5 a.m.",
+        "9 p.m. to 6 a.m.",
+        "11 p.m. to 5 a.m.",
+        "Midnight to 6 a.m."
+      ],
+      "answer": 2,
+      "explain": "From 11 p.m. to 5 a.m. a junior licensee may drive only with a parent, guardian or spouse (18+) aboard, or under the work/volunteer exception.",
+      "official": false,
+      "ref": "Pennsylvania Driver's Manual (PUB 95, rev. 4-21), Chapter 1 (Learner's Permit Information), section 'Junior Driver's License Information'"
+    },
+    {
+      "id": "pa-013",
+      "topic": "licensing",
+      "q": "A junior licensee who must drive between 11 p.m. and 5 a.m. for a job or volunteer fire company must carry:",
+      "options": [
+        "A note from any licensed adult",
+        "Nothing; the exception is automatic",
+        "A notarized affidavit or certificate from the employer, supervisor or fire chief",
+        "A letter from a school principal"
+      ],
+      "answer": 2,
+      "explain": "For late-night work or volunteer duty, keep a notarized affidavit or authorization certificate from the employer, supervisor or fire chief listing your expected schedule with your license.",
+      "official": false,
+      "ref": "Pennsylvania Driver's Manual (PUB 95, rev. 4-21), Chapter 1 (Learner's Permit Information), section 'Junior Driver's License Information'"
+    },
+    {
+      "id": "pa-014",
+      "topic": "licensing",
+      "q": "During the first six months on a junior license, how many passengers under 18 who are not immediate family may ride with you without a parent or guardian present?",
+      "options": [
+        "2",
+        "0",
+        "3",
+        "1"
+      ],
+      "answer": 3,
+      "explain": "For the first six months, no more than one non-family passenger under 18 is allowed unless a parent, guardian or spouse 18+ is in the vehicle.",
+      "official": false,
+      "ref": "Pennsylvania Driver's Manual (PUB 95, rev. 4-21), Chapter 1 (Learner's Permit Information), section 'Junior Driver's License Information'"
+    },
+    {
+      "id": "pa-015",
+      "topic": "licensing",
+      "q": "After six months on a junior license with no at-fault crash or conviction, the limit on non-family passengers under 18 rises to:",
+      "options": [
+        "3",
+        "2",
+        "4",
+        "No limit"
+      ],
+      "answer": 0,
+      "explain": "The limit increases to three non-family passengers under 18 unless the driver has had an at-fault crash or a driving conviction.",
+      "official": false,
+      "ref": "Pennsylvania Driver's Manual (PUB 95, rev. 4-21), Chapter 1 (Learner's Permit Information), section 'Junior Driver's License Information'"
+    },
+    {
+      "id": "pa-016",
+      "topic": "licensing",
+      "q": "For drivers under 18, how many passengers may be in the vehicle?",
+      "options": [
+        "No more than three",
+        "No more than the number of seat belts in the vehicle",
+        "No more than two",
+        "Any number if a parent is present"
+      ],
+      "answer": 1,
+      "explain": "Drivers under 18 may not carry more passengers than there are seat belts.",
+      "official": false,
+      "ref": "Pennsylvania Driver's Manual (PUB 95, rev. 4-21), Chapter 5 (Laws and Related Issues), section 'Seat Belt Law'"
+    },
+    {
+      "id": "pa-017",
+      "topic": "licensing",
+      "q": "A junior driver will receive a 90-day suspension for a first occurrence of which of the following?",
+      "options": [
+        "Building up 6 or more points or being convicted of driving 26 mph or more over the limit",
+        "Any single parking ticket",
+        "Building up 3 points",
+        "Driving 10 mph over the limit"
+      ],
+      "answer": 0,
+      "explain": "Drivers under 18 are suspended for 90 days for 6+ points or a conviction for driving 26+ mph over the posted limit.",
+      "official": false,
+      "ref": "Pennsylvania Driver's Manual (PUB 95, rev. 4-21), Chapter 4 (Driving Record Information), section 'The Pennsylvania Point System'"
+    },
+    {
+      "id": "pa-018",
+      "topic": "licensing",
+      "q": "For a driver under 18, how long is the suspension for a second occurrence of 6+ points or driving 26+ mph over the limit?",
+      "options": [
+        "60 days",
+        "90 days",
+        "120 days",
+        "1 year"
+      ],
+      "answer": 2,
+      "explain": "The first suspension is 90 days; any additional occurrence results in a 120-day suspension.",
+      "official": false,
+      "ref": "Pennsylvania Driver's Manual (PUB 95, rev. 4-21), Chapter 4 (Driving Record Information), section 'The Pennsylvania Point System'"
+    },
+    {
+      "id": "pa-019",
+      "topic": "licensing",
+      "q": "When does a Pennsylvania junior driver's license automatically become a regular license?",
+      "options": [
+        "When the driver turns 21",
+        "When the driver turns 18",
+        "After 6 months",
+        "After passing a second road test"
+      ],
+      "answer": 1,
+      "explain": "A junior license automatically becomes a regular license at age 18.",
+      "official": false,
+      "ref": "Pennsylvania Driver's Manual (PUB 95, rev. 4-21), Chapter 1 (Learner's Permit Information), section 'Junior Driver's License Information'"
+    },
+    {
+      "id": "pa-020",
+      "topic": "licensing",
+      "q": "Which is a requirement for converting a junior license to a regular license before age 18?",
+      "options": [
+        "Holding the junior license for 3 months",
+        "Completing 100 more practice hours",
+        "Retaking the knowledge test",
+        "Holding the junior license 12 months and passing an approved driver training course"
+      ],
+      "answer": 3,
+      "explain": "You also need no at-fault crash or conviction for one year and parental consent.",
+      "official": false,
+      "ref": "Pennsylvania Driver's Manual (PUB 95, rev. 4-21), Chapter 1 (Learner's Permit Information), section 'Junior Driver's License Information'"
+    },
+    {
+      "id": "pa-021",
+      "topic": "licensing",
+      "q": "If a driver under 18 fails the road test, how long must they wait to retake it?",
+      "options": [
+        "30 days",
+        "6 months",
+        "The next business day",
+        "7 days"
+      ],
+      "answer": 3,
+      "explain": "Pennsylvania law requires drivers under 18 to wait seven days before retaking the road test.",
+      "official": false,
+      "ref": "Pennsylvania Driver's Manual (PUB 95, rev. 4-21), Chapter 1 (Learner's Permit Information), section 'Tests: Road Test'"
+    },
+    {
+      "id": "pa-022",
+      "topic": "licensing",
+      "q": "How many chances to pass the road test do you get with each learner's permit?",
+      "options": [
+        "2",
+        "Unlimited until it expires",
+        "3",
+        "5"
+      ],
+      "answer": 2,
+      "explain": "Each permit allows three road-test attempts; after a third failure you must apply (form DL-31) to extend the permit.",
+      "official": false,
+      "ref": "Pennsylvania Driver's Manual (PUB 95, rev. 4-21), Chapter 1 (Learner's Permit Information), section 'Tests: Road Test'"
+    },
+    {
+      "id": "pa-023",
+      "topic": "licensing",
+      "q": "A new Pennsylvania resident with a valid license from another state must get a Pennsylvania license within:",
+      "options": [
+        "90 days",
+        "60 days",
+        "30 days",
+        "1 year"
+      ],
+      "answer": 1,
+      "explain": "New residents must obtain a Pennsylvania license within 60 days and surrender the out-of-state license.",
+      "official": false,
+      "ref": "Pennsylvania Driver's Manual (PUB 95, rev. 4-21), Chapter 1 (Learner's Permit Information), section 'Who Needs a Pennsylvania Driver's License?'"
+    },
+    {
+      "id": "pa-024",
+      "topic": "licensing",
+      "q": "How soon must you notify PennDOT after changing your name or address?",
+      "options": [
+        "Within 15 days",
+        "Within 60 days",
+        "At your next renewal",
+        "Within 30 days"
+      ],
+      "answer": 0,
+      "explain": "Section 1515 of the Vehicle Code requires notifying PennDOT within 15 days.",
+      "official": false,
+      "ref": "Pennsylvania Driver's Manual (PUB 95, rev. 4-21), Chapter 5 (Laws and Related Issues), section 'Required Notification for Change in Name or Address'"
+    },
+    {
+      "id": "pa-025",
+      "topic": "licensing",
+      "q": "How often must a Pennsylvania-registered passenger vehicle pass a safety inspection?",
+      "options": [
+        "Only when sold",
+        "Every 2 years",
+        "Every 12 months",
+        "Every 6 months"
+      ],
+      "answer": 2,
+      "explain": "A safety inspection is required every 12 months; it may be done up to 90 days early.",
+      "official": false,
+      "ref": "Pennsylvania Driver's Manual (PUB 95, rev. 4-21), Chapter 5 (Laws and Related Issues), section 'Vehicle Safety and Emissions Inspection'"
+    },
+    {
+      "id": "pa-026",
+      "topic": "signs",
+      "q": "What must you do at this sign?",
+      "options": [
+        "Yield only to pedestrians",
+        "Slow down and go if no one is coming",
+        "Stop only if cross traffic is present",
+        "Come to a complete stop, then go when the way is clear"
+      ],
+      "answer": 3,
+      "explain": "Slowing without a full stop is illegal; stop, check for pedestrians and cross traffic, then proceed when clear.",
+      "official": false,
+      "ref": "Pennsylvania Driver's Manual (PUB 95, rev. 4-21), Chapter 2 (Signals, Signs and Pavement Markings), section 'Regulatory Signs'",
+      "image": "signs/stop.png"
+    },
+    {
+      "id": "pa-027",
+      "topic": "signs",
+      "q": "What does this sign require you to do?",
+      "options": [
+        "Slow down and give the right-of-way to pedestrians and cross traffic, stopping if necessary",
+        "Speed up to merge ahead of traffic",
+        "Stop completely every time",
+        "Keep going; other traffic must yield to you"
+      ],
+      "answer": 0,
+      "explain": "At a YIELD sign you slow, check traffic, and stop only when necessary.",
+      "official": false,
+      "ref": "Pennsylvania Driver's Manual (PUB 95, rev. 4-21), Chapter 2 (Signals, Signs and Pavement Markings), section 'Regulatory Signs'",
+      "image": "signs/yield.png"
+    },
+    {
+      "id": "pa-028",
+      "topic": "signs",
+      "q": "Where would you normally see this sign?",
+      "options": [
+        "At the start of a school zone",
+        "At the entrance to a one-way street or ramp you must not enter",
+        "Before a railroad crossing",
+        "At the end of a divided highway"
+      ],
+      "answer": 1,
+      "explain": "This sign marks the entry point of a one-way street or ramp that traffic is not allowed to enter from your direction.",
+      "official": false,
+      "ref": "Pennsylvania Driver's Manual (PUB 95, rev. 4-21), Chapter 2 (Signals, Signs and Pavement Markings), section 'Regulatory Signs'",
+      "image": "signs/do-not-enter.png"
+    },
+    {
+      "id": "pa-029",
+      "topic": "signs",
+      "q": "If you see this sign, what has happened?",
+      "options": [
+        "You are in a high-occupancy lane",
+        "You have entered a work zone",
+        "You missed a detour",
+        "You are traveling against traffic on a one-way road or ramp"
+      ],
+      "answer": 3,
+      "explain": "WRONG WAY signs are placed farther down a one-way street or ramp to warn drivers who entered by mistake.",
+      "official": false,
+      "ref": "Pennsylvania Driver's Manual (PUB 95, rev. 4-21), Chapter 2 (Signals, Signs and Pavement Markings), section 'Regulatory Signs'",
+      "image": "signs/wrong-way.png"
+    },
+    {
+      "id": "pa-030",
+      "topic": "signs",
+      "q": "What does this sign mean?",
+      "options": [
+        "You must drive exactly 55 mph",
+        "55 mph is the maximum legal speed under ideal conditions",
+        "55 mph is only a recommended speed for trucks",
+        "55 mph is the minimum speed"
+      ],
+      "answer": 1,
+      "explain": "A speed limit sign shows the maximum legal speed under ideal conditions; drive slower when conditions are poor.",
+      "official": false,
+      "ref": "Pennsylvania Driver's Manual (PUB 95, rev. 4-21), Chapter 2 (Signals, Signs and Pavement Markings), section 'Regulatory Signs'",
+      "image": "signs/speed-limit-55.png"
+    },
+    {
+      "id": "pa-031",
+      "topic": "signs",
+      "q": "What does this sign tell you?",
+      "options": [
+        "Turn left only",
+        "Left turns allowed only on green",
+        "Left turns are not allowed at this intersection",
+        "Left lane ends ahead"
+      ],
+      "answer": 2,
+      "explain": "A black left arrow in a red circle with a slash prohibits left turns.",
+      "official": false,
+      "ref": "Pennsylvania Driver's Manual (PUB 95, rev. 4-21), Chapter 2 (Signals, Signs and Pavement Markings), section 'Regulatory Signs'",
+      "image": "signs/no-left-turn.png"
+    },
+    {
+      "id": "pa-032",
+      "topic": "signs",
+      "q": "What does this sign mean?",
+      "options": [
+        "You may not turn around to go in the opposite direction",
+        "Detour ahead",
+        "No left turn on red",
+        "Road curves sharply ahead"
+      ],
+      "answer": 0,
+      "explain": "This sign prohibits U-turns.",
+      "official": false,
+      "ref": "Pennsylvania Driver's Manual (PUB 95, rev. 4-21), Chapter 2 (Signals, Signs and Pavement Markings), section 'Regulatory Signs'",
+      "image": "signs/no-u-turn.png"
+    },
+    {
+      "id": "pa-033",
+      "topic": "signs",
+      "q": "At an intersection with this sign, what must you do while your signal is red?",
+      "options": [
+        "Wait for a green signal before turning",
+        "Stop, then turn right if clear",
+        "Turn only if no pedestrians are present",
+        "Turn right without stopping"
+      ],
+      "answer": 0,
+      "explain": "With this sign present, no turn of any kind is permitted while the signal is red; wait for green.",
+      "official": false,
+      "ref": "Pennsylvania Driver's Manual (PUB 95, rev. 4-21), Chapter 2 (Signals, Signs and Pavement Markings), section 'Regulatory Signs'",
+      "image": "signs/no-turn-on-red.png"
+    },
+    {
+      "id": "pa-034",
+      "topic": "signs",
+      "q": "What does this sign mean?",
+      "options": [
+        "The road ends ahead",
+        "Traffic may move only in the direction of the arrow",
+        "Detour in the direction of the arrow",
+        "Keep right of the divider"
+      ],
+      "answer": 1,
+      "explain": "The arrow shows the only direction traffic may travel on this street.",
+      "official": false,
+      "ref": "Pennsylvania Driver's Manual (PUB 95, rev. 4-21), Chapter 2 (Signals, Signs and Pavement Markings), section 'Regulatory Signs'",
+      "image": "signs/one-way.png"
+    },
+    {
+      "id": "pa-035",
+      "topic": "signs",
+      "q": "What does this sign mean?",
+      "options": [
+        "Passing allowed with care",
+        "Pedestrians may not cross",
+        "You may not pass vehicles traveling in your direction",
+        "Do not stop on the shoulder"
+      ],
+      "answer": 2,
+      "explain": "DO NOT PASS marks areas where passing vehicles going your way is not allowed.",
+      "official": false,
+      "ref": "Pennsylvania Driver's Manual (PUB 95, rev. 4-21), Chapter 2 (Signals, Signs and Pavement Markings), section 'Regulatory Signs'",
+      "image": "signs/do-not-pass.png"
+    },
+    {
+      "id": "pa-036",
+      "topic": "signs",
+      "q": "When the round green signal is lit at an intersection with this sign, you may turn left:",
+      "options": [
+        "Only after stopping first",
+        "Never; wait for a green arrow",
+        "With the right-of-way over oncoming traffic",
+        "Only after yielding to oncoming traffic"
+      ],
+      "answer": 3,
+      "explain": "LEFT TURN YIELD ON GREEN reminds drivers that left turns are not protected on a circular green.",
+      "official": false,
+      "ref": "Pennsylvania Driver's Manual (PUB 95, rev. 4-21), Chapter 2 (Signals, Signs and Pavement Markings), section 'Regulatory Signs'",
+      "image": "signs/left-turn-yield-green.png"
+    },
+    {
+      "id": "pa-037",
+      "topic": "signs",
+      "q": "Which vehicles may park in a space marked with this sign?",
+      "options": [
+        "Any vehicle for up to 15 minutes",
+        "Vehicles displaying a disability plate or placard and carrying or driven by the person with a disability",
+        "Any vehicle with hazard lights on",
+        "Delivery vehicles"
+      ],
+      "answer": 1,
+      "explain": "Two conditions apply: the vehicle shows a disability plate or placard, and it is being used by or to transport the person with the disability.",
+      "official": false,
+      "ref": "Pennsylvania Driver's Manual (PUB 95, rev. 4-21), Chapter 5 (Laws and Related Issues), section 'Parking Areas for Persons with Disabilities'",
+      "image": "signs/handicapped-parking.png"
+    },
+    {
+      "id": "pa-038",
+      "topic": "signs",
+      "q": "How should you treat this sign?",
+      "options": [
+        "Like a YIELD sign: slow down and be ready to stop for a train",
+        "As a guide sign only",
+        "As a warning that tracks are no longer used",
+        "Like a STOP sign every time"
+      ],
+      "answer": 0,
+      "explain": "A crossbuck works like a YIELD sign: slow, look and listen, and stop if a train is coming.",
+      "official": false,
+      "ref": "Pennsylvania Driver's Manual (PUB 95, rev. 4-21), Chapter 2 (Signals, Signs and Pavement Markings), section 'Regulatory Signs'",
+      "image": "signs/railroad-crossbuck.png"
+    },
+    {
+      "id": "pa-039",
+      "topic": "signs",
+      "q": "At a STOP sign with this plate underneath, two cars arrive at the same time from different roads. Who goes first?",
+      "options": [
+        "The larger vehicle",
+        "The driver going straight, regardless of side",
+        "The driver on the right",
+        "The driver on the left"
+      ],
+      "answer": 2,
+      "explain": "At an all-way stop the first vehicle there goes first; when two arrive together, the one on the left lets the one on the right go.",
+      "official": false,
+      "ref": "Pennsylvania Driver's Manual (PUB 95, rev. 4-21), Chapter 2 (Signals, Signs and Pavement Markings), section 'Regulatory Signs'",
+      "image": "signs/all-way.png"
+    },
+    {
+      "id": "pa-040",
+      "topic": "signs",
+      "q": "You are in a lane under this sign. What must you do at the intersection?",
+      "options": [
+        "Go straight if the way is clear",
+        "Choose any direction",
+        "Change lanes in the intersection",
+        "Turn in the direction of the arrow, even if you entered the lane by mistake"
+      ],
+      "answer": 3,
+      "explain": "In a lane with an arrow and the word ONLY, you must make the turn shown.",
+      "official": false,
+      "ref": "Pennsylvania Driver's Manual (PUB 95, rev. 4-21), Chapter 2 (Signals, Signs and Pavement Markings), section 'Lane Use Control Signs'",
+      "image": "signs/lane-control-left-only.png"
+    },
+    {
+      "id": "pa-041",
+      "topic": "signs",
+      "q": "What does this warning sign tell you?",
+      "options": [
+        "Right lane ends",
+        "The road curves to the right ahead",
+        "Side road enters from the right",
+        "Turn right only"
+      ],
+      "answer": 1,
+      "explain": "On a right curve, slow down and keep slightly right of lane center.",
+      "official": false,
+      "ref": "Pennsylvania Driver's Manual (PUB 95, rev. 4-21), Chapter 2 (Signals, Signs and Pavement Markings), section 'Warning Signs'",
+      "image": "signs/curve-right.png"
+    },
+    {
+      "id": "pa-042",
+      "topic": "signs",
+      "q": "How should you respond to this sign?",
+      "options": [
+        "Keep your speed; it is a gentle curve",
+        "Merge right",
+        "Slow down substantially for a sharp right turn ahead",
+        "Prepare to turn onto a side road"
+      ],
+      "answer": 2,
+      "explain": "The road ahead turns sharply right; slow down substantially and keep slightly right of lane center.",
+      "official": false,
+      "ref": "Pennsylvania Driver's Manual (PUB 95, rev. 4-21), Chapter 2 (Signals, Signs and Pavement Markings), section 'Warning Signs'",
+      "image": "signs/sharp-turn-right.png"
+    },
+    {
+      "id": "pa-043",
+      "topic": "signs",
+      "q": "This sign is posted on a major road. What does it mean?",
+      "options": [
+        "Added lane; no merging needed",
+        "Your lane ends; merge right",
+        "Right turns only",
+        "Traffic may merge into your lane from the right"
+      ],
+      "answer": 3,
+      "explain": "Vehicles may be joining from the right; they must yield to you, but be ready to adjust speed or position to let them in safely.",
+      "official": false,
+      "ref": "Pennsylvania Driver's Manual (PUB 95, rev. 4-21), Chapter 2 (Signals, Signs and Pavement Markings), section 'Warning Signs'",
+      "image": "signs/merge-right.png"
+    },
+    {
+      "id": "pa-044",
+      "topic": "signs",
+      "q": "What should drivers in the right lane do when they see this sign?",
+      "options": [
+        "Prepare to merge left because the right lane ends",
+        "Move to the shoulder",
+        "Nothing; it applies only to trucks",
+        "Speed up to pass"
+      ],
+      "answer": 0,
+      "explain": "LANE ENDS signs warn that one lane ends and its traffic must merge.",
+      "official": false,
+      "ref": "Pennsylvania Driver's Manual (PUB 95, rev. 4-21), Chapter 2 (Signals, Signs and Pavement Markings), section 'Warning Signs'",
+      "image": "signs/lane-ends-left.png"
+    },
+    {
+      "id": "pa-045",
+      "topic": "signs",
+      "q": "What does this sign mean?",
+      "options": [
+        "A divided highway begins ahead; keep right of the median",
+        "Road narrows",
+        "Two-way traffic ahead",
+        "Divided highway ends ahead"
+      ],
+      "answer": 0,
+      "explain": "The highway becomes two one-way roadways separated by a median; keep to the right of the divider.",
+      "official": false,
+      "ref": "Pennsylvania Driver's Manual (PUB 95, rev. 4-21), Chapter 2 (Signals, Signs and Pavement Markings), section 'Warning Signs'",
+      "image": "signs/divided-hwy-begins.png"
+    },
+    {
+      "id": "pa-046",
+      "topic": "signs",
+      "q": "What should you do when you see this sign?",
+      "options": [
+        "Stop immediately",
+        "Slow down and be ready to stop for a traffic light you may not yet see",
+        "Speed up to beat the light",
+        "Turn on hazard lights"
+      ],
+      "answer": 1,
+      "explain": "A traffic signal is ahead, possibly hidden by a curve or hill, and traffic may be stopped.",
+      "official": false,
+      "ref": "Pennsylvania Driver's Manual (PUB 95, rev. 4-21), Chapter 2 (Signals, Signs and Pavement Markings), section 'Warning Signs'",
+      "image": "signs/signal-ahead.png"
+    },
+    {
+      "id": "pa-047",
+      "topic": "signs",
+      "q": "What does this sign mean?",
+      "options": [
+        "A school bus stop is ahead",
+        "Four-way stop ahead only",
+        "A STOP sign is ahead and may be hidden from view",
+        "Stop here"
+      ],
+      "answer": 2,
+      "explain": "STOP AHEAD warns of a stop sign around a curve or hill; slow down to prepare to stop.",
+      "official": false,
+      "ref": "Pennsylvania Driver's Manual (PUB 95, rev. 4-21), Chapter 2 (Signals, Signs and Pavement Markings), section 'Warning Signs'",
+      "image": "signs/stop-ahead.png"
+    },
+    {
+      "id": "pa-048",
+      "topic": "signs",
+      "q": "What should you do when you see this sign in wet weather?",
+      "options": [
+        "Drive on the shoulder",
+        "Brake hard to test traction",
+        "Use cruise control",
+        "Reduce speed, increase following distance, and avoid quick braking"
+      ],
+      "answer": 3,
+      "explain": "SLIPPERY WHEN WET: slow down, increase following distance and avoid sudden braking or acceleration.",
+      "official": false,
+      "ref": "Pennsylvania Driver's Manual (PUB 95, rev. 4-21), Chapter 2 (Signals, Signs and Pavement Markings), section 'Warning Signs'",
+      "image": "signs/slippery-when-wet.png"
+    },
+    {
+      "id": "pa-049",
+      "topic": "signs",
+      "q": "This five-sided sign means:",
+      "options": [
+        "Bus stop",
+        "Playground for adults",
+        "Pedestrian mall",
+        "You are approaching a school zone; slow down and watch for children"
+      ],
+      "answer": 3,
+      "explain": "The pentagon is the only five-sided roadway sign and marks a school zone.",
+      "official": false,
+      "ref": "Pennsylvania Driver's Manual (PUB 95, rev. 4-21), Chapter 2 (Signals, Signs and Pavement Markings), section 'Warning Signs'",
+      "image": "signs/school-zone.png"
+    },
+    {
+      "id": "pa-050",
+      "topic": "signs",
+      "q": "When you see this round sign, you should:",
+      "options": [
+        "Speed up to cross quickly",
+        "Begin looking and listening for a train",
+        "Turn on high beams",
+        "Stop immediately"
+      ],
+      "answer": 1,
+      "explain": "The railroad advance sign is placed far enough ahead to let you stop before the tracks if needed.",
+      "official": false,
+      "ref": "Pennsylvania Driver's Manual (PUB 95, rev. 4-21), Chapter 2 (Signals, Signs and Pavement Markings), section 'Warning Signs'",
+      "image": "signs/railroad-advance.png"
+    },
+    {
+      "id": "pa-051",
+      "topic": "signs",
+      "q": "This pennant-shaped sign is placed on which side of the road?",
+      "options": [
+        "The left side, facing the driver",
+        "On the median only for trucks",
+        "The right side",
+        "Above the lane"
+      ],
+      "answer": 0,
+      "explain": "The NO PASSING ZONE pennant is the only pennant-shaped sign and is posted on the left side of the road.",
+      "official": false,
+      "ref": "Pennsylvania Driver's Manual (PUB 95, rev. 4-21), Chapter 2 (Signals, Signs and Pavement Markings), section 'Warning Signs'",
+      "image": "signs/no-passing-zone.png"
+    },
+    {
+      "id": "pa-052",
+      "topic": "signs",
+      "q": "A yellow plate like this under a curve sign tells you:",
+      "options": [
+        "The speed for trucks only",
+        "The legal speed limit for the whole road",
+        "The highest safe speed for the curve under good conditions",
+        "The minimum speed"
+      ],
+      "answer": 2,
+      "explain": "Advisory speed plates may be used with diamond-shaped warning signs to show a safe speed.",
+      "official": false,
+      "ref": "Pennsylvania Driver's Manual (PUB 95, rev. 4-21), Chapter 2 (Signals, Signs and Pavement Markings), section 'Warning Signs: Advisory Speed Signs'",
+      "image": "signs/advisory-speed-35.png"
+    },
+    {
+      "id": "pa-053",
+      "topic": "signs",
+      "q": "What do orange signs like this indicate?",
+      "options": [
+        "A recreation area",
+        "A school zone",
+        "Construction, maintenance or utility work ahead",
+        "A hospital"
+      ],
+      "answer": 2,
+      "explain": "Work zone signs are orange with black letters; slow down and stay alert.",
+      "official": false,
+      "ref": "Pennsylvania Driver's Manual (PUB 95, rev. 4-21), Chapter 2 (Signals, Signs and Pavement Markings), section 'Work Zone Signs'",
+      "image": "signs/road-work-ahead.png"
+    },
+    {
+      "id": "pa-054",
+      "topic": "signs",
+      "q": "What does this sign tell you?",
+      "options": [
+        "A flagger is controlling traffic ahead",
+        "Pedestrian crossing",
+        "Children at play",
+        "Police checkpoint"
+      ],
+      "answer": 0,
+      "explain": "Flaggers use STOP/SLOW paddles or red flags; their directions must be obeyed.",
+      "official": false,
+      "ref": "Pennsylvania Driver's Manual (PUB 95, rev. 4-21), Chapter 2 (Signals, Signs and Pavement Markings), section 'Work Zone Signs'",
+      "image": "signs/flagger-ahead.png"
+    },
+    {
+      "id": "pa-055",
+      "topic": "signs",
+      "q": "This orange triangle with a red border on the back of a vehicle means the vehicle:",
+      "options": [
+        "Is an emergency vehicle",
+        "Is designed to travel at 25 mph or less",
+        "Is carrying hazardous materials",
+        "Is a wide load"
+      ],
+      "answer": 1,
+      "explain": "The slow-moving vehicle emblem appears on farm tractors and horse-drawn vehicles that operate at 25 mph or less.",
+      "official": false,
+      "ref": "Pennsylvania Driver's Manual (PUB 95, rev. 4-21), Chapter 3 (Learning to Drive), section 'Reactions to Slow Moving Traffic'",
+      "image": "signs/slow-moving-vehicle.png"
+    },
+    {
+      "id": "pa-056",
+      "topic": "signs",
+      "q": "What is the only eight-sided sign used on Pennsylvania roads?",
+      "options": [
+        "Railroad crossing",
+        "School zone",
+        "YIELD",
+        "STOP"
+      ],
+      "answer": 3,
+      "explain": "The STOP sign is the only octagon-shaped sign.",
+      "official": false,
+      "ref": "Pennsylvania Driver's Manual (PUB 95, rev. 4-21), Chapter 2 (Signals, Signs and Pavement Markings), section 'Regulatory Signs'"
+    },
+    {
+      "id": "pa-057",
+      "topic": "signs",
+      "q": "Warning signs are usually what shape and color?",
+      "options": [
+        "Diamond-shaped, black on yellow",
+        "Square, white on blue",
+        "Rectangular, black on white",
+        "Round, black on yellow"
+      ],
+      "answer": 0,
+      "explain": "Most warning signs are yellow diamonds with black symbols or words.",
+      "official": false,
+      "ref": "Pennsylvania Driver's Manual (PUB 95, rev. 4-21), Chapter 2 (Signals, Signs and Pavement Markings), section 'Warning Signs'"
+    },
+    {
+      "id": "pa-058",
+      "topic": "signs",
+      "q": "What must you do when facing this steady signal?",
+      "options": [
+        "Turn left onto a two-way street after slowing",
+        "Stop at the stop line or crosswalk and wait for green, unless a legal turn on red is allowed",
+        "Slow down and proceed without stopping",
+        "Stop, then drive straight through if no cars are coming"
+      ],
+      "answer": 1,
+      "explain": "On steady red you must stop before the stop line or crosswalk; a right turn (or left from one-way to one-way) after stopping is allowed unless prohibited.",
+      "official": false,
+      "ref": "Pennsylvania Driver's Manual (PUB 95, rev. 4-21), Chapter 2 (Signals, Signs and Pavement Markings), section 'Red, Yellow and Green Traffic Lights'",
+      "image": "signs/signal-red.png"
+    },
+    {
+      "id": "pa-059",
+      "topic": "signs",
+      "q": "You are approaching the intersection and this light appears. You can stop safely. What should you do?",
+      "options": [
+        "Continue at the same speed",
+        "Stop in the middle of the intersection",
+        "Speed up to clear the intersection",
+        "Stop before entering the intersection"
+      ],
+      "answer": 3,
+      "explain": "A steady yellow means red is coming; stop if you can do so safely.",
+      "official": false,
+      "ref": "Pennsylvania Driver's Manual (PUB 95, rev. 4-21), Chapter 2 (Signals, Signs and Pavement Markings), section 'Red, Yellow and Green Traffic Lights'",
+      "image": "signs/signal-yellow.png"
+    },
+    {
+      "id": "pa-060",
+      "topic": "signs",
+      "q": "When this arrow is lit, your left turn is:",
+      "options": [
+        "Allowed only after a full stop",
+        "Allowed only after yielding to oncoming traffic",
+        "Protected, because oncoming traffic has a red light",
+        "Prohibited"
+      ],
+      "answer": 2,
+      "explain": "A steady green arrow gives a protected turn in the arrow's direction.",
+      "official": false,
+      "ref": "Pennsylvania Driver's Manual (PUB 95, rev. 4-21), Chapter 2 (Signals, Signs and Pavement Markings), section 'Red, Yellow and Green Traffic Lights'",
+      "image": "signs/signal-green-arrow-left.png"
+    },
+    {
+      "id": "pa-061",
+      "topic": "signs",
+      "q": "This flashing signal has the same meaning as:",
+      "options": [
+        "A railroad crossbuck",
+        "A steady green light",
+        "A STOP sign",
+        "A YIELD sign"
+      ],
+      "answer": 2,
+      "explain": "Come to a complete stop, look both ways, and go only when the intersection is clear.",
+      "official": false,
+      "ref": "Pennsylvania Driver's Manual (PUB 95, rev. 4-21), Chapter 2 (Signals, Signs and Pavement Markings), section 'Flashing Signals'",
+      "image": "signs/signal-flashing-red.png"
+    },
+    {
+      "id": "pa-062",
+      "topic": "signs",
+      "q": "What does this flashing signal mean?",
+      "options": [
+        "The signal is broken; treat as a four-way stop",
+        "Slow down and proceed with caution",
+        "Stop and wait for green",
+        "Pedestrians only"
+      ],
+      "answer": 1,
+      "explain": "A flashing yellow light means caution.",
+      "official": false,
+      "ref": "Pennsylvania Driver's Manual (PUB 95, rev. 4-21), Chapter 2 (Signals, Signs and Pavement Markings), section 'Flashing Signals'",
+      "image": "signs/signal-flashing-yellow.png"
+    },
+    {
+      "id": "pa-063",
+      "topic": "signs",
+      "q": "A flashing yellow arrow means you may turn in the arrow's direction:",
+      "options": [
+        "Only after a complete stop",
+        "Only if no traffic light is red",
+        "With the right-of-way",
+        "After yielding to oncoming traffic and pedestrians"
+      ],
+      "answer": 3,
+      "explain": "Turns on a flashing yellow arrow are not protected; oncoming traffic has a green light.",
+      "official": false,
+      "ref": "Pennsylvania Driver's Manual (PUB 95, rev. 4-21), Chapter 2 (Signals, Signs and Pavement Markings), section 'Flashing Signals'"
+    },
+    {
+      "id": "pa-064",
+      "topic": "signs",
+      "q": "How should you treat a traffic signal that is not working at all?",
+      "options": [
+        "As a four-way STOP",
+        "As a green light for the main road",
+        "As a YIELD sign",
+        "As a flashing yellow"
+      ],
+      "answer": 0,
+      "explain": "A non-functioning signal is treated as a four-way stop.",
+      "official": false,
+      "ref": "Pennsylvania Driver's Manual (PUB 95, rev. 4-21), Chapter 2 (Signals, Signs and Pavement Markings), section 'Non-Functioning Traffic Lights'"
+    },
+    {
+      "id": "pa-065",
+      "topic": "signs",
+      "q": "Yellow centerlines separate:",
+      "options": [
+        "Parking from travel lanes",
+        "Bike lanes from travel lanes",
+        "Traffic moving in the same direction",
+        "Traffic moving in opposite directions"
+      ],
+      "answer": 3,
+      "explain": "Yellow lines divide opposing traffic; white lines divide lanes going the same way.",
+      "official": false,
+      "ref": "Pennsylvania Driver's Manual (PUB 95, rev. 4-21), Chapter 2 (Signals, Signs and Pavement Markings), section 'Pavement Markings'"
+    },
+    {
+      "id": "pa-066",
+      "topic": "signs",
+      "q": "What does this marking in the center of a two-lane road mean?",
+      "options": [
+        "Center turn lane",
+        "Passing allowed with care",
+        "Passing is not allowed in either direction",
+        "Passing allowed only for the side nearest the line"
+      ],
+      "answer": 2,
+      "explain": "A double solid yellow centerline prohibits passing from either direction, even without a sign.",
+      "official": false,
+      "ref": "Pennsylvania Driver's Manual (PUB 95, rev. 4-21), Chapter 2 (Signals, Signs and Pavement Markings), section 'Pavement Markings'",
+      "image": "signs/lines-double-yellow.png"
+    },
+    {
+      "id": "pa-067",
+      "topic": "signs",
+      "q": "This single broken yellow centerline on a two-lane road means:",
+      "options": [
+        "Passing is allowed in either direction when it is safe",
+        "Lanes for the same direction",
+        "One-way traffic",
+        "No passing"
+      ],
+      "answer": 0,
+      "explain": "A single broken yellow centerline allows passing on either side when safe, using the oncoming lane.",
+      "official": false,
+      "ref": "Pennsylvania Driver's Manual (PUB 95, rev. 4-21), Chapter 2 (Signals, Signs and Pavement Markings), section 'Pavement Markings'",
+      "image": "signs/lines-broken-yellow.png"
+    },
+    {
+      "id": "pa-068",
+      "topic": "signs",
+      "q": "With this marking, the broken yellow line is on your side. What does that mean?",
+      "options": [
+        "Only the other side may pass",
+        "You may pass when it is safe",
+        "You may pass only on the right",
+        "You may never pass"
+      ],
+      "answer": 1,
+      "explain": "You may pass when the broken line is on your side; you may not when the solid line is on your side.",
+      "official": false,
+      "ref": "Pennsylvania Driver's Manual (PUB 95, rev. 4-21), Chapter 2 (Signals, Signs and Pavement Markings), section 'Pavement Markings'",
+      "image": "signs/lines-solid-and-broken-yellow.png"
+    },
+    {
+      "id": "pa-069",
+      "topic": "signs",
+      "q": "Broken white lines like these separate:",
+      "options": [
+        "No-passing zones",
+        "Lanes of traffic moving in the same direction, which may be crossed when safe",
+        "Shoulders from travel lanes",
+        "Opposing traffic"
+      ],
+      "answer": 1,
+      "explain": "Broken white lines mark lanes for the same direction and may be crossed to change lanes or pass.",
+      "official": false,
+      "ref": "Pennsylvania Driver's Manual (PUB 95, rev. 4-21), Chapter 2 (Signals, Signs and Pavement Markings), section 'Pavement Markings'",
+      "image": "signs/lines-white-broken.png"
+    },
+    {
+      "id": "pa-070",
+      "topic": "signs",
+      "q": "A center lane marked like this on both sides is used for:",
+      "options": [
+        "Left turns by traffic from either direction",
+        "Emergency stopping",
+        "Passing",
+        "Through traffic during rush hour"
+      ],
+      "answer": 0,
+      "explain": "A solid outer and broken inner yellow line mark a center lane only for left turns.",
+      "official": false,
+      "ref": "Pennsylvania Driver's Manual (PUB 95, rev. 4-21), Chapter 3 (Learning to Drive), section 'Turning From or Into a Center Turn Lane'",
+      "image": "signs/lines-two-way-left-turn.png"
+    },
+    {
+      "id": "pa-071",
+      "topic": "right-of-way",
+      "q": "When two vehicles arrive at an uncontrolled intersection at about the same time from different roads, which must yield?",
+      "options": [
+        "The slower vehicle yields",
+        "The vehicle turning right yields",
+        "The driver on the right yields",
+        "The driver on the left yields to the driver on the right"
+      ],
+      "answer": 3,
+      "explain": "With no signs or signals, when two vehicles reach the intersection together, the vehicle on the right goes first.",
+      "official": false,
+      "ref": "Pennsylvania Driver's Manual (PUB 95, rev. 4-21), Chapter 3 (Learning to Drive), section 'Negotiating Intersections'"
+    },
+    {
+      "id": "pa-072",
+      "topic": "right-of-way",
+      "q": "When turning left at an intersection, you must yield to:",
+      "options": [
+        "Vehicles behind you",
+        "No one, if your signal is on",
+        "Oncoming vehicles going straight",
+        "Only pedestrians"
+      ],
+      "answer": 2,
+      "explain": "A left turn crosses oncoming traffic, so the turning driver waits for oncoming straight-through vehicles.",
+      "official": false,
+      "ref": "Pennsylvania Driver's Manual (PUB 95, rev. 4-21), Chapter 3 (Learning to Drive), section 'Negotiating Intersections'"
+    },
+    {
+      "id": "pa-073",
+      "topic": "right-of-way",
+      "q": "A driver entering a roundabout must yield to:",
+      "options": [
+        "Only trucks",
+        "No one; entering traffic has priority",
+        "Vehicles already in the circle",
+        "Vehicles waiting to enter from the right"
+      ],
+      "answer": 2,
+      "explain": "Entering drivers yield to circulating traffic, which has the right-of-way.",
+      "official": false,
+      "ref": "Pennsylvania Driver's Manual (PUB 95, rev. 4-21), Chapter 3 (Learning to Drive), section 'Circular Intersections'"
+    },
+    {
+      "id": "pa-074",
+      "topic": "right-of-way",
+      "q": "Traffic in a roundabout travels:",
+      "options": [
+        "Clockwise",
+        "Counterclockwise",
+        "In whichever direction is shortest",
+        "In either direction"
+      ],
+      "answer": 1,
+      "explain": "Roundabout traffic circulates counterclockwise, which makes every entry and exit a right turn.",
+      "official": false,
+      "ref": "Pennsylvania Driver's Manual (PUB 95, rev. 4-21), Chapter 3 (Learning to Drive), section 'Circular Intersections'"
+    },
+    {
+      "id": "pa-075",
+      "topic": "right-of-way",
+      "q": "As you approach your exit in a roundabout, you should:",
+      "options": [
+        "Speed up to leave quickly",
+        "Stop in the circle to check traffic",
+        "Use your left signal",
+        "Use your right turn signal and watch for pedestrians"
+      ],
+      "answer": 3,
+      "explain": "Signal right as you approach your exit and be prepared to yield to pedestrians.",
+      "official": false,
+      "ref": "Pennsylvania Driver's Manual (PUB 95, rev. 4-21), Chapter 3 (Learning to Drive), section 'Circular Intersections'"
+    },
+    {
+      "id": "pa-076",
+      "topic": "right-of-way",
+      "q": "An emergency vehicle approaches while you are in a roundabout. You should:",
+      "options": [
+        "Exit the roundabout and then pull over",
+        "Stop immediately inside the roundabout",
+        "Pull onto the center island",
+        "Speed up to stay ahead of it"
+      ],
+      "answer": 0,
+      "explain": "Never stop in a roundabout; exit and pull to the side.",
+      "official": false,
+      "ref": "Pennsylvania Driver's Manual (PUB 95, rev. 4-21), Chapter 3 (Learning to Drive), section 'Circular Intersections'"
+    },
+    {
+      "id": "pa-077",
+      "topic": "right-of-way",
+      "q": "A vehicle entering a public road from a driveway, alley or private road must:",
+      "options": [
+        "Sound the horn and proceed",
+        "Wait until the main road is clear",
+        "Merge at the speed of traffic without stopping",
+        "Have the right-of-way after signaling"
+      ],
+      "answer": 1,
+      "explain": "Traffic coming out of a driveway, alley or private road waits for a clear gap; vehicles on the main road go first.",
+      "official": false,
+      "ref": "Pennsylvania Driver's Manual (PUB 95, rev. 4-21), Chapter 3 (Learning to Drive), section 'Negotiating Intersections'"
+    },
+    {
+      "id": "pa-078",
+      "topic": "right-of-way",
+      "q": "At a four-way stop, which vehicle should go first?",
+      "options": [
+        "The first vehicle to reach the intersection",
+        "The largest vehicle",
+        "The vehicle on the left",
+        "The vehicle going straight"
+      ],
+      "answer": 0,
+      "explain": "All vehicles stop; the first to arrive proceeds first.",
+      "official": false,
+      "ref": "Pennsylvania Driver's Manual (PUB 95, rev. 4-21), Chapter 3 (Learning to Drive), section 'Negotiating Intersections'"
+    },
+    {
+      "id": "pa-079",
+      "topic": "right-of-way",
+      "q": "At a four-way stop, two vehicles facing each other arrive at the same time. What should happen?",
+      "options": [
+        "Both must wait for a third vehicle",
+        "The one turning left goes first",
+        "The one on the left goes first",
+        "Both may proceed with caution, watching for turns"
+      ],
+      "answer": 3,
+      "explain": "Drivers facing each other may both proceed carefully, watching for possible turns.",
+      "official": false,
+      "ref": "Pennsylvania Driver's Manual (PUB 95, rev. 4-21), Chapter 2 (Signals, Signs and Pavement Markings), section 'Regulatory Signs'"
+    },
+    {
+      "id": "pa-080",
+      "topic": "right-of-way",
+      "q": "You must yield to pedestrians:",
+      "options": [
+        "Only in marked crosswalks",
+        "Only in school zones",
+        "In marked crosswalks and at intersections without traffic lights, even with no marked crosswalk",
+        "Only when a signal shows WALK"
+      ],
+      "answer": 2,
+      "explain": "Drivers yield to pedestrians crossing at intersections without signals (marked or not) and in marked crosswalks.",
+      "official": false,
+      "ref": "Pennsylvania Driver's Manual (PUB 95, rev. 4-21), Chapter 3 (Learning to Drive), section 'Negotiating Intersections'"
+    },
+    {
+      "id": "pa-081",
+      "topic": "right-of-way",
+      "q": "When you cross a sidewalk while leaving a driveway or alley, you must:",
+      "options": [
+        "Expect pedestrians to wait",
+        "Yield only to children",
+        "Yield to pedestrians on the sidewalk",
+        "Sound your horn and continue"
+      ],
+      "answer": 2,
+      "explain": "Drivers must yield to pedestrians walking on a sidewalk that crosses a driveway or alley.",
+      "official": false,
+      "ref": "Pennsylvania Driver's Manual (PUB 95, rev. 4-21), Chapter 3 (Learning to Drive), section 'Negotiating Intersections'"
+    },
+    {
+      "id": "pa-082",
+      "topic": "right-of-way",
+      "q": "A pedestrian is carrying a white cane or using a guide dog. You must:",
+      "options": [
+        "Proceed if they are not in your lane",
+        "Honk so they know you are there",
+        "Yield only in crosswalks",
+        "Always yield the right-of-way and be ready to stop"
+      ],
+      "answer": 3,
+      "explain": "Drivers must always yield to blind pedestrians with a white cane or guide dog.",
+      "official": false,
+      "ref": "Pennsylvania Driver's Manual (PUB 95, rev. 4-21), Chapter 2 (Signals, Signs and Pavement Markings), section 'Pedestrian Signals: Blind Pedestrians'"
+    },
+    {
+      "id": "pa-083",
+      "topic": "right-of-way",
+      "q": "According to the manual, right-of-way law:",
+      "options": [
+        "Gives the larger vehicle priority",
+        "Only says who must yield; it does not give anyone the right-of-way",
+        "Lets you insist on your turn",
+        "Applies only at signals"
+      ],
+      "answer": 1,
+      "explain": "Even when another driver should yield, you must still stop or yield as needed to avoid a crash.",
+      "official": false,
+      "ref": "Pennsylvania Driver's Manual (PUB 95, rev. 4-21), Chapter 3 (Learning to Drive), section 'Negotiating Intersections'"
+    },
+    {
+      "id": "pa-084",
+      "topic": "right-of-way",
+      "q": "When you hear a siren or see an emergency vehicle with flashing red (or red and blue) lights approaching, you must:",
+      "options": [
+        "Pull over to the curb or side of the road and stop",
+        "Continue at the same speed",
+        "Stop in your lane immediately",
+        "Speed up to clear the way"
+      ],
+      "answer": 0,
+      "explain": "Pull over and stop, staying clear of intersections.",
+      "official": false,
+      "ref": "Pennsylvania Driver's Manual (PUB 95, rev. 4-21), Chapter 3 (Learning to Drive), section 'Emergency Vehicles and Situations'"
+    },
+    {
+      "id": "pa-085",
+      "topic": "right-of-way",
+      "q": "On a one-way street, when an emergency vehicle approaches with lights and siren, you should:",
+      "options": [
+        "Keep driving until the next intersection",
+        "Always pull to the right",
+        "Stop in the center",
+        "Pull toward the nearest roadside and stop"
+      ],
+      "answer": 3,
+      "explain": "On one-way streets, drive toward the nearest roadside and stop.",
+      "official": false,
+      "ref": "Pennsylvania Driver's Manual (PUB 95, rev. 4-21), Chapter 3 (Learning to Drive), section 'Emergency Vehicles and Situations'"
+    },
+    {
+      "id": "pa-086",
+      "topic": "right-of-way",
+      "q": "After an emergency vehicle passes you, how far behind it must you stay?",
+      "options": [
+        "At least 100 feet",
+        "At least 500 feet",
+        "At least 1,000 feet",
+        "At least 200 feet"
+      ],
+      "answer": 1,
+      "explain": "Resume driving after it passes, keeping at least 500 feet away.",
+      "official": false,
+      "ref": "Pennsylvania Driver's Manual (PUB 95, rev. 4-21), Chapter 3 (Learning to Drive), section 'Emergency Vehicles and Situations'"
+    },
+    {
+      "id": "pa-087",
+      "topic": "right-of-way",
+      "q": "Who must you yield to in a highway work zone?",
+      "options": [
+        "Only police",
+        "No one; through traffic has priority",
+        "Workers and construction vehicles",
+        "Only flaggers"
+      ],
+      "answer": 2,
+      "explain": "In work zones, workers and construction equipment have priority; slow down and give way.",
+      "official": false,
+      "ref": "Pennsylvania Driver's Manual (PUB 95, rev. 4-21), Chapter 3 (Learning to Drive), section 'Work Zones'"
+    },
+    {
+      "id": "pa-088",
+      "topic": "right-of-way",
+      "q": "A flagger's directions conflict with a traffic signal in a work zone. You should follow:",
+      "options": [
+        "The flagger",
+        "The posted speed sign",
+        "The traffic signal",
+        "Whichever lets you go sooner"
+      ],
+      "answer": 0,
+      "explain": "A flagger's authority overrides conventional traffic control devices.",
+      "official": false,
+      "ref": "Pennsylvania Driver's Manual (PUB 95, rev. 4-21), Chapter 3 (Learning to Drive), section 'Work Zones'"
+    },
+    {
+      "id": "pa-089",
+      "topic": "right-of-way",
+      "q": "In a short weaving lane between a highway entrance and exit, who must yield?",
+      "options": [
+        "Trucks always yield",
+        "The driver entering the highway yields to the driver exiting",
+        "Whoever is slower",
+        "The exiting driver yields"
+      ],
+      "answer": 1,
+      "explain": "If you are entering, yield to the exiting driver.",
+      "official": false,
+      "ref": "Pennsylvania Driver's Manual (PUB 95, rev. 4-21), Chapter 3 (Learning to Drive), section 'Entering Highways'"
+    },
+    {
+      "id": "pa-090",
+      "topic": "right-of-way",
+      "q": "A funeral procession is passing through an intersection. Other drivers must:",
+      "options": [
+        "Yield and not cut into the procession",
+        "Join the end of the procession",
+        "Pass the procession on the right",
+        "Honk to signal their presence"
+      ],
+      "answer": 0,
+      "explain": "Once the lead vehicle has cleared the intersection, the procession may continue and other traffic must yield.",
+      "official": false,
+      "ref": "Pennsylvania Driver's Manual (PUB 95, rev. 4-21), Chapter 3 (Learning to Drive), section 'Funeral Procession'"
+    },
+    {
+      "id": "pa-091",
+      "topic": "right-of-way",
+      "q": "Vehicles in a funeral procession must yield to:",
+      "options": [
+        "Other drivers on the right",
+        "No one",
+        "Emergency vehicles",
+        "Only school buses"
+      ],
+      "answer": 2,
+      "explain": "Funeral processions must yield to emergency vehicles.",
+      "official": false,
+      "ref": "Pennsylvania Driver's Manual (PUB 95, rev. 4-21), Chapter 3 (Learning to Drive), section 'Funeral Procession'"
+    },
+    {
+      "id": "pa-092",
+      "topic": "right-of-way",
+      "q": "You are stopped at a STOP sign and your view of cross traffic is blocked. What should you do?",
+      "options": [
+        "Sound your horn and proceed",
+        "Back up and choose another route",
+        "Go quickly to get across",
+        "After stopping, creep forward slowly until you can see clearly, then go when clear"
+      ],
+      "answer": 3,
+      "explain": "Stop before the line, yield to pedestrians, then pull forward carefully until you can see.",
+      "official": false,
+      "ref": "Pennsylvania Driver's Manual (PUB 95, rev. 4-21), Chapter 2 (Signals, Signs and Pavement Markings), section 'Regulatory Signs'"
+    },
+    {
+      "id": "pa-093",
+      "topic": "right-of-way",
+      "q": "When a vehicle is entering the highway from an on-ramp next to you, the entering driver:",
+      "options": [
+        "May merge without looking",
+        "Must stop at the end of the ramp",
+        "Has the right-of-way",
+        "Must yield to traffic already on the highway"
+      ],
+      "answer": 3,
+      "explain": "Entering traffic must yield; changing lanes to help them merge is a courtesy if it is safe.",
+      "official": false,
+      "ref": "Pennsylvania Driver's Manual (PUB 95, rev. 4-21), Chapter 3 (Learning to Drive), section 'Traveling on Highways'"
+    },
+    {
+      "id": "pa-094",
+      "topic": "right-of-way",
+      "q": "With a green light, you see traffic backed up beyond the intersection. You should:",
+      "options": [
+        "Enter and wait in the intersection",
+        "Wait until you can clear the intersection before entering",
+        "Turn on hazard lights and enter",
+        "Go around on the shoulder"
+      ],
+      "answer": 1,
+      "explain": "Do not enter an intersection, even on green, if vehicles block your way.",
+      "official": false,
+      "ref": "Pennsylvania Driver's Manual (PUB 95, rev. 4-21), Chapter 3 (Learning to Drive), section 'Crossing Traffic'"
+    },
+    {
+      "id": "pa-095",
+      "topic": "speed",
+      "q": "What is the maximum speed limit allowed anywhere in Pennsylvania?",
+      "options": [
+        "70 mph",
+        "65 mph",
+        "80 mph",
+        "75 mph"
+      ],
+      "answer": 0,
+      "explain": "The maximum speed limit in Pennsylvania is 70 mph where posted.",
+      "official": false,
+      "ref": "Pennsylvania Driver's Manual (PUB 95, rev. 4-21), Chapter 3 (Learning to Drive), section 'Posted Speed Limits'"
+    },
+    {
+      "id": "pa-096",
+      "topic": "speed",
+      "q": "What is the speed limit in a school zone when the yellow lights on the school zone sign are flashing?",
+      "options": [
+        "20 mph",
+        "25 mph",
+        "15 mph",
+        "10 mph"
+      ],
+      "answer": 2,
+      "explain": "You must drive no faster than 15 mph when the lights flash or during posted times.",
+      "official": false,
+      "ref": "Pennsylvania Driver's Manual (PUB 95, rev. 4-21), Chapter 2 (Signals, Signs and Pavement Markings), section 'School Zone Signals'"
+    },
+    {
+      "id": "pa-097",
+      "topic": "speed",
+      "q": "How many points are added for exceeding the school zone speed limit?",
+      "options": [
+        "4",
+        "6",
+        "2",
+        "3"
+      ],
+      "answer": 3,
+      "explain": "Speeding in a school zone results in 3 points and a fine.",
+      "official": false,
+      "ref": "Pennsylvania Driver's Manual (PUB 95, rev. 4-21), Chapter 2 (Signals, Signs and Pavement Markings), section 'School Zone Signals'"
+    },
+    {
+      "id": "pa-098",
+      "topic": "speed",
+      "q": "Unless otherwise posted, what is the speed limit in a Pennsylvania urban district?",
+      "options": [
+        "35 mph",
+        "25 mph",
+        "30 mph",
+        "45 mph"
+      ],
+      "answer": 0,
+      "explain": "The Vehicle Code sets 35 mph in urban districts unless a different limit is posted.",
+      "official": false,
+      "ref": "Pennsylvania Vehicle Code, 75 Pa.C.S. §3362 (maximum speed limits)"
+    },
+    {
+      "id": "pa-099",
+      "topic": "speed",
+      "q": "Unless a different limit is posted, the general maximum speed on Pennsylvania roads outside urban districts (other than posted freeways) is:",
+      "options": [
+        "50 mph",
+        "55 mph",
+        "65 mph",
+        "60 mph"
+      ],
+      "answer": 1,
+      "explain": "The Vehicle Code's default maximum for other locations is 55 mph.",
+      "official": false,
+      "ref": "Pennsylvania Vehicle Code, 75 Pa.C.S. §3362 (maximum speed limits)"
+    },
+    {
+      "id": "pa-100",
+      "topic": "speed",
+      "q": "What following distance does the Pennsylvania manual recommend on dry pavement?",
+      "options": [
+        "1 car length per 10 mph",
+        "3 seconds",
+        "At least 4 seconds",
+        "2 seconds"
+      ],
+      "answer": 2,
+      "explain": "A 4-second following distance lets you steer or brake to avoid a hazard on dry pavement.",
+      "official": false,
+      "ref": "Pennsylvania Driver's Manual (PUB 95, rev. 4-21), Chapter 3 (Learning to Drive), section 'Keep a Space Cushion Ahead (4-Second Rule)'"
+    },
+    {
+      "id": "pa-101",
+      "topic": "speed",
+      "q": "On wet roads, the manual says to reduce speed by 5 to 10 mph and increase following distance to:",
+      "options": [
+        "8 to 10 seconds",
+        "3 seconds",
+        "2 seconds",
+        "5 to 6 seconds"
+      ],
+      "answer": 3,
+      "explain": "Slow 5–10 mph on wet roads and allow 5–6 seconds of following distance.",
+      "official": false,
+      "ref": "Pennsylvania Driver's Manual (PUB 95, rev. 4-21), Chapter 3 (Learning to Drive), section 'Road Conditions: Snow and Ice'"
+    },
+    {
+      "id": "pa-102",
+      "topic": "speed",
+      "q": "On packed snow, you should reduce your speed by about:",
+      "options": [
+        "Half",
+        "5 mph",
+        "A quarter",
+        "10 percent"
+      ],
+      "answer": 0,
+      "explain": "Cut your speed roughly in half on packed snow, and to a crawl on ice.",
+      "official": false,
+      "ref": "Pennsylvania Driver's Manual (PUB 95, rev. 4-21), Chapter 3 (Learning to Drive), section 'Road Conditions: Snow and Ice'"
+    },
+    {
+      "id": "pa-103",
+      "topic": "speed",
+      "q": "On ice- or snow-covered roads, how much space should you leave compared with normal?",
+      "options": [
+        "The same",
+        "About 10 times more",
+        "About twice as much",
+        "About 3 times more"
+      ],
+      "answer": 1,
+      "explain": "Leave about 10 times more space than normal on ice or snow.",
+      "official": false,
+      "ref": "Pennsylvania Driver's Manual (PUB 95, rev. 4-21), Chapter 3 (Learning to Drive), section 'Road Conditions: Snow and Ice'"
+    },
+    {
+      "id": "pa-104",
+      "topic": "speed",
+      "q": "Hydroplaning can begin at speeds as low as:",
+      "options": [
+        "45 mph",
+        "55 mph",
+        "35 mph",
+        "25 mph"
+      ],
+      "answer": 2,
+      "explain": "You can hydroplane at 35 mph on water only 1/10 of an inch deep.",
+      "official": false,
+      "ref": "Pennsylvania Driver's Manual (PUB 95, rev. 4-21), Chapter 3 (Learning to Drive), section 'Road Conditions: Hydroplaning'"
+    },
+    {
+      "id": "pa-105",
+      "topic": "speed",
+      "q": "Roads are often most slippery:",
+      "options": [
+        "During the first 10 to 15 minutes of a rainstorm",
+        "Only when temperatures are below freezing",
+        "After it has rained for several hours",
+        "Right after the rain stops and the road dries"
+      ],
+      "answer": 0,
+      "explain": "Rain brings oil in the asphalt to the surface early in a storm.",
+      "official": false,
+      "ref": "Pennsylvania Driver's Manual (PUB 95, rev. 4-21), Chapter 3 (Learning to Drive), section 'Road Conditions: Wet Pavements'"
+    },
+    {
+      "id": "pa-106",
+      "topic": "speed",
+      "q": "Low-beam headlights light the road about how far ahead?",
+      "options": [
+        "100 feet",
+        "500 feet",
+        "1,000 feet",
+        "250 feet"
+      ],
+      "answer": 3,
+      "explain": "Low beams shine only about 250 feet, less than the stopping distance at 55 mph.",
+      "official": false,
+      "ref": "Pennsylvania Driver's Manual (PUB 95, rev. 4-21), Chapter 3 (Learning to Drive), section 'Driving at Night'"
+    },
+    {
+      "id": "pa-107",
+      "topic": "speed",
+      "q": "To avoid overdriving your low-beam headlights on a dark road, you should not drive faster than about:",
+      "options": [
+        "55 mph",
+        "45 mph",
+        "65 mph",
+        "35 mph"
+      ],
+      "answer": 1,
+      "explain": "Stopping from 55 mph takes more than 250 feet, so the manual advises 45 mph or less.",
+      "official": false,
+      "ref": "Pennsylvania Driver's Manual (PUB 95, rev. 4-21), Chapter 3 (Learning to Drive), section 'Driving at Night'"
+    },
+    {
+      "id": "pa-108",
+      "topic": "speed",
+      "q": "Can you be ticketed for driving too fast even when you are under the posted limit?",
+      "options": [
+        "Only in work zones",
+        "No, the posted limit is always legal",
+        "Yes, if your speed is too fast for conditions",
+        "Only on interstates"
+      ],
+      "answer": 2,
+      "explain": "You can be ticketed for driving too fast for conditions.",
+      "official": false,
+      "ref": "Pennsylvania Driver's Manual (PUB 95, rev. 4-21), Chapter 3 (Learning to Drive), section 'Managing Speed'"
+    },
+    {
+      "id": "pa-109",
+      "topic": "speed",
+      "q": "What is the No. 1 reason 16- and 17-year-old Pennsylvania drivers are involved in crashes?",
+      "options": [
+        "Running red lights",
+        "Drunk driving",
+        "Driving too fast for conditions",
+        "Mechanical failure"
+      ],
+      "answer": 2,
+      "explain": "The manual lists driving too fast for conditions as the top crash factor for teen drivers.",
+      "official": false,
+      "ref": "Pennsylvania Driver's Manual (PUB 95, rev. 4-21), Chapter 2 (Signals, Signs and Pavement Markings), section 'Regulatory Signs: Teen Crash Fact'"
+    },
+    {
+      "id": "pa-110",
+      "topic": "speed",
+      "q": "On a limited-access highway, if you must drive below 40 mph you should:",
+      "options": [
+        "Use high beams",
+        "Drive on the shoulder",
+        "Stop on the shoulder every mile",
+        "Use your hazard (four-way) flashers"
+      ],
+      "answer": 3,
+      "explain": "Use hazard flashers to warn drivers behind you when going below 40 mph on a limited-access highway.",
+      "official": false,
+      "ref": "Pennsylvania Driver's Manual (PUB 95, rev. 4-21), Chapter 3 (Learning to Drive), section 'Communicating Your Intentions to Other Drivers'"
+    },
+    {
+      "id": "pa-111",
+      "topic": "speed",
+      "q": "How fast must you be going to safely pass a slower vehicle on a two-lane road?",
+      "options": [
+        "5 mph slower than the limit",
+        "About 10 mph faster than the vehicle you are passing",
+        "The same speed",
+        "At least 20 mph over the speed limit"
+      ],
+      "answer": 1,
+      "explain": "A safe pass needs about a 10 mph speed advantage over the vehicle being passed, without exceeding the limit.",
+      "official": false,
+      "ref": "Pennsylvania Driver's Manual (PUB 95, rev. 4-21), Chapter 3 (Learning to Drive), section 'Passing: On a Two-Lane Road'"
+    },
+    {
+      "id": "pa-112",
+      "topic": "speed",
+      "q": "At 45 mph, about how much clear road do you need to pass a slower vehicle on a two-lane road?",
+      "options": [
+        "1/4 mile",
+        "500 feet",
+        "1/10 mile",
+        "1 mile"
+      ],
+      "answer": 0,
+      "explain": "At 45 mph you need about a quarter mile of clear roadway.",
+      "official": false,
+      "ref": "Pennsylvania Driver's Manual (PUB 95, rev. 4-21), Chapter 3 (Learning to Drive), section 'Passing: On a Two-Lane Road'"
+    },
+    {
+      "id": "pa-113",
+      "topic": "speed",
+      "q": "How far ahead should you scan to spot problems early?",
+      "options": [
+        "Only to the vehicle in front",
+        "12 to 15 seconds ahead",
+        "2 to 4 seconds ahead",
+        "30 seconds ahead"
+      ],
+      "answer": 1,
+      "explain": "Look 12 to 15 seconds ahead: roughly a city block, or about a quarter mile on the highway.",
+      "official": false,
+      "ref": "Pennsylvania Driver's Manual (PUB 95, rev. 4-21), Chapter 3 (Learning to Drive), section 'Looking Ahead'"
+    },
+    {
+      "id": "pa-114",
+      "topic": "speed",
+      "q": "A passenger car traveling 65 mph on a dry road needs about how much distance to stop, according to the manual?",
+      "options": [
+        "400 feet",
+        "600 feet",
+        "150 feet",
+        "250 feet"
+      ],
+      "answer": 0,
+      "explain": "A passenger vehicle needs about 400 feet; a loaded truck needs about 600 feet.",
+      "official": false,
+      "ref": "Pennsylvania Driver's Manual (PUB 95, rev. 4-21), Chapter 3 (Learning to Drive), section 'Sharing the Road with Trucks and Buses: Braking'"
+    },
+    {
+      "id": "pa-115",
+      "topic": "speed",
+      "q": "Speeding 6 to 10 mph over the limit adds how many points to your record?",
+      "options": [
+        "1",
+        "3",
+        "2",
+        "4"
+      ],
+      "answer": 2,
+      "explain": "Points for speeding: 6–10 mph over = 2; 11–15 = 3; 16–25 = 4; 26+ = 5.",
+      "official": false,
+      "ref": "PennDOT fact sheet 'The Pennsylvania Point System' (March 2024)"
+    },
+    {
+      "id": "pa-116",
+      "topic": "speed",
+      "q": "Speeding 16 to 25 mph over the limit adds how many points?",
+      "options": [
+        "5",
+        "3",
+        "2",
+        "4"
+      ],
+      "answer": 3,
+      "explain": "16–25 mph over the limit carries 4 points.",
+      "official": false,
+      "ref": "PennDOT fact sheet 'The Pennsylvania Point System' (March 2024)"
+    },
+    {
+      "id": "pa-117",
+      "topic": "speed",
+      "q": "A driver convicted of speeding 31 mph or more over the limit faces:",
+      "options": [
+        "A warning letter only",
+        "2 points only",
+        "Automatic permanent revocation",
+        "5 points plus a Departmental Hearing"
+      ],
+      "answer": 3,
+      "explain": "31+ mph over brings 5 points and a Departmental Hearing with possible sanctions.",
+      "official": false,
+      "ref": "PennDOT fact sheet 'The Pennsylvania Point System' (March 2024)"
+    },
+    {
+      "id": "pa-118",
+      "topic": "turns",
+      "q": "When driving under 35 mph, how far before a turn must you signal?",
+      "options": [
+        "At least 50 feet",
+        "At least 100 feet",
+        "At least 500 feet",
+        "At least 300 feet"
+      ],
+      "answer": 1,
+      "explain": "Under 35 mph, signal at least 100 feet before turning.",
+      "official": false,
+      "ref": "Pennsylvania Driver's Manual (PUB 95, rev. 4-21), Chapter 3 (Learning to Drive), section 'Communicating Your Intentions to Other Drivers'"
+    },
+    {
+      "id": "pa-119",
+      "topic": "turns",
+      "q": "When driving 35 mph or faster, how far before a turn must you signal?",
+      "options": [
+        "At least 300 feet",
+        "At least 500 feet",
+        "At least 100 feet",
+        "At least 200 feet"
+      ],
+      "answer": 0,
+      "explain": "At 35 mph or more, signal at least 300 feet before turning.",
+      "official": false,
+      "ref": "Pennsylvania Driver's Manual (PUB 95, rev. 4-21), Chapter 3 (Learning to Drive), section 'Communicating Your Intentions to Other Drivers'"
+    },
+    {
+      "id": "pa-120",
+      "topic": "turns",
+      "q": "The manual's step-by-step turn guidance says to signal how long before you turn?",
+      "options": [
+        "1 second",
+        "Only as you begin to turn",
+        "3 to 4 seconds",
+        "10 seconds"
+      ],
+      "answer": 2,
+      "explain": "Signal three to four seconds before your turn.",
+      "official": false,
+      "ref": "Pennsylvania Driver's Manual (PUB 95, rev. 4-21), Chapter 3 (Learning to Drive), section 'To Complete a Turn Safely'"
+    },
+    {
+      "id": "pa-121",
+      "topic": "turns",
+      "q": "On a two-lane, two-way road, where should you make a left turn from?",
+      "options": [
+        "The shoulder",
+        "The right edge of the road",
+        "As close to the centerline as possible",
+        "The middle of your lane"
+      ],
+      "answer": 2,
+      "explain": "Make left turns from close to the centerline and right turns close to the right edge.",
+      "official": false,
+      "ref": "Pennsylvania Driver's Manual (PUB 95, rev. 4-21), Chapter 3 (Learning to Drive), section 'Left and Right Turns'"
+    },
+    {
+      "id": "pa-122",
+      "topic": "turns",
+      "q": "When turning onto a road with more than one lane in your direction, you should turn into:",
+      "options": [
+        "The center turn lane",
+        "Any open lane",
+        "The far lane",
+        "The closest lane going in your direction"
+      ],
+      "answer": 3,
+      "explain": "Turn into the nearest lane; change lanes only after completing the turn.",
+      "official": false,
+      "ref": "Pennsylvania Driver's Manual (PUB 95, rev. 4-21), Chapter 3 (Learning to Drive), section 'Left and Right Turns'"
+    },
+    {
+      "id": "pa-123",
+      "topic": "turns",
+      "q": "When may you turn right on a steady red light in Pennsylvania?",
+      "options": [
+        "After stopping and yielding, unless a sign prohibits it",
+        "Only with a green arrow",
+        "Without stopping if no one is coming",
+        "Never"
+      ],
+      "answer": 0,
+      "explain": "Stop, yield to pedestrians and traffic, then turn unless NO TURN ON RED is posted.",
+      "official": false,
+      "ref": "Pennsylvania Driver's Manual (PUB 95, rev. 4-21), Chapter 3 (Learning to Drive), section 'Turning Right at a Red Light'"
+    },
+    {
+      "id": "pa-124",
+      "topic": "turns",
+      "q": "A left turn on a steady red light is allowed only when:",
+      "options": [
+        "No pedestrians are present",
+        "Turning from a one-way street onto another one-way street, after stopping and yielding",
+        "It is after midnight",
+        "Turning onto any two-way street"
+      ],
+      "answer": 1,
+      "explain": "Left on red is only legal from a one-way street into another one-way street, after a full stop and yielding, and not where a sign forbids it.",
+      "official": false,
+      "ref": "Pennsylvania Driver's Manual (PUB 95, rev. 4-21), Chapter 2 (Signals, Signs and Pavement Markings), section 'Red, Yellow and Green Traffic Lights'"
+    },
+    {
+      "id": "pa-125",
+      "topic": "turns",
+      "q": "When choosing a place to make a U-turn, vehicles from all directions should be at least how far away?",
+      "options": [
+        "100 feet",
+        "500 feet",
+        "200 feet",
+        "1,000 feet"
+      ],
+      "answer": 1,
+      "explain": "Make sure other drivers are at least 500 feet away and can see you clearly.",
+      "official": false,
+      "ref": "Pennsylvania Driver's Manual (PUB 95, rev. 4-21), Chapter 3 (Learning to Drive), section 'U-Turns'"
+    },
+    {
+      "id": "pa-126",
+      "topic": "turns",
+      "q": "U-turns are not allowed:",
+      "options": [
+        "On curves or near the crest of a hill",
+        "At intersections with stop signs",
+        "On any two-lane road",
+        "In daylight"
+      ],
+      "answer": 0,
+      "explain": "U-turns are illegal on curves or when approaching or near the top of a hill.",
+      "official": false,
+      "ref": "Pennsylvania Driver's Manual (PUB 95, rev. 4-21), Chapter 3 (Learning to Drive), section 'U-Turns'"
+    },
+    {
+      "id": "pa-127",
+      "topic": "turns",
+      "q": "You may NOT pass another vehicle when you are within how many feet of an intersection, railroad crossing, bridge or tunnel?",
+      "options": [
+        "500 feet",
+        "50 feet",
+        "300 feet",
+        "100 feet"
+      ],
+      "answer": 3,
+      "explain": "No passing within 100 feet of intersections, railroad crossings, bridges, elevated structures or tunnels.",
+      "official": false,
+      "ref": "Pennsylvania Driver's Manual (PUB 95, rev. 4-21), Chapter 3 (Learning to Drive), section 'Passing: You May Not Pass If'"
+    },
+    {
+      "id": "pa-128",
+      "topic": "turns",
+      "q": "Before returning to your lane after passing, you should be able to see:",
+      "options": [
+        "The passed vehicle's rear bumper",
+        "The passed vehicle in your side mirror only",
+        "Both headlights of the passed vehicle in your rearview mirror",
+        "The passed vehicle beside your door"
+      ],
+      "answer": 2,
+      "explain": "Return only when both headlights of the vehicle you passed appear in your rearview mirror.",
+      "official": false,
+      "ref": "Pennsylvania Driver's Manual (PUB 95, rev. 4-21), Chapter 3 (Learning to Drive), section 'Passing'"
+    },
+    {
+      "id": "pa-129",
+      "topic": "turns",
+      "q": "When may you pass on the right?",
+      "options": [
+        "Never in Pennsylvania",
+        "When the vehicle ahead is turning left, or on roads with two or more marked lanes in your direction",
+        "Only on two-lane roads",
+        "Whenever the shoulder is wide enough"
+      ],
+      "answer": 1,
+      "explain": "Passing on the right is allowed in these limited situations; never use a multi-lane highway shoulder to pass.",
+      "official": false,
+      "ref": "Pennsylvania Driver's Manual (PUB 95, rev. 4-21), Chapter 3 (Learning to Drive), section 'Passing on the Right'"
+    },
+    {
+      "id": "pa-130",
+      "topic": "turns",
+      "q": "Passing is most dangerous at night because:",
+      "options": [
+        "You cannot see as far and distances are harder to judge",
+        "Headlights must be off",
+        "Speed limits are lower",
+        "Traffic is always heavier"
+      ],
+      "answer": 0,
+      "explain": "At night, oncoming headlights can make a vehicle seem farther away than it is.",
+      "official": false,
+      "ref": "Pennsylvania Driver's Manual (PUB 95, rev. 4-21), Chapter 3 (Learning to Drive), section 'Passing: On a Two-Lane Road'"
+    },
+    {
+      "id": "pa-131",
+      "topic": "turns",
+      "q": "Which of these is illegal on an acceleration lane?",
+      "options": [
+        "Looking over your shoulder",
+        "Using your turn signal",
+        "Speeding up to traffic speed",
+        "Passing the vehicle ahead of you"
+      ],
+      "answer": 3,
+      "explain": "Passing the car ahead while still in the acceleration lane is against the law.",
+      "official": false,
+      "ref": "Pennsylvania Driver's Manual (PUB 95, rev. 4-21), Chapter 3 (Learning to Drive), section 'Merging with Traffic'"
+    },
+    {
+      "id": "pa-132",
+      "topic": "turns",
+      "q": "What are the three steps to merge from an acceleration lane?",
+      "options": [
+        "Sound the horn, merge, then signal",
+        "Stop at the end, wait, then go",
+        "Signal and look for a gap, accelerate to traffic speed, merge into the gap",
+        "Merge immediately, then accelerate"
+      ],
+      "answer": 2,
+      "explain": "Signal, match the speed of traffic, then merge into the opening.",
+      "official": false,
+      "ref": "Pennsylvania Driver's Manual (PUB 95, rev. 4-21), Chapter 3 (Learning to Drive), section 'Merging with Traffic'"
+    },
+    {
+      "id": "pa-133",
+      "topic": "turns",
+      "q": "You missed your highway exit. What should you do?",
+      "options": [
+        "Stop and wait for a gap to back up",
+        "Back up on the shoulder",
+        "Continue to the next exit",
+        "Cross the median to turn around"
+      ],
+      "answer": 2,
+      "explain": "Never stop, back up or cross the median on a highway; take the next exit.",
+      "official": false,
+      "ref": "Pennsylvania Driver's Manual (PUB 95, rev. 4-21), Chapter 3 (Learning to Drive), section 'Exiting Highways'"
+    },
+    {
+      "id": "pa-134",
+      "topic": "turns",
+      "q": "When using a center two-way left-turn lane, you should:",
+      "options": [
+        "Enter it completely and not drive in it too long",
+        "Use it to pass slow traffic",
+        "Enter it a block early",
+        "Leave your rear sticking into the travel lane"
+      ],
+      "answer": 0,
+      "explain": "The longer you drive in the center lane, the more likely you are to meet someone head-on.",
+      "official": false,
+      "ref": "Pennsylvania Driver's Manual (PUB 95, rev. 4-21), Chapter 3 (Learning to Drive), section 'Turning From or Into a Center Turn Lane'"
+    },
+    {
+      "id": "pa-135",
+      "topic": "turns",
+      "q": "You are in a lane marked for through traffic but wanted to turn. You must:",
+      "options": [
+        "Stop and wait for a gap",
+        "Continue straight through the intersection",
+        "Turn anyway after signaling",
+        "Back up into the turn lane"
+      ],
+      "answer": 1,
+      "explain": "If you are in a through lane, continue straight; if in a turn-only lane, you must turn.",
+      "official": false,
+      "ref": "Pennsylvania Driver's Manual (PUB 95, rev. 4-21), Chapter 3 (Learning to Drive), section 'Signs and Pavement Markings for Lane Assignment'"
+    },
+    {
+      "id": "pa-136",
+      "topic": "turns",
+      "q": "To turn left onto a divided highway, you should:",
+      "options": [
+        "Turn left into the first roadway",
+        "Drive in the median",
+        "Turn right and make a U-turn",
+        "Cross the first roadway, then turn left into the far roadway past the median"
+      ],
+      "answer": 3,
+      "explain": "A divided highway is two one-way roads; turning left too soon puts you into oncoming traffic.",
+      "official": false,
+      "ref": "Pennsylvania Driver's Manual (PUB 95, rev. 4-21), Chapter 3 (Learning to Drive), section 'One Way, Wrong Way and Do Not Enter Signs'"
+    },
+    {
+      "id": "pa-137",
+      "topic": "turns",
+      "q": "To cross a two-way stop-controlled intersection with a 30 mph cross street, you need about what gap in both directions?",
+      "options": [
+        "4 seconds",
+        "2 seconds",
+        "6 seconds",
+        "12 seconds"
+      ],
+      "answer": 2,
+      "explain": "Allow about a 6-second gap, about a block of clear space each way.",
+      "official": false,
+      "ref": "Pennsylvania Driver's Manual (PUB 95, rev. 4-21), Chapter 3 (Learning to Drive), section 'Moving Into and Through Intersections Safely'"
+    },
+    {
+      "id": "pa-138",
+      "topic": "turns",
+      "q": "When turning left from a minor street onto a major street, allow a gap of about how long from vehicles approaching from the right?",
+      "options": [
+        "4 seconds",
+        "9 seconds",
+        "6 seconds",
+        "15 seconds"
+      ],
+      "answer": 1,
+      "explain": "The manual recommends a 9-second gap for this left turn.",
+      "official": false,
+      "ref": "Pennsylvania Driver's Manual (PUB 95, rev. 4-21), Chapter 3 (Learning to Drive), section 'Moving Into and Through Intersections Safely'"
+    },
+    {
+      "id": "pa-139",
+      "topic": "turns",
+      "q": "At an intersection, which way should you look first before pulling out?",
+      "options": [
+        "Left, then right, then left again",
+        "Left only",
+        "Straight ahead only",
+        "Right, then left"
+      ],
+      "answer": 0,
+      "explain": "Vehicles from the left are closer to you, so look left first and again before pulling out.",
+      "official": false,
+      "ref": "Pennsylvania Driver's Manual (PUB 95, rev. 4-21), Chapter 3 (Learning to Drive), section 'Looking to the Sides'"
+    },
+    {
+      "id": "pa-140",
+      "topic": "turns",
+      "q": "Before changing lanes, you should check your blind spots by:",
+      "options": [
+        "Relying on your mirrors",
+        "Asking a passenger",
+        "Using only your lane-change sensors",
+        "Looking over your shoulder in the direction you are moving"
+      ],
+      "answer": 3,
+      "explain": "Do not rely on mirrors or sensors alone; turn your head to check blind spots quickly.",
+      "official": false,
+      "ref": "Pennsylvania Driver's Manual (PUB 95, rev. 4-21), Chapter 3 (Learning to Drive), section 'Looking Behind'"
+    },
+    {
+      "id": "pa-141",
+      "topic": "turns",
+      "q": "On highways, when changing lanes to pass, you should:",
+      "options": [
+        "Change one lane at a time, signaling each time",
+        "Skip the signal if no one is near",
+        "Cross several lanes at once",
+        "Signal only once for multiple lanes"
+      ],
+      "answer": 0,
+      "explain": "Change one lane at a time and use your signal every time.",
+      "official": false,
+      "ref": "Pennsylvania Driver's Manual (PUB 95, rev. 4-21), Chapter 3 (Learning to Drive), section 'Traveling on Highways'"
+    },
+    {
+      "id": "pa-142",
+      "topic": "turns",
+      "q": "If your turn signals do not work, how do you signal a left turn by hand?",
+      "options": [
+        "Left arm pointing down",
+        "Left arm pointing up",
+        "Right arm out the passenger window",
+        "Extend your left arm straight out the window"
+      ],
+      "answer": 3,
+      "explain": "Left arm straight out for left; up for right; down for slowing or stopping.",
+      "official": false,
+      "ref": "Pennsylvania Driver's Manual (PUB 95, rev. 4-21), Chapter 3 (Learning to Drive), section 'Hand Signals'"
+    },
+    {
+      "id": "pa-143",
+      "topic": "turns",
+      "q": "A hand signal with your left arm bent upward at the elbow means:",
+      "options": [
+        "Passing",
+        "Right turn",
+        "Left turn",
+        "Slowing or stopping"
+      ],
+      "answer": 1,
+      "explain": "Left arm angled up signals a right turn.",
+      "official": false,
+      "ref": "Pennsylvania Driver's Manual (PUB 95, rev. 4-21), Chapter 3 (Learning to Drive), section 'Hand Signals'"
+    },
+    {
+      "id": "pa-144",
+      "topic": "parking",
+      "q": "You may not park within how many feet of a fire hydrant?",
+      "options": [
+        "30 feet",
+        "20 feet",
+        "15 feet",
+        "10 feet"
+      ],
+      "answer": 2,
+      "explain": "Never park within 15 feet of a fire hydrant.",
+      "official": false,
+      "ref": "Pennsylvania Driver's Manual (PUB 95, rev. 4-21), Chapter 3 (Learning to Drive), section 'Parking'"
+    },
+    {
+      "id": "pa-145",
+      "topic": "parking",
+      "q": "You may not park within how many feet of a crosswalk at an intersection?",
+      "options": [
+        "20 feet",
+        "10 feet",
+        "15 feet",
+        "30 feet"
+      ],
+      "answer": 0,
+      "explain": "Keep at least 20 feet back from a crosswalk at an intersection when parking.",
+      "official": false,
+      "ref": "Pennsylvania Driver's Manual (PUB 95, rev. 4-21), Chapter 3 (Learning to Drive), section 'Parking'"
+    },
+    {
+      "id": "pa-146",
+      "topic": "parking",
+      "q": "You may not park within how many feet of a stop sign, yield sign or flashing signal at the side of the road?",
+      "options": [
+        "15 feet",
+        "20 feet",
+        "50 feet",
+        "30 feet"
+      ],
+      "answer": 3,
+      "explain": "Stay at least 30 feet from these roadside traffic control devices.",
+      "official": false,
+      "ref": "Pennsylvania Driver's Manual (PUB 95, rev. 4-21), Chapter 3 (Learning to Drive), section 'Parking'"
+    },
+    {
+      "id": "pa-147",
+      "topic": "parking",
+      "q": "You may not park within how many feet of the nearest rail at a railroad crossing?",
+      "options": [
+        "100 feet",
+        "15 feet",
+        "50 feet",
+        "30 feet"
+      ],
+      "answer": 2,
+      "explain": "Parking within 50 feet of the nearest rail is prohibited.",
+      "official": false,
+      "ref": "Pennsylvania Driver's Manual (PUB 95, rev. 4-21), Chapter 3 (Learning to Drive), section 'Parking'"
+    },
+    {
+      "id": "pa-148",
+      "topic": "parking",
+      "q": "You may not park within how many feet of a fire station driveway entrance?",
+      "options": [
+        "15 feet",
+        "20 feet",
+        "75 feet",
+        "50 feet"
+      ],
+      "answer": 1,
+      "explain": "Do not park within 20 feet of a fire station driveway entrance.",
+      "official": false,
+      "ref": "Pennsylvania Driver's Manual (PUB 95, rev. 4-21), Chapter 3 (Learning to Drive), section 'Parking'"
+    },
+    {
+      "id": "pa-149",
+      "topic": "parking",
+      "q": "When parking next to a curb, your wheels must be no more than how far from it?",
+      "options": [
+        "24 inches",
+        "6 inches",
+        "18 inches",
+        "12 inches"
+      ],
+      "answer": 3,
+      "explain": "Park as close as you can to the curb, but no more than 12 inches away.",
+      "official": false,
+      "ref": "Pennsylvania Driver's Manual (PUB 95, rev. 4-21), Chapter 3 (Learning to Drive), section 'Parking'"
+    },
+    {
+      "id": "pa-150",
+      "topic": "parking",
+      "q": "When parking downhill next to a curb, which way should you turn your front wheels?",
+      "options": [
+        "It does not matter",
+        "Away from the curb (left)",
+        "Toward the curb (right)",
+        "Straight ahead"
+      ],
+      "answer": 2,
+      "explain": "Downhill, with or without a curb, turn the wheels to the right.",
+      "official": false,
+      "ref": "Pennsylvania Driver's Manual (PUB 95, rev. 4-21), Chapter 3 (Learning to Drive), section 'How to Park Your Vehicle on a Hill'"
+    },
+    {
+      "id": "pa-151",
+      "topic": "parking",
+      "q": "When parking uphill next to a curb, which way should you turn your front wheels?",
+      "options": [
+        "Away from the curb (left)",
+        "Straight ahead",
+        "Toward the curb (right)",
+        "Toward the curb only if the hill is steep"
+      ],
+      "answer": 0,
+      "explain": "Uphill with a curb, turn the wheels left so the tire rests against the curb if the car rolls.",
+      "official": false,
+      "ref": "Pennsylvania Driver's Manual (PUB 95, rev. 4-21), Chapter 3 (Learning to Drive), section 'How to Park Your Vehicle on a Hill'"
+    },
+    {
+      "id": "pa-152",
+      "topic": "parking",
+      "q": "When parking uphill on a road with no curb, which way should you turn your wheels?",
+      "options": [
+        "Toward the center line",
+        "To the right, toward the edge of the road",
+        "Straight",
+        "To the left"
+      ],
+      "answer": 1,
+      "explain": "Without a curb, uphill or downhill, turn the wheels to the right.",
+      "official": false,
+      "ref": "Pennsylvania Driver's Manual (PUB 95, rev. 4-21), Chapter 3 (Learning to Drive), section 'How to Park Your Vehicle on a Hill'"
+    },
+    {
+      "id": "pa-153",
+      "topic": "parking",
+      "q": "Which of these is a place where you may never park (except in an emergency or when directed by police)?",
+      "options": [
+        "In a marked parking space",
+        "25 feet from a fire hydrant",
+        "On a residential street at night",
+        "On a bridge or in a highway tunnel"
+      ],
+      "answer": 3,
+      "explain": "Bridges, elevated structures and tunnels are no-parking locations.",
+      "official": false,
+      "ref": "Pennsylvania Driver's Manual (PUB 95, rev. 4-21), Chapter 3 (Learning to Drive), section 'Parking'"
+    },
+    {
+      "id": "pa-154",
+      "topic": "parking",
+      "q": "Stopping on the roadway side of a vehicle that is already parked at the curb is called:",
+      "options": [
+        "Angle parking",
+        "Legal loading",
+        "Double parking, and it is not allowed",
+        "Standing, and it is allowed for 5 minutes"
+      ],
+      "answer": 2,
+      "explain": "Double parking is prohibited except in emergencies or as directed by police.",
+      "official": false,
+      "ref": "Pennsylvania Driver's Manual (PUB 95, rev. 4-21), Chapter 3 (Learning to Drive), section 'Parking'"
+    },
+    {
+      "id": "pa-155",
+      "topic": "parking",
+      "q": "If you must park on the roadway, your vehicle should be visible from at least how far in both directions?",
+      "options": [
+        "500 feet",
+        "100 feet",
+        "1,000 feet",
+        "200 feet"
+      ],
+      "answer": 0,
+      "explain": "Use four-way flashers and make sure the vehicle can be seen 500 feet in both directions.",
+      "official": false,
+      "ref": "Pennsylvania Driver's Manual (PUB 95, rev. 4-21), Chapter 3 (Learning to Drive), section 'Parking'"
+    },
+    {
+      "id": "pa-156",
+      "topic": "parking",
+      "q": "Which direction must you face when parking on the street?",
+      "options": [
+        "Toward the nearest intersection",
+        "The direction traffic moves",
+        "Against traffic on one-way streets",
+        "Either direction"
+      ],
+      "answer": 1,
+      "explain": "Always park in the direction traffic moves.",
+      "official": false,
+      "ref": "Pennsylvania Driver's Manual (PUB 95, rev. 4-21), Chapter 3 (Learning to Drive), section 'Parking'"
+    },
+    {
+      "id": "pa-157",
+      "topic": "parking",
+      "q": "What is the fine for illegally parking in a space for persons with disabilities?",
+      "options": [
+        "No fine, only a warning",
+        "$10",
+        "$50 to $200, plus possible towing",
+        "$500 to $1,000"
+      ],
+      "answer": 2,
+      "explain": "This summary offense carries a $50–$200 fine, and the vehicle may be towed.",
+      "official": false,
+      "ref": "Pennsylvania Driver's Manual (PUB 95, rev. 4-21), Chapter 5 (Laws and Related Issues), section 'Parking Areas for Persons with Disabilities'"
+    },
+    {
+      "id": "pa-158",
+      "topic": "parking",
+      "q": "Before getting out of your parked car on the street side, you should:",
+      "options": [
+        "Leave the engine running",
+        "Open the door quickly",
+        "Turn on high beams",
+        "Check for traffic and bicyclists behind you"
+      ],
+      "answer": 3,
+      "explain": "Check traffic before getting out; using your far hand (the 'Dutch Reach') helps you see approaching cyclists.",
+      "official": false,
+      "ref": "Pennsylvania Driver's Manual (PUB 95, rev. 4-21), Chapter 5 (Laws and Related Issues), section 'The Danger of Open Doors to Bicyclists'"
+    },
+    {
+      "id": "pa-159",
+      "topic": "sharing",
+      "q": "When a school bus is stopped with red lights flashing and stop arm extended, how far away must you stop?",
+      "options": [
+        "At least 10 feet",
+        "At least 50 feet",
+        "At least 25 feet",
+        "At least 5 feet"
+      ],
+      "answer": 0,
+      "explain": "Stop at least 10 feet from the bus, whether behind it, facing it or at an intersection where it is stopped.",
+      "official": false,
+      "ref": "Pennsylvania Driver's Manual (PUB 95, rev. 4-21), Chapter 3 (Learning to Drive), section 'School Buses'"
+    },
+    {
+      "id": "pa-160",
+      "topic": "sharing",
+      "q": "Amber (yellow) flashing lights on a school bus mean:",
+      "options": [
+        "You may pass quickly",
+        "The bus is preparing to stop; slow down and get ready to stop",
+        "The bus has finished unloading",
+        "Stop immediately"
+      ],
+      "answer": 1,
+      "explain": "Amber lights begin flashing when the bus is preparing to stop.",
+      "official": false,
+      "ref": "Pennsylvania Driver's Manual (PUB 95, rev. 4-21), Chapter 3 (Learning to Drive), section 'School Buses'"
+    },
+    {
+      "id": "pa-161",
+      "topic": "sharing",
+      "q": "When must you NOT stop for a school bus with red lights flashing?",
+      "options": [
+        "When you are behind the bus on a two-lane road",
+        "When you are on the opposite side of a divided highway with a physical median or barrier",
+        "When no children are visible",
+        "When you are on a four-lane road with no median"
+      ],
+      "answer": 1,
+      "explain": "The only exception is the opposite side of a divided highway separated by a barrier or median; slow down and proceed carefully.",
+      "official": false,
+      "ref": "Pennsylvania Driver's Manual (PUB 95, rev. 4-21), Chapter 3 (Learning to Drive), section 'School Buses'"
+    },
+    {
+      "id": "pa-162",
+      "topic": "sharing",
+      "q": "What is the penalty for failing to stop for a school bus with flashing red lights and extended stop arm?",
+      "options": [
+        "2 points only",
+        "15-day suspension",
+        "60-day license suspension, 5 points and a fine",
+        "A warning on the first offense"
+      ],
+      "answer": 2,
+      "explain": "Failure to stop results in a 60-day suspension, 5 points and a fine.",
+      "official": false,
+      "ref": "Pennsylvania Driver's Manual (PUB 95, rev. 4-21), Chapter 3 (Learning to Drive), section 'School Buses'"
+    },
+    {
+      "id": "pa-163",
+      "topic": "sharing",
+      "q": "After a school bus turns off its red lights, you may go when:",
+      "options": [
+        "Any time after 10 seconds",
+        "The red lights turn off, even if children are still crossing",
+        "The bus driver waves you on",
+        "The stop arm is withdrawn and the children have reached a safe place"
+      ],
+      "answer": 3,
+      "explain": "Remain stopped until the lights stop flashing, the arm is withdrawn, and children are safe.",
+      "official": false,
+      "ref": "Pennsylvania Driver's Manual (PUB 95, rev. 4-21), Chapter 3 (Learning to Drive), section 'School Buses'"
+    },
+    {
+      "id": "pa-164",
+      "topic": "sharing",
+      "q": "When passing a bicyclist, Pennsylvania law requires at least how much space?",
+      "options": [
+        "4 feet",
+        "6 feet",
+        "2 feet",
+        "3 feet"
+      ],
+      "answer": 0,
+      "explain": "Allow at least four feet; you may cross a double yellow line to do so if it is safe.",
+      "official": false,
+      "ref": "Pennsylvania Driver's Manual (PUB 95, rev. 4-21), Chapter 5 (Laws and Related Issues), section 'Safe Passing is the Law'"
+    },
+    {
+      "id": "pa-165",
+      "topic": "sharing",
+      "q": "To give a bicyclist the required space, may you cross a double yellow centerline?",
+      "options": [
+        "No, never",
+        "Only on one-way streets",
+        "Only if the cyclist signals",
+        "Yes, if it can be done safely"
+      ],
+      "answer": 3,
+      "explain": "Pennsylvania permits crossing the double yellow when necessary and safe to keep 4 feet of clearance.",
+      "official": false,
+      "ref": "Pennsylvania Driver's Manual (PUB 95, rev. 4-21), Chapter 5 (Laws and Related Issues), section 'Safe Passing is the Law'"
+    },
+    {
+      "id": "pa-166",
+      "topic": "sharing",
+      "q": "Which statement about bicyclists in Pennsylvania is correct?",
+      "options": [
+        "They may ride below the minimum speed and are not required to use the shoulder",
+        "They may ignore stop signs",
+        "They must always ride on the shoulder",
+        "They must ride facing traffic"
+      ],
+      "answer": 0,
+      "explain": "Cyclists are vehicle operators, may travel below minimum speeds and may use, but need not use, the shoulder.",
+      "official": false,
+      "ref": "Pennsylvania Driver's Manual (PUB 95, rev. 4-21), Chapter 5 (Laws and Related Issues), section 'Safe Passing is the Law'"
+    },
+    {
+      "id": "pa-167",
+      "topic": "sharing",
+      "q": "How much of a lane does a motorcycle or moped have a right to use?",
+      "options": [
+        "None; it must use the shoulder",
+        "One complete lane",
+        "Only the right third",
+        "Half a lane"
+      ],
+      "answer": 1,
+      "explain": "Allow the motorcyclist a full lane; do not share it.",
+      "official": false,
+      "ref": "Pennsylvania Driver's Manual (PUB 95, rev. 4-21), Chapter 3 (Learning to Drive), section 'Motorcyclists and Moped Drivers'"
+    },
+    {
+      "id": "pa-168",
+      "topic": "sharing",
+      "q": "Most crashes between cars and motorcycles happen when:",
+      "options": [
+        "A motorcycle rear-ends a car",
+        "Cars pass motorcycles on highways",
+        "A car turns left in front of a motorcycle at an intersection",
+        "Motorcycles pass on the shoulder"
+      ],
+      "answer": 2,
+      "explain": "Most motorcycle/vehicle crashes occur at intersections, usually a car turning left in front of the rider.",
+      "official": false,
+      "ref": "Pennsylvania Driver's Manual (PUB 95, rev. 4-21), Chapter 3 (Learning to Drive), section 'Motorcyclists and Moped Drivers'"
+    },
+    {
+      "id": "pa-169",
+      "topic": "sharing",
+      "q": "A motorcycle's turn signal is flashing as it approaches. You should:",
+      "options": [
+        "Wait until you see it actually turn before you pull out",
+        "Pull out quickly",
+        "Assume it is turning",
+        "Honk to check"
+      ],
+      "answer": 0,
+      "explain": "Motorcycle signals may not cancel automatically.",
+      "official": false,
+      "ref": "Pennsylvania Driver's Manual (PUB 95, rev. 4-21), Chapter 3 (Learning to Drive), section 'Motorcyclists and Moped Drivers'"
+    },
+    {
+      "id": "pa-170",
+      "topic": "sharing",
+      "q": "When following a truck, if you cannot see the truck's side mirrors:",
+      "options": [
+        "You should move closer",
+        "You are at a safe distance",
+        "The driver can see you on camera",
+        "The truck driver cannot see you"
+      ],
+      "answer": 3,
+      "explain": "If you cannot see the mirrors of a large vehicle, its driver cannot see you.",
+      "official": false,
+      "ref": "Pennsylvania Driver's Manual (PUB 95, rev. 4-21), Chapter 3 (Learning to Drive), section 'Following a Truck'"
+    },
+    {
+      "id": "pa-171",
+      "topic": "sharing",
+      "q": "After passing a truck, when is it safe to move back in front of it?",
+      "options": [
+        "After 1 second",
+        "When you can see the truck's front (headlights or grille) in your rearview mirror",
+        "As soon as your rear bumper clears its cab",
+        "Right after passing its mirror"
+      ],
+      "answer": 1,
+      "explain": "Cutting in too soon leaves the truck driver little room to stop.",
+      "official": false,
+      "ref": "Pennsylvania Driver's Manual (PUB 95, rev. 4-21), Chapter 3 (Learning to Drive), section 'Passing a Truck'"
+    },
+    {
+      "id": "pa-172",
+      "topic": "sharing",
+      "q": "At highway speeds, how long can it take to safely pass a truck?",
+      "options": [
+        "About 3 seconds",
+        "Over 2 minutes",
+        "Up to 30 seconds",
+        "About 10 seconds"
+      ],
+      "answer": 2,
+      "explain": "Allow plenty of time: passing a truck can take up to 30 seconds.",
+      "official": false,
+      "ref": "Pennsylvania Driver's Manual (PUB 95, rev. 4-21), Chapter 3 (Learning to Drive), section 'Passing a Truck'"
+    },
+    {
+      "id": "pa-173",
+      "topic": "sharing",
+      "q": "A loaded truck at 65 mph on dry pavement needs at least how far to stop?",
+      "options": [
+        "600 feet",
+        "200 feet",
+        "400 feet",
+        "1,000 feet"
+      ],
+      "answer": 0,
+      "explain": "A loaded truck needs about 600 feet compared with about 400 feet for a car.",
+      "official": false,
+      "ref": "Pennsylvania Driver's Manual (PUB 95, rev. 4-21), Chapter 3 (Learning to Drive), section 'Braking'"
+    },
+    {
+      "id": "pa-174",
+      "topic": "sharing",
+      "q": "A truck ahead signals a right turn but swings left first. You should:",
+      "options": [
+        "Honk and pass",
+        "Stay back and not try to pass on its right",
+        "Pass quickly on the right",
+        "Move up beside the trailer"
+      ],
+      "answer": 1,
+      "explain": "Trucks make wide right turns; drivers cannot see vehicles squeezing between them and the curb.",
+      "official": false,
+      "ref": "Pennsylvania Driver's Manual (PUB 95, rev. 4-21), Chapter 3 (Learning to Drive), section 'Turns'"
+    },
+    {
+      "id": "pa-175",
+      "topic": "sharing",
+      "q": "When a truck is passing you, you can help by:",
+      "options": [
+        "Braking hard",
+        "Speeding up",
+        "Moving toward the truck",
+        "Keeping to the far side of your lane and not speeding up"
+      ],
+      "answer": 3,
+      "explain": "Reduce speed slightly and hold steady; never speed up while being passed.",
+      "official": false,
+      "ref": "Pennsylvania Driver's Manual (PUB 95, rev. 4-21), Chapter 3 (Learning to Drive), section 'Truck Passing'"
+    },
+    {
+      "id": "pa-176",
+      "topic": "sharing",
+      "q": "When stopped behind a truck on an uphill, you should:",
+      "options": [
+        "Sound your horn",
+        "Turn on high beams",
+        "Leave extra room because it may roll back",
+        "Pull up close to its bumper"
+      ],
+      "answer": 2,
+      "explain": "Trucks may roll back as the driver releases the brake.",
+      "official": false,
+      "ref": "Pennsylvania Driver's Manual (PUB 95, rev. 4-21), Chapter 3 (Learning to Drive), section 'Following a Truck'"
+    },
+    {
+      "id": "pa-177",
+      "topic": "sharing",
+      "q": "You should never attempt to pass a snowplow:",
+      "options": [
+        "On the left or on the right",
+        "Only on the left",
+        "Only on the right",
+        "Unless it is on a highway"
+      ],
+      "answer": 0,
+      "explain": "Plows may have wing blades extending several feet and drivers have limited visibility.",
+      "official": false,
+      "ref": "Pennsylvania Driver's Manual (PUB 95, rev. 4-21), Chapter 3 (Learning to Drive), section 'Snow Plows'"
+    },
+    {
+      "id": "pa-178",
+      "topic": "sharing",
+      "q": "When passing a horse-drawn vehicle or horseback rider, you should:",
+      "options": [
+        "Follow closely to show intent",
+        "Pass quickly at high speed",
+        "Honk to warn the horse",
+        "Pass slowly without honking and leave plenty of space before returning to the lane"
+      ],
+      "answer": 3,
+      "explain": "Speed and horns can spook horses; leave room before pulling back into the right lane.",
+      "official": false,
+      "ref": "Pennsylvania Driver's Manual (PUB 95, rev. 4-21), Chapter 3 (Learning to Drive), section 'Horse-Drawn Vehicles and Horseback Riders'"
+    },
+    {
+      "id": "pa-179",
+      "topic": "sharing",
+      "q": "Why should you leave extra room when stopped behind a horse-drawn buggy?",
+      "options": [
+        "Buggies always turn left",
+        "Buggies often roll backward after stopping",
+        "It is required only at night",
+        "Horses kick vehicles"
+      ],
+      "answer": 1,
+      "explain": "Horse-drawn vehicles often roll back after stopping.",
+      "official": false,
+      "ref": "Pennsylvania Driver's Manual (PUB 95, rev. 4-21), Chapter 3 (Learning to Drive), section 'Horse-Drawn Vehicles and Horseback Riders'"
+    },
+    {
+      "id": "pa-180",
+      "topic": "sharing",
+      "q": "An open-bed pickup carrying a person in the bed may not be driven faster than:",
+      "options": [
+        "55 mph",
+        "45 mph",
+        "35 mph",
+        "25 mph"
+      ],
+      "answer": 2,
+      "explain": "With anyone in the bed, the speed limit for the truck is 35 mph.",
+      "official": false,
+      "ref": "Pennsylvania Driver's Manual (PUB 95, rev. 4-21), Chapter 3 (Learning to Drive), section 'Passengers in an Open-Bed Truck'"
+    },
+    {
+      "id": "pa-181",
+      "topic": "sharing",
+      "q": "In general, may a child under 18 ride in the open bed of a pickup truck in Pennsylvania?",
+      "options": [
+        "No, except for limited farm, hunting and parade exceptions",
+        "Yes, if seated",
+        "Yes, at any speed",
+        "Yes, if under 35 mph"
+      ],
+      "answer": 0,
+      "explain": "A truck may not be driven with a child under 18 in the bed, with narrow exceptions.",
+      "official": false,
+      "ref": "Pennsylvania Driver's Manual (PUB 95, rev. 4-21), Chapter 3 (Learning to Drive), section 'Passengers in an Open-Bed Truck'"
+    },
+    {
+      "id": "pa-182",
+      "topic": "sharing",
+      "q": "When approaching a stopped vehicle from behind at a crosswalk, you should:",
+      "options": [
+        "Pass it on the left quickly",
+        "Pass on the right",
+        "Slow and not pass until you are sure no pedestrians are crossing in front of it",
+        "Honk"
+      ],
+      "answer": 2,
+      "explain": "A stopped vehicle may be hiding a pedestrian.",
+      "official": false,
+      "ref": "Pennsylvania Driver's Manual (PUB 95, rev. 4-21), Chapter 3 (Learning to Drive), section 'Pedestrians'"
+    },
+    {
+      "id": "pa-183",
+      "topic": "sharing",
+      "q": "A pedestrian is waiting to cross mid-block. Should you wave them across in front of other traffic?",
+      "options": [
+        "Yes, always",
+        "No, it is never safe to wave a pedestrian into traffic",
+        "Only on multi-lane roads",
+        "Yes, if you flash your lights"
+      ],
+      "answer": 1,
+      "explain": "Waving a pedestrian into traffic is never safe, especially at unmarked or mid-block locations.",
+      "official": false,
+      "ref": "Pennsylvania Driver's Manual (PUB 95, rev. 4-21), Chapter 3 (Learning to Drive), section 'Pedestrians'"
+    },
+    {
+      "id": "pa-184",
+      "topic": "sharing",
+      "q": "After passing a bicyclist, you should:",
+      "options": [
+        "Honk to say thanks",
+        "Move right immediately",
+        "Brake to let them know you passed",
+        "Avoid slowing or stopping suddenly in front of them"
+      ],
+      "answer": 3,
+      "explain": "A quick stop could cause the cyclist to crash into your vehicle.",
+      "official": false,
+      "ref": "Pennsylvania Driver's Manual (PUB 95, rev. 4-21), Chapter 3 (Learning to Drive), section 'Bicyclists'"
+    },
+    {
+      "id": "pa-185",
+      "topic": "sharing",
+      "q": "Following distance behind a motorcycle should be at least:",
+      "options": [
+        "The same as behind a bicycle: 2 feet",
+        "2 seconds",
+        "4 seconds, and more in bad conditions",
+        "1 car length"
+      ],
+      "answer": 2,
+      "explain": "Allow at least the same 4 seconds you give other vehicles, more when conditions are poor.",
+      "official": false,
+      "ref": "Pennsylvania Driver's Manual (PUB 95, rev. 4-21), Chapter 3 (Learning to Drive), section 'Motorcyclists and Moped Drivers'"
+    },
+    {
+      "id": "pa-186",
+      "topic": "safety",
+      "q": "When must you turn on your headlights in Pennsylvania?",
+      "options": [
+        "Only after midnight",
+        "Whenever your wipers are on because of weather",
+        "Only on highways",
+        "Only in fog"
+      ],
+      "answer": 1,
+      "explain": "One of the headlight rules: if weather has your wipers running (steadily or on intermittent), your headlights must be on.",
+      "official": false,
+      "ref": "Pennsylvania Driver's Manual (PUB 95, rev. 4-21), Chapter 3 (Learning to Drive), section 'Headlight/Windshield Wiper Law'"
+    },
+    {
+      "id": "pa-187",
+      "topic": "safety",
+      "q": "Headlights are required whenever you cannot see pedestrians or vehicles how far ahead?",
+      "options": [
+        "500 feet",
+        "2,000 feet",
+        "250 feet",
+        "1,000 feet"
+      ],
+      "answer": 3,
+      "explain": "Use headlights when you cannot see people or vehicles 1,000 feet ahead.",
+      "official": false,
+      "ref": "Pennsylvania Driver's Manual (PUB 95, rev. 4-21), Chapter 3 (Learning to Drive), section 'Driving at Night'"
+    },
+    {
+      "id": "pa-188",
+      "topic": "safety",
+      "q": "Are daytime running lights alone enough when headlights are required?",
+      "options": [
+        "No, your taillights must also be on",
+        "Yes",
+        "Only in work zones",
+        "Yes, during the day"
+      ],
+      "answer": 0,
+      "explain": "Daytime running lights are not enough; tail lights must be illuminated too.",
+      "official": false,
+      "ref": "Pennsylvania Driver's Manual (PUB 95, rev. 4-21), Chapter 3 (Learning to Drive), section 'Headlight/Windshield Wiper Law'"
+    },
+    {
+      "id": "pa-189",
+      "topic": "safety",
+      "q": "You must dim your high beams when an oncoming vehicle is within:",
+      "options": [
+        "1,000 feet",
+        "300 feet",
+        "200 feet",
+        "500 feet"
+      ],
+      "answer": 3,
+      "explain": "Pennsylvania requires low beams within 500 feet of an oncoming vehicle.",
+      "official": false,
+      "ref": "Pennsylvania Driver's Manual (PUB 95, rev. 4-21), Chapter 3 (Learning to Drive), section 'Driving at Night'"
+    },
+    {
+      "id": "pa-190",
+      "topic": "safety",
+      "q": "You must use low beams when following another vehicle within:",
+      "options": [
+        "300 feet",
+        "1,000 feet",
+        "100 feet",
+        "500 feet"
+      ],
+      "answer": 0,
+      "explain": "Use low beams when following a vehicle within 300 feet.",
+      "official": false,
+      "ref": "Pennsylvania Driver's Manual (PUB 95, rev. 4-21), Chapter 3 (Learning to Drive), section 'Driving at Night'"
+    },
+    {
+      "id": "pa-191",
+      "topic": "safety",
+      "q": "If an oncoming driver does not dim their high beams, you should look:",
+      "options": [
+        "At the center line",
+        "Toward the right edge of your lane",
+        "Into your rearview mirror",
+        "Directly at the headlights"
+      ],
+      "answer": 1,
+      "explain": "Looking to the right side of the road helps you avoid being blinded.",
+      "official": false,
+      "ref": "Pennsylvania Driver's Manual (PUB 95, rev. 4-21), Chapter 3 (Learning to Drive), section 'Driving at Night'"
+    },
+    {
+      "id": "pa-192",
+      "topic": "safety",
+      "q": "In fog, rain or snow, you should use:",
+      "options": [
+        "Parking lights only",
+        "High-beam headlights",
+        "Low-beam headlights",
+        "Hazard lights only while moving"
+      ],
+      "answer": 2,
+      "explain": "High beams reflect off fog or precipitation and reduce visibility.",
+      "official": false,
+      "ref": "Pennsylvania Driver's Manual (PUB 95, rev. 4-21), Chapter 3 (Learning to Drive), section 'Visibility Conditions'"
+    },
+    {
+      "id": "pa-193",
+      "topic": "safety",
+      "q": "When must headlights be on in a posted work zone?",
+      "options": [
+        "Only when workers are present",
+        "Only if the speed limit is reduced",
+        "At all times, day or night, in any posted work zone",
+        "Only at night"
+      ],
+      "answer": 2,
+      "explain": "Headlights are required in all posted work zones, not just active ones.",
+      "official": false,
+      "ref": "Pennsylvania Driver's Manual (PUB 95, rev. 4-21), Chapter 2 (Signals, Signs and Pavement Markings), section 'Work Zone Signs'"
+    },
+    {
+      "id": "pa-194",
+      "topic": "safety",
+      "q": "If you are stopped for a traffic violation in a work zone without your headlights on, you face:",
+      "options": [
+        "An additional $25 fine",
+        "No added penalty",
+        "2 points",
+        "A license suspension"
+      ],
+      "answer": 0,
+      "explain": "Failing to use headlights in a work zone adds a $25 fine.",
+      "official": false,
+      "ref": "Pennsylvania Driver's Manual (PUB 95, rev. 4-21), Chapter 2 (Signals, Signs and Pavement Markings), section 'Work Zone Signs'"
+    },
+    {
+      "id": "pa-195",
+      "topic": "safety",
+      "q": "The most common type of crash in work zones is:",
+      "options": [
+        "The head-on collision",
+        "The rear-end collision",
+        "The rollover",
+        "The sideswipe with workers"
+      ],
+      "answer": 1,
+      "explain": "Double your following distance in work zones because rear-end crashes are most common.",
+      "official": false,
+      "ref": "Pennsylvania Driver's Manual (PUB 95, rev. 4-21), Chapter 3 (Learning to Drive), section 'Work Zones'"
+    },
+    {
+      "id": "pa-196",
+      "topic": "safety",
+      "q": "In a work zone, you should:",
+      "options": [
+        "Use cruise control to keep a steady speed",
+        "Slow down to watch the work",
+        "Stop to ask workers for directions",
+        "Not use cruise control and not cross a solid white line"
+      ],
+      "answer": 3,
+      "explain": "Avoid cruise control, stay in your lane and keep moving at a safe speed.",
+      "official": false,
+      "ref": "Pennsylvania Driver's Manual (PUB 95, rev. 4-21), Chapter 3 (Learning to Drive), section 'Work Zones'"
+    },
+    {
+      "id": "pa-197",
+      "topic": "safety",
+      "q": "The Pennsylvania anti-texting law prohibits drivers from:",
+      "options": [
+        "Using a built-in navigation system",
+        "Talking to passengers",
+        "Listening to the radio",
+        "Sending, reading or writing text-based messages while the vehicle is moving"
+      ],
+      "answer": 3,
+      "explain": "The texting ban covers text messages, instant messages and email; it is a primary offense.",
+      "official": false,
+      "ref": "Pennsylvania Driver's Manual (PUB 95, rev. 4-21), Chapter 5 (Laws and Related Issues), section 'Anti-Texting Law'"
+    },
+    {
+      "id": "pa-198",
+      "topic": "safety",
+      "q": "What is the fine for a conviction under Pennsylvania's anti-texting law?",
+      "options": [
+        "$50, plus costs",
+        "$250",
+        "$25",
+        "$1,000"
+      ],
+      "answer": 0,
+      "explain": "Texting while driving is a primary summary offense with a $50 fine.",
+      "official": false,
+      "ref": "Pennsylvania Driver's Manual (PUB 95, rev. 4-21), Chapter 5 (Laws and Related Issues), section 'Anti-Texting Law'"
+    },
+    {
+      "id": "pa-199",
+      "topic": "safety",
+      "q": "Under Paul Miller's Law, which is prohibited while driving in Pennsylvania?",
+      "options": [
+        "Using a dash-mounted GPS hands-free",
+        "Holding a phone or other handheld device, even when stopped at a red light",
+        "Calling 911 in an emergency",
+        "Using a hands-free phone system"
+      ],
+      "answer": 1,
+      "explain": "The law bans handheld device use while driving, including temporary stops in traffic; hands-free use and emergency calls are allowed.",
+      "official": false,
+      "ref": "PennDOT news release on Paul Miller's Law (2026); 75 Pa.C.S. §3316.1"
+    },
+    {
+      "id": "pa-200",
+      "topic": "safety",
+      "q": "Now that the warning period for Paul Miller's Law has ended (fines began in June 2026), a driver convicted of using a handheld device while driving pays a fine of:",
+      "options": [
+        "$500",
+        "$10",
+        "$50, plus court costs and fees",
+        "$1,000"
+      ],
+      "answer": 2,
+      "explain": "Fines under the handheld-device ban began June 6, 2026, at $50 plus costs.",
+      "official": false,
+      "ref": "PennDOT news release on Paul Miller's Law (2026); 75 Pa.C.S. §3316.1"
+    },
+    {
+      "id": "pa-201",
+      "topic": "safety",
+      "q": "Headphones or earpieces may be worn while driving:",
+      "options": [
+        "In one ear only, for communication",
+        "In both ears if the volume is low",
+        "Never",
+        "In both ears"
+      ],
+      "answer": 0,
+      "explain": "Only a single earpiece, in one ear, is allowed, and only for communicating.",
+      "official": false,
+      "ref": "Pennsylvania Driver's Manual (PUB 95, rev. 4-21), Chapter 3 (Learning to Drive), section 'Driving Distractions'"
+    },
+    {
+      "id": "pa-202",
+      "topic": "safety",
+      "q": "Who must wear a seat belt under Pennsylvania law?",
+      "options": [
+        "Only passengers under 18",
+        "Only the driver",
+        "Only people on highways",
+        "The driver, front-seat passengers, and all passengers ages 8 to 17 wherever they sit"
+      ],
+      "answer": 3,
+      "explain": "Drivers and front passengers must buckle up; passengers 8–17 must be belted in any seat.",
+      "official": false,
+      "ref": "Pennsylvania Driver's Manual (PUB 95, rev. 4-21), Chapter 5 (Laws and Related Issues), section 'Seat Belt Law'"
+    },
+    {
+      "id": "pa-203",
+      "topic": "safety",
+      "q": "In Pennsylvania, a child must ride in an approved child safety seat (not just a booster seat) until what age?",
+      "options": [
+        "8",
+        "6",
+        "4",
+        "2"
+      ],
+      "answer": 2,
+      "explain": "Children under 4 must be in a federally approved child safety seat, front or back.",
+      "official": false,
+      "ref": "Pennsylvania Driver's Manual (PUB 95, rev. 4-21), Chapter 5 (Laws and Related Issues), section 'Child Restraint Law'"
+    },
+    {
+      "id": "pa-204",
+      "topic": "safety",
+      "q": "Children ages 4 through 7 must ride in:",
+      "options": [
+        "A rear-facing seat",
+        "An approved booster seat used with a lap and shoulder belt",
+        "The front seat",
+        "Any seat with a lap belt only"
+      ],
+      "answer": 1,
+      "explain": "Children 4 and older but under 8 must be in a booster seat.",
+      "official": false,
+      "ref": "Pennsylvania Driver's Manual (PUB 95, rev. 4-21), Chapter 5 (Laws and Related Issues), section 'Child Restraint Law'"
+    },
+    {
+      "id": "pa-205",
+      "topic": "safety",
+      "q": "Children younger than 2 must ride in:",
+      "options": [
+        "A rear-facing car seat until they outgrow its height and weight limits",
+        "A forward-facing booster seat",
+        "An adult's lap",
+        "A front seat with an airbag"
+      ],
+      "answer": 0,
+      "explain": "Children under 2 must be secured rear-facing until they outgrow the seat's limits.",
+      "official": false,
+      "ref": "Pennsylvania Driver's Manual (PUB 95, rev. 4-21), Chapter 5 (Laws and Related Issues), section 'Child Restraint Law'"
+    },
+    {
+      "id": "pa-206",
+      "topic": "safety",
+      "q": "Who is responsible for making sure children under 18 are properly restrained?",
+      "options": [
+        "The vehicle owner only",
+        "The driver",
+        "The child",
+        "The child's parent only, even if not driving"
+      ],
+      "answer": 1,
+      "explain": "Drivers are responsible for securing children and ensuring passengers under 18 are buckled.",
+      "official": false,
+      "ref": "Pennsylvania Driver's Manual (PUB 95, rev. 4-21), Chapter 5 (Laws and Related Issues), section 'Child Restraint Law'"
+    },
+    {
+      "id": "pa-207",
+      "topic": "safety",
+      "q": "You should sit at least how far from the steering-wheel air bag?",
+      "options": [
+        "6 inches",
+        "24 inches",
+        "4 inches",
+        "10 inches"
+      ],
+      "answer": 3,
+      "explain": "Stay at least 10 inches away from the air bag.",
+      "official": false,
+      "ref": "Pennsylvania Driver's Manual (PUB 95, rev. 4-21), Chapter 5 (Laws and Related Issues), section 'Air Bag Safety Information'"
+    },
+    {
+      "id": "pa-208",
+      "topic": "safety",
+      "q": "Which steering-wheel hand positions does the manual recommend?",
+      "options": [
+        "10 and 2 o'clock only",
+        "Both hands at 6 o'clock",
+        "9 and 3 o'clock, or 8 and 4 o'clock",
+        "12 o'clock with one hand"
+      ],
+      "answer": 2,
+      "explain": "9-and-3 or 8-and-4 reduces overcorrecting and air-bag injuries.",
+      "official": false,
+      "ref": "Pennsylvania Driver's Manual (PUB 95, rev. 4-21), Chapter 3 (Learning to Drive), section 'Steering Your Way Out of an Emergency'"
+    },
+    {
+      "id": "pa-209",
+      "topic": "safety",
+      "q": "In the penny test for tread depth, your tread is adequate if:",
+      "options": [
+        "You can see all of Lincoln's head",
+        "Part of Lincoln's head is covered by the tread",
+        "The tread reaches Lincoln's chin only",
+        "The penny falls out"
+      ],
+      "answer": 1,
+      "explain": "Insert the penny head-first; if the tread hides part of Lincoln's head, there is enough tread.",
+      "official": false,
+      "ref": "Pennsylvania Driver's Manual (PUB 95, rev. 4-21), Chapter 3 (Learning to Drive), section 'Vehicle Checks: Preparing to Drive'"
+    },
+    {
+      "id": "pa-210",
+      "topic": "safety",
+      "q": "When a tailgater is following you and there is no lane to move into, you should:",
+      "options": [
+        "Gently tap your brakes and slowly reduce speed when the road ahead is clear",
+        "Move onto the shoulder at speed",
+        "Speed up",
+        "Brake hard to warn them"
+      ],
+      "answer": 0,
+      "explain": "Encourage the tailgater to pass by slowing gradually when it is safe.",
+      "official": false,
+      "ref": "Pennsylvania Driver's Manual (PUB 95, rev. 4-21), Chapter 3 (Learning to Drive), section 'Keep a Space Cushion Behind'"
+    },
+    {
+      "id": "pa-211",
+      "topic": "safety",
+      "q": "If your vehicle breaks down on the highway, you should:",
+      "options": [
+        "Stop in your lane and wait",
+        "Walk along the highway to find help",
+        "Pull as far off the road as possible, turn on hazard flashers and raise the hood",
+        "Leave it running in the right lane"
+      ],
+      "answer": 2,
+      "explain": "Get off the road, use four-way flashers and lift the hood to signal a disabled vehicle.",
+      "official": false,
+      "ref": "Pennsylvania Driver's Manual (PUB 95, rev. 4-21), Chapter 3 (Learning to Drive), section 'Communicating Your Intentions to Other Drivers'"
+    },
+    {
+      "id": "pa-212",
+      "topic": "safety",
+      "q": "If caught in fog so dense you cannot see, the best choice is to:",
+      "options": [
+        "Follow the taillights ahead closely",
+        "Use high beams and continue",
+        "Stop in your lane",
+        "Pull completely off the road, turn on hazard lights, and wait"
+      ],
+      "answer": 3,
+      "explain": "Pull off the road, preferably into a parking lot, until the fog clears.",
+      "official": false,
+      "ref": "Pennsylvania Driver's Manual (PUB 95, rev. 4-21), Chapter 3 (Learning to Drive), section 'Visibility Conditions'"
+    },
+    {
+      "id": "pa-213",
+      "topic": "safety",
+      "q": "If snow or ice from your moving vehicle strikes another vehicle or person causing death or serious injury, you can be fined:",
+      "options": [
+        "$50 to $100",
+        "$200 to $1,000",
+        "$25",
+        "Nothing if it was accidental"
+      ],
+      "answer": 1,
+      "explain": "Clear all snow and ice before driving; fines are $200–$1,000 per offense.",
+      "official": false,
+      "ref": "Pennsylvania Driver's Manual (PUB 95, rev. 4-21), Chapter 3 (Learning to Drive), section 'Road Conditions: Snow and Ice'"
+    },
+    {
+      "id": "pa-214",
+      "topic": "safety",
+      "q": "Should you use cruise control on snowy or icy roads?",
+      "options": [
+        "Only on bridges",
+        "Yes, to keep a steady speed",
+        "No",
+        "Yes, at low speed"
+      ],
+      "answer": 2,
+      "explain": "Cruise control keeps applying power and can keep wheels spinning on slippery roads.",
+      "official": false,
+      "ref": "Pennsylvania Driver's Manual (PUB 95, rev. 4-21), Chapter 3 (Learning to Drive), section 'Road Conditions: Snow and Ice'"
+    },
+    {
+      "id": "pa-215",
+      "topic": "safety",
+      "q": "Black ice is most likely when:",
+      "options": [
+        "The temperature is above 50°F",
+        "The road is covered in fresh snow",
+        "It is raining heavily",
+        "The road looks wet but no spray comes from other vehicles' tires"
+      ],
+      "answer": 3,
+      "explain": "A thin, clear layer of ice can look like wet pavement.",
+      "official": false,
+      "ref": "Pennsylvania Driver's Manual (PUB 95, rev. 4-21), Chapter 3 (Learning to Drive), section 'Road Conditions: Snow and Ice'"
+    },
+    {
+      "id": "pa-216",
+      "topic": "safety",
+      "q": "What is the best thing to do if you feel tired while driving?",
+      "options": [
+        "Stop driving",
+        "Drink coffee and keep going",
+        "Open the window",
+        "Turn up the radio"
+      ],
+      "answer": 0,
+      "explain": "The manual says the best response to drowsiness is to stop driving.",
+      "official": false,
+      "ref": "Pennsylvania Driver's Manual (PUB 95, rev. 4-21), Chapter 3 (Learning to Drive), section 'Lack of Sleep'"
+    },
+    {
+      "id": "pa-217",
+      "topic": "safety",
+      "q": "Teen drivers are more likely to crash when they are driving:",
+      "options": [
+        "With other teens as passengers",
+        "With adult passengers",
+        "In daylight",
+        "Alone"
+      ],
+      "answer": 0,
+      "explain": "Teens with teen passengers have a higher crash risk.",
+      "official": false,
+      "ref": "Pennsylvania Driver's Manual (PUB 95, rev. 4-21), Chapter 3 (Learning to Drive), section 'Driving Distractions'"
+    },
+    {
+      "id": "pa-218",
+      "topic": "safety",
+      "q": "If you are pulled over by police at night, you should:",
+      "options": [
+        "Search for your documents right away",
+        "Turn on your interior light and keep your hands visible",
+        "Get out and walk to the police car",
+        "Keep your engine running and radio on"
+      ],
+      "answer": 1,
+      "explain": "Turn on the dome light, keep hands on the wheel and wait for the officer's requests.",
+      "official": false,
+      "ref": "Pennsylvania Driver's Manual (PUB 95, rev. 4-21), Chapter 4 (Driving Record Information), section 'What to Do If You Are Stopped by the Police'"
+    },
+    {
+      "id": "pa-219",
+      "topic": "safety",
+      "q": "A vehicle flashing only blue lights behind you is:",
+      "options": [
+        "An unmarked police car",
+        "A school bus",
+        "Not a police vehicle",
+        "An ambulance requiring you to stop"
+      ],
+      "answer": 2,
+      "explain": "Police lights are red and blue, or red only on unmarked cars; blue-only lights are not police.",
+      "official": false,
+      "ref": "Pennsylvania Driver's Manual (PUB 95, rev. 4-21), Chapter 4 (Driving Record Information), section 'What to Do If You Are Stopped by the Police'"
+    },
+    {
+      "id": "pa-220",
+      "topic": "safety",
+      "q": "Under the Move Over law, when approaching an emergency response area or a disabled vehicle marked with flares or signals, you must:",
+      "options": [
+        "Honk and continue",
+        "Slow by 5 mph",
+        "Stop completely",
+        "Move into a non-adjacent lane, or if you cannot, slow to at least 20 mph below the limit"
+      ],
+      "answer": 3,
+      "explain": "Move to a lane not adjacent to the scene or slow to at least 20 mph below the posted limit.",
+      "official": false,
+      "ref": "Pennsylvania Driver's Manual (PUB 95, rev. 4-21), Chapter 3 (Learning to Drive), section 'Move Over Law'"
+    },
+    {
+      "id": "pa-221",
+      "topic": "safety",
+      "q": "How many points are added for a Move Over law violation?",
+      "options": [
+        "4",
+        "6",
+        "0",
+        "2"
+      ],
+      "answer": 3,
+      "explain": "A conviction under the Move Over law adds 2 points.",
+      "official": false,
+      "ref": "Pennsylvania Driver's Manual (PUB 95, rev. 4-21), Chapter 3 (Learning to Drive), section 'Move Over Law'"
+    },
+    {
+      "id": "pa-222",
+      "topic": "safety",
+      "q": "What is the maximum fine for a first Move Over law violation (with no injury)?",
+      "options": [
+        "$100",
+        "$500",
+        "$5,000",
+        "$50"
+      ],
+      "answer": 1,
+      "explain": "Maximum fines are $500 (first offense), $1,000 (second) and $2,000 (third or more), plus 2 points.",
+      "official": false,
+      "ref": "Pennsylvania Driver's Manual (PUB 95, rev. 4-21), Chapter 3 (Learning to Drive), section 'Move Over Law'"
+    },
+    {
+      "id": "pa-223",
+      "topic": "safety",
+      "q": "Driving around a sign or barrier that closes a road for hazardous conditions such as flooding results in:",
+      "options": [
+        "2 points and a fine of up to $250 (up to $500 if responders are called)",
+        "A 60-day suspension",
+        "5 points",
+        "A warning only"
+      ],
+      "answer": 0,
+      "explain": "You may also have to repay emergency response costs.",
+      "official": false,
+      "ref": "Pennsylvania Driver's Manual (PUB 95, rev. 4-21), Chapter 5 (Laws and Related Issues), section 'Obedience to Traffic-Control Devices Warning of Hazardous Conditions Law'"
+    },
+    {
+      "id": "pa-224",
+      "topic": "safety",
+      "q": "Before backing up, you should:",
+      "options": [
+        "Honk and back quickly",
+        "Rely on your backup camera only",
+        "Check behind the vehicle before getting in and turn your head to look through the rear window",
+        "Use only your side mirrors"
+      ],
+      "answer": 2,
+      "explain": "Children and small objects are hard to see; do not depend on mirrors or sensors alone.",
+      "official": false,
+      "ref": "Pennsylvania Driver's Manual (PUB 95, rev. 4-21), Chapter 3 (Learning to Drive), section 'Looking Behind: Backing Up'"
+    },
+    {
+      "id": "pa-225",
+      "topic": "safety",
+      "q": "When should you slow down for a curve?",
+      "options": [
+        "As you exit it",
+        "In the middle of it",
+        "Before you enter it",
+        "Only if it is wet"
+      ],
+      "answer": 2,
+      "explain": "To maintain control on curves, slow down before entering.",
+      "official": false,
+      "ref": "Pennsylvania Driver's Manual (PUB 95, rev. 4-21), Chapter 3 (Learning to Drive), section 'Negotiating Curves'"
+    },
+    {
+      "id": "pa-226",
+      "topic": "alcohol",
+      "q": "For drivers 21 and older, Pennsylvania considers you to be driving under the influence at a BAC of:",
+      "options": [
+        ".05 or higher",
+        ".12 or higher",
+        ".10 or higher",
+        ".08 or higher"
+      ],
+      "answer": 3,
+      "explain": "Adults are DUI at .08 BAC or more; erratic driving can lead to DUI at lower levels.",
+      "official": false,
+      "ref": "Pennsylvania Driver's Manual (PUB 95, rev. 4-21), Chapter 4 (Driving Record Information), section 'What Constitutes a DUI?'"
+    },
+    {
+      "id": "pa-227",
+      "topic": "alcohol",
+      "q": "For drivers under 21, the BAC level considered DUI in Pennsylvania is:",
+      "options": [
+        ".08 or higher",
+        ".02 or higher",
+        ".04 or higher",
+        ".05 or higher"
+      ],
+      "answer": 1,
+      "explain": "Under the Zero Tolerance law, drivers under 21 are DUI at .02 or more.",
+      "official": false,
+      "ref": "Pennsylvania Driver's Manual (PUB 95, rev. 4-21), Chapter 4 (Driving Record Information), section 'Zero Tolerance Law (Under 21 DUI)'"
+    },
+    {
+      "id": "pa-228",
+      "topic": "alcohol",
+      "q": "The DUI 'High Rate' penalties apply to commercial vehicle drivers with a BAC of:",
+      "options": [
+        ".04 or more",
+        ".08 or more",
+        ".10 or more",
+        ".02 or more"
+      ],
+      "answer": 0,
+      "explain": "Commercial drivers at .04 or more face High Rate penalties.",
+      "official": false,
+      "ref": "Pennsylvania Driver's Manual (PUB 95, rev. 4-21), Chapter 4 (Driving Record Information), section 'Table 2 - High Rate'"
+    },
+    {
+      "id": "pa-229",
+      "topic": "alcohol",
+      "q": "School bus drivers are subject to High Rate DUI penalties at a BAC of:",
+      "options": [
+        ".04 or more",
+        ".02 or more",
+        ".08 or more",
+        ".10 or more"
+      ],
+      "answer": 1,
+      "explain": "School bus drivers with .02 or more fall under Table 2.",
+      "official": false,
+      "ref": "Pennsylvania Driver's Manual (PUB 95, rev. 4-21), Chapter 4 (Driving Record Information), section 'Table 2 - High Rate'"
+    },
+    {
+      "id": "pa-230",
+      "topic": "alcohol",
+      "q": "The 'High Rate' DUI category covers BAC levels of:",
+      "options": [
+        ".08 to .099",
+        ".16 and up",
+        ".05 to .079",
+        ".10 to .159"
+      ],
+      "answer": 3,
+      "explain": "General Impairment is .08–.099; High Rate .10–.159; Highest Rate .16 and up.",
+      "official": false,
+      "ref": "Pennsylvania Driver's Manual (PUB 95, rev. 4-21), Chapter 4 (Driving Record Information), section 'Severe Penalties'"
+    },
+    {
+      "id": "pa-231",
+      "topic": "alcohol",
+      "q": "The 'Highest Rate' DUI category applies to a BAC of:",
+      "options": [
+        ".20 or more",
+        ".12 or more",
+        ".16 or more",
+        ".10 or more"
+      ],
+      "answer": 2,
+      "explain": "Highest Rate is .16 and up, and also applies to test refusals and certain drug DUIs.",
+      "official": false,
+      "ref": "Pennsylvania Driver's Manual (PUB 95, rev. 4-21), Chapter 4 (Driving Record Information), section 'Table 3 - Highest Rate'"
+    },
+    {
+      "id": "pa-232",
+      "topic": "alcohol",
+      "q": "Pennsylvania's Implied Consent law means:",
+      "options": [
+        "By driving in Pennsylvania you have agreed to chemical testing if arrested for DUI",
+        "Police need a warrant for any test",
+        "Only blood tests are allowed",
+        "You may refuse a test with no penalty"
+      ],
+      "answer": 0,
+      "explain": "Being licensed to drive means you have agreed to breath or blood testing when lawfully requested.",
+      "official": false,
+      "ref": "Pennsylvania Driver's Manual (PUB 95, rev. 4-21), Chapter 4 (Driving Record Information), section 'Pennsylvania's Implied Consent Law'"
+    },
+    {
+      "id": "pa-233",
+      "topic": "alcohol",
+      "q": "What happens to a first-time offender who refuses a chemical test after a DUI arrest?",
+      "options": [
+        "A 1-year license suspension, even if later found not guilty of DUI",
+        "Nothing if found not guilty",
+        "A warning letter",
+        "A 30-day suspension"
+      ],
+      "answer": 0,
+      "explain": "Refusal brings an automatic one-year suspension in addition to any DUI penalty.",
+      "official": false,
+      "ref": "Pennsylvania Driver's Manual (PUB 95, rev. 4-21), Chapter 4 (Driving Record Information), section 'Pennsylvania's Implied Consent Law'"
+    },
+    {
+      "id": "pa-234",
+      "topic": "alcohol",
+      "q": "A driver with a prior DUI or refusal who refuses chemical testing faces a refusal suspension of:",
+      "options": [
+        "6 months",
+        "18 months",
+        "5 years",
+        "1 year"
+      ],
+      "answer": 1,
+      "explain": "With a prior, refusal brings 18 months, plus 18 more if convicted of DUI.",
+      "official": false,
+      "ref": "Pennsylvania Driver's Manual (PUB 95, rev. 4-21), Chapter 4 (Driving Record Information), section 'Pennsylvania's Implied Consent Law'"
+    },
+    {
+      "id": "pa-235",
+      "topic": "alcohol",
+      "q": "Drivers who refuse a chemical test are penalized under which DUI table if convicted?",
+      "options": [
+        "General Impairment",
+        "High Rate",
+        "None; refusal ends the case",
+        "Highest Rate"
+      ],
+      "answer": 3,
+      "explain": "Refusing a chemical test places you in the Highest Rate penalty table.",
+      "official": false,
+      "ref": "Pennsylvania Driver's Manual (PUB 95, rev. 4-21), Chapter 4 (Driving Record Information), section 'Table 3 - Highest Rate'"
+    },
+    {
+      "id": "pa-236",
+      "topic": "alcohol",
+      "q": "A driver under 21 convicted of a first DUI faces:",
+      "options": [
+        "Only alcohol classes",
+        "Probation only",
+        "2 days to 6 months in jail, a 1-year suspension and a $500–$5,000 fine",
+        "A warning and $100 fine"
+      ],
+      "answer": 2,
+      "explain": "Under-21 DUI is punished at the High Rate level regardless of BAC.",
+      "official": false,
+      "ref": "Pennsylvania Driver's Manual (PUB 95, rev. 4-21), Chapter 4 (Driving Record Information), section 'Zero Tolerance Law (Under 21 DUI)'"
+    },
+    {
+      "id": "pa-237",
+      "topic": "alcohol",
+      "q": "For a first-offense General Impairment DUI (.08–.099), the license penalty is:",
+      "options": [
+        "18-month suspension",
+        "Permanent revocation",
+        "12-month suspension",
+        "No license suspension"
+      ],
+      "answer": 3,
+      "explain": "First-offense General Impairment: 6 months' probation, $300 fine, no license action.",
+      "official": false,
+      "ref": "Pennsylvania Driver's Manual (PUB 95, rev. 4-21), Chapter 4 (Driving Record Information), section 'Table 1 - General Impairment'"
+    },
+    {
+      "id": "pa-238",
+      "topic": "alcohol",
+      "q": "A first-offense High Rate DUI carries what license penalty?",
+      "options": [
+        "12-month suspension and 1 year of ignition interlock",
+        "3-month suspension",
+        "5-year revocation",
+        "No suspension"
+      ],
+      "answer": 0,
+      "explain": "Table 2 first offense: 12-month suspension and 1-year interlock.",
+      "official": false,
+      "ref": "Pennsylvania Driver's Manual (PUB 95, rev. 4-21), Chapter 4 (Driving Record Information), section 'Table 2 - High Rate'"
+    },
+    {
+      "id": "pa-239",
+      "topic": "alcohol",
+      "q": "A driver with a BAC of .08–.099 who causes a crash with injury or property damage is penalized as:",
+      "options": [
+        "General Impairment",
+        "High Rate",
+        "No penalty",
+        "Highest Rate only if a death occurs"
+      ],
+      "answer": 1,
+      "explain": "Crashes with injury, death or damage move the driver to Table 2 penalties.",
+      "official": false,
+      "ref": "Pennsylvania Driver's Manual (PUB 95, rev. 4-21), Chapter 4 (Driving Record Information), section 'Severe Penalties'"
+    },
+    {
+      "id": "pa-240",
+      "topic": "alcohol",
+      "q": "Under ARD for a first DUI offense, a driver may lose their license for up to:",
+      "options": [
+        "1 year",
+        "30 days",
+        "90 days",
+        "18 months"
+      ],
+      "answer": 2,
+      "explain": "ARD includes up to a 90-day license loss, evaluation, and Alcohol Highway Safety School.",
+      "official": false,
+      "ref": "Pennsylvania Driver's Manual (PUB 95, rev. 4-21), Chapter 4 (Driving Record Information), section 'ARD Program'"
+    },
+    {
+      "id": "pa-241",
+      "topic": "alcohol",
+      "q": "Which is the only thing that lowers your blood alcohol concentration?",
+      "options": [
+        "Coffee",
+        "Time",
+        "A cold shower",
+        "Eating after drinking"
+      ],
+      "answer": 1,
+      "explain": "Only time will sober you up.",
+      "official": false,
+      "ref": "Pennsylvania Driver's Manual (PUB 95, rev. 4-21), Chapter 3 (Learning to Drive), section 'Alcohol and Driving'"
+    },
+    {
+      "id": "pa-242",
+      "topic": "alcohol",
+      "q": "According to the manual, one standard drink equals:",
+      "options": [
+        "10 oz. of wine",
+        "24 oz. of beer",
+        "12 oz. of regular beer, 5 oz. of wine, or 1.5 oz. of 80-proof liquor",
+        "3 oz. of liquor"
+      ],
+      "answer": 2,
+      "explain": "These amounts contain about the same alcohol.",
+      "official": false,
+      "ref": "Pennsylvania Driver's Manual (PUB 95, rev. 4-21), Chapter 3 (Learning to Drive), section 'Alcohol and Driving'"
+    },
+    {
+      "id": "pa-243",
+      "topic": "alcohol",
+      "q": "For a person under 21 in Pennsylvania, which is illegal?",
+      "options": [
+        "Driving past a bar",
+        "Carrying an empty soda can",
+        "Riding with an adult who drank earlier",
+        "Having alcohol in the vehicle they are driving"
+      ],
+      "answer": 3,
+      "explain": "It is illegal for anyone under 21 to buy, consume, possess or transport alcohol.",
+      "official": false,
+      "ref": "Pennsylvania Driver's Manual (PUB 95, rev. 4-21), Chapter 4 (Driving Record Information), section 'Underage Drinking'"
+    },
+    {
+      "id": "pa-244",
+      "topic": "alcohol",
+      "q": "Under Pennsylvania's underage drinking law, the fine for a person under 21 can be up to:",
+      "options": [
+        "$500, plus court costs",
+        "$50",
+        "$100",
+        "$10,000"
+      ],
+      "answer": 0,
+      "explain": "Courts may also require evaluation or alcohol education.",
+      "official": false,
+      "ref": "Pennsylvania Driver's Manual (PUB 95, rev. 4-21), Chapter 4 (Driving Record Information), section 'Underage Drinking'"
+    },
+    {
+      "id": "pa-245",
+      "topic": "alcohol",
+      "q": "Driving under the influence of a non-prescribed Schedule I, II or III drug is punished at which level?",
+      "options": [
+        "General Impairment",
+        "It is not a DUI",
+        "High Rate",
+        "Highest Rate"
+      ],
+      "answer": 3,
+      "explain": "Drug DUIs fall under Table 3.",
+      "official": false,
+      "ref": "Pennsylvania Driver's Manual (PUB 95, rev. 4-21), Chapter 4 (Driving Record Information), section 'Table 3 - Highest Rate'"
+    },
+    {
+      "id": "pa-246",
+      "topic": "alcohol",
+      "q": "PennDOT begins corrective action when a driving record reaches:",
+      "options": [
+        "12 points",
+        "6 points",
+        "3 points",
+        "11 points"
+      ],
+      "answer": 1,
+      "explain": "Corrective action starts at 6 or more points.",
+      "official": false,
+      "ref": "Pennsylvania Driver's Manual (PUB 95, rev. 4-21), Chapter 4 (Driving Record Information), section 'The Pennsylvania Point System'"
+    },
+    {
+      "id": "pa-247",
+      "topic": "alcohol",
+      "q": "How many points are removed from your record for each 12 consecutive months without a violation or suspension?",
+      "options": [
+        "All of them",
+        "2",
+        "3",
+        "1"
+      ],
+      "answer": 2,
+      "explain": "Three points are removed for each 12 violation-free months.",
+      "official": false,
+      "ref": "Pennsylvania Driver's Manual (PUB 95, rev. 4-21), Chapter 4 (Driving Record Information), section 'Point Removal for Safe Driving'"
+    },
+    {
+      "id": "pa-248",
+      "topic": "alcohol",
+      "q": "When a driving record reaches 11 or more points, what happens?",
+      "options": [
+        "The license is automatically suspended",
+        "A warning letter is sent",
+        "The driver must retake the vision test only",
+        "Nothing until 15 points"
+      ],
+      "answer": 0,
+      "explain": "At 11 points the license is automatically suspended; length depends on prior suspensions.",
+      "official": false,
+      "ref": "PennDOT fact sheet 'The Pennsylvania Point System' (March 2024)"
+    },
+    {
+      "id": "pa-249",
+      "topic": "alcohol",
+      "q": "After a suspension is served and your driving privilege restored, your record generally shows:",
+      "options": [
+        "The same points as before",
+        "0 points",
+        "6 points",
+        "5 points"
+      ],
+      "answer": 3,
+      "explain": "Except in limited cases, a restored record shows five points.",
+      "official": false,
+      "ref": "Pennsylvania Driver's Manual (PUB 95, rev. 4-21), Chapter 4 (Driving Record Information), section 'Suspensions and Revocations'"
+    },
+    {
+      "id": "pa-250",
+      "topic": "alcohol",
+      "q": "How many points are assessed for failing to stop at a red light?",
+      "options": [
+        "4",
+        "2",
+        "3",
+        "5"
+      ],
+      "answer": 2,
+      "explain": "Failure to stop for a red light is a 3-point violation.",
+      "official": false,
+      "ref": "PennDOT fact sheet 'The Pennsylvania Point System' (March 2024)"
+    },
+    {
+      "id": "pa-251",
+      "topic": "alcohol",
+      "q": "Failing to comply with a lowered railroad crossing gate results in:",
+      "options": [
+        "2 points only",
+        "A 30-day suspension and 4 points",
+        "A $25 fine",
+        "A 1-year suspension"
+      ],
+      "answer": 1,
+      "explain": "Ignoring a crossing gate or barrier brings a 30-day suspension.",
+      "official": false,
+      "ref": "PennDOT fact sheet 'The Pennsylvania Point System' (March 2024)"
+    },
+    {
+      "id": "pa-252",
+      "topic": "alcohol",
+      "q": "Fleeing or attempting to elude police carries:",
+      "options": [
+        "A 1-year suspension and a $500 fine, plus possible jail",
+        "A warning on first offense",
+        "A 30-day suspension",
+        "3 points only"
+      ],
+      "answer": 0,
+      "explain": "Fleeing police is a serious offense with a one-year suspension.",
+      "official": false,
+      "ref": "Pennsylvania Driver's Manual (PUB 95, rev. 4-21), Chapter 4 (Driving Record Information), section 'Fleeing or Eluding Police'"
+    },
+    {
+      "id": "pa-253",
+      "topic": "alcohol",
+      "q": "Which of these will result in suspension or revocation of your license?",
+      "options": [
+        "One parking ticket",
+        "A seat belt warning",
+        "An expired inspection sticker warning",
+        "Leaving the scene of a crash you were involved in"
+      ],
+      "answer": 3,
+      "explain": "Hit-and-run, DUI, reckless driving, racing and fleeing police all lead to suspension or revocation.",
+      "official": false,
+      "ref": "Pennsylvania Driver's Manual (PUB 95, rev. 4-21), Chapter 4 (Driving Record Information), section 'Suspensions and Revocations'"
+    },
+    {
+      "id": "pa-254",
+      "topic": "emergencies",
+      "q": "If your vehicle starts to skid because the rear slides left, you should:",
+      "options": [
+        "Accelerate",
+        "Steer left, the direction the rear is sliding",
+        "Brake hard",
+        "Steer right"
+      ],
+      "answer": 1,
+      "explain": "Look and steer where you want to go; steer in the direction the rear is skidding.",
+      "official": false,
+      "ref": "Pennsylvania Driver's Manual (PUB 95, rev. 4-21), Chapter 3 (Learning to Drive), section 'If Your Vehicle Starts to Skid'"
+    },
+    {
+      "id": "pa-255",
+      "topic": "emergencies",
+      "q": "While skidding, should you use the brakes?",
+      "options": [
+        "Only the parking brake",
+        "Yes, pump them rapidly",
+        "No, braking makes the skid worse",
+        "Yes, hard"
+      ],
+      "answer": 2,
+      "explain": "Braking during a skid can lock the wheels and remove steering control.",
+      "official": false,
+      "ref": "Pennsylvania Driver's Manual (PUB 95, rev. 4-21), Chapter 3 (Learning to Drive), section 'If Your Vehicle Starts to Skid'"
+    },
+    {
+      "id": "pa-256",
+      "topic": "emergencies",
+      "q": "In an emergency stop with anti-lock brakes (ABS), you should:",
+      "options": [
+        "Press firmly and steadily without pumping",
+        "Use the parking brake",
+        "Pump the brakes",
+        "Release and reapply every second"
+      ],
+      "answer": 0,
+      "explain": "With ABS, keep firm continuous pressure; noise and pulsing are normal.",
+      "official": false,
+      "ref": "Pennsylvania Driver's Manual (PUB 95, rev. 4-21), Chapter 3 (Learning to Drive), section 'If You Have to Brake Suddenly'"
+    },
+    {
+      "id": "pa-257",
+      "topic": "emergencies",
+      "q": "In an emergency stop without anti-lock brakes, you should:",
+      "options": [
+        "Press and release the brakes repeatedly",
+        "Turn off the engine",
+        "Shift to park",
+        "Slam and hold the brakes"
+      ],
+      "answer": 0,
+      "explain": "Pumping helps prevent wheel lockup and skidding.",
+      "official": false,
+      "ref": "Pennsylvania Driver's Manual (PUB 95, rev. 4-21), Chapter 3 (Learning to Drive), section 'If You Have to Brake Suddenly'"
+    },
+    {
+      "id": "pa-258",
+      "topic": "emergencies",
+      "q": "At speeds above about 25 mph, it is usually better to avoid a sudden obstacle by:",
+      "options": [
+        "Accelerating",
+        "Sounding the horn only",
+        "Braking only",
+        "Steering around it"
+      ],
+      "answer": 3,
+      "explain": "Steering reaction is faster than braking at these speeds, if you have good steering skills.",
+      "official": false,
+      "ref": "Pennsylvania Driver's Manual (PUB 95, rev. 4-21), Chapter 3 (Learning to Drive), section 'Steering Your Way Out of an Emergency'"
+    },
+    {
+      "id": "pa-259",
+      "topic": "emergencies",
+      "q": "If you begin to hydroplane, you should:",
+      "options": [
+        "Turn sharply",
+        "Ease off the gas and keep the wheel steady",
+        "Speed up",
+        "Brake hard"
+      ],
+      "answer": 1,
+      "explain": "Slow down gradually so the tires regain grip; brake gently only if needed.",
+      "official": false,
+      "ref": "Pennsylvania Driver's Manual (PUB 95, rev. 4-21), Chapter 3 (Learning to Drive), section 'Road Conditions: Hydroplaning'"
+    },
+    {
+      "id": "pa-260",
+      "topic": "emergencies",
+      "q": "If a tire blows out, you should:",
+      "options": [
+        "Steer sharply to the shoulder",
+        "Speed up to stabilize",
+        "Hold the wheel firmly, stay off the brake and slowly ease off the gas",
+        "Brake hard immediately"
+      ],
+      "answer": 2,
+      "explain": "Braking after a blowout can cause a skid.",
+      "official": false,
+      "ref": "Pennsylvania Driver's Manual (PUB 95, rev. 4-21), Chapter 3 (Learning to Drive), section 'If You Have a Tire Blowout'"
+    },
+    {
+      "id": "pa-261",
+      "topic": "emergencies",
+      "q": "If your accelerator sticks, you should first:",
+      "options": [
+        "Pump the gas pedal hard",
+        "Shift to neutral and brake, keeping your eyes on the road",
+        "Turn the key to LOCK",
+        "Reach down with your hand to free the pedal"
+      ],
+      "answer": 1,
+      "explain": "Neutral removes power from the wheels; then steer off the road and stop.",
+      "official": false,
+      "ref": "Pennsylvania Driver's Manual (PUB 95, rev. 4-21), Chapter 3 (Learning to Drive), section 'If Your Accelerator Sticks'"
+    },
+    {
+      "id": "pa-262",
+      "topic": "emergencies",
+      "q": "If you must turn off the ignition while moving in an emergency, why should you NOT turn the key to LOCK?",
+      "options": [
+        "It will start the engine again",
+        "It will set off the airbags",
+        "It will lock the steering",
+        "It turns on the hazard lights"
+      ],
+      "answer": 2,
+      "explain": "Turn to OFF, not LOCK, so you keep steering.",
+      "official": false,
+      "ref": "Pennsylvania Driver's Manual (PUB 95, rev. 4-21), Chapter 3 (Learning to Drive), section 'If Your Accelerator Sticks'"
+    },
+    {
+      "id": "pa-263",
+      "topic": "emergencies",
+      "q": "If your right wheels drift off the pavement onto a lower shoulder, you should:",
+      "options": [
+        "Ease off the gas, straddle the edge, then steer back gently when slow and clear",
+        "Speed up to climb the edge",
+        "Brake hard",
+        "Jerk the wheel left immediately"
+      ],
+      "answer": 0,
+      "explain": "Slow to under 25 mph (ideally about 10 mph) before easing back onto the road.",
+      "official": false,
+      "ref": "Pennsylvania Driver's Manual (PUB 95, rev. 4-21), Chapter 3 (Learning to Drive), section 'If Your Vehicle Drifts off of the Pavement onto the Shoulder'"
+    },
+    {
+      "id": "pa-264",
+      "topic": "emergencies",
+      "q": "A vehicle is coming head-on in your lane. After honking, you should generally try to escape:",
+      "options": [
+        "By speeding up",
+        "By stopping in place",
+        "To the left",
+        "To the right"
+      ],
+      "answer": 3,
+      "explain": "Swerving left risks a crash if the other driver corrects at the last moment.",
+      "official": false,
+      "ref": "Pennsylvania Driver's Manual (PUB 95, rev. 4-21), Chapter 3 (Learning to Drive), section 'If Another Vehicle is Approaching Head-On in Your Lane'"
+    },
+    {
+      "id": "pa-265",
+      "topic": "emergencies",
+      "q": "How much water can cause you to lose control of a vehicle?",
+      "options": [
+        "At least 2 feet",
+        "As little as 6 inches",
+        "At least 1 foot",
+        "Only moving water over 3 feet"
+      ],
+      "answer": 1,
+      "explain": "About six inches of water can make some cars stall or lose control; a foot of moving water can float many cars, and two feet can sweep away most SUVs and pickups.",
+      "official": false,
+      "ref": "Pennsylvania Driver's Manual (PUB 95, rev. 4-21), Chapter 3 (Learning to Drive), section 'Flooded Roadways'"
+    },
+    {
+      "id": "pa-266",
+      "topic": "emergencies",
+      "q": "If your car stalls on railroad tracks and a train is coming, you should:",
+      "options": [
+        "Stay inside with your belt on",
+        "Try to restart the engine",
+        "Push the car off the tracks",
+        "Get out quickly and move away from the tracks"
+      ],
+      "answer": 3,
+      "explain": "Leave the vehicle immediately and move as far from the track as possible.",
+      "official": false,
+      "ref": "Pennsylvania Driver's Manual (PUB 95, rev. 4-21), Chapter 3 (Learning to Drive), section 'Railroad Crossings'"
+    },
+    {
+      "id": "pa-267",
+      "topic": "emergencies",
+      "q": "After a train passes at a crossing with more than one track, you should:",
+      "options": [
+        "Go when the gate starts rising",
+        "Go as soon as the train clears",
+        "Wait until you can see clearly down all tracks before crossing",
+        "Follow the car ahead"
+      ],
+      "answer": 2,
+      "explain": "Another train may be coming on a different track.",
+      "official": false,
+      "ref": "Pennsylvania Driver's Manual (PUB 95, rev. 4-21), Chapter 3 (Learning to Drive), section 'Railroad Crossings'"
+    },
+    {
+      "id": "pa-268",
+      "topic": "emergencies",
+      "q": "When must you stop at a railroad crossing?",
+      "options": [
+        "When lights flash, a gate is down, a flagger signals, or a train sounds its warning or is close",
+        "At every crossing, always",
+        "Only at night",
+        "Only when gates are down"
+      ],
+      "answer": 0,
+      "explain": "Do not go around gates or ignore any signal of an approaching train.",
+      "official": false,
+      "ref": "Pennsylvania Driver's Manual (PUB 95, rev. 4-21), Chapter 2 (Signals, Signs and Pavement Markings), section 'Railroad Crossing Signals'"
+    },
+    {
+      "id": "pa-269",
+      "topic": "emergencies",
+      "q": "If you are involved in a crash, when must you call the police?",
+      "options": [
+        "Never for minor crashes",
+        "When anyone is injured or killed, or a vehicle must be towed",
+        "Only if you were at fault",
+        "Only on highways"
+      ],
+      "answer": 1,
+      "explain": "Call police for injury, death or a vehicle needing to be towed.",
+      "official": false,
+      "ref": "Pennsylvania Driver's Manual (PUB 95, rev. 4-21), Chapter 4 (Driving Record Information), section 'Crashes'"
+    },
+    {
+      "id": "pa-270",
+      "topic": "emergencies",
+      "q": "If police do not investigate a crash involving injury, death or a towed vehicle, you must send a Driver's Accident Report (AA-600) within:",
+      "options": [
+        "30 days",
+        "10 days",
+        "5 days",
+        "24 hours"
+      ],
+      "answer": 2,
+      "explain": "Send the AA-600 to PennDOT within five days.",
+      "official": false,
+      "ref": "Pennsylvania Driver's Manual (PUB 95, rev. 4-21), Chapter 4 (Driving Record Information), section 'Crashes'"
+    },
+    {
+      "id": "pa-271",
+      "topic": "emergencies",
+      "q": "You hit a parked car and cannot find the owner. You should:",
+      "options": [
+        "Drive away if damage is small",
+        "Only notify your insurer",
+        "Wait one hour then leave",
+        "Leave a visible note with your name, phone number, date and time, and call police"
+      ],
+      "answer": 3,
+      "explain": "Leave a note and report to police.",
+      "official": false,
+      "ref": "Pennsylvania Driver's Manual (PUB 95, rev. 4-21), Chapter 4 (Driving Record Information), section 'Crashes'"
+    },
+    {
+      "id": "pa-272",
+      "topic": "emergencies",
+      "q": "If your brakes fail in an older vehicle, one of the first steps is to:",
+      "options": [
+        "Pump the brake pedal quickly and shift to a lower gear",
+        "Open the door",
+        "Turn the key to LOCK",
+        "Shift into park at speed"
+      ],
+      "answer": 0,
+      "explain": "Pumping can build pressure; then use the parking brake carefully if needed.",
+      "official": false,
+      "ref": "Pennsylvania Driver's Manual (PUB 95, rev. 4-21), Chapter 3 (Learning to Drive), section 'If You Have an Older Vehicle and Your Brakes Suddenly Fail'"
+    },
+    {
+      "id": "pa-273",
+      "topic": "emergencies",
+      "q": "When using the parking brake to stop after brake failure, you should:",
+      "options": [
+        "Hold the release so you can let off if the rear wheels lock",
+        "Never use it",
+        "Use it only above 50 mph",
+        "Pull it all the way at once"
+      ],
+      "answer": 0,
+      "explain": "Holding the release lets you prevent a skid if the rear wheels lock.",
+      "official": false,
+      "ref": "Pennsylvania Driver's Manual (PUB 95, rev. 4-21), Chapter 3 (Learning to Drive), section 'If You Have an Older Vehicle and Your Brakes Suddenly Fail'"
+    },
+    {
+      "id": "pa-274",
+      "topic": "emergencies",
+      "q": "You come to a road covered by moving floodwater. You should:",
+      "options": [
+        "Drive through slowly",
+        "Drive through quickly",
+        "Follow a larger vehicle through",
+        "Turn around and find another route"
+      ],
+      "answer": 3,
+      "explain": "'Turn Around, Don't Drown' - never drive into floodwater.",
+      "official": false,
+      "ref": "Pennsylvania Driver's Manual (PUB 95, rev. 4-21), Chapter 3 (Learning to Drive), section 'Floods'"
+    }
+  ],
+  "version": 1
+}
