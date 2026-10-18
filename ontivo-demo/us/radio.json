@@ -1,0 +1,185 @@
+{
+ "generatedAt": "2026-10-17T15:00:00Z",
+ "source": "store",
+ "stations": [
+  {
+   "id": "s0",
+   "name": "Lakeside Jazz FM",
+   "url": "https://ice2.somafm.com/groovesalad-128-mp3",
+   "hls": false,
+   "logo": "",
+   "homepage": "",
+   "codec": "MP3",
+   "bitrate": 128,
+   "category": "music",
+   "tags": [
+    "jazz",
+    "smooth"
+   ]
+  },
+  {
+   "id": "s1",
+   "name": "Morning Talk 101",
+   "url": "https://ice2.somafm.com/groovesalad-128-mp3",
+   "hls": false,
+   "logo": "",
+   "homepage": "",
+   "codec": "MP3",
+   "bitrate": 128,
+   "category": "talk",
+   "tags": [
+    "talk",
+    "morning show"
+   ]
+  },
+  {
+   "id": "s2",
+   "name": "City News Radio",
+   "url": "https://ice2.somafm.com/groovesalad-128-mp3",
+   "hls": false,
+   "logo": "",
+   "homepage": "",
+   "codec": "MP3",
+   "bitrate": 128,
+   "category": "news",
+   "tags": [
+    "news",
+    "local"
+   ]
+  },
+  {
+   "id": "s3",
+   "name": "Classic Hits 98.4",
+   "url": "https://ice2.somafm.com/groovesalad-128-mp3",
+   "hls": false,
+   "logo": "",
+   "homepage": "",
+   "codec": "MP3",
+   "bitrate": 128,
+   "category": "music",
+   "tags": [
+    "70s",
+    "80s",
+    "classic hits"
+   ]
+  },
+  {
+   "id": "s4",
+   "name": "Sports Line Live",
+   "url": "https://ice2.somafm.com/groovesalad-128-mp3",
+   "hls": false,
+   "logo": "",
+   "homepage": "",
+   "codec": "MP3",
+   "bitrate": 128,
+   "category": "sports",
+   "tags": [
+    "sports",
+    "talk"
+   ]
+  },
+  {
+   "id": "s5",
+   "name": "Chill Lounge",
+   "url": "https://ice2.somafm.com/groovesalad-128-mp3",
+   "hls": false,
+   "logo": "",
+   "homepage": "",
+   "codec": "MP3",
+   "bitrate": 128,
+   "category": "music",
+   "tags": [
+    "chillout",
+    "lounge"
+   ]
+  },
+  {
+   "id": "s6",
+   "name": "Country Roads 104",
+   "url": "https://ice2.somafm.com/groovesalad-128-mp3",
+   "hls": false,
+   "logo": "",
+   "homepage": "",
+   "codec": "MP3",
+   "bitrate": 128,
+   "category": "music",
+   "tags": [
+    "country"
+   ]
+  },
+  {
+   "id": "s7",
+   "name": "Indie Waves",
+   "url": "https://ice2.somafm.com/groovesalad-128-mp3",
+   "hls": false,
+   "logo": "",
+   "homepage": "",
+   "codec": "MP3",
+   "bitrate": 128,
+   "category": "music",
+   "tags": [
+    "indie",
+    "alternative"
+   ]
+  },
+  {
+   "id": "s8",
+   "name": "Night Owl Talk",
+   "url": "https://ice2.somafm.com/groovesalad-128-mp3",
+   "hls": false,
+   "logo": "",
+   "homepage": "",
+   "codec": "MP3",
+   "bitrate": 128,
+   "category": "talk",
+   "tags": [
+    "talk",
+    "late night"
+   ]
+  },
+  {
+   "id": "s9",
+   "name": "Pop Central 92.1",
+   "url": "https://ice2.somafm.com/groovesalad-128-mp3",
+   "hls": false,
+   "logo": "",
+   "homepage": "",
+   "codec": "MP3",
+   "bitrate": 128,
+   "category": "music",
+   "tags": [
+    "pop",
+    "top 40"
+   ]
+  },
+  {
+   "id": "s10",
+   "name": "World Report",
+   "url": "https://ice2.somafm.com/groovesalad-128-mp3",
+   "hls": false,
+   "logo": "",
+   "homepage": "",
+   "codec": "MP3",
+   "bitrate": 128,
+   "category": "news",
+   "tags": [
+    "news",
+    "world"
+   ]
+  },
+  {
+   "id": "s11",
+   "name": "Rock Nation",
+   "url": "https://ice2.somafm.com/groovesalad-128-mp3",
+   "hls": false,
+   "logo": "",
+   "homepage": "",
+   "codec": "MP3",
+   "bitrate": 128,
+   "category": "music",
+   "tags": [
+    "rock"
+   ]
+  }
+ ]
+}

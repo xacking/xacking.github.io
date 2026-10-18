@@ -1,0 +1,563 @@
+{
+ "generatedAt": "2026-10-18T06:52:15.174979Z",
+ "topics": {
+  "TOP": [
+   {
+    "id": "8446cf",
+    "topic": "TOP",
+    "title": "City council approves new riverside park and bike trail",
+    "source": "Northline News",
+    "summary": "The park will add 40 acres of green space, a playground and a 6-mile trail linking downtown to the lake.",
+    "url": "https://example.com/story/1",
+    "image": "https://picsum.photos/id/17/1200/675",
+    "published": "2026-10-18T06:38:15.174979Z"
+   },
+   {
+    "id": "ffa561",
+    "topic": "TOP",
+    "title": "Storm system to bring cooler air and clear skies this weekend",
+    "source": "Brightwater Times",
+    "summary": "",
+    "url": "https://example.com/story/2",
+    "image": "https://picsum.photos/id/1019/1200/675",
+    "published": "2026-10-18T05:55:15.174979Z"
+   },
+   {
+    "id": "2fc809",
+    "topic": "TOP",
+    "title": "Local startup unveils solar-powered delivery bikes",
+    "source": "Harbor Daily",
+    "summary": "",
+    "url": "https://example.com/story/3",
+    "image": "https://picsum.photos/id/1077/1200/675",
+    "published": "2026-10-18T05:12:15.174979Z"
+   },
+   {
+    "id": "6d851b",
+    "topic": "TOP",
+    "title": "High school robotics team heads to national finals",
+    "source": "Cedar Gazette",
+    "summary": "",
+    "url": "https://example.com/story/4",
+    "image": "https://picsum.photos/id/180/1200/675",
+    "published": "2026-10-18T04:29:15.174979Z"
+   },
+   {
+    "id": "27f5c3",
+    "topic": "TOP",
+    "title": "Museum reopens with interactive space exhibit",
+    "source": "Summit Post",
+    "summary": "",
+    "url": "https://example.com/story/5",
+    "image": "https://picsum.photos/id/1022/1200/675",
+    "published": "2026-10-18T03:46:15.174979Z"
+   },
+   {
+    "id": "ac0091",
+    "topic": "TOP",
+    "title": "Farmers market season extended through November",
+    "source": "Lakeview Ledger",
+    "summary": "",
+    "url": "https://example.com/story/6",
+    "image": "https://picsum.photos/id/1080/1200/675",
+    "published": "2026-10-18T03:03:15.174979Z"
+   }
+  ],
+  "NATION": [
+   {
+    "id": "014ebd",
+    "topic": "NATION",
+    "title": "New rail line cuts commute times between two major cities",
+    "source": "Northline News",
+    "summary": "",
+    "url": "https://example.com/story/7",
+    "image": "https://picsum.photos/id/204/1200/675",
+    "published": "2026-10-18T06:26:15.174979Z"
+   },
+   {
+    "id": "02142c",
+    "topic": "NATION",
+    "title": "Volunteers plant 10,000 trees in statewide weekend drive",
+    "source": "Brightwater Times",
+    "summary": "",
+    "url": "https://example.com/story/8",
+    "image": "https://picsum.photos/id/1043/1200/675",
+    "published": "2026-10-18T05:43:15.174979Z"
+   },
+   {
+    "id": "872a91",
+    "topic": "NATION",
+    "title": "Library card sign-ups hit a record high this fall",
+    "source": "Harbor Daily",
+    "summary": "",
+    "url": "https://example.com/story/9",
+    "image": "https://picsum.photos/id/24/1200/675",
+    "published": "2026-10-18T05:00:15.174979Z"
+   },
+   {
+    "id": "7aefa8",
+    "topic": "NATION",
+    "title": "National parks report busiest autumn on record",
+    "source": "Cedar Gazette",
+    "summary": "",
+    "url": "https://example.com/story/10",
+    "image": "https://picsum.photos/id/1015/1200/675",
+    "published": "2026-10-18T04:17:15.174979Z"
+   },
+   {
+    "id": "bfe730",
+    "topic": "NATION",
+    "title": "Small towns see revival as remote workers move in",
+    "source": "Summit Post",
+    "summary": "",
+    "url": "https://example.com/story/11",
+    "image": "https://picsum.photos/id/164/1200/675",
+    "published": "2026-10-18T03:34:15.174979Z"
+   },
+   {
+    "id": "28324f",
+    "topic": "NATION",
+    "title": "Coastal cleanup collects tons of plastic in one day",
+    "source": "Lakeview Ledger",
+    "summary": "",
+    "url": "https://example.com/story/12",
+    "image": "https://picsum.photos/id/13/1200/675",
+    "published": "2026-10-18T02:51:15.174979Z"
+   }
+  ],
+  "WORLD": [
+   {
+    "id": "6cd5dd",
+    "topic": "WORLD",
+    "title": "Global ocean survey maps thousands of new reef sites",
+    "source": "Northline News",
+    "summary": "",
+    "url": "https://example.com/story/13",
+    "image": "https://picsum.photos/id/1069/1200/675",
+    "published": "2026-10-18T06:14:15.174979Z"
+   },
+   {
+    "id": "a383f2",
+    "topic": "WORLD",
+    "title": "Mountain village wins award for car-free main street",
+    "source": "Brightwater Times",
+    "summary": "",
+    "url": "https://example.com/story/14",
+    "image": "https://picsum.photos/id/1047/1200/675",
+    "published": "2026-10-18T05:31:15.174979Z"
+   },
+   {
+    "id": "04ede5",
+    "topic": "WORLD",
+    "title": "International space crew completes record spacewalk",
+    "source": "Harbor Daily",
+    "summary": "",
+    "url": "https://example.com/story/15",
+    "image": "https://picsum.photos/id/120/1200/675",
+    "published": "2026-10-18T04:48:15.174979Z"
+   },
+   {
+    "id": "78dc3d",
+    "topic": "WORLD",
+    "title": "Leaders agree on new plan to protect migrating birds",
+    "source": "Cedar Gazette",
+    "summary": "",
+    "url": "https://example.com/story/16",
+    "image": "https://picsum.photos/id/258/1200/675",
+    "published": "2026-10-18T04:05:15.174979Z"
+   },
+   {
+    "id": "30c3d1",
+    "topic": "WORLD",
+    "title": "Ancient city ruins revealed by low river levels",
+    "source": "Summit Post",
+    "summary": "",
+    "url": "https://example.com/story/17",
+    "image": "https://picsum.photos/id/1040/1200/675",
+    "published": "2026-10-18T03:22:15.174979Z"
+   },
+   {
+    "id": "198665",
+    "topic": "WORLD",
+    "title": "Wind power output reaches new high across Europe",
+    "source": "Lakeview Ledger",
+    "summary": "",
+    "url": "https://example.com/story/18",
+    "image": "https://picsum.photos/id/182/1200/675",
+    "published": "2026-10-18T02:39:15.174979Z"
+   }
+  ],
+  "BUSINESS": [
+   {
+    "id": "b28638",
+    "topic": "BUSINESS",
+    "title": "Stocks edge higher as tech shares rally",
+    "source": "Northline News",
+    "summary": "",
+    "url": "https://example.com/story/19",
+    "image": "https://picsum.photos/id/1031/1200/675",
+    "published": "2026-10-18T06:02:15.174979Z"
+   },
+   {
+    "id": "faa15a",
+    "topic": "BUSINESS",
+    "title": "Coffee chain to open 200 new stores next year",
+    "source": "Brightwater Times",
+    "summary": "",
+    "url": "https://example.com/story/20",
+    "image": "https://picsum.photos/id/63/1200/675",
+    "published": "2026-10-18T05:19:15.174979Z"
+   },
+   {
+    "id": "7012e4",
+    "topic": "BUSINESS",
+    "title": "Electric car sales climb for the fifth straight month",
+    "source": "Harbor Daily",
+    "summary": "",
+    "url": "https://example.com/story/21",
+    "image": "https://picsum.photos/id/96/1200/675",
+    "published": "2026-10-18T04:36:15.174979Z"
+   },
+   {
+    "id": "ddcc38",
+    "topic": "BUSINESS",
+    "title": "Small businesses report strong holiday bookings",
+    "source": "Cedar Gazette",
+    "summary": "",
+    "url": "https://example.com/story/22",
+    "image": "https://picsum.photos/id/163/1200/675",
+    "published": "2026-10-18T03:53:15.174979Z"
+   },
+   {
+    "id": "aef690",
+    "topic": "BUSINESS",
+    "title": "Airline adds new direct routes for spring",
+    "source": "Summit Post",
+    "summary": "",
+    "url": "https://example.com/story/23",
+    "image": "https://picsum.photos/id/130/1200/675",
+    "published": "2026-10-18T03:10:15.174979Z"
+   },
+   {
+    "id": "6b600b",
+    "topic": "BUSINESS",
+    "title": "Grocery prices hold steady for third month",
+    "source": "Lakeview Ledger",
+    "summary": "",
+    "url": "https://example.com/story/24",
+    "image": "https://picsum.photos/id/292/1200/675",
+    "published": "2026-10-18T02:27:15.174979Z"
+   }
+  ],
+  "TECHNOLOGY": [
+   {
+    "id": "28023d",
+    "topic": "TECHNOLOGY",
+    "title": "New phone battery promises two days on a single charge",
+    "source": "Northline News",
+    "summary": "",
+    "url": "https://example.com/story/25",
+    "image": "https://picsum.photos/id/160/1200/675",
+    "published": "2026-10-18T05:50:15.174979Z"
+   },
+   {
+    "id": "272fb3",
+    "topic": "TECHNOLOGY",
+    "title": "Researchers build robot that sorts recycling by touch",
+    "source": "Brightwater Times",
+    "summary": "",
+    "url": "https://example.com/story/26",
+    "image": "https://picsum.photos/id/1079/1200/675",
+    "published": "2026-10-18T05:07:15.174979Z"
+   },
+   {
+    "id": "c57604",
+    "topic": "TECHNOLOGY",
+    "title": "Smart glasses that translate speech go on sale",
+    "source": "Harbor Daily",
+    "summary": "",
+    "url": "https://example.com/story/27",
+    "image": "https://picsum.photos/id/119/1200/675",
+    "published": "2026-10-18T04:24:15.174979Z"
+   },
+   {
+    "id": "3256b6",
+    "topic": "TECHNOLOGY",
+    "title": "Open-source app helps farmers predict rainfall",
+    "source": "Cedar Gazette",
+    "summary": "",
+    "url": "https://example.com/story/28",
+    "image": "https://picsum.photos/id/107/1200/675",
+    "published": "2026-10-18T03:41:15.174979Z"
+   },
+   {
+    "id": "800391",
+    "topic": "TECHNOLOGY",
+    "title": "Chipmaker unveils faster, cooler laptop processor",
+    "source": "Summit Post",
+    "summary": "",
+    "url": "https://example.com/story/29",
+    "image": "https://picsum.photos/id/2/1200/675",
+    "published": "2026-10-18T02:58:15.174979Z"
+   },
+   {
+    "id": "07dddc",
+    "topic": "TECHNOLOGY",
+    "title": "Students code app that finds free study spaces",
+    "source": "Lakeview Ledger",
+    "summary": "",
+    "url": "https://example.com/story/30",
+    "image": "https://picsum.photos/id/1/1200/675",
+    "published": "2026-10-18T02:15:15.174979Z"
+   }
+  ],
+  "SPORTS": [
+   {
+    "id": "628270",
+    "topic": "SPORTS",
+    "title": "Underdogs clinch playoff spot in overtime thriller",
+    "source": "Northline News",
+    "summary": "",
+    "url": "https://example.com/story/31",
+    "image": "https://picsum.photos/id/1058/1200/675",
+    "published": "2026-10-18T05:38:15.174979Z"
+   },
+   {
+    "id": "eb460e",
+    "topic": "SPORTS",
+    "title": "Marathon runner sets course record in her debut",
+    "source": "Brightwater Times",
+    "summary": "",
+    "url": "https://example.com/story/32",
+    "image": "https://picsum.photos/id/173/1200/675",
+    "published": "2026-10-18T04:55:15.174979Z"
+   },
+   {
+    "id": "48fbe8",
+    "topic": "SPORTS",
+    "title": "Rookie goalkeeper keeps third clean sheet in a row",
+    "source": "Harbor Daily",
+    "summary": "",
+    "url": "https://example.com/story/33",
+    "image": "https://picsum.photos/id/193/1200/675",
+    "published": "2026-10-18T04:12:15.174979Z"
+   },
+   {
+    "id": "5b4488",
+    "topic": "SPORTS",
+    "title": "Tennis star returns from injury with straight-sets win",
+    "source": "Cedar Gazette",
+    "summary": "",
+    "url": "https://example.com/story/34",
+    "image": "https://picsum.photos/id/22/1200/675",
+    "published": "2026-10-18T03:29:15.174979Z"
+   },
+   {
+    "id": "3cd9df",
+    "topic": "SPORTS",
+    "title": "City hosts first international cycling race",
+    "source": "Summit Post",
+    "summary": "",
+    "url": "https://example.com/story/35",
+    "image": "https://picsum.photos/id/191/1200/675",
+    "published": "2026-10-18T02:46:15.174979Z"
+   },
+   {
+    "id": "95ba09",
+    "topic": "SPORTS",
+    "title": "Youth league doubles in size after free kit drive",
+    "source": "Lakeview Ledger",
+    "summary": "",
+    "url": "https://example.com/story/36",
+    "image": "https://picsum.photos/id/169/1200/675",
+    "published": "2026-10-18T02:03:15.174979Z"
+   }
+  ],
+  "ENTERTAINMENT": [
+   {
+    "id": "8d98db",
+    "topic": "ENTERTAINMENT",
+    "title": "Indie film wins top prize at autumn festival",
+    "source": "Northline News",
+    "summary": "",
+    "url": "https://example.com/story/37",
+    "image": "https://picsum.photos/id/158/1200/675",
+    "published": "2026-10-18T05:26:15.174979Z"
+   },
+   {
+    "id": "223c21",
+    "topic": "ENTERTAINMENT",
+    "title": "Beloved cartoon returns for a new season",
+    "source": "Brightwater Times",
+    "summary": "",
+    "url": "https://example.com/story/38",
+    "image": "https://picsum.photos/id/1025/1200/675",
+    "published": "2026-10-18T04:43:15.174979Z"
+   },
+   {
+    "id": "a8c2d8",
+    "topic": "ENTERTAINMENT",
+    "title": "Orchestra plays free concert in the park",
+    "source": "Harbor Daily",
+    "summary": "",
+    "url": "https://example.com/story/39",
+    "image": "https://picsum.photos/id/1082/1200/675",
+    "published": "2026-10-18T04:00:15.174979Z"
+   },
+   {
+    "id": "58a1f9",
+    "topic": "ENTERTAINMENT",
+    "title": "Streaming hit renewed for two more seasons",
+    "source": "Cedar Gazette",
+    "summary": "",
+    "url": "https://example.com/story/40",
+    "image": "https://picsum.photos/id/1062/1200/675",
+    "published": "2026-10-18T03:17:15.174979Z"
+   },
+   {
+    "id": "e1da28",
+    "topic": "ENTERTAINMENT",
+    "title": "Author's debut novel tops bestseller list",
+    "source": "Summit Post",
+    "summary": "",
+    "url": "https://example.com/story/41",
+    "image": "https://picsum.photos/id/1010/1200/675",
+    "published": "2026-10-18T02:34:15.174979Z"
+   },
+   {
+    "id": "9a2822",
+    "topic": "ENTERTAINMENT",
+    "title": "Comedy tour adds 30 new dates",
+    "source": "Lakeview Ledger",
+    "summary": "",
+    "url": "https://example.com/story/42",
+    "image": "https://picsum.photos/id/342/1200/675",
+    "published": "2026-10-18T01:51:15.174979Z"
+   }
+  ],
+  "HEALTH": [
+   {
+    "id": "8bc08b",
+    "topic": "HEALTH",
+    "title": "Study links daily walks to better sleep",
+    "source": "Northline News",
+    "summary": "",
+    "url": "https://example.com/story/43",
+    "image": "https://picsum.photos/id/1001/1200/675",
+    "published": "2026-10-18T05:14:15.174979Z"
+   },
+   {
+    "id": "8ca954",
+    "topic": "HEALTH",
+    "title": "Free flu shot clinics open this week",
+    "source": "Brightwater Times",
+    "summary": "",
+    "url": "https://example.com/story/44",
+    "image": "https://picsum.photos/id/1068/1200/675",
+    "published": "2026-10-18T04:31:15.174979Z"
+   },
+   {
+    "id": "a66a4a",
+    "topic": "HEALTH",
+    "title": "Five-minute breathing habit eases stress, doctors say",
+    "source": "Harbor Daily",
+    "summary": "",
+    "url": "https://example.com/story/45",
+    "image": "https://picsum.photos/id/1011/1200/675",
+    "published": "2026-10-18T03:48:15.174979Z"
+   },
+   {
+    "id": "0c6ae9",
+    "topic": "HEALTH",
+    "title": "Hospital opens new children's wing",
+    "source": "Cedar Gazette",
+    "summary": "",
+    "url": "https://example.com/story/46",
+    "image": "https://picsum.photos/id/1050/1200/675",
+    "published": "2026-10-18T03:05:15.174979Z"
+   },
+   {
+    "id": "7a91d2",
+    "topic": "HEALTH",
+    "title": "Swimming named best all-round exercise in new survey",
+    "source": "Summit Post",
+    "summary": "",
+    "url": "https://example.com/story/47",
+    "image": "https://picsum.photos/id/74/1200/675",
+    "published": "2026-10-18T02:22:15.174979Z"
+   },
+   {
+    "id": "7b5bd5",
+    "topic": "HEALTH",
+    "title": "Eating more fiber tied to better heart health",
+    "source": "Lakeview Ledger",
+    "summary": "",
+    "url": "https://example.com/story/48",
+    "image": "https://picsum.photos/id/75/1200/675",
+    "published": "2026-10-18T01:39:15.174979Z"
+   }
+  ],
+  "SCIENCE": [
+   {
+    "id": "23548d",
+    "topic": "SCIENCE",
+    "title": "Astronomers spot a planet with two suns",
+    "source": "Northline News",
+    "summary": "",
+    "url": "https://example.com/story/49",
+    "image": "https://picsum.photos/id/1002/1200/675",
+    "published": "2026-10-18T05:02:15.174979Z"
+   },
+   {
+    "id": "ce52bd",
+    "topic": "SCIENCE",
+    "title": "Bees can count to five, new research shows",
+    "source": "Brightwater Times",
+    "summary": "",
+    "url": "https://example.com/story/50",
+    "image": "https://picsum.photos/id/152/1200/675",
+    "published": "2026-10-18T04:19:15.174979Z"
+   },
+   {
+    "id": "2e48a8",
+    "topic": "SCIENCE",
+    "title": "Deep-sea robot films rare glowing squid",
+    "source": "Harbor Daily",
+    "summary": "",
+    "url": "https://example.com/story/51",
+    "image": "https://picsum.photos/id/124/1200/675",
+    "published": "2026-10-18T03:36:15.174979Z"
+   },
+   {
+    "id": "f57f80",
+    "topic": "SCIENCE",
+    "title": "Scientists grow tomatoes that need less water",
+    "source": "Cedar Gazette",
+    "summary": "",
+    "url": "https://example.com/story/52",
+    "image": "https://picsum.photos/id/1080/1200/675",
+    "published": "2026-10-18T02:53:15.174979Z"
+   },
+   {
+    "id": "a9f1a3",
+    "topic": "SCIENCE",
+    "title": "Comet visible to the naked eye next month",
+    "source": "Summit Post",
+    "summary": "",
+    "url": "https://example.com/story/53",
+    "image": "https://picsum.photos/id/1022/1200/675",
+    "published": "2026-10-18T02:10:15.174979Z"
+   },
+   {
+    "id": "a86268",
+    "topic": "SCIENCE",
+    "title": "Fossil find rewrites the story of early birds",
+    "source": "Lakeview Ledger",
+    "summary": "",
+    "url": "https://example.com/story/54",
+    "image": "https://picsum.photos/id/1024/1200/675",
+    "published": "2026-10-18T01:27:15.174979Z"
+   }
+  ]
+ }
+}

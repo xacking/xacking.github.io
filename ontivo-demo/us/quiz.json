@@ -1,0 +1,66 @@
+{
+ "date": "2026-10-18",
+ "generatedAt": "2026-10-17T15:00:00Z",
+ "questions": [
+  {
+   "type": "section",
+   "headline": "Astronomers spot a planet with two suns",
+   "options": [
+    "SCIENCE",
+    "SPORTS",
+    "BUSINESS",
+    "HEALTH"
+   ],
+   "answer": 0,
+   "url": "https://example.com/q1"
+  },
+  {
+   "type": "section",
+   "headline": "Underdogs clinch playoff spot in overtime thriller",
+   "options": [
+    "SPORTS",
+    "WORLD",
+    "TECHNOLOGY",
+    "SCIENCE"
+   ],
+   "answer": 0,
+   "url": "https://example.com/q2"
+  },
+  {
+   "type": "section",
+   "headline": "Coffee chain to open 200 new stores next year",
+   "options": [
+    "BUSINESS",
+    "HEALTH",
+    "NATION",
+    "ENTERTAINMENT"
+   ],
+   "answer": 0,
+   "url": "https://example.com/q3"
+  },
+  {
+   "type": "section",
+   "headline": "Indie film wins top prize at autumn festival",
+   "options": [
+    "ENTERTAINMENT",
+    "SCIENCE",
+    "WORLD",
+    "BUSINESS"
+   ],
+   "answer": 0,
+   "url": "https://example.com/q4"
+  },
+  {
+   "type": "section",
+   "headline": "Study links daily walks to better sleep",
+   "options": [
+    "HEALTH",
+    "TECHNOLOGY",
+    "SPORTS",
+    "NATION"
+   ],
+   "answer": 0,
+   "url": "https://example.com/q5"
+  }
+ ]
+}
