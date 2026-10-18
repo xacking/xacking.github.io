@@ -1,0 +1,5555 @@
+{
+ "code": "au",
+ "test": "Australian Citizenship Test",
+ "edition": "Australian Citizenship: Our Common Bond – testable section (Parts 1–4), current resource book (2020 edition, updated 2024 to name King Charles III); values-test format in force since 15 November 2020",
+ "language": "en",
+ "exam": {
+  "questions": 20,
+  "passMark": 15,
+  "minutes": 45,
+  "rules": "A computer-based multiple-choice test in English with 20 randomly selected questions drawn from the testable section (Parts 1–4) of Australian Citizenship: Our Common Bond, taken in 45 minutes. Five of the 20 questions are about Australian values. To pass you must answer ALL 5 Australian values questions correctly AND score at least 75% overall (15 of 20). Getting any values question wrong is a fail even with 15 or more correct. In this app, values questions have topic \"values\"; a mock exam draws 5 values questions plus 15 from the other topics.",
+  "valuesTopic": "values",
+  "valuesQuestions": 5,
+  "valuesMustAllBeCorrect": true
+ },
+ "sources": [
+  {
+   "title": "Australian Citizenship: Our Common Bond – Testable section (PDF)",
+   "url": "https://immi.homeaffairs.gov.au/citizenship-subsite/files/our-common-bond-testable.pdf",
+   "licence": "© Commonwealth of Australia 2020, CC BY 4.0 (except the Coat of Arms)",
+   "note": "Official resource book. Questions written by us in our own words from Parts 1–4 and the glossary."
+  },
+  {
+   "title": "Citizenship test – Department of Home Affairs",
+   "url": "https://immi.homeaffairs.gov.au/citizenship/test-and-interview/learn-about-citizenship-interview-and-test/learn-about-citizenship-test",
+   "licence": "© Commonwealth of Australia",
+   "note": "Test format: 20 questions, 5/5 values questions, 15/20 (75%) overall, 45 minutes."
+  }
+ ],
+ "topics": [
+  {
+   "id": "people",
+   "title": "Australia and its people"
+  },
+  {
+   "id": "beliefs",
+   "title": "Democratic beliefs, rights and liberties"
+  },
+  {
+   "id": "gov",
+   "title": "Government and the law"
+  },
+  {
+   "id": "values",
+   "title": "Australian values"
+  }
+ ],
+ "questions": [
+  {
+   "id": "au-001",
+   "topic": "people",
+   "q": "Who were Australia's first inhabitants?",
+   "options": [
+    "Aboriginal and Torres Strait Islander peoples",
+    "Chinese gold miners",
+    "Dutch explorers",
+    "British convicts"
+   ],
+   "answer": 0,
+   "explain": "Aboriginal and Torres Strait Islander peoples were the first inhabitants and have the oldest continuous cultures in the world.",
+   "official": false,
+   "ref": "Australian Citizenship: Our Common Bond – Part 1: Australia and its people (Aboriginal and Torres Strait Islander peoples)"
+  },
+  {
+   "id": "au-002",
+   "topic": "people",
+   "q": "Aboriginal and Torres Strait Islander peoples have what distinction among the world's cultures?",
+   "options": [
+    "The oldest continuous cultures and traditions in the world",
+    "Cultures brought from Europe",
+    "The youngest cultures in the world",
+    "Cultures that began in 1788"
+   ],
+   "answer": 0,
+   "explain": "Their cultures are the oldest continuous cultures in the world.",
+   "official": false,
+   "ref": "Australian Citizenship: Our Common Bond – Part 1: Australia and its people (Aboriginal and Torres Strait Islander peoples)"
+  },
+  {
+   "id": "au-003",
+   "topic": "people",
+   "q": "According to the archaeological record, when did Aboriginal peoples arrive in Australia?",
+   "options": [
+    "About 2,000 years ago",
+    "Between 65,000 and 40,000 years ago",
+    "In 1788",
+    "About 500 years ago"
+   ],
+   "answer": 1,
+   "explain": "The archaeological record indicates arrival between 65,000 and 40,000 years ago.",
+   "official": false,
+   "ref": "Australian Citizenship: Our Common Bond – Part 1: Australia and its people (Aboriginal and Torres Strait Islander peoples)"
+  },
+  {
+   "id": "au-004",
+   "topic": "people",
+   "q": "Where are Torres Strait Islander people from?",
+   "options": [
+    "Tasmania",
+    "New Zealand",
+    "Islands between the northern tip of Queensland and Papua New Guinea",
+    "Islands off the coast of Western Australia"
+   ],
+   "answer": 2,
+   "explain": "Torres Strait Islanders come from the islands between Cape York in Queensland and Papua New Guinea.",
+   "official": false,
+   "ref": "Australian Citizenship: Our Common Bond – Part 1: Australia and its people (Aboriginal and Torres Strait Islander peoples)"
+  },
+  {
+   "id": "au-005",
+   "topic": "people",
+   "q": "Historically, where are Aboriginal people from?",
+   "options": [
+    "The Torres Strait Islands only",
+    "New Guinea",
+    "Mainland Australia and Tasmania",
+    "The Pacific Islands"
+   ],
+   "answer": 2,
+   "explain": "Aboriginal people are historically from mainland Australia and Tasmania.",
+   "official": false,
+   "ref": "Australian Citizenship: Our Common Bond – Part 1: Australia and its people (Aboriginal and Torres Strait Islander peoples)"
+  },
+  {
+   "id": "au-006",
+   "topic": "people",
+   "q": "How do Aboriginal and Torres Strait Islander peoples express their deep connection with the land?",
+   "options": [
+    "Through farming wheat",
+    "Through written laws only",
+    "Through building cities",
+    "Through stories, art and dance"
+   ],
+   "answer": 3,
+   "explain": "Their connection to the land is expressed in stories, art and dance.",
+   "official": false,
+   "ref": "Australian Citizenship: Our Common Bond – Part 1: Australia and its people (Aboriginal and Torres Strait Islander peoples)"
+  },
+  {
+   "id": "au-007",
+   "topic": "people",
+   "q": "On what date did the First Fleet arrive from Great Britain?",
+   "options": [
+    "25 April 1915",
+    "26 January 1788",
+    "26 January 1901",
+    "1 January 1901"
+   ],
+   "answer": 1,
+   "explain": "The First Fleet arrived on 26 January 1788; this date is now Australia Day.",
+   "official": false,
+   "ref": "Australian Citizenship: Our Common Bond – Part 1: Australia and its people (Early days of European settlement)"
+  },
+  {
+   "id": "au-008",
+   "topic": "people",
+   "q": "How many ships were in the First Fleet?",
+   "options": [
+    "3",
+    "11",
+    "6",
+    "20"
+   ],
+   "answer": 1,
+   "explain": "The First Fleet was made up of 11 ships.",
+   "official": false,
+   "ref": "Australian Citizenship: Our Common Bond – Part 1: Australia and its people (Early days of European settlement)"
+  },
+  {
+   "id": "au-009",
+   "topic": "people",
+   "q": "Who was the first Governor of the colony of New South Wales?",
+   "options": [
+    "Sir Henry Parkes",
+    "Captain Arthur Phillip",
+    "Lachlan Macquarie",
+    "Captain James Cook"
+   ],
+   "answer": 1,
+   "explain": "Captain Arthur Phillip led the First Fleet and was the first Governor of NSW.",
+   "official": false,
+   "ref": "Australian Citizenship: Our Common Bond – Part 1: Australia and its people (Early days of European settlement)"
+  },
+  {
+   "id": "au-010",
+   "topic": "people",
+   "q": "Why did the British Government send convicts to New South Wales?",
+   "options": [
+    "To search for gold",
+    "British jails were too full to hold all the prisoners",
+    "To fight in a war",
+    "To trade with China"
+   ],
+   "answer": 1,
+   "explain": "British laws were harsh and jails were overcrowded, so convicts were transported to the new colony.",
+   "official": false,
+   "ref": "Australian Citizenship: Our Common Bond – Part 1: Australia and its people (Early days of European settlement)"
+  },
+  {
+   "id": "au-011",
+   "topic": "people",
+   "q": "Who were the people on the first ships that arrived in 1788?",
+   "options": [
+    "Farmers from Asia",
+    "Soldiers from America",
+    "Gold miners",
+    "Mainly convicts"
+   ],
+   "answer": 3,
+   "explain": "The First Fleet carried convicts to establish the colony of New South Wales.",
+   "official": false,
+   "ref": "Australian Citizenship: Our Common Bond – Part 1: Australia and its people (Early days of European settlement)"
+  },
+  {
+   "id": "au-012",
+   "topic": "people",
+   "q": "Early free settlers in Australia came mainly from which countries?",
+   "options": [
+    "France and Spain",
+    "China and Japan",
+    "Germany and Italy",
+    "Great Britain and Ireland"
+   ],
+   "answer": 3,
+   "explain": "Early free settlers came from Great Britain and Ireland, shaping Australian culture and politics.",
+   "official": false,
+   "ref": "Australian Citizenship: Our Common Bond – Part 1: Australia and its people (Early days of European settlement)"
+  },
+  {
+   "id": "au-013",
+   "topic": "people",
+   "q": "In what year did a gold rush begin in New South Wales and Victoria?",
+   "options": [
+    "1788",
+    "1915",
+    "1851",
+    "1901"
+   ],
+   "answer": 2,
+   "explain": "The gold rush began in 1851.",
+   "official": false,
+   "ref": "Australian Citizenship: Our Common Bond – Part 1: Australia and its people (Early days of European settlement)"
+  },
+  {
+   "id": "au-014",
+   "topic": "people",
+   "q": "During the gold rush, which group became the first large group of migrants not from Europe?",
+   "options": [
+    "Chinese people",
+    "Indian people",
+    "American people",
+    "Japanese people"
+   ],
+   "answer": 0,
+   "explain": "Chinese people arriving during the gold rush were the first large non-European migrant group.",
+   "official": false,
+   "ref": "Australian Citizenship: Our Common Bond – Part 1: Australia and its people (Early days of European settlement)"
+  },
+  {
+   "id": "au-015",
+   "topic": "people",
+   "q": "What happened to Australia's population in the 10 years after the gold rush began?",
+   "options": [
+    "It halved",
+    "It stayed the same",
+    "It more than doubled",
+    "It grew by only 10 per cent"
+   ],
+   "answer": 2,
+   "explain": "In 10 years, Australia's population more than doubled.",
+   "official": false,
+   "ref": "Australian Citizenship: Our Common Bond – Part 1: Australia and its people (Early days of European settlement)"
+  },
+  {
+   "id": "au-016",
+   "topic": "people",
+   "q": "In what year were the separate colonies united into a federation called the Commonwealth of Australia?",
+   "options": [
+    "1851",
+    "1788",
+    "1901",
+    "1967"
+   ],
+   "answer": 2,
+   "explain": "The colonies federated on 1 January 1901.",
+   "official": false,
+   "ref": "Australian Citizenship: Our Common Bond – Part 1: Australia and its people (The nation of Australia)"
+  },
+  {
+   "id": "au-017",
+   "topic": "people",
+   "q": "What was Australia's population in 1901, not counting Aboriginal and Torres Strait Islander peoples?",
+   "options": [
+    "About 40 million",
+    "About four million",
+    "About 400,000",
+    "About one million"
+   ],
+   "answer": 1,
+   "explain": "In 1901 the population was about four million.",
+   "official": false,
+   "ref": "Australian Citizenship: Our Common Bond – Part 1: Australia and its people (The nation of Australia)"
+  },
+  {
+   "id": "au-018",
+   "topic": "people",
+   "q": "After which event were Aboriginal and Torres Strait Islander peoples included in official population estimates?",
+   "options": [
+    "Federation in 1901",
+    "The arrival of the First Fleet",
+    "The 1967 Referendum",
+    "The 1851 gold rush"
+   ],
+   "answer": 2,
+   "explain": "Only after the 1967 Referendum were they counted in official estimates.",
+   "official": false,
+   "ref": "Australian Citizenship: Our Common Bond – Part 1: Australia and its people (The nation of Australia)"
+  },
+  {
+   "id": "au-019",
+   "topic": "people",
+   "q": "When did a large wave of non-British migrants come to Australia?",
+   "options": [
+    "During the 1851 gold rush only",
+    "Before 1788",
+    "In 1901",
+    "After World War II"
+   ],
+   "answer": 3,
+   "explain": "After World War II, many Europeans who had to leave their homelands came to Australia.",
+   "official": false,
+   "ref": "Australian Citizenship: Our Common Bond – Part 1: Australia and its people (The nation of Australia)"
+  },
+  {
+   "id": "au-020",
+   "topic": "people",
+   "q": "What is Australia's national language?",
+   "options": [
+    "Aboriginal English",
+    "English",
+    "There is no national language",
+    "English and French"
+   ],
+   "answer": 1,
+   "explain": "English is Australia's national language and part of the national identity.",
+   "official": false,
+   "ref": "Australian Citizenship: Our Common Bond – Part 1: Australia and its people (The nation of Australia)"
+  },
+  {
+   "id": "au-021",
+   "topic": "people",
+   "q": "About how many distinct Aboriginal and Torres Strait Islander languages are there?",
+   "options": [
+    "About 10",
+    "About 1,000",
+    "Only 2",
+    "More than 100"
+   ],
+   "answer": 3,
+   "explain": "There are more than 100 distinct Aboriginal and Torres Strait Islander languages.",
+   "official": false,
+   "ref": "Australian Citizenship: Our Common Bond – Part 1: Australia and its people (The nation of Australia)"
+  },
+  {
+   "id": "au-022",
+   "topic": "people",
+   "q": "Why should migrants learn and use English?",
+   "options": [
+    "Because other languages are illegal",
+    "To be allowed to vote",
+    "Because it is required to own a home",
+    "To participate in Australian society"
+   ],
+   "answer": 3,
+   "explain": "Learning English helps migrants participate fully in Australian society; other languages are also valued.",
+   "official": false,
+   "ref": "Australian Citizenship: Our Common Bond – Part 1: Australia and its people (The nation of Australia)"
+  },
+  {
+   "id": "au-023",
+   "topic": "people",
+   "q": "How many states and mainland territories does Australia have?",
+   "options": [
+    "Seven states and one territory",
+    "Eight states and no territories",
+    "Six states and two mainland territories",
+    "Five states and three territories"
+   ],
+   "answer": 2,
+   "explain": "The Commonwealth of Australia has six states and two mainland territories.",
+   "official": false,
+   "ref": "Australian Citizenship: Our Common Bond – Part 1: Australia and its people (Australia's states and territories)"
+  },
+  {
+   "id": "au-024",
+   "topic": "people",
+   "q": "What is the capital city of Australia?",
+   "options": [
+    "Brisbane",
+    "Sydney",
+    "Canberra",
+    "Melbourne"
+   ],
+   "answer": 2,
+   "explain": "Canberra is Australia's capital city.",
+   "official": false,
+   "ref": "Australian Citizenship: Our Common Bond – Part 1: Australia and its people (Australia's states and territories)"
+  },
+  {
+   "id": "au-025",
+   "topic": "people",
+   "q": "What is the capital city of New South Wales?",
+   "options": [
+    "Canberra",
+    "Melbourne",
+    "Newcastle",
+    "Sydney"
+   ],
+   "answer": 3,
+   "explain": "Sydney is the capital of NSW and the nation's largest city.",
+   "official": false,
+   "ref": "Australian Citizenship: Our Common Bond – Part 1: Australia and its people (The states)"
+  },
+  {
+   "id": "au-026",
+   "topic": "people",
+   "q": "What is the capital city of Victoria?",
+   "options": [
+    "Hobart",
+    "Melbourne",
+    "Geelong",
+    "Ballarat"
+   ],
+   "answer": 1,
+   "explain": "Melbourne is the capital of Victoria.",
+   "official": false,
+   "ref": "Australian Citizenship: Our Common Bond – Part 1: Australia and its people (The states)"
+  },
+  {
+   "id": "au-027",
+   "topic": "people",
+   "q": "What is the capital city of Queensland?",
+   "options": [
+    "Cairns",
+    "Gold Coast",
+    "Darwin",
+    "Brisbane"
+   ],
+   "answer": 3,
+   "explain": "Brisbane is the capital of Queensland.",
+   "official": false,
+   "ref": "Australian Citizenship: Our Common Bond – Part 1: Australia and its people (The states)"
+  },
+  {
+   "id": "au-028",
+   "topic": "people",
+   "q": "What is the capital city of Western Australia?",
+   "options": [
+    "Broome",
+    "Perth",
+    "Adelaide",
+    "Fremantle"
+   ],
+   "answer": 1,
+   "explain": "Perth is the capital of Western Australia.",
+   "official": false,
+   "ref": "Australian Citizenship: Our Common Bond – Part 1: Australia and its people (The states)"
+  },
+  {
+   "id": "au-029",
+   "topic": "people",
+   "q": "What is the capital city of South Australia?",
+   "options": [
+    "Port Augusta",
+    "Adelaide",
+    "Darwin",
+    "Perth"
+   ],
+   "answer": 1,
+   "explain": "Adelaide is the capital of South Australia.",
+   "official": false,
+   "ref": "Australian Citizenship: Our Common Bond – Part 1: Australia and its people (The states)"
+  },
+  {
+   "id": "au-030",
+   "topic": "people",
+   "q": "What is the capital city of Tasmania?",
+   "options": [
+    "Hobart",
+    "Melbourne",
+    "Launceston",
+    "Devonport"
+   ],
+   "answer": 0,
+   "explain": "Hobart is the capital of Tasmania.",
+   "official": false,
+   "ref": "Australian Citizenship: Our Common Bond – Part 1: Australia and its people (The states)"
+  },
+  {
+   "id": "au-031",
+   "topic": "people",
+   "q": "What is the capital city of the Northern Territory?",
+   "options": [
+    "Alice Springs",
+    "Cairns",
+    "Katherine",
+    "Darwin"
+   ],
+   "answer": 3,
+   "explain": "Darwin is the capital of the Northern Territory.",
+   "official": false,
+   "ref": "Australian Citizenship: Our Common Bond – Part 1: Australia and its people (The territories)"
+  },
+  {
+   "id": "au-032",
+   "topic": "people",
+   "q": "Which was the first colony established by the British?",
+   "options": [
+    "Western Australia",
+    "Victoria",
+    "Tasmania",
+    "New South Wales"
+   ],
+   "answer": 3,
+   "explain": "New South Wales was the first British colony.",
+   "official": false,
+   "ref": "Australian Citizenship: Our Common Bond – Part 1: Australia and its people (The states)"
+  },
+  {
+   "id": "au-033",
+   "topic": "people",
+   "q": "According to Our Common Bond, which is Australia's largest city?",
+   "options": [
+    "Canberra",
+    "Brisbane",
+    "Melbourne",
+    "Sydney"
+   ],
+   "answer": 3,
+   "explain": "Sydney is the nation's largest city.",
+   "official": false,
+   "ref": "Australian Citizenship: Our Common Bond – Part 1: Australia and its people (The states)"
+  },
+  {
+   "id": "au-034",
+   "topic": "people",
+   "q": "Which national icons are found in Sydney?",
+   "options": [
+    "Uluru and Kata Tjuta",
+    "The 12 Apostles",
+    "The Barossa Valley",
+    "The Sydney Harbour Bridge and the Opera House"
+   ],
+   "answer": 3,
+   "explain": "The Harbour Bridge and Opera House are Sydney icons.",
+   "official": false,
+   "ref": "Australian Citizenship: Our Common Bond – Part 1: Australia and its people (The states)"
+  },
+  {
+   "id": "au-035",
+   "topic": "people",
+   "q": "Which is the smallest of the mainland states?",
+   "options": [
+    "Victoria",
+    "Tasmania",
+    "South Australia",
+    "New South Wales"
+   ],
+   "answer": 0,
+   "explain": "Victoria is the smallest mainland state; Tasmania is the smallest state overall.",
+   "official": false,
+   "ref": "Australian Citizenship: Our Common Bond – Part 1: Australia and its people (The states)"
+  },
+  {
+   "id": "au-036",
+   "topic": "people",
+   "q": "Many fine buildings in Victoria were built from the wealth of which event?",
+   "options": [
+    "The arrival of the First Fleet",
+    "The gold rush of the 1850s",
+    "World War II",
+    "Federation"
+   ],
+   "answer": 1,
+   "explain": "Gold rush wealth funded many of Victoria's fine buildings.",
+   "official": false,
+   "ref": "Australian Citizenship: Our Common Bond – Part 1: Australia and its people (The states)"
+  },
+  {
+   "id": "au-037",
+   "topic": "people",
+   "q": "Which of these is an icon of Victoria?",
+   "options": [
+    "Uluru",
+    "The Great Barrier Reef",
+    "The Melbourne Cricket Ground",
+    "Cradle Mountain"
+   ],
+   "answer": 2,
+   "explain": "Victoria's icons include the MCG, the 12 Apostles and the Royal Exhibition Building.",
+   "official": false,
+   "ref": "Australian Citizenship: Our Common Bond – Part 1: Australia and its people (The states)"
+  },
+  {
+   "id": "au-038",
+   "topic": "people",
+   "q": "Which is the second largest state?",
+   "options": [
+    "Queensland",
+    "South Australia",
+    "New South Wales",
+    "Victoria"
+   ],
+   "answer": 0,
+   "explain": "Queensland is the second largest state.",
+   "official": false,
+   "ref": "Australian Citizenship: Our Common Bond – Part 1: Australia and its people (The states)"
+  },
+  {
+   "id": "au-039",
+   "topic": "people",
+   "q": "The Great Barrier Reef runs along the coast of which state?",
+   "options": [
+    "Northern Territory",
+    "New South Wales",
+    "Queensland",
+    "Western Australia"
+   ],
+   "answer": 2,
+   "explain": "The Great Barrier Reef runs along Queensland's eastern coast.",
+   "official": false,
+   "ref": "Australian Citizenship: Our Common Bond – Part 1: Australia and its people (The states)"
+  },
+  {
+   "id": "au-040",
+   "topic": "people",
+   "q": "Which islands lie to the north of Queensland?",
+   "options": [
+    "The Torres Strait Islands",
+    "Christmas Island",
+    "Kangaroo Island",
+    "The Whitsunday Islands only"
+   ],
+   "answer": 0,
+   "explain": "The Torres Strait Islands lie north of Queensland.",
+   "official": false,
+   "ref": "Australian Citizenship: Our Common Bond – Part 1: Australia and its people (The states)"
+  },
+  {
+   "id": "au-041",
+   "topic": "people",
+   "q": "Which is the largest state?",
+   "options": [
+    "New South Wales",
+    "Western Australia",
+    "Queensland",
+    "South Australia"
+   ],
+   "answer": 1,
+   "explain": "Western Australia is the largest state.",
+   "official": false,
+   "ref": "Australian Citizenship: Our Common Bond – Part 1: Australia and its people (The states)"
+  },
+  {
+   "id": "au-042",
+   "topic": "people",
+   "q": "Which of these is an icon of Western Australia?",
+   "options": [
+    "Port Arthur",
+    "The Ningaloo Coast",
+    "The Barossa Valley",
+    "The Flinders Ranges"
+   ],
+   "answer": 1,
+   "explain": "WA's icons include the Ningaloo Coast, Margaret River and the Kimberley.",
+   "official": false,
+   "ref": "Australian Citizenship: Our Common Bond – Part 1: Australia and its people (The states)"
+  },
+  {
+   "id": "au-043",
+   "topic": "people",
+   "q": "Which state is home to many large mining projects and has a south-west rich in agriculture and wine?",
+   "options": [
+    "Victoria",
+    "Tasmania",
+    "Western Australia",
+    "New South Wales"
+   ],
+   "answer": 2,
+   "explain": "Western Australia has large mining projects and a fertile south-west.",
+   "official": false,
+   "ref": "Australian Citizenship: Our Common Bond – Part 1: Australia and its people (The states)"
+  },
+  {
+   "id": "au-044",
+   "topic": "people",
+   "q": "Which state is known for the Barossa Valley and the Flinders Ranges?",
+   "options": [
+    "Queensland",
+    "Victoria",
+    "Western Australia",
+    "South Australia"
+   ],
+   "answer": 3,
+   "explain": "The Barossa Valley and Flinders Ranges are South Australian icons.",
+   "official": false,
+   "ref": "Australian Citizenship: Our Common Bond – Part 1: Australia and its people (The states)"
+  },
+  {
+   "id": "au-045",
+   "topic": "people",
+   "q": "Which is the smallest state?",
+   "options": [
+    "New South Wales",
+    "Tasmania",
+    "Victoria",
+    "South Australia"
+   ],
+   "answer": 1,
+   "explain": "Tasmania is the smallest state.",
+   "official": false,
+   "ref": "Australian Citizenship: Our Common Bond – Part 1: Australia and its people (The states)"
+  },
+  {
+   "id": "au-046",
+   "topic": "people",
+   "q": "What separates Tasmania from the mainland?",
+   "options": [
+    "Torres Strait",
+    "Bass Strait",
+    "The Great Australian Bight",
+    "The Coral Sea"
+   ],
+   "answer": 1,
+   "explain": "Tasmania is separated from the mainland by Bass Strait.",
+   "official": false,
+   "ref": "Australian Citizenship: Our Common Bond – Part 1: Australia and its people (The states)"
+  },
+  {
+   "id": "au-047",
+   "topic": "people",
+   "q": "Which of these is a Tasmanian icon?",
+   "options": [
+    "The Royal Exhibition Building",
+    "Cradle Mountain",
+    "The Kimberley",
+    "Kings Canyon"
+   ],
+   "answer": 1,
+   "explain": "Tasmania's icons include Cradle Mountain, Port Arthur and the Bay of Fires.",
+   "official": false,
+   "ref": "Australian Citizenship: Our Common Bond – Part 1: Australia and its people (The states)"
+  },
+  {
+   "id": "au-048",
+   "topic": "people",
+   "q": "Where is the Australian Capital Territory located?",
+   "options": [
+    "North of Brisbane",
+    "Between Sydney and Melbourne",
+    "Between Perth and Adelaide",
+    "In the centre of Australia"
+   ],
+   "answer": 1,
+   "explain": "The ACT lies between Sydney and Melbourne.",
+   "official": false,
+   "ref": "Australian Citizenship: Our Common Bond – Part 1: Australia and its people (The territories)"
+  },
+  {
+   "id": "au-049",
+   "topic": "people",
+   "q": "Which national institutions are located in Canberra?",
+   "options": [
+    "Parliament House and the High Court of Australia",
+    "The Sydney Opera House",
+    "The Melbourne Cricket Ground",
+    "The Great Barrier Reef Authority only"
+   ],
+   "answer": 0,
+   "explain": "Parliament House and the High Court are in Canberra.",
+   "official": false,
+   "ref": "Australian Citizenship: Our Common Bond – Part 1: Australia and its people (The territories)"
+  },
+  {
+   "id": "au-050",
+   "topic": "people",
+   "q": "Which of these is an icon of the Northern Territory?",
+   "options": [
+    "The 12 Apostles",
+    "Cradle Mountain",
+    "Uluru",
+    "The Sydney Opera House"
+   ],
+   "answer": 2,
+   "explain": "Uluru, Kata Tjuta and Kings Canyon are NT icons.",
+   "official": false,
+   "ref": "Australian Citizenship: Our Common Bond – Part 1: Australia and its people (The territories)"
+  },
+  {
+   "id": "au-051",
+   "topic": "people",
+   "q": "What kind of environment does the Northern Territory have?",
+   "options": [
+    "Snow-covered mountains throughout",
+    "Temperate rainforest everywhere",
+    "Tropical in the north and dry red desert in the south",
+    "Mostly wheat farms"
+   ],
+   "answer": 2,
+   "explain": "The NT is tropical in the north and desert in the south.",
+   "official": false,
+   "ref": "Australian Citizenship: Our Common Bond – Part 1: Australia and its people (The territories)"
+  },
+  {
+   "id": "au-052",
+   "topic": "people",
+   "q": "What is a Welcome to Country?",
+   "options": [
+    "A citizenship test",
+    "A sporting event",
+    "A ceremony by an Aboriginal or Torres Strait Islander custodian welcoming visitors to their traditional land",
+    "A speech by the Prime Minister on Australia Day"
+   ],
+   "answer": 2,
+   "explain": "A Welcome to Country is performed by a traditional custodian to welcome visitors to their land.",
+   "official": false,
+   "ref": "Australian Citizenship: Our Common Bond – Part 1: Australia and its people (Traditions)"
+  },
+  {
+   "id": "au-053",
+   "topic": "people",
+   "q": "Who can deliver an Acknowledgement of Country?",
+   "options": [
+    "Only a Member of Parliament",
+    "Only the Governor-General",
+    "Only an Aboriginal Elder",
+    "Anyone"
+   ],
+   "answer": 3,
+   "explain": "Anyone can give an Acknowledgement of Country; a Welcome to Country is given by a traditional custodian.",
+   "official": false,
+   "ref": "Australian Citizenship: Our Common Bond – Part 1: Australia and its people (Traditions)"
+  },
+  {
+   "id": "au-054",
+   "topic": "people",
+   "q": "When is a Welcome to Country usually held at an event?",
+   "options": [
+    "Halfway through",
+    "As the first item of proceedings",
+    "At the very end",
+    "Only after dinner"
+   ],
+   "answer": 1,
+   "explain": "A Welcome to Country is usually the first item to open an event.",
+   "official": false,
+   "ref": "Australian Citizenship: Our Common Bond – Part 1: Australia and its people (Traditions)"
+  },
+  {
+   "id": "au-055",
+   "topic": "people",
+   "q": "What forms can a Welcome to Country take?",
+   "options": [
+    "Only a written letter",
+    "Only a moment of silence",
+    "Songs, dances, smoking ceremonies or speeches",
+    "Only a flag-raising"
+   ],
+   "answer": 2,
+   "explain": "It can include songs, dances, smoking ceremonies or speeches in traditional language or English.",
+   "official": false,
+   "ref": "Australian Citizenship: Our Common Bond – Part 1: Australia and its people (Traditions)"
+  },
+  {
+   "id": "au-056",
+   "topic": "people",
+   "q": "Why are Welcome to Country and Acknowledgement of Country practices performed?",
+   "options": [
+    "To show respect for Aboriginal and Torres Strait Islander peoples",
+    "To elect a mayor",
+    "To celebrate Federation",
+    "To begin a criminal trial"
+   ],
+   "answer": 0,
+   "explain": "These practices show respect for Aboriginal and Torres Strait Islander peoples.",
+   "official": false,
+   "ref": "Australian Citizenship: Our Common Bond – Part 1: Australia and its people (Traditions)"
+  },
+  {
+   "id": "au-057",
+   "topic": "people",
+   "q": "When is Australia Day celebrated?",
+   "options": [
+    "25 April",
+    "11 November",
+    "1 January",
+    "26 January"
+   ],
+   "answer": 3,
+   "explain": "Australia Day is on 26 January, the anniversary of the First Fleet's arrival in 1788.",
+   "official": false,
+   "ref": "Australian Citizenship: Our Common Bond – Part 1: Australia and its people (Important days for Australians)"
+  },
+  {
+   "id": "au-058",
+   "topic": "people",
+   "q": "What does Australia Day mark?",
+   "options": [
+    "Federation in 1901",
+    "The anniversary of the arrival of the First Fleet in 1788",
+    "The landing at Gallipoli",
+    "The end of World War II"
+   ],
+   "answer": 1,
+   "explain": "Australia Day marks the arrival of the First Fleet in 1788.",
+   "official": false,
+   "ref": "Australian Citizenship: Our Common Bond – Part 1: Australia and its people (Important days for Australians)"
+  },
+  {
+   "id": "au-059",
+   "topic": "people",
+   "q": "Which awards are announced by the Prime Minister during Australia Day celebrations?",
+   "options": [
+    "The Victoria Cross",
+    "The Australian of the Year Awards",
+    "The Nobel Prizes",
+    "The Order of Australia"
+   ],
+   "answer": 1,
+   "explain": "The Prime Minister announces the Australian of the Year Awards in Canberra.",
+   "official": false,
+   "ref": "Australian Citizenship: Our Common Bond – Part 1: Australia and its people (Important days for Australians)"
+  },
+  {
+   "id": "au-060",
+   "topic": "people",
+   "q": "What is the biggest annual public holiday in Australia?",
+   "options": [
+    "Anzac Day",
+    "Australia Day",
+    "Christmas Day",
+    "Labour Day"
+   ],
+   "answer": 1,
+   "explain": "Australia Day is described as the biggest annual public holiday.",
+   "official": false,
+   "ref": "Australian Citizenship: Our Common Bond – Part 1: Australia and its people (Important days for Australians)"
+  },
+  {
+   "id": "au-061",
+   "topic": "people",
+   "q": "When is Anzac Day commemorated?",
+   "options": [
+    "26 January",
+    "11 November",
+    "25 April",
+    "1 January"
+   ],
+   "answer": 2,
+   "explain": "Anzac Day is on 25 April.",
+   "official": false,
+   "ref": "Australian Citizenship: Our Common Bond – Part 1: Australia and its people (Important days for Australians)"
+  },
+  {
+   "id": "au-062",
+   "topic": "people",
+   "q": "What does 'Anzac' stand for?",
+   "options": [
+    "Australian and New Zealand Army Corps",
+    "Allied Navy and Air Corps",
+    "Australian and New Zealand Air Command",
+    "Australian National Army Command"
+   ],
+   "answer": 0,
+   "explain": "Anzac stands for the Australian and New Zealand Army Corps.",
+   "official": false,
+   "ref": "Australian Citizenship: Our Common Bond – Part 1: Australia and its people (Important days for Australians)"
+  },
+  {
+   "id": "au-063",
+   "topic": "people",
+   "q": "Where did the Anzacs land on 25 April 1915?",
+   "options": [
+    "Tobruk in Libya",
+    "Gallipoli in Türkiye",
+    "Normandy in France",
+    "Kokoda in Papua New Guinea"
+   ],
+   "answer": 1,
+   "explain": "The Anzacs landed at Gallipoli in Türkiye during World War I.",
+   "official": false,
+   "ref": "Australian Citizenship: Our Common Bond – Part 1: Australia and its people (Important days for Australians)"
+  },
+  {
+   "id": "au-064",
+   "topic": "people",
+   "q": "What do Australians remember on Anzac Day?",
+   "options": [
+    "Those who served and died in wars, conflicts and peacekeeping operations",
+    "The arrival of the First Fleet",
+    "The discovery of gold",
+    "Federation"
+   ],
+   "answer": 0,
+   "explain": "Anzac Day remembers all Australians who served and died in wars, conflicts and peacekeeping.",
+   "official": false,
+   "ref": "Australian Citizenship: Our Common Bond – Part 1: Australia and its people (Important days for Australians)"
+  },
+  {
+   "id": "au-065",
+   "topic": "people",
+   "q": "In which war did the Anzac landing at Gallipoli take place?",
+   "options": [
+    "The Boer War",
+    "The Korean War",
+    "World War I",
+    "World War II"
+   ],
+   "answer": 2,
+   "explain": "The landing at Gallipoli was in 1915, during World War I.",
+   "official": false,
+   "ref": "Australian Citizenship: Our Common Bond – Part 1: Australia and its people (Important days for Australians)"
+  },
+  {
+   "id": "au-066",
+   "topic": "people",
+   "q": "What is the official flag of Australia?",
+   "options": [
+    "The Torres Strait Islander Flag",
+    "The Union Jack",
+    "The Australian Aboriginal Flag",
+    "The Australian National Flag"
+   ],
+   "answer": 3,
+   "explain": "The Australian National Flag is the official flag; the Aboriginal and Torres Strait Islander flags are also officially recognised.",
+   "official": false,
+   "ref": "Australian Citizenship: Our Common Bond – Part 1: Australia and its people (Australia's flags)"
+  },
+  {
+   "id": "au-067",
+   "topic": "people",
+   "q": "What are the colours of the Australian National Flag?",
+   "options": [
+    "Blue, white and red",
+    "Green and gold",
+    "Black, red and yellow",
+    "Green, blue, black and white"
+   ],
+   "answer": 0,
+   "explain": "The National Flag is blue, white and red.",
+   "official": false,
+   "ref": "Australian Citizenship: Our Common Bond – Part 1: Australia and its people (Australia's flags)"
+  },
+  {
+   "id": "au-068",
+   "topic": "people",
+   "q": "What does the Union Jack on the Australian National Flag represent?",
+   "options": [
+    "Aboriginal peoples",
+    "The six states",
+    "Our history of British settlement and the laws and institutions inherited",
+    "The Southern Cross"
+   ],
+   "answer": 2,
+   "explain": "The Union Jack represents British settlement and the laws and institutions inherited from Britain.",
+   "official": false,
+   "ref": "Australian Citizenship: Our Common Bond – Part 1: Australia and its people (Australia's flags)"
+  },
+  {
+   "id": "au-069",
+   "topic": "people",
+   "q": "How many points does the Commonwealth Star on the Australian National Flag have?",
+   "options": [
+    "Eight",
+    "Six",
+    "Seven",
+    "Five"
+   ],
+   "answer": 2,
+   "explain": "The Commonwealth Star has seven points.",
+   "official": false,
+   "ref": "Australian Citizenship: Our Common Bond – Part 1: Australia and its people (Australia's flags)"
+  },
+  {
+   "id": "au-070",
+   "topic": "people",
+   "q": "What do the seven points of the Commonwealth Star represent?",
+   "options": [
+    "The seven largest cities",
+    "Seven Aboriginal nations",
+    "The seven days of the week",
+    "The six states, plus one point for the territories"
+   ],
+   "answer": 3,
+   "explain": "Six points represent the states and one represents the territories.",
+   "official": false,
+   "ref": "Australian Citizenship: Our Common Bond – Part 1: Australia and its people (Australia's flags)"
+  },
+  {
+   "id": "au-071",
+   "topic": "people",
+   "q": "What is the group of stars on the right side of the Australian National Flag?",
+   "options": [
+    "The Big Dipper",
+    "The Commonwealth Star",
+    "The Milky Way",
+    "The Southern Cross"
+   ],
+   "answer": 3,
+   "explain": "The Southern Cross is a constellation visible in the southern sky.",
+   "official": false,
+   "ref": "Australian Citizenship: Our Common Bond – Part 1: Australia and its people (Australia's flags)"
+  },
+  {
+   "id": "au-072",
+   "topic": "people",
+   "q": "What are the colours of the Australian Aboriginal Flag?",
+   "options": [
+    "Blue, white and red",
+    "Green, blue, black and white",
+    "Green and gold",
+    "Black, red and yellow"
+   ],
+   "answer": 3,
+   "explain": "The Aboriginal Flag is black, red and yellow.",
+   "official": false,
+   "ref": "Australian Citizenship: Our Common Bond – Part 1: Australia and its people (Australia's flags)"
+  },
+  {
+   "id": "au-073",
+   "topic": "people",
+   "q": "On the Australian Aboriginal Flag, what does the black top half represent?",
+   "options": [
+    "The sea",
+    "The night sky",
+    "The Aboriginal peoples of Australia",
+    "The earth"
+   ],
+   "answer": 2,
+   "explain": "Black represents the Aboriginal peoples.",
+   "official": false,
+   "ref": "Australian Citizenship: Our Common Bond – Part 1: Australia and its people (Australia's flags)"
+  },
+  {
+   "id": "au-074",
+   "topic": "people",
+   "q": "On the Australian Aboriginal Flag, what does the red bottom half represent?",
+   "options": [
+    "The sunset",
+    "The desert sand only",
+    "The earth, which has ceremonial significance",
+    "The blood of soldiers"
+   ],
+   "answer": 2,
+   "explain": "Red represents the earth and its ceremonial significance.",
+   "official": false,
+   "ref": "Australian Citizenship: Our Common Bond – Part 1: Australia and its people (Australia's flags)"
+  },
+  {
+   "id": "au-075",
+   "topic": "people",
+   "q": "On the Australian Aboriginal Flag, what does the yellow circle represent?",
+   "options": [
+    "Gold",
+    "Wattle",
+    "The sun",
+    "The moon"
+   ],
+   "answer": 2,
+   "explain": "The yellow circle represents the sun.",
+   "official": false,
+   "ref": "Australian Citizenship: Our Common Bond – Part 1: Australia and its people (Australia's flags)"
+  },
+  {
+   "id": "au-076",
+   "topic": "people",
+   "q": "What are the colours of the Torres Strait Islander Flag?",
+   "options": [
+    "Black, red and yellow",
+    "Green, blue, black and white",
+    "Green and gold",
+    "Blue, white and red"
+   ],
+   "answer": 1,
+   "explain": "The Torres Strait Islander Flag is green, blue, black and white.",
+   "official": false,
+   "ref": "Australian Citizenship: Our Common Bond – Part 1: Australia and its people (Australia's flags)"
+  },
+  {
+   "id": "au-077",
+   "topic": "people",
+   "q": "On the Torres Strait Islander Flag, what do the green stripes represent?",
+   "options": [
+    "Peace",
+    "The people",
+    "The sea",
+    "The land"
+   ],
+   "answer": 3,
+   "explain": "Green represents the land.",
+   "official": false,
+   "ref": "Australian Citizenship: Our Common Bond – Part 1: Australia and its people (Australia's flags)"
+  },
+  {
+   "id": "au-078",
+   "topic": "people",
+   "q": "On the Torres Strait Islander Flag, what does the blue panel represent?",
+   "options": [
+    "The land",
+    "The sea",
+    "The people",
+    "The sky"
+   ],
+   "answer": 1,
+   "explain": "The blue panel represents the sea.",
+   "official": false,
+   "ref": "Australian Citizenship: Our Common Bond – Part 1: Australia and its people (Australia's flags)"
+  },
+  {
+   "id": "au-079",
+   "topic": "people",
+   "q": "On the Torres Strait Islander Flag, what is the white symbol in the centre?",
+   "options": [
+    "A kangaroo",
+    "A boomerang",
+    "A wattle flower",
+    "A dancer's headdress"
+   ],
+   "answer": 3,
+   "explain": "The white dancer's headdress is a symbol for all Torres Strait Islanders.",
+   "official": false,
+   "ref": "Australian Citizenship: Our Common Bond – Part 1: Australia and its people (Australia's flags)"
+  },
+  {
+   "id": "au-080",
+   "topic": "people",
+   "q": "On the Torres Strait Islander Flag, what do the points of the white star represent?",
+   "options": [
+    "The days of the week",
+    "The Southern Cross",
+    "The states of Australia",
+    "The island groups in the Torres Strait"
+   ],
+   "answer": 3,
+   "explain": "The star's points represent the island groups; white symbolises peace.",
+   "official": false,
+   "ref": "Australian Citizenship: Our Common Bond – Part 1: Australia and its people (Australia's flags)"
+  },
+  {
+   "id": "au-081",
+   "topic": "people",
+   "q": "What does the colour white symbolise on the Torres Strait Islander Flag?",
+   "options": [
+    "The sea",
+    "The land",
+    "The sun",
+    "Peace"
+   ],
+   "answer": 3,
+   "explain": "White symbolises peace.",
+   "official": false,
+   "ref": "Australian Citizenship: Our Common Bond – Part 1: Australia and its people (Australia's flags)"
+  },
+  {
+   "id": "au-082",
+   "topic": "people",
+   "q": "What is the official symbol of the Commonwealth of Australia?",
+   "options": [
+    "The Australian National Flag",
+    "The Commonwealth Coat of Arms",
+    "The golden wattle",
+    "The opal"
+   ],
+   "answer": 1,
+   "explain": "The Commonwealth Coat of Arms is the official symbol and identifies Commonwealth authority and property.",
+   "official": false,
+   "ref": "Australian Citizenship: Our Common Bond – Part 1: Australia and its people (Australia's symbols)"
+  },
+  {
+   "id": "au-083",
+   "topic": "people",
+   "q": "Which animals support the shield on the Commonwealth Coat of Arms?",
+   "options": [
+    "A platypus and an echidna",
+    "A koala and a wombat",
+    "A lion and a unicorn",
+    "A kangaroo and an emu"
+   ],
+   "answer": 3,
+   "explain": "A kangaroo and an emu hold up the shield.",
+   "official": false,
+   "ref": "Australian Citizenship: Our Common Bond – Part 1: Australia and its people (Australia's symbols)"
+  },
+  {
+   "id": "au-084",
+   "topic": "people",
+   "q": "On the Commonwealth Coat of Arms, what does the shield represent?",
+   "options": [
+    "The six states and federation",
+    "The Royal Family",
+    "The Southern Cross",
+    "The Aboriginal peoples"
+   ],
+   "answer": 0,
+   "explain": "The shield represents the six states and federation.",
+   "official": false,
+   "ref": "Australian Citizenship: Our Common Bond – Part 1: Australia and its people (Australia's symbols)"
+  },
+  {
+   "id": "au-085",
+   "topic": "people",
+   "q": "What is in the background of the Commonwealth Coat of Arms?",
+   "options": [
+    "Golden wattle",
+    "The Southern Cross",
+    "Opals",
+    "The Union Jack"
+   ],
+   "answer": 0,
+   "explain": "The background of the Coat of Arms is golden wattle.",
+   "official": false,
+   "ref": "Australian Citizenship: Our Common Bond – Part 1: Australia and its people (Australia's symbols)"
+  },
+  {
+   "id": "au-086",
+   "topic": "people",
+   "q": "What is Australia's national flower?",
+   "options": [
+    "The kangaroo paw",
+    "The waratah",
+    "The rose",
+    "The golden wattle"
+   ],
+   "answer": 3,
+   "explain": "The golden wattle is the national flower (floral emblem).",
+   "official": false,
+   "ref": "Australian Citizenship: Our Common Bond – Part 1: Australia and its people (Australia's symbols)"
+  },
+  {
+   "id": "au-087",
+   "topic": "people",
+   "q": "When does the golden wattle produce its golden yellow flowers?",
+   "options": [
+    "In autumn",
+    "In winter",
+    "In spring",
+    "All year round"
+   ],
+   "answer": 2,
+   "explain": "The golden wattle has many golden yellow flowers in spring.",
+   "official": false,
+   "ref": "Australian Citizenship: Our Common Bond – Part 1: Australia and its people (Australia's symbols)"
+  },
+  {
+   "id": "au-088",
+   "topic": "people",
+   "q": "What are Australia's national colours?",
+   "options": [
+    "Blue and white",
+    "Green and gold",
+    "Black and red",
+    "Red, white and blue"
+   ],
+   "answer": 1,
+   "explain": "Green and gold, the colours of the golden wattle, are the national colours.",
+   "official": false,
+   "ref": "Australian Citizenship: Our Common Bond – Part 1: Australia and its people (Australia's symbols)"
+  },
+  {
+   "id": "au-089",
+   "topic": "people",
+   "q": "What is Australia's national gemstone?",
+   "options": [
+    "The opal",
+    "The sapphire",
+    "The diamond",
+    "The pearl"
+   ],
+   "answer": 0,
+   "explain": "The opal is Australia's national gemstone.",
+   "official": false,
+   "ref": "Australian Citizenship: Our Common Bond – Part 1: Australia and its people (Australia's symbols)"
+  },
+  {
+   "id": "au-090",
+   "topic": "people",
+   "q": "According to Aboriginal legend, how were the colours of the opal created?",
+   "options": [
+    "A rainbow touched the earth",
+    "Fire burned the desert",
+    "The sun melted gold",
+    "A star fell into the sea"
+   ],
+   "answer": 0,
+   "explain": "Legend says a rainbow touched the earth and created the opal's colours.",
+   "official": false,
+   "ref": "Australian Citizenship: Our Common Bond – Part 1: Australia and its people (Australia's symbols)"
+  },
+  {
+   "id": "au-091",
+   "topic": "people",
+   "q": "What is Australia's national anthem?",
+   "options": [
+    "I Am Australian",
+    "God Save the King",
+    "Advance Australia Fair",
+    "Waltzing Matilda"
+   ],
+   "answer": 2,
+   "explain": "'Advance Australia Fair' is the national anthem.",
+   "official": false,
+   "ref": "Australian Citizenship: Our Common Bond – Part 1: Australia and its people (Australia's national anthem)"
+  },
+  {
+   "id": "au-092",
+   "topic": "people",
+   "q": "On which occasions is the national anthem sung?",
+   "options": [
+    "Occasions of national importance, such as citizenship ceremonies and major sporting events",
+    "Only on Christmas Day",
+    "Only at funerals",
+    "Only in Parliament"
+   ],
+   "answer": 0,
+   "explain": "The anthem is sung at citizenship ceremonies, major sporting events and other national occasions.",
+   "official": false,
+   "ref": "Australian Citizenship: Our Common Bond – Part 1: Australia and its people (Australia's national anthem)"
+  },
+  {
+   "id": "au-093",
+   "topic": "people",
+   "q": "Does each state and territory have its own flag and floral emblem?",
+   "options": [
+    "Only the territories have them",
+    "No, only the states have flags",
+    "No, they all use the national flag only",
+    "Yes, each has its own"
+   ],
+   "answer": 3,
+   "explain": "Each state and territory has its own flag and its own floral emblem.",
+   "official": false,
+   "ref": "Australian Citizenship: Our Common Bond – Part 1: Australia and its people (Australia's flags / symbols)"
+  },
+  {
+   "id": "au-094",
+   "topic": "people",
+   "q": "Which flags are officially recognised in Australia besides the National Flag?",
+   "options": [
+    "The Eureka Flag only",
+    "The Red Ensign",
+    "The Union Jack and the New Zealand flag",
+    "The Australian Aboriginal Flag and the Torres Strait Islander Flag"
+   ],
+   "answer": 3,
+   "explain": "The Aboriginal and Torres Strait Islander flags are officially recognised.",
+   "official": false,
+   "ref": "Australian Citizenship: Our Common Bond – Part 1: Australia and its people (Australia's flags)"
+  },
+  {
+   "id": "au-095",
+   "topic": "people",
+   "q": "People from more than how many countries have made Australia their home?",
+   "options": [
+    "50",
+    "200",
+    "20",
+    "1,000"
+   ],
+   "answer": 1,
+   "explain": "People from more than 200 countries live in Australia.",
+   "official": false,
+   "ref": "Australian Citizenship: Our Common Bond – A message to you / The Australian Citizenship Pledge"
+  },
+  {
+   "id": "au-096",
+   "topic": "people",
+   "q": "What does Australia aim for while celebrating the diversity of its people?",
+   "options": [
+    "A single culture with no diversity",
+    "Separate communities with separate laws",
+    "Limits on all migration",
+    "A cohesive and unified nation"
+   ],
+   "answer": 3,
+   "explain": "Australia celebrates diversity while building a cohesive, unified nation.",
+   "official": false,
+   "ref": "Australian Citizenship: Our Common Bond – Part 1: Australia and its people (The nation of Australia)"
+  },
+  {
+   "id": "au-097",
+   "topic": "people",
+   "q": "Why have people come to Australia under recent migration and refugee programs?",
+   "options": [
+    "Only to work in mining",
+    "To join family, make a new life, or escape poverty, war or persecution",
+    "Only to study",
+    "Only to retire"
+   ],
+   "answer": 1,
+   "explain": "People have come to join family, build a new life, or escape poverty, war or persecution.",
+   "official": false,
+   "ref": "Australian Citizenship: Our Common Bond – Part 1: Australia and its people (The nation of Australia)"
+  },
+  {
+   "id": "au-098",
+   "topic": "people",
+   "q": "When did European settlement in Australia begin?",
+   "options": [
+    "1901",
+    "1788",
+    "1770",
+    "1851"
+   ],
+   "answer": 1,
+   "explain": "European settlement began with the First Fleet in 1788.",
+   "official": false,
+   "ref": "Australian Citizenship: Our Common Bond – Part 1: Australia and its people (Early days of European settlement)"
+  },
+  {
+   "id": "au-099",
+   "topic": "people",
+   "q": "About what percentage of the Australian population are Aboriginal and Torres Strait Islander peoples?",
+   "options": [
+    "About 50 per cent",
+    "Less than 0.1 per cent",
+    "About 30 per cent",
+    "About three per cent"
+   ],
+   "answer": 3,
+   "explain": "The glossary states they make up about three per cent of the population.",
+   "official": false,
+   "ref": "Australian Citizenship: Our Common Bond – Glossary of testable section (Aboriginal and Torres Strait Islander peoples)"
+  },
+  {
+   "id": "au-100",
+   "topic": "people",
+   "q": "Where did the First Fleet land in 1788?",
+   "options": [
+    "Sydney Cove",
+    "Moreton Bay",
+    "Port Phillip Bay",
+    "Hobart"
+   ],
+   "answer": 0,
+   "explain": "The glossary says the First Fleet landed at Sydney Cove on 26 January 1788.",
+   "official": false,
+   "ref": "Australian Citizenship: Our Common Bond – Glossary of testable section (First Fleet)"
+  },
+  {
+   "id": "au-101",
+   "topic": "people",
+   "q": "Which of these is a national icon in Melbourne?",
+   "options": [
+    "The Sydney Opera House",
+    "Parliament House, Canberra",
+    "The Royal Exhibition Building",
+    "Uluru"
+   ],
+   "answer": 2,
+   "explain": "The Royal Exhibition Building is a Victorian icon.",
+   "official": false,
+   "ref": "Australian Citizenship: Our Common Bond – Part 1: Australia and its people (The states)"
+  },
+  {
+   "id": "au-102",
+   "topic": "people",
+   "q": "What does Queensland's landscape include?",
+   "options": [
+    "Only farmland",
+    "Only desert",
+    "Tropical rainforests, temperate coastal areas and an often dry inland",
+    "Mostly snowfields"
+   ],
+   "answer": 2,
+   "explain": "Queensland has rainforests, coastal areas and a dry inland.",
+   "official": false,
+   "ref": "Australian Citizenship: Our Common Bond – Part 1: Australia and its people (The states)"
+  },
+  {
+   "id": "au-103",
+   "topic": "people",
+   "q": "Which city has many examples of fine colonial architecture and is the capital of South Australia?",
+   "options": [
+    "Perth",
+    "Hobart",
+    "Adelaide",
+    "Darwin"
+   ],
+   "answer": 2,
+   "explain": "Adelaide, capital of South Australia, has fine colonial architecture.",
+   "official": false,
+   "ref": "Australian Citizenship: Our Common Bond – Part 1: Australia and its people (The states)"
+  },
+  {
+   "id": "au-104",
+   "topic": "people",
+   "q": "Which state's east is mostly desert?",
+   "options": [
+    "Western Australia",
+    "New South Wales",
+    "Tasmania",
+    "Victoria"
+   ],
+   "answer": 0,
+   "explain": "The east of Western Australia is mostly desert.",
+   "official": false,
+   "ref": "Australian Citizenship: Our Common Bond – Part 1: Australia and its people (The states)"
+  },
+  {
+   "id": "au-105",
+   "topic": "people",
+   "q": "What is the first item usually on the program of a citizenship ceremony?",
+   "options": [
+    "Singing the national anthem",
+    "The Prime Minister's speech",
+    "The citizenship test",
+    "A welcome, which may be a Welcome to Country by a traditional owner"
+   ],
+   "answer": 3,
+   "explain": "A ceremony may begin with a Welcome to Country by a representative of the traditional owners.",
+   "official": false,
+   "ref": "Australian Citizenship: Our Common Bond – A message to you / The Australian Citizenship Pledge (The Australian citizenship ceremony)"
+  },
+  {
+   "id": "au-106",
+   "topic": "people",
+   "q": "When do you become an Australian citizen at a citizenship ceremony?",
+   "options": [
+    "When you receive the letter of invitation",
+    "When you pass the citizenship test",
+    "When you sing the national anthem",
+    "When you have made the Australian Citizenship Pledge"
+   ],
+   "answer": 3,
+   "explain": "You do not become a citizen until you make the pledge, the most important part of the ceremony.",
+   "official": false,
+   "ref": "Australian Citizenship: Our Common Bond – A message to you / The Australian Citizenship Pledge (The Australian citizenship ceremony)"
+  },
+  {
+   "id": "au-107",
+   "topic": "people",
+   "q": "At a citizenship ceremony, must you hold a holy book while making the Pledge?",
+   "options": [
+    "Only if you are Christian",
+    "No, you may if you wish but it is not required",
+    "Only if you are over 60",
+    "Yes, it is compulsory"
+   ],
+   "answer": 1,
+   "explain": "You are welcome to bring a holy book or scripture, but you do not have to.",
+   "official": false,
+   "ref": "Australian Citizenship: Our Common Bond – A message to you / The Australian Citizenship Pledge (The Australian citizenship ceremony)"
+  },
+  {
+   "id": "au-108",
+   "topic": "people",
+   "q": "Can a person choose not to say the words 'under God' in the Citizenship Pledge?",
+   "options": [
+    "Yes, using those words is optional",
+    "Only children may leave them out",
+    "No, they are compulsory",
+    "Only in Queensland"
+   ],
+   "answer": 0,
+   "explain": "A person may choose whether to use the words 'under God'.",
+   "official": false,
+   "ref": "Australian Citizenship: Our Common Bond – A message to you / The Australian Citizenship Pledge (The Australian Citizenship Pledge)"
+  },
+  {
+   "id": "au-109",
+   "topic": "beliefs",
+   "q": "What type of government system does Australia have?",
+   "options": [
+    "A one-party state",
+    "A parliamentary democracy",
+    "A republic with a president",
+    "An absolute monarchy"
+   ],
+   "answer": 1,
+   "explain": "Australia's system of government is a parliamentary democracy.",
+   "official": false,
+   "ref": "Australian Citizenship: Our Common Bond – Part 2: Australia's democratic beliefs, rights and liberties (Parliamentary democracy)"
+  },
+  {
+   "id": "au-110",
+   "topic": "beliefs",
+   "q": "In Australia's parliamentary democracy, where does the power of the government come from?",
+   "options": [
+    "The High Court",
+    "The armed forces",
+    "The King alone",
+    "The Australian people, who vote for representatives"
+   ],
+   "answer": 3,
+   "explain": "Power comes from the people because citizens vote for their representatives in parliament.",
+   "official": false,
+   "ref": "Australian Citizenship: Our Common Bond – Part 2: Australia's democratic beliefs, rights and liberties (Parliamentary democracy)"
+  },
+  {
+   "id": "au-111",
+   "topic": "beliefs",
+   "q": "How are members of parliament held responsible for their decisions?",
+   "options": [
+    "They are never responsible",
+    "They answer to the police",
+    "They answer only to the King",
+    "They must answer to the people through elections"
+   ],
+   "answer": 3,
+   "explain": "Representatives must answer to the people, through elections, for their decisions.",
+   "official": false,
+   "ref": "Australian Citizenship: Our Common Bond – Part 2: Australia's democratic beliefs, rights and liberties (Parliamentary democracy)"
+  },
+  {
+   "id": "au-112",
+   "topic": "beliefs",
+   "q": "What does the 'Rule of Law' mean?",
+   "options": [
+    "Laws apply only to citizens",
+    "The Prime Minister makes all laws",
+    "No person, group or religious rule is above the law",
+    "Religious leaders decide what is legal"
+   ],
+   "answer": 2,
+   "explain": "Under the Rule of Law, everyone must obey Australia's laws, including people in positions of power.",
+   "official": false,
+   "ref": "Australian Citizenship: Our Common Bond – Part 2: Australia's democratic beliefs, rights and liberties (The Rule of Law)"
+  },
+  {
+   "id": "au-113",
+   "topic": "beliefs",
+   "q": "Who must obey Australia's laws?",
+   "options": [
+    "Everyone except members of parliament",
+    "Everyone, including government, community and religious leaders, business people and the police",
+    "Only people born in Australia",
+    "Only Australian citizens"
+   ],
+   "answer": 1,
+   "explain": "Everyone, including those in power, must obey the law.",
+   "official": false,
+   "ref": "Australian Citizenship: Our Common Bond – Part 2: Australia's democratic beliefs, rights and liberties (The Rule of Law)"
+  },
+  {
+   "id": "au-114",
+   "topic": "beliefs",
+   "q": "How do Australians believe change should occur?",
+   "options": [
+    "Through threats",
+    "Through violence",
+    "Through discussion, peaceful persuasion and the democratic process",
+    "Through bribery"
+   ],
+   "answer": 2,
+   "explain": "Australians believe in peaceful change and reject violence as a way to change minds or laws.",
+   "official": false,
+   "ref": "Australian Citizenship: Our Common Bond – Part 2: Australia's democratic beliefs, rights and liberties (Living peacefully)"
+  },
+  {
+   "id": "au-115",
+   "topic": "beliefs",
+   "q": "What do Australians reject as a way to change a person's mind or the law?",
+   "options": [
+    "Voting",
+    "Discussion",
+    "Peaceful protest",
+    "Violence"
+   ],
+   "answer": 3,
+   "explain": "Australians reject violence; change should come through peaceful, democratic means.",
+   "official": false,
+   "ref": "Australian Citizenship: Our Common Bond – Part 2: Australia's democratic beliefs, rights and liberties (Living peacefully)"
+  },
+  {
+   "id": "au-116",
+   "topic": "beliefs",
+   "q": "How should all Australians treat each other?",
+   "options": [
+    "Differently depending on wealth",
+    "With dignity and respect, regardless of background",
+    "Only with respect if they are citizens",
+    "Differently depending on religion"
+   ],
+   "answer": 1,
+   "explain": "All Australians are expected to treat each other with dignity and respect, whatever their background.",
+   "official": false,
+   "ref": "Australian Citizenship: Our Common Bond – Part 2: Australia's democratic beliefs, rights and liberties (Respect for all individuals)"
+  },
+  {
+   "id": "au-117",
+   "topic": "beliefs",
+   "q": "What does freedom of speech allow people in Australia to do?",
+   "options": [
+    "Say anything, even if it breaks the law",
+    "Spread false allegations about others",
+    "Say and write what they think and discuss ideas, within the law",
+    "Threaten people they disagree with"
+   ],
+   "answer": 2,
+   "explain": "People can express their views, criticise the government and campaign to change laws, while obeying the law.",
+   "official": false,
+   "ref": "Australian Citizenship: Our Common Bond – Part 2: Australia's democratic beliefs, rights and liberties (Freedom of speech)"
+  },
+  {
+   "id": "au-118",
+   "topic": "beliefs",
+   "q": "Can Australians criticise the government?",
+   "options": [
+    "Only members of parliament can",
+    "Yes, as long as they obey the law",
+    "No, it is illegal",
+    "Only during elections"
+   ],
+   "answer": 1,
+   "explain": "People can criticise the government and protest peacefully, within the law.",
+   "official": false,
+   "ref": "Australian Citizenship: Our Common Bond – Part 2: Australia's democratic beliefs, rights and liberties (Freedom of speech)"
+  },
+  {
+   "id": "au-119",
+   "topic": "beliefs",
+   "q": "Which of these is an example of freedom of expression?",
+   "options": [
+    "Forcing others to share your opinion",
+    "Refusing to pay tax",
+    "Damaging property during a protest",
+    "Expressing views through art, film, music and literature"
+   ],
+   "answer": 3,
+   "explain": "Freedom of expression includes art, film, music and literature.",
+   "official": false,
+   "ref": "Australian Citizenship: Our Common Bond – Part 2: Australia's democratic beliefs, rights and liberties (Freedom of expression)"
+  },
+  {
+   "id": "au-120",
+   "topic": "beliefs",
+   "q": "What is freedom of association?",
+   "options": [
+    "The right to form and join associations to pursue common goals",
+    "The right to a passport",
+    "The right to vote in elections",
+    "The right to own land"
+   ],
+   "answer": 0,
+   "explain": "Freedom of association is the freedom to form and join groups, such as political parties and trade unions.",
+   "official": false,
+   "ref": "Australian Citizenship: Our Common Bond – Part 2: Australia's democratic beliefs, rights and liberties (Freedom of association)"
+  },
+  {
+   "id": "au-121",
+   "topic": "beliefs",
+   "q": "Can a person in Australia be forced to join a trade union or political party?",
+   "options": [
+    "Yes, everyone must join a party",
+    "Yes, if their employer says so",
+    "Yes, after age 21",
+    "No, people are free to decide not to join"
+   ],
+   "answer": 3,
+   "explain": "People can choose not to join and cannot be forced into doing so.",
+   "official": false,
+   "ref": "Australian Citizenship: Our Common Bond – Part 2: Australia's democratic beliefs, rights and liberties (Freedom of association)"
+  },
+  {
+   "id": "au-122",
+   "topic": "beliefs",
+   "q": "When people gather to protest in Australia, what must they do?",
+   "options": [
+    "Get permission from the King",
+    "Wear a uniform",
+    "Keep the protest peaceful and not injure people or damage property",
+    "Protest only on weekends"
+   ],
+   "answer": 2,
+   "explain": "Protests must be within the law, peaceful, and must not injure anyone or damage property.",
+   "official": false,
+   "ref": "Australian Citizenship: Our Common Bond – Part 2: Australia's democratic beliefs, rights and liberties (Freedom of association)"
+  },
+  {
+   "id": "au-123",
+   "topic": "beliefs",
+   "q": "What heritage does the guide say Australia has, in terms of religion?",
+   "options": [
+    "A Hindu heritage",
+    "A Buddhist heritage",
+    "No religious heritage",
+    "A Judaeo-Christian heritage"
+   ],
+   "answer": 3,
+   "explain": "Australia has a Judaeo-Christian heritage, but people of all major religions live here.",
+   "official": false,
+   "ref": "Australian Citizenship: Our Common Bond – Part 2: Australia's democratic beliefs, rights and liberties (Freedom of religion)"
+  },
+  {
+   "id": "au-124",
+   "topic": "beliefs",
+   "q": "Which of these days are public holidays in Australia because of Christian tradition?",
+   "options": [
+    "Good Friday and Christmas Day",
+    "Australia Day and Anzac Day",
+    "Diwali and Eid",
+    "Labour Day and the King's Birthday"
+   ],
+   "answer": 0,
+   "explain": "Australia has public holidays on Christian days such as Good Friday, Easter Sunday and Christmas Day.",
+   "official": false,
+   "ref": "Australian Citizenship: Our Common Bond – Part 2: Australia's democratic beliefs, rights and liberties (Freedom of religion)"
+  },
+  {
+   "id": "au-125",
+   "topic": "beliefs",
+   "q": "What does it mean that the Australian government is 'secular'?",
+   "options": [
+    "It supports only one religion",
+    "It is controlled by the church",
+    "It operates separately from churches and other religious entities",
+    "It bans religion"
+   ],
+   "answer": 2,
+   "explain": "A secular government operates separately from religious bodies.",
+   "official": false,
+   "ref": "Australian Citizenship: Our Common Bond – Part 2: Australia's democratic beliefs, rights and liberties (Freedom of religion)"
+  },
+  {
+   "id": "au-126",
+   "topic": "beliefs",
+   "q": "Does Australia have an official national religion?",
+   "options": [
+    "Yes, each state chooses one",
+    "No",
+    "Yes, the Church of England",
+    "Yes, Christianity"
+   ],
+   "answer": 1,
+   "explain": "Australia has no official national religion.",
+   "official": false,
+   "ref": "Australian Citizenship: Our Common Bond – Part 2: Australia's democratic beliefs, rights and liberties (Freedom of religion)"
+  },
+  {
+   "id": "au-127",
+   "topic": "beliefs",
+   "q": "If an Australian law conflicts with a religious practice, which prevails?",
+   "options": [
+    "Whichever is older",
+    "The decision of the religious leader",
+    "Australian law",
+    "The religious practice"
+   ],
+   "answer": 2,
+   "explain": "Where there is a conflict, Australian law prevails.",
+   "official": false,
+   "ref": "Australian Citizenship: Our Common Bond – Part 2: Australia's democratic beliefs, rights and liberties (Freedom of religion)"
+  },
+  {
+   "id": "au-128",
+   "topic": "beliefs",
+   "q": "Can a person in Australia choose to follow no religion?",
+   "options": [
+    "No, everyone must follow a religion",
+    "Only with government permission",
+    "Yes",
+    "Only if they are born in Australia"
+   ],
+   "answer": 2,
+   "explain": "People are free to follow any religion or none.",
+   "official": false,
+   "ref": "Australian Citizenship: Our Common Bond – Part 2: Australia's democratic beliefs, rights and liberties (Freedom of religion)"
+  },
+  {
+   "id": "au-129",
+   "topic": "beliefs",
+   "q": "How does the government treat citizens of different religions?",
+   "options": [
+    "It favours the largest religion",
+    "Equally, whatever their religion or beliefs",
+    "It treats non-religious people differently",
+    "It favours Christians"
+   ],
+   "answer": 1,
+   "explain": "The government and the law treat all citizens equally regardless of religion.",
+   "official": false,
+   "ref": "Australian Citizenship: Our Common Bond – Part 2: Australia's democratic beliefs, rights and liberties (Freedom of religion)"
+  },
+  {
+   "id": "au-130",
+   "topic": "beliefs",
+   "q": "Is it legal to discriminate against a person in Australia because of their gender?",
+   "options": [
+    "No, it is against the law",
+    "Yes, in private businesses",
+    "Yes, if it is a cultural tradition",
+    "Yes, in some states"
+   ],
+   "answer": 0,
+   "explain": "Men and women have equal rights, and gender discrimination is against the law.",
+   "official": false,
+   "ref": "Australian Citizenship: Our Common Bond – Part 2: Australia's democratic beliefs, rights and liberties (Gender equality)"
+  },
+  {
+   "id": "au-131",
+   "topic": "beliefs",
+   "q": "What is meant by a 'fair go' in Australia?",
+   "options": [
+    "Only citizens can get jobs",
+    "Everyone receives the same income",
+    "Equal opportunity, so achievement depends on talent, work and effort rather than wealth or background",
+    "Older people always get priority"
+   ],
+   "answer": 2,
+   "explain": "A fair go means what someone achieves should come from their talents, work and effort.",
+   "official": false,
+   "ref": "Australian Citizenship: Our Common Bond – Part 2: Australia's democratic beliefs, rights and liberties (Equality of opportunity)"
+  },
+  {
+   "id": "au-132",
+   "topic": "beliefs",
+   "q": "Australia's equality laws ensure a person is not treated differently because of what?",
+   "options": [
+    "Their driving skill",
+    "Their criminal record",
+    "Their gender, race, disability or age",
+    "Their job qualifications"
+   ],
+   "answer": 2,
+   "explain": "There are laws ensuring people are not treated differently because of gender, race, disability or age.",
+   "official": false,
+   "ref": "Australian Citizenship: Our Common Bond – Part 2: Australia's democratic beliefs, rights and liberties (Our equalities)"
+  },
+  {
+   "id": "au-133",
+   "topic": "beliefs",
+   "q": "Which of these is a responsibility of Australian citizens?",
+   "options": [
+    "Voting in federal and state or territory elections and referenda",
+    "Owning a home",
+    "Speaking a second language",
+    "Joining a political party"
+   ],
+   "answer": 0,
+   "explain": "Citizens must obey the law, vote, defend Australia should the need arise, and serve on a jury if called.",
+   "official": false,
+   "ref": "Australian Citizenship: Our Common Bond – Part 2: Australia's democratic beliefs, rights and liberties (Responsibilities)"
+  },
+  {
+   "id": "au-134",
+   "topic": "beliefs",
+   "q": "Which of these is a responsibility of Australian citizenship?",
+   "options": [
+    "Joining a trade union",
+    "Seeking election to parliament",
+    "Serving on a jury if called to do so",
+    "Applying for a passport"
+   ],
+   "answer": 2,
+   "explain": "Jury service when called is a responsibility; applying for a passport and seeking election are privileges.",
+   "official": false,
+   "ref": "Australian Citizenship: Our Common Bond – Part 2: Australia's democratic beliefs, rights and liberties (Responsibilities)"
+  },
+  {
+   "id": "au-135",
+   "topic": "beliefs",
+   "q": "Which of these is a privilege of Australian citizenship?",
+   "options": [
+    "Applying for an Australian passport",
+    "Voting in federal elections as a duty",
+    "Serving on a jury",
+    "Obeying the law"
+   ],
+   "answer": 0,
+   "explain": "Applying for a passport is a privilege; obeying the law and jury service are responsibilities.",
+   "official": false,
+   "ref": "Australian Citizenship: Our Common Bond – Part 2: Australia's democratic beliefs, rights and liberties (Privileges)"
+  },
+  {
+   "id": "au-136",
+   "topic": "beliefs",
+   "q": "Which of the following is a privilege (not a responsibility) of Australian citizenship?",
+   "options": [
+    "Seeking election to parliament",
+    "Defending Australia should the need arise",
+    "Paying tax",
+    "Obeying traffic laws"
+   ],
+   "answer": 0,
+   "explain": "Seeking election to parliament is a privilege of citizenship.",
+   "official": false,
+   "ref": "Australian Citizenship: Our Common Bond – Part 2: Australia's democratic beliefs, rights and liberties (Privileges)"
+  },
+  {
+   "id": "au-137",
+   "topic": "beliefs",
+   "q": "Which of these is something Australia gives you as a privilege of citizenship?",
+   "options": [
+    "Asking for consular assistance from an Australian official while overseas",
+    "Obeying the laws of Australia",
+    "Defending Australia should the need arise",
+    "Serving on a jury if called"
+   ],
+   "answer": 0,
+   "explain": "Consular assistance overseas is a privilege; the others are responsibilities.",
+   "official": false,
+   "ref": "Australian Citizenship: Our Common Bond – Part 2: Australia's democratic beliefs, rights and liberties (Privileges)"
+  },
+  {
+   "id": "au-138",
+   "topic": "beliefs",
+   "q": "Which privilege allows Australian citizens to work in government departments such as the ATO?",
+   "options": [
+    "Seeking election to parliament",
+    "Applying for a job in the Australian Public Service",
+    "Consular assistance",
+    "Citizenship by descent"
+   ],
+   "answer": 1,
+   "explain": "Citizens can apply to work in the Australian Public Service, for example in Services Australia or the ATO.",
+   "official": false,
+   "ref": "Australian Citizenship: Our Common Bond – Part 2: Australia's democratic beliefs, rights and liberties (Privileges)"
+  },
+  {
+   "id": "au-139",
+   "topic": "beliefs",
+   "q": "Which privilege allows Australian citizens to apply to join the Army, Navy or Air Force?",
+   "options": [
+    "Consular assistance",
+    "Seeking election to the Senate",
+    "Applying for a job in the Australian Defence Force",
+    "Citizenship by descent"
+   ],
+   "answer": 2,
+   "explain": "Citizens have the right to apply for a job in the Australian Defence Force.",
+   "official": false,
+   "ref": "Australian Citizenship: Our Common Bond – Part 2: Australia's democratic beliefs, rights and liberties (Privileges)"
+  },
+  {
+   "id": "au-140",
+   "topic": "beliefs",
+   "q": "Who can seek election to an Australian parliament?",
+   "options": [
+    "Australian citizens aged 18 or over who are not dual citizens",
+    "Anyone aged 16 or over",
+    "All permanent residents",
+    "Only people born in Australia"
+   ],
+   "answer": 0,
+   "explain": "Citizens aged 18 or over who are not dual citizens can seek election to parliament.",
+   "official": false,
+   "ref": "Australian Citizenship: Our Common Bond – Part 2: Australia's democratic beliefs, rights and liberties (Privileges)"
+  },
+  {
+   "id": "au-141",
+   "topic": "beliefs",
+   "q": "What can an Australian citizen do for a child born overseas?",
+   "options": [
+    "Enrol the child to vote",
+    "Nothing; the child can never be a citizen",
+    "Register the child as a permanent resident only",
+    "Apply for the child to become an Australian citizen by descent"
+   ],
+   "answer": 3,
+   "explain": "Citizens can apply for their child born overseas to become a citizen by descent.",
+   "official": false,
+   "ref": "Australian Citizenship: Our Common Bond – Part 2: Australia's democratic beliefs, rights and liberties (Privileges)"
+  },
+  {
+   "id": "au-142",
+   "topic": "beliefs",
+   "q": "If you travel overseas as an Australian citizen, do you need a visa to return to Australia?",
+   "options": [
+    "Yes, always",
+    "Only if you were away for more than a month",
+    "Only if you travelled to Asia",
+    "No, you are free to return without a visa"
+   ],
+   "answer": 3,
+   "explain": "Australian citizens can re-enter Australia freely without a visa.",
+   "official": false,
+   "ref": "Australian Citizenship: Our Common Bond – Part 2: Australia's democratic beliefs, rights and liberties (Privileges)"
+  },
+  {
+   "id": "au-143",
+   "topic": "beliefs",
+   "q": "What kind of help can Australian officials give citizens overseas?",
+   "options": [
+    "A free flight home in all cases",
+    "Paying for their holidays",
+    "Exemption from local laws",
+    "An emergency passport and support in an accident, serious illness or death"
+   ],
+   "answer": 3,
+   "explain": "Officials can help with emergency passports and give advice and support in emergencies.",
+   "official": false,
+   "ref": "Australian Citizenship: Our Common Bond – Part 2: Australia's democratic beliefs, rights and liberties (Privileges)"
+  },
+  {
+   "id": "au-144",
+   "topic": "beliefs",
+   "q": "When an Australian citizen is in another country, whose laws must they obey?",
+   "options": [
+    "No laws apply to tourists",
+    "Only Australian laws",
+    "The laws of that country",
+    "Only international laws"
+   ],
+   "answer": 2,
+   "explain": "When in another country, you must obey that country's laws.",
+   "official": false,
+   "ref": "Australian Citizenship: Our Common Bond – Part 2: Australia's democratic beliefs, rights and liberties (Privileges)"
+  },
+  {
+   "id": "au-145",
+   "topic": "beliefs",
+   "q": "Where can Australians ask for consular help overseas?",
+   "options": [
+    "At any local police station",
+    "At the airport only",
+    "At a foreign parliament",
+    "At an Australian embassy, high commission or consulate"
+   ],
+   "answer": 3,
+   "explain": "Australia has embassies, high commissions or consulates in many countries.",
+   "official": false,
+   "ref": "Australian Citizenship: Our Common Bond – Part 2: Australia's democratic beliefs, rights and liberties (Privileges)"
+  },
+  {
+   "id": "au-146",
+   "topic": "beliefs",
+   "q": "Is service in the Australian Defence Force compulsory?",
+   "options": [
+    "Yes, for all men aged 18",
+    "No, it is voluntary, but citizens should defend Australia should the need arise",
+    "Only for new citizens",
+    "Yes, for two years"
+   ],
+   "answer": 1,
+   "explain": "Service is voluntary, but defending Australia if needed is a responsibility of citizens.",
+   "official": false,
+   "ref": "Australian Citizenship: Our Common Bond – Part 2: Australia's democratic beliefs, rights and liberties (Responsibilities)"
+  },
+  {
+   "id": "au-147",
+   "topic": "beliefs",
+   "q": "At what age is jury service a responsibility for Australian citizens?",
+   "options": [
+    "18 years or over",
+    "25 years or over",
+    "16 years or over",
+    "21 years or over"
+   ],
+   "answer": 0,
+   "explain": "Jury service, if requested, is a responsibility for citizens aged 18 or over.",
+   "official": false,
+   "ref": "Australian Citizenship: Our Common Bond – Part 2: Australia's democratic beliefs, rights and liberties (Responsibilities)"
+  },
+  {
+   "id": "au-148",
+   "topic": "beliefs",
+   "q": "What is a jury?",
+   "options": [
+    "A group of ordinary Australians who listen to evidence and decide if a person is guilty or not guilty",
+    "A group of judges",
+    "A group of police officers",
+    "A committee of parliament"
+   ],
+   "answer": 0,
+   "explain": "A jury is made up of ordinary men and women who decide guilt or innocence based on evidence.",
+   "official": false,
+   "ref": "Australian Citizenship: Our Common Bond – Part 2: Australia's democratic beliefs, rights and liberties (Responsibilities)"
+  },
+  {
+   "id": "au-149",
+   "topic": "beliefs",
+   "q": "Which Australian citizens can be called for jury service?",
+   "options": [
+    "Only lawyers",
+    "Only people over 65",
+    "Those on the electoral roll",
+    "Only people who volunteer"
+   ],
+   "answer": 2,
+   "explain": "Citizens on the electoral roll can be called to serve on a jury.",
+   "official": false,
+   "ref": "Australian Citizenship: Our Common Bond – Part 2: Australia's democratic beliefs, rights and liberties (Responsibilities)"
+  },
+  {
+   "id": "au-150",
+   "topic": "beliefs",
+   "q": "How does jury service help Australia?",
+   "options": [
+    "It reduces taxes",
+    "It replaces the police",
+    "It elects judges",
+    "It helps ensure that the court system is open and fair"
+   ],
+   "answer": 3,
+   "explain": "Jury service helps keep the court system open and fair.",
+   "official": false,
+   "ref": "Australian Citizenship: Our Common Bond – Part 2: Australia's democratic beliefs, rights and liberties (Responsibilities)"
+  },
+  {
+   "id": "au-151",
+   "topic": "beliefs",
+   "q": "What is a referendum?",
+   "options": [
+    "A vote to change the Australian Constitution",
+    "A vote to choose the Prime Minister",
+    "A local council meeting",
+    "A court case"
+   ],
+   "answer": 0,
+   "explain": "A referendum is a vote on a proposed change to the Constitution.",
+   "official": false,
+   "ref": "Australian Citizenship: Our Common Bond – Part 2: Australia's democratic beliefs, rights and liberties (Responsibilities)"
+  },
+  {
+   "id": "au-152",
+   "topic": "beliefs",
+   "q": "Is voting compulsory in federal and state or territory elections?",
+   "options": [
+    "Yes",
+    "Only in the territories",
+    "No",
+    "Only for people over 21"
+   ],
+   "answer": 0,
+   "explain": "Voting is compulsory in federal and state or territory elections; local government voting may not be compulsory in some states.",
+   "official": false,
+   "ref": "Australian Citizenship: Our Common Bond – Part 2: Australia's democratic beliefs, rights and liberties (Responsibilities)"
+  },
+  {
+   "id": "au-153",
+   "topic": "beliefs",
+   "q": "In which elections may voting not be compulsory in some states?",
+   "options": [
+    "Referendums",
+    "Federal elections",
+    "State elections",
+    "Local government elections"
+   ],
+   "answer": 3,
+   "explain": "It may not be compulsory to vote in local government elections in some states.",
+   "official": false,
+   "ref": "Australian Citizenship: Our Common Bond – Part 2: Australia's democratic beliefs, rights and liberties (Responsibilities)"
+  },
+  {
+   "id": "au-154",
+   "topic": "beliefs",
+   "q": "Which government agency collects tax in Australia?",
+   "options": [
+    "The Australian Electoral Commission",
+    "The Reserve Bank",
+    "Services Australia",
+    "The Australian Taxation Office (ATO)"
+   ],
+   "answer": 3,
+   "explain": "Tax is collected by the ATO.",
+   "official": false,
+   "ref": "Australian Citizenship: Our Common Bond – Part 2: Australia's democratic beliefs, rights and liberties (Participating in Australian society)"
+  },
+  {
+   "id": "au-155",
+   "topic": "beliefs",
+   "q": "Which of these services is paid for by taxes?",
+   "options": [
+    "Personal shopping",
+    "Private holidays",
+    "Government-funded healthcare and education",
+    "Private club memberships"
+   ],
+   "answer": 2,
+   "explain": "Taxes pay for healthcare, education, defence, roads, railways and social security.",
+   "official": false,
+   "ref": "Australian Citizenship: Our Common Bond – Part 2: Australia's democratic beliefs, rights and liberties (Participating in Australian society)"
+  },
+  {
+   "id": "au-156",
+   "topic": "beliefs",
+   "q": "Is paying tax required by law in Australia?",
+   "options": [
+    "No, it is voluntary",
+    "Yes",
+    "Only for businesses",
+    "Only for citizens"
+   ],
+   "answer": 1,
+   "explain": "Paying tax is required by law and is an important contribution to the community.",
+   "official": false,
+   "ref": "Australian Citizenship: Our Common Bond – Part 2: Australia's democratic beliefs, rights and liberties (Participating in Australian society)"
+  },
+  {
+   "id": "au-157",
+   "topic": "beliefs",
+   "q": "Which levels of government collect taxes to pay for services?",
+   "options": [
+    "Only the federal government",
+    "Only local councils",
+    "Only state governments",
+    "Federal, state and territory governments and local councils"
+   ],
+   "answer": 3,
+   "explain": "State and territory governments and local councils also collect taxes for services.",
+   "official": false,
+   "ref": "Australian Citizenship: Our Common Bond – Part 2: Australia's democratic beliefs, rights and liberties (Participating in Australian society)"
+  },
+  {
+   "id": "au-158",
+   "topic": "beliefs",
+   "q": "Which of the following is a way to actively participate in Australian society?",
+   "options": [
+    "Volunteering for social and community work",
+    "Ignoring local issues",
+    "Refusing to vote",
+    "Avoiding all community groups"
+   ],
+   "answer": 0,
+   "explain": "Active citizens volunteer, join community organisations and participate in political life.",
+   "official": false,
+   "ref": "Australian Citizenship: Our Common Bond – Part 2: Australia's democratic beliefs, rights and liberties (Participating in Australian society)"
+  },
+  {
+   "id": "au-159",
+   "topic": "beliefs",
+   "q": "Australians are expected to treat each other with respect regardless of which of the following?",
+   "options": [
+    "Whether they agree with them only",
+    "Their income only",
+    "Race, gender, religion, age, disability or sexual orientation",
+    "Their political party only"
+   ],
+   "answer": 2,
+   "explain": "Respect is expected regardless of race, country of origin, gender, sexual orientation, age, disability, religion and more.",
+   "official": false,
+   "ref": "Australian Citizenship: Our Common Bond – Part 2: Australia's democratic beliefs, rights and liberties (Respect for all individuals)"
+  },
+  {
+   "id": "au-160",
+   "topic": "beliefs",
+   "q": "Must the laws of Australia be obeyed even while exercising freedom of speech?",
+   "options": [
+    "No, free speech overrides the law",
+    "Only during elections",
+    "Only on social media",
+    "Yes, at all times"
+   ],
+   "answer": 3,
+   "explain": "Even while exercising freedom of speech and expression, the law must be obeyed.",
+   "official": false,
+   "ref": "Australian Citizenship: Our Common Bond – Part 2: Australia's democratic beliefs, rights and liberties (Freedom of speech)"
+  },
+  {
+   "id": "au-161",
+   "topic": "beliefs",
+   "q": "When exercising freedom of speech, what must you also respect?",
+   "options": [
+    "Nothing else",
+    "Only the views of your religion",
+    "Only the views of the government",
+    "Other people's freedom of speech and expression"
+   ],
+   "answer": 3,
+   "explain": "We must respect other people's freedom of speech and expression.",
+   "official": false,
+   "ref": "Australian Citizenship: Our Common Bond – Part 2: Australia's democratic beliefs, rights and liberties (Freedom of speech)"
+  },
+  {
+   "id": "au-162",
+   "topic": "beliefs",
+   "q": "Is freedom of speech described as a core Australian value?",
+   "options": [
+    "No, it applies only to journalists",
+    "Yes, it underpins the democratic system",
+    "Only in some states",
+    "No, it is a privilege only for citizens"
+   ],
+   "answer": 1,
+   "explain": "Freedom of speech is a core value that underpins democracy.",
+   "official": false,
+   "ref": "Australian Citizenship: Our Common Bond – Part 2: Australia's democratic beliefs, rights and liberties (Freedom of speech)"
+  },
+  {
+   "id": "au-163",
+   "topic": "beliefs",
+   "q": "Are Australians free to meet in public or private places for social or political discussion?",
+   "options": [
+    "Only with police permission",
+    "Only during election campaigns",
+    "No, political meetings are banned",
+    "Yes"
+   ],
+   "answer": 3,
+   "explain": "People are free to meet in public or private places for social or political discussion.",
+   "official": false,
+   "ref": "Australian Citizenship: Our Common Bond – Part 2: Australia's democratic beliefs, rights and liberties (Freedom of expression)"
+  },
+  {
+   "id": "au-164",
+   "topic": "beliefs",
+   "q": "Which of these could an Australian legally join?",
+   "options": [
+    "An illegal militia",
+    "A trade union",
+    "A criminal gang",
+    "A terrorist organisation"
+   ],
+   "answer": 1,
+   "explain": "People are free to join any legal organisation, such as a party, union, or religious, cultural or social group.",
+   "official": false,
+   "ref": "Australian Citizenship: Our Common Bond – Part 2: Australia's democratic beliefs, rights and liberties (Freedom of association)"
+  },
+  {
+   "id": "au-165",
+   "topic": "beliefs",
+   "q": "What are 'liberties'?",
+   "options": [
+    "Taxes paid to the government",
+    "Personal freedom and independence",
+    "Laws made by parliament",
+    "Duties of the police"
+   ],
+   "answer": 1,
+   "explain": "Liberty means personal freedom and independence, such as freedom of speech and religion.",
+   "official": false,
+   "ref": "Australian Citizenship: Our Common Bond – Glossary of testable section (liberties)"
+  },
+  {
+   "id": "au-166",
+   "topic": "beliefs",
+   "q": "What does the term 'self-sufficient' mean?",
+   "options": [
+    "Living alone",
+    "Working for the government",
+    "Able to provide for your own needs without help from others",
+    "Relying on government payments"
+   ],
+   "answer": 2,
+   "explain": "Self-sufficient means able to provide for your own needs.",
+   "official": false,
+   "ref": "Australian Citizenship: Our Common Bond – Glossary of testable section (self-sufficient)"
+  },
+  {
+   "id": "au-167",
+   "topic": "beliefs",
+   "q": "Which government agency delivers payments and services through Medicare and Centrelink?",
+   "options": [
+    "The Australian Electoral Commission",
+    "The Australian Taxation Office",
+    "Services Australia",
+    "The Australian Federal Police"
+   ],
+   "answer": 2,
+   "explain": "Services Australia delivers health, social and welfare payments through Medicare, Centrelink and Child Support.",
+   "official": false,
+   "ref": "Australian Citizenship: Our Common Bond – Glossary of testable section (Services Australia)"
+  },
+  {
+   "id": "au-168",
+   "topic": "beliefs",
+   "q": "What is social security?",
+   "options": [
+    "Security guards at government buildings",
+    "Government pensions or benefits for people in need, such as the unemployed or elderly",
+    "The national police force",
+    "A type of bank account"
+   ],
+   "answer": 1,
+   "explain": "Social security means government pensions or benefits for people in need.",
+   "official": false,
+   "ref": "Australian Citizenship: Our Common Bond – Glossary of testable section (social security)"
+  },
+  {
+   "id": "au-169",
+   "topic": "beliefs",
+   "q": "Taxes are collected from which kinds of income?",
+   "options": [
+    "Only gifts",
+    "Money earned from a job, business or investments",
+    "Only money from overseas",
+    "Only lottery winnings"
+   ],
+   "answer": 1,
+   "explain": "Tax is paid on income from a job, a business or investments; there are also taxes on many goods and services.",
+   "official": false,
+   "ref": "Australian Citizenship: Our Common Bond – Part 2: Australia's democratic beliefs, rights and liberties (Participating in Australian society)"
+  },
+  {
+   "id": "au-170",
+   "topic": "beliefs",
+   "q": "What is the Australian Human Rights Commission?",
+   "options": [
+    "A political party",
+    "A police force",
+    "An independent commission that investigates complaints about discrimination and human rights breaches",
+    "A court that tries criminal cases"
+   ],
+   "answer": 2,
+   "explain": "The AHRC independently investigates discrimination and human rights complaints.",
+   "official": false,
+   "ref": "Australian Citizenship: Our Common Bond – Glossary of testable section (Australian Human Rights Commission)"
+  },
+  {
+   "id": "au-171",
+   "topic": "gov",
+   "q": "Who must enrol to vote in federal and state or territory elections?",
+   "options": [
+    "All residents aged 16 or over",
+    "Only property owners",
+    "Only people born in Australia",
+    "Australian citizens aged 18 years or over"
+   ],
+   "answer": 3,
+   "explain": "Citizens aged 18 or over must enrol and vote.",
+   "official": false,
+   "ref": "Australian Citizenship: Our Common Bond – Part 3: Government and the law in Australia (Voting)"
+  },
+  {
+   "id": "au-172",
+   "topic": "gov",
+   "q": "What happens if you are not correctly enrolled?",
+   "options": [
+    "Nothing; enrolment is not needed",
+    "You are enrolled automatically on election day",
+    "You are not able to vote in the election",
+    "You can vote twice"
+   ],
+   "answer": 2,
+   "explain": "If you are not correctly enrolled, you cannot vote.",
+   "official": false,
+   "ref": "Australian Citizenship: Our Common Bond – Part 3: Government and the law in Australia (Voting)"
+  },
+  {
+   "id": "au-173",
+   "topic": "gov",
+   "q": "Which agency conducts federal elections and referendums and maintains the electoral roll?",
+   "options": [
+    "The High Court",
+    "The Australian Electoral Commission (AEC)",
+    "Services Australia",
+    "The Australian Federal Police"
+   ],
+   "answer": 1,
+   "explain": "The AEC is an independent Commonwealth agency that runs federal elections and referendums.",
+   "official": false,
+   "ref": "Australian Citizenship: Our Common Bond – Part 3: Government and the law in Australia (Voting)"
+  },
+  {
+   "id": "au-174",
+   "topic": "gov",
+   "q": "Can political parties or the government influence the decisions of the Australian Electoral Commission?",
+   "options": [
+    "No, the AEC is independent",
+    "Yes, the Prime Minister directs it",
+    "Yes, during elections only",
+    "Yes, the largest party controls it"
+   ],
+   "answer": 0,
+   "explain": "The AEC is independent of the government; parties and people in government cannot influence its decisions.",
+   "official": false,
+   "ref": "Australian Citizenship: Our Common Bond – Part 3: Government and the law in Australia (Voting)"
+  },
+  {
+   "id": "au-175",
+   "topic": "gov",
+   "q": "How is voting conducted in Australian elections?",
+   "options": [
+    "By a show of hands",
+    "By secret ballot",
+    "By public declaration",
+    "By online polls run by parties"
+   ],
+   "answer": 1,
+   "explain": "Voting is by secret ballot, so you are free and safe to vote for any candidate.",
+   "official": false,
+   "ref": "Australian Citizenship: Our Common Bond – Part 3: Government and the law in Australia (Voting)"
+  },
+  {
+   "id": "au-176",
+   "topic": "gov",
+   "q": "What may happen if you do not vote in an election and do not have a good reason?",
+   "options": [
+    "You may have to pay a fine",
+    "You lose your citizenship",
+    "You are sent to prison automatically",
+    "Nothing happens"
+   ],
+   "answer": 0,
+   "explain": "Without a good reason for not voting, you may have to pay a fine.",
+   "official": false,
+   "ref": "Australian Citizenship: Our Common Bond – Part 3: Government and the law in Australia (Voting)"
+  },
+  {
+   "id": "au-177",
+   "topic": "gov",
+   "q": "What is the purpose of compulsory voting?",
+   "options": [
+    "To let the government choose the winner",
+    "To make sure the people have a say in who governs and represents them",
+    "To reduce the number of candidates",
+    "To raise money from fines"
+   ],
+   "answer": 1,
+   "explain": "Compulsory voting ensures the people have a say in who governs them.",
+   "official": false,
+   "ref": "Australian Citizenship: Our Common Bond – Part 3: Government and the law in Australia (Voting)"
+  },
+  {
+   "id": "au-178",
+   "topic": "gov",
+   "q": "How can Australian citizens raise concerns about government policy?",
+   "options": [
+    "By using violence",
+    "By contacting their elected representative",
+    "By bribing officials",
+    "By refusing to pay tax"
+   ],
+   "answer": 1,
+   "explain": "Citizens can contact their elected representatives, who should consider their suggestions.",
+   "official": false,
+   "ref": "Australian Citizenship: Our Common Bond – Part 3: Government and the law in Australia (Raising matters with your representatives)"
+  },
+  {
+   "id": "au-179",
+   "topic": "gov",
+   "q": "Before 1901, what was Australia made up of?",
+   "options": [
+    "Two territories",
+    "One single colony",
+    "Eight states",
+    "Six separate, self-governing British colonies"
+   ],
+   "answer": 3,
+   "explain": "Before 1901, Australia was six separate British colonies.",
+   "official": false,
+   "ref": "Australian Citizenship: Our Common Bond – Part 3: Government and the law in Australia (Federation)"
+  },
+  {
+   "id": "au-180",
+   "topic": "gov",
+   "q": "Why did people want to unite the colonies?",
+   "options": [
+    "The colonies were at war",
+    "Britain ordered it",
+    "Gold had run out",
+    "Trade and transport between colonies were slow and costly and defence was weak"
+   ],
+   "answer": 3,
+   "explain": "Separate colonies made trade, transport, law enforcement and defence difficult, and a national identity was forming.",
+   "official": false,
+   "ref": "Australian Citizenship: Our Common Bond – Part 3: Government and the law in Australia (Federation)"
+  },
+  {
+   "id": "au-181",
+   "topic": "gov",
+   "q": "On what date did the colonies unite to form the Commonwealth of Australia?",
+   "options": [
+    "1 January 1901",
+    "25 April 1915",
+    "1 January 1900",
+    "26 January 1788"
+   ],
+   "answer": 0,
+   "explain": "Federation took place on 1 January 1901.",
+   "official": false,
+   "ref": "Australian Citizenship: Our Common Bond – Part 3: Government and the law in Australia (Federation)"
+  },
+  {
+   "id": "au-182",
+   "topic": "gov",
+   "q": "What is the Australian Constitution?",
+   "options": [
+    "The national anthem",
+    "A list of all criminal laws",
+    "A treaty with Britain about trade",
+    "The legal document that sets out the basic rules for the government of Australia"
+   ],
+   "answer": 3,
+   "explain": "The Constitution sets out the basic rules for Australia's government.",
+   "official": false,
+   "ref": "Australian Citizenship: Our Common Bond – Part 3: Government and the law in Australia (The Australian Constitution)"
+  },
+  {
+   "id": "au-183",
+   "topic": "gov",
+   "q": "The Australian Constitution was originally passed as part of an Act of which parliament?",
+   "options": [
+    "The New South Wales Parliament",
+    "The British Parliament",
+    "The Australian Parliament",
+    "The United States Congress"
+   ],
+   "answer": 1,
+   "explain": "It was originally passed as part of a British Act of Parliament in 1900.",
+   "official": false,
+   "ref": "Australian Citizenship: Our Common Bond – Part 3: Government and the law in Australia (The Australian Constitution)"
+  },
+  {
+   "id": "au-184",
+   "topic": "gov",
+   "q": "When did the Australian Constitution come into effect?",
+   "options": [
+    "1 January 1900",
+    "26 January 1788",
+    "9 May 1901",
+    "1 January 1901"
+   ],
+   "answer": 3,
+   "explain": "The Constitution took effect on 1 January 1901.",
+   "official": false,
+   "ref": "Australian Citizenship: Our Common Bond – Part 3: Government and the law in Australia (The Australian Constitution)"
+  },
+  {
+   "id": "au-185",
+   "topic": "gov",
+   "q": "Which two Houses did the Constitution establish for the Australian Parliament?",
+   "options": [
+    "The House of Commons and the House of Lords",
+    "The House of Representatives and the Senate",
+    "The Assembly and the Council of State",
+    "The Senate and the Supreme Court"
+   ],
+   "answer": 1,
+   "explain": "The Parliament consists of the House of Representatives and the Senate.",
+   "official": false,
+   "ref": "Australian Citizenship: Our Common Bond – Part 3: Government and the law in Australia (The Australian Constitution)"
+  },
+  {
+   "id": "au-186",
+   "topic": "gov",
+   "q": "Which court has the ultimate power to apply and interpret the laws of Australia?",
+   "options": [
+    "The Federal Circuit Court",
+    "The Magistrates Court",
+    "The High Court of Australia",
+    "The Supreme Court of New South Wales"
+   ],
+   "answer": 2,
+   "explain": "The High Court, established by the Constitution, has the ultimate power to interpret and apply Australia's laws.",
+   "official": false,
+   "ref": "Australian Citizenship: Our Common Bond – Part 3: Government and the law in Australia (The Australian Constitution)"
+  },
+  {
+   "id": "au-187",
+   "topic": "gov",
+   "q": "How can the Australian Constitution be changed?",
+   "options": [
+    "By the Governor-General",
+    "By the Prime Minister alone",
+    "By the High Court",
+    "By the people voting in a referendum"
+   ],
+   "answer": 3,
+   "explain": "The people change the Constitution by voting in a referendum.",
+   "official": false,
+   "ref": "Australian Citizenship: Our Common Bond – Part 3: Government and the law in Australia (The Australian Constitution)"
+  },
+  {
+   "id": "au-188",
+   "topic": "gov",
+   "q": "What is needed for a referendum to change the Constitution?",
+   "options": [
+    "Approval by the King",
+    "A two-thirds vote in the Senate only",
+    "A simple majority in Parliament",
+    "A 'double majority': a majority of voters nationally and a majority of voters in a majority of states"
+   ],
+   "answer": 3,
+   "explain": "A double majority is needed: most voters nationally and most voters in a majority of states.",
+   "official": false,
+   "ref": "Australian Citizenship: Our Common Bond – Part 3: Government and the law in Australia (The Australian Constitution)"
+  },
+  {
+   "id": "au-189",
+   "topic": "gov",
+   "q": "In the 1967 Referendum, about what share of Australians voted 'Yes'?",
+   "options": [
+    "More than 90 per cent",
+    "About 50 per cent",
+    "About 25 per cent",
+    "About 60 per cent"
+   ],
+   "answer": 0,
+   "explain": "More than 90 per cent voted Yes in 1967.",
+   "official": false,
+   "ref": "Australian Citizenship: Our Common Bond – Part 3: Government and the law in Australia (The Australian Constitution)"
+  },
+  {
+   "id": "au-190",
+   "topic": "gov",
+   "q": "What did the 1967 Referendum allow?",
+   "options": [
+    "Australia to become a republic",
+    "Women to vote",
+    "Aboriginal peoples to be counted in the Census",
+    "Canberra to become the capital"
+   ],
+   "answer": 2,
+   "explain": "The 1967 Referendum allowed Aboriginal peoples to be counted in the Census.",
+   "official": false,
+   "ref": "Australian Citizenship: Our Common Bond – Part 3: Government and the law in Australia (The Australian Constitution)"
+  },
+  {
+   "id": "au-191",
+   "topic": "gov",
+   "q": "How does the Constitution stop one person or group from holding all the power?",
+   "options": [
+    "By letting the police make laws",
+    "By dividing power between the legislative, executive and judicial branches",
+    "By giving all power to the King",
+    "By having no Parliament"
+   ],
+   "answer": 1,
+   "explain": "Power is divided among legislative, executive and judicial branches.",
+   "official": false,
+   "ref": "Australian Citizenship: Our Common Bond – Part 3: Government and the law in Australia (How is the power of government controlled?)"
+  },
+  {
+   "id": "au-192",
+   "topic": "gov",
+   "q": "What is legislative power?",
+   "options": [
+    "The power to enforce laws on the street",
+    "The power to put laws into practice",
+    "The power to make and change laws",
+    "The power to interpret laws"
+   ],
+   "answer": 2,
+   "explain": "Legislative power, held by Parliament, is the power to make laws.",
+   "official": false,
+   "ref": "Australian Citizenship: Our Common Bond – Part 3: Government and the law in Australia (Legislative power)"
+  },
+  {
+   "id": "au-193",
+   "topic": "gov",
+   "q": "Who holds legislative power in Australia?",
+   "options": [
+    "The police",
+    "The courts",
+    "The Governor-General alone",
+    "Parliament"
+   ],
+   "answer": 3,
+   "explain": "Parliament has the power to make and change laws.",
+   "official": false,
+   "ref": "Australian Citizenship: Our Common Bond – Part 3: Government and the law in Australia (Legislative power)"
+  },
+  {
+   "id": "au-194",
+   "topic": "gov",
+   "q": "What is executive power?",
+   "options": [
+    "The power to make laws",
+    "The power to vote",
+    "The power to put laws into practice",
+    "The power to interpret laws"
+   ],
+   "answer": 2,
+   "explain": "Executive power is the power to carry out the laws.",
+   "official": false,
+   "ref": "Australian Citizenship: Our Common Bond – Part 3: Government and the law in Australia (Executive power)"
+  },
+  {
+   "id": "au-195",
+   "topic": "gov",
+   "q": "Who is part of the Executive?",
+   "options": [
+    "Judges and magistrates",
+    "Members of the jury",
+    "The Prime Minister, government ministers and the Governor-General",
+    "The Australian Electoral Commission"
+   ],
+   "answer": 2,
+   "explain": "The Executive includes the Prime Minister, ministers and the Governor-General.",
+   "official": false,
+   "ref": "Australian Citizenship: Our Common Bond – Part 3: Government and the law in Australia (Executive power)"
+  },
+  {
+   "id": "au-196",
+   "topic": "gov",
+   "q": "What is judicial power?",
+   "options": [
+    "The power to make laws",
+    "The power to collect taxes",
+    "The power to appoint ministers",
+    "The power to interpret and apply the law"
+   ],
+   "answer": 3,
+   "explain": "Judges have the power to interpret and apply the law.",
+   "official": false,
+   "ref": "Australian Citizenship: Our Common Bond – Part 3: Government and the law in Australia (Judicial power)"
+  },
+  {
+   "id": "au-197",
+   "topic": "gov",
+   "q": "Are the courts and judges in Australia independent of parliament and government?",
+   "options": [
+    "Yes",
+    "No, they are part of the police",
+    "No, they take orders from the Prime Minister",
+    "Only in some states"
+   ],
+   "answer": 0,
+   "explain": "Courts and judges are independent of parliament and government.",
+   "official": false,
+   "ref": "Australian Citizenship: Our Common Bond – Part 3: Government and the law in Australia (Judicial power)"
+  },
+  {
+   "id": "au-198",
+   "topic": "gov",
+   "q": "Who is Australia's Head of State?",
+   "options": [
+    "The Chief Justice",
+    "The Prime Minister",
+    "The King of Australia, His Majesty King Charles III",
+    "The Governor-General"
+   ],
+   "answer": 2,
+   "explain": "Australia's Head of State is the King of Australia, King Charles III (as of October 2026).",
+   "official": false,
+   "ref": "Australian Citizenship: Our Common Bond – Part 3: Government and the law in Australia (Who is Australia's Head of State?)"
+  },
+  {
+   "id": "au-199",
+   "topic": "gov",
+   "q": "Who appoints the Governor-General?",
+   "options": [
+    "The voters at an election",
+    "The King, on the advice of the Australian Prime Minister",
+    "The High Court",
+    "The Senate"
+   ],
+   "answer": 1,
+   "explain": "The King appoints the Governor-General on advice from the Prime Minister.",
+   "official": false,
+   "ref": "Australian Citizenship: Our Common Bond – Part 3: Government and the law in Australia (Who is Australia's Head of State?)"
+  },
+  {
+   "id": "au-200",
+   "topic": "gov",
+   "q": "Who represents the King in Australia?",
+   "options": [
+    "The Prime Minister",
+    "The Governor-General",
+    "The Chief Justice",
+    "The Speaker"
+   ],
+   "answer": 1,
+   "explain": "The Governor-General is the King's representative in Australia.",
+   "official": false,
+   "ref": "Australian Citizenship: Our Common Bond – Part 3: Government and the law in Australia (Who is Australia's Head of State?)"
+  },
+  {
+   "id": "au-201",
+   "topic": "gov",
+   "q": "Who represents the King in each of the states?",
+   "options": [
+    "A Chief Minister",
+    "A Governor",
+    "A Mayor",
+    "A Premier"
+   ],
+   "answer": 1,
+   "explain": "Each state has a Governor who represents the King.",
+   "official": false,
+   "ref": "Australian Citizenship: Our Common Bond – Part 3: Government and the law in Australia (Who is Australia's Head of State?)"
+  },
+  {
+   "id": "au-202",
+   "topic": "gov",
+   "q": "Does the King have a day-to-day role in Australian government?",
+   "options": [
+    "Yes, he leads the Senate",
+    "No",
+    "Yes, he approves every decision",
+    "Yes, he chairs Cabinet"
+   ],
+   "answer": 1,
+   "explain": "The King does not have a day-to-day role in government.",
+   "official": false,
+   "ref": "Australian Citizenship: Our Common Bond – Part 3: Government and the law in Australia (Who is Australia's Head of State?)"
+  },
+  {
+   "id": "au-203",
+   "topic": "gov",
+   "q": "What is a constitutional monarchy?",
+   "options": [
+    "A country with no parliament",
+    "A country where the King makes all the laws",
+    "A country where the King or Queen is Head of State but must act according to the Constitution",
+    "A republic with an elected president"
+   ],
+   "answer": 2,
+   "explain": "In a constitutional monarchy, the monarch is Head of State but must act in accordance with the Constitution.",
+   "official": false,
+   "ref": "Australian Citizenship: Our Common Bond – Part 3: Government and the law in Australia (Constitutional monarchy)"
+  },
+  {
+   "id": "au-204",
+   "topic": "gov",
+   "q": "Because the King does not live in Australia, to whom are his powers delegated?",
+   "options": [
+    "The Governor-General",
+    "The Premiers",
+    "The Prime Minister",
+    "The High Court"
+   ],
+   "answer": 0,
+   "explain": "The King's powers are delegated to the Governor-General.",
+   "official": false,
+   "ref": "Australian Citizenship: Our Common Bond – Part 3: Government and the law in Australia (Constitutional monarchy)"
+  },
+  {
+   "id": "au-205",
+   "topic": "gov",
+   "q": "Who is the leader of the Australian Government?",
+   "options": [
+    "The Chief Justice",
+    "The King",
+    "The Governor-General",
+    "The Prime Minister"
+   ],
+   "answer": 3,
+   "explain": "The Prime Minister leads the Australian Government.",
+   "official": false,
+   "ref": "Australian Citizenship: Our Common Bond – Part 3: Government and the law in Australia (Constitutional monarchy)"
+  },
+  {
+   "id": "au-206",
+   "topic": "gov",
+   "q": "The Australian system of parliamentary democracy combines traditions from where?",
+   "options": [
+    "France and Germany",
+    "Britain and North America",
+    "Ancient Greece only",
+    "China and Japan"
+   ],
+   "answer": 1,
+   "explain": "It reflects British and North American traditions combined in a uniquely Australian way.",
+   "official": false,
+   "ref": "Australian Citizenship: Our Common Bond – Part 3: Government and the law in Australia (Constitutional monarchy)"
+  },
+  {
+   "id": "au-207",
+   "topic": "gov",
+   "q": "Is the Governor-General part of the government?",
+   "options": [
+    "No, the Governor-General must remain neutral",
+    "Yes, the Governor-General leads Cabinet",
+    "Yes, as leader of the largest party",
+    "Yes, as Treasurer"
+   ],
+   "answer": 0,
+   "explain": "The Governor-General is not part of the government and must remain neutral.",
+   "official": false,
+   "ref": "Australian Citizenship: Our Common Bond – Part 3: Government and the law in Australia (The role of the Governor-General)"
+  },
+  {
+   "id": "au-208",
+   "topic": "gov",
+   "q": "What is 'Royal Assent'?",
+   "options": [
+    "The King visiting Australia",
+    "The Governor-General signing a Bill passed by Parliament so it becomes law",
+    "A vote in the Senate",
+    "The Prime Minister being sworn in"
+   ],
+   "answer": 1,
+   "explain": "Royal Assent is when the Governor-General signs a Bill into law.",
+   "official": false,
+   "ref": "Australian Citizenship: Our Common Bond – Part 3: Government and the law in Australia (The role of the Governor-General)"
+  },
+  {
+   "id": "au-209",
+   "topic": "gov",
+   "q": "Which of these is a role of the Governor-General?",
+   "options": [
+    "Leading the Opposition",
+    "Running local councils",
+    "Acting as Commander-in-Chief of the Australian Defence Force",
+    "Collecting taxes"
+   ],
+   "answer": 2,
+   "explain": "The Governor-General is Commander-in-Chief of the Australian Defence Force.",
+   "official": false,
+   "ref": "Australian Citizenship: Our Common Bond – Part 3: Government and the law in Australia (The role of the Governor-General)"
+  },
+  {
+   "id": "au-210",
+   "topic": "gov",
+   "q": "Which of these tasks is part of the Governor-General's role?",
+   "options": [
+    "Starting the process for a federal election",
+    "Deciding court cases",
+    "Choosing local councillors",
+    "Writing the national budget"
+   ],
+   "answer": 0,
+   "explain": "The Governor-General starts the process for a federal election.",
+   "official": false,
+   "ref": "Australian Citizenship: Our Common Bond – Part 3: Government and the law in Australia (The role of the Governor-General)"
+  },
+  {
+   "id": "au-211",
+   "topic": "gov",
+   "q": "Which appointments does the Governor-General approve?",
+   "options": [
+    "Members of the jury",
+    "All police officers",
+    "State premiers and mayors",
+    "The Australian Government and its ministers, federal judges and other officials"
+   ],
+   "answer": 3,
+   "explain": "The Governor-General approves the appointment of the government, ministers, federal judges and other officials.",
+   "official": false,
+   "ref": "Australian Citizenship: Our Common Bond – Part 3: Government and the law in Australia (The role of the Governor-General)"
+  },
+  {
+   "id": "au-212",
+   "topic": "gov",
+   "q": "What are the Governor-General's 'reserve powers'?",
+   "options": [
+    "Powers to arrest people",
+    "Special powers that can only be used in specific circumstances",
+    "Powers to change the Constitution alone",
+    "Powers to collect taxes"
+   ],
+   "answer": 1,
+   "explain": "Reserve powers are special powers used only in specific circumstances.",
+   "official": false,
+   "ref": "Australian Citizenship: Our Common Bond – Part 3: Government and the law in Australia (The role of the Governor-General)"
+  },
+  {
+   "id": "au-213",
+   "topic": "gov",
+   "q": "Who is the leader of a state government?",
+   "options": [
+    "The Mayor",
+    "The Chief Minister",
+    "The Governor",
+    "The Premier"
+   ],
+   "answer": 3,
+   "explain": "The Premier leads a state government.",
+   "official": false,
+   "ref": "Australian Citizenship: Our Common Bond – Part 3: Government and the law in Australia (Who are some of Australia's leaders?)"
+  },
+  {
+   "id": "au-214",
+   "topic": "gov",
+   "q": "Who is the leader of a territory government?",
+   "options": [
+    "The Governor",
+    "The Premier",
+    "The Administrator",
+    "The Chief Minister"
+   ],
+   "answer": 3,
+   "explain": "A Chief Minister leads a territory government.",
+   "official": false,
+   "ref": "Australian Citizenship: Our Common Bond – Part 3: Government and the law in Australia (Who are some of Australia's leaders?)"
+  },
+  {
+   "id": "au-215",
+   "topic": "gov",
+   "q": "Who is the leader of a local government?",
+   "options": [
+    "A Governor",
+    "A Mayor or Shire President",
+    "A Premier",
+    "A Senator"
+   ],
+   "answer": 1,
+   "explain": "Local councils are led by a Mayor or Shire President.",
+   "official": false,
+   "ref": "Australian Citizenship: Our Common Bond – Part 3: Government and the law in Australia (Who are some of Australia's leaders?)"
+  },
+  {
+   "id": "au-216",
+   "topic": "gov",
+   "q": "What is a government minister?",
+   "options": [
+    "A Member of Parliament chosen by a government leader to be responsible for an area of government",
+    "An elected local councillor",
+    "A religious leader",
+    "A judge in the High Court"
+   ],
+   "answer": 0,
+   "explain": "A minister is a member of parliament chosen to be responsible for an area of government.",
+   "official": false,
+   "ref": "Australian Citizenship: Our Common Bond – Part 3: Government and the law in Australia (Who are some of Australia's leaders?)"
+  },
+  {
+   "id": "au-217",
+   "topic": "gov",
+   "q": "What is a senator?",
+   "options": [
+    "A local councillor",
+    "A judge",
+    "An elected representative of a state or territory in the Australian Parliament",
+    "A representative of the King"
+   ],
+   "answer": 2,
+   "explain": "Senators are elected to represent a state or territory in the Senate.",
+   "official": false,
+   "ref": "Australian Citizenship: Our Common Bond – Part 3: Government and the law in Australia (Who are some of Australia's leaders?)"
+  },
+  {
+   "id": "au-218",
+   "topic": "gov",
+   "q": "What is a councillor?",
+   "options": [
+    "A member of the Senate",
+    "A state Governor",
+    "An elected member of a local council",
+    "A federal judge"
+   ],
+   "answer": 2,
+   "explain": "A councillor is an elected member of a local council.",
+   "official": false,
+   "ref": "Australian Citizenship: Our Common Bond – Part 3: Government and the law in Australia (Who are some of Australia's leaders?)"
+  },
+  {
+   "id": "au-219",
+   "topic": "gov",
+   "q": "What are other names for the Australian Government?",
+   "options": [
+    "The State Government",
+    "The Crown Court",
+    "The Local Council",
+    "The Federal Government or the Commonwealth Government"
+   ],
+   "answer": 3,
+   "explain": "The Australian Government is also called the Federal or Commonwealth Government.",
+   "official": false,
+   "ref": "Australian Citizenship: Our Common Bond – Part 3: Government and the law in Australia (How is Australia governed?)"
+  },
+  {
+   "id": "au-220",
+   "topic": "gov",
+   "q": "What are other names for the House of Representatives?",
+   "options": [
+    "The High Court",
+    "The House of Review",
+    "The Upper House or the States' House",
+    "The Lower House or the People's House"
+   ],
+   "answer": 3,
+   "explain": "The House of Representatives is also called the Lower House or the People's House.",
+   "official": false,
+   "ref": "Australian Citizenship: Our Common Bond – Part 3: Government and the law in Australia (The House of Representatives)"
+  },
+  {
+   "id": "au-221",
+   "topic": "gov",
+   "q": "What are other names for the Senate?",
+   "options": [
+    "The Executive Council",
+    "The Cabinet",
+    "The Upper House, the House of Review or the States' House",
+    "The Lower House or the People's House"
+   ],
+   "answer": 2,
+   "explain": "The Senate is also called the Upper House, the House of Review or the States' House.",
+   "official": false,
+   "ref": "Australian Citizenship: Our Common Bond – Part 3: Government and the law in Australia (The Senate)"
+  },
+  {
+   "id": "au-222",
+   "topic": "gov",
+   "q": "How is the number of members of the House of Representatives for each state decided?",
+   "options": [
+    "Each state has the same number",
+    "By the number of people living in that state or territory",
+    "By the size of the state's land",
+    "By the Governor-General"
+   ],
+   "answer": 1,
+   "explain": "Representation in the House is based on population.",
+   "official": false,
+   "ref": "Australian Citizenship: Our Common Bond – Part 3: Government and the law in Australia (The House of Representatives)"
+  },
+  {
+   "id": "au-223",
+   "topic": "gov",
+   "q": "Australia is divided into federal electorates. Who represents the people in each electorate?",
+   "options": [
+    "A Member of Parliament (MP)",
+    "A Governor",
+    "A Mayor",
+    "A senator"
+   ],
+   "answer": 0,
+   "explain": "MPs represent the people in their electorate in the House of Representatives.",
+   "official": false,
+   "ref": "Australian Citizenship: Our Common Bond – Part 3: Government and the law in Australia (The House of Representatives)"
+  },
+  {
+   "id": "au-224",
+   "topic": "gov",
+   "q": "How many senators are there in total in the Australian Senate?",
+   "options": [
+    "12",
+    "150",
+    "100",
+    "76"
+   ],
+   "answer": 3,
+   "explain": "There are 76 senators: 12 for each state and 2 each for the ACT and NT.",
+   "official": false,
+   "ref": "Australian Citizenship: Our Common Bond – Part 3: Government and the law in Australia (The Senate)"
+  },
+  {
+   "id": "au-225",
+   "topic": "gov",
+   "q": "How many senators does each state elect?",
+   "options": [
+    "10",
+    "6",
+    "2",
+    "12"
+   ],
+   "answer": 3,
+   "explain": "Each state elects 12 senators regardless of its population.",
+   "official": false,
+   "ref": "Australian Citizenship: Our Common Bond – Part 3: Government and the law in Australia (The Senate)"
+  },
+  {
+   "id": "au-226",
+   "topic": "gov",
+   "q": "How many senators do the Australian Capital Territory and the Northern Territory each elect?",
+   "options": [
+    "Twelve",
+    "Six",
+    "Two",
+    "One"
+   ],
+   "answer": 2,
+   "explain": "The ACT and NT each elect two senators.",
+   "official": false,
+   "ref": "Australian Citizenship: Our Common Bond – Part 3: Government and the law in Australia (The Senate)"
+  },
+  {
+   "id": "au-227",
+   "topic": "gov",
+   "q": "How are the states represented in the Senate?",
+   "options": [
+    "Equally, regardless of their size or population",
+    "According to population",
+    "According to land area",
+    "Only the largest states are represented"
+   ],
+   "answer": 0,
+   "explain": "All states are equally represented in the Senate.",
+   "official": false,
+   "ref": "Australian Citizenship: Our Common Bond – Part 3: Government and the law in Australia (The Senate)"
+  },
+  {
+   "id": "au-228",
+   "topic": "gov",
+   "q": "What is the role of the House of Representatives?",
+   "options": [
+    "To collect taxes directly",
+    "To interpret the Constitution",
+    "To consider, debate and vote on proposed laws and discuss matters of national importance",
+    "To appoint judges"
+   ],
+   "answer": 2,
+   "explain": "The House considers, debates and votes on proposals for new laws or changes.",
+   "official": false,
+   "ref": "Australian Citizenship: Our Common Bond – Part 3: Government and the law in Australia (The House of Representatives)"
+  },
+  {
+   "id": "au-229",
+   "topic": "gov",
+   "q": "Does each state have its own parliament and constitution?",
+   "options": [
+    "No, only the federal parliament exists",
+    "Only New South Wales",
+    "Only the territories",
+    "Yes"
+   ],
+   "answer": 3,
+   "explain": "Each state government has its own parliament and constitution.",
+   "official": false,
+   "ref": "Australian Citizenship: Our Common Bond – Part 3: Government and the law in Australia (State and territory government)"
+  },
+  {
+   "id": "au-230",
+   "topic": "gov",
+   "q": "In the Northern Territory, who is appointed by the Governor-General with a role similar to a state Governor?",
+   "options": [
+    "A Mayor",
+    "A Chief Justice",
+    "An Administrator",
+    "A Premier"
+   ],
+   "answer": 2,
+   "explain": "In the NT, an Administrator is appointed by the Governor-General.",
+   "official": false,
+   "ref": "Australian Citizenship: Our Common Bond – Part 3: Government and the law in Australia (State and territory government)"
+  },
+  {
+   "id": "au-231",
+   "topic": "gov",
+   "q": "What is a key difference between states and territories?",
+   "options": [
+    "Territories have more senators than states",
+    "Territories have their own King",
+    "States have rights recognised by the Constitution; territory laws can be changed by the Australian Government",
+    "States have no parliament"
+   ],
+   "answer": 2,
+   "explain": "States have constitutional rights; self-governing territory laws can be altered or revoked by the Australian Government.",
+   "official": false,
+   "ref": "Australian Citizenship: Our Common Bond – Part 3: Government and the law in Australia (State and territory government)"
+  },
+  {
+   "id": "au-232",
+   "topic": "gov",
+   "q": "What are local government areas called?",
+   "options": [
+    "Cities, shires, towns or municipalities",
+    "States",
+    "Electorates",
+    "Colonies"
+   ],
+   "answer": 0,
+   "explain": "Local government areas may be called cities, shires, towns or municipalities.",
+   "official": false,
+   "ref": "Australian Citizenship: Our Common Bond – Part 3: Government and the law in Australia (Local government)"
+  },
+  {
+   "id": "au-233",
+   "topic": "gov",
+   "q": "Who do citizens in each local government area elect?",
+   "options": [
+    "Their local councillors",
+    "Their Governor-General",
+    "Their state Governor",
+    "Their High Court judges"
+   ],
+   "answer": 0,
+   "explain": "Citizens vote to elect local councillors.",
+   "official": false,
+   "ref": "Australian Citizenship: Our Common Bond – Part 3: Government and the law in Australia (Local government)"
+  },
+  {
+   "id": "au-234",
+   "topic": "gov",
+   "q": "Which level of government is responsible for defence?",
+   "options": [
+    "Territory governments only",
+    "Local governments",
+    "The Australian Government",
+    "State governments"
+   ],
+   "answer": 2,
+   "explain": "Defence is an Australian (federal) Government responsibility.",
+   "official": false,
+   "ref": "Australian Citizenship: Our Common Bond – Part 3: Government and the law in Australia (What do the three levels of government do?)"
+  },
+  {
+   "id": "au-235",
+   "topic": "gov",
+   "q": "Which level of government is responsible for immigration and citizenship?",
+   "options": [
+    "State governments",
+    "Territory governments",
+    "The Australian Government",
+    "Local councils"
+   ],
+   "answer": 2,
+   "explain": "Immigration and citizenship are federal responsibilities.",
+   "official": false,
+   "ref": "Australian Citizenship: Our Common Bond – Part 3: Government and the law in Australia (What do the three levels of government do?)"
+  },
+  {
+   "id": "au-236",
+   "topic": "gov",
+   "q": "Which level of government is responsible for foreign affairs?",
+   "options": [
+    "Shire councils",
+    "The Australian Government",
+    "Local councils",
+    "State governments"
+   ],
+   "answer": 1,
+   "explain": "Foreign affairs (relations with other countries) is federal.",
+   "official": false,
+   "ref": "Australian Citizenship: Our Common Bond – Part 3: Government and the law in Australia (What do the three levels of government do?)"
+  },
+  {
+   "id": "au-237",
+   "topic": "gov",
+   "q": "Which level of government is responsible for social security, such as pensions and family support?",
+   "options": [
+    "Territory councils",
+    "State governments",
+    "Local councils",
+    "The Australian Government"
+   ],
+   "answer": 3,
+   "explain": "Social security is a federal responsibility.",
+   "official": false,
+   "ref": "Australian Citizenship: Our Common Bond – Part 3: Government and the law in Australia (What do the three levels of government do?)"
+  },
+  {
+   "id": "au-238",
+   "topic": "gov",
+   "q": "Which level of government is responsible for postal services and the communications network?",
+   "options": [
+    "Shire presidents",
+    "State governments",
+    "Local councils",
+    "The Australian Government"
+   ],
+   "answer": 3,
+   "explain": "Postal services and communications are federal.",
+   "official": false,
+   "ref": "Australian Citizenship: Our Common Bond – Part 3: Government and the law in Australia (What do the three levels of government do?)"
+  },
+  {
+   "id": "au-239",
+   "topic": "gov",
+   "q": "Which level of government is responsible for airports and air safety?",
+   "options": [
+    "Territory councils",
+    "State governments",
+    "Local councils",
+    "The Australian Government"
+   ],
+   "answer": 3,
+   "explain": "Airports and air safety are federal responsibilities.",
+   "official": false,
+   "ref": "Australian Citizenship: Our Common Bond – Part 3: Government and the law in Australia (What do the three levels of government do?)"
+  },
+  {
+   "id": "au-240",
+   "topic": "gov",
+   "q": "Which level of government is primarily responsible for hospitals and health services?",
+   "options": [
+    "Local councils",
+    "The Australian Government only",
+    "State and territory governments",
+    "The High Court"
+   ],
+   "answer": 2,
+   "explain": "Hospitals and health services are primarily state and territory responsibilities.",
+   "official": false,
+   "ref": "Australian Citizenship: Our Common Bond – Part 3: Government and the law in Australia (What do the three levels of government do?)"
+  },
+  {
+   "id": "au-241",
+   "topic": "gov",
+   "q": "Which level of government is primarily responsible for schools?",
+   "options": [
+    "The Australian Government only",
+    "State and territory governments",
+    "Local councils",
+    "The Governor-General"
+   ],
+   "answer": 1,
+   "explain": "Schools are primarily a state and territory responsibility.",
+   "official": false,
+   "ref": "Australian Citizenship: Our Common Bond – Part 3: Government and the law in Australia (What do the three levels of government do?)"
+  },
+  {
+   "id": "au-242",
+   "topic": "gov",
+   "q": "Which level of government is primarily responsible for police and ambulance services?",
+   "options": [
+    "The AEC",
+    "Local councils",
+    "The Australian Government only",
+    "State and territory governments"
+   ],
+   "answer": 3,
+   "explain": "Police and ambulance services are mainly state and territory responsibilities.",
+   "official": false,
+   "ref": "Australian Citizenship: Our Common Bond – Part 3: Government and the law in Australia (What do the three levels of government do?)"
+  },
+  {
+   "id": "au-243",
+   "topic": "gov",
+   "q": "Which level of government is primarily responsible for public transport?",
+   "options": [
+    "Local councils only",
+    "State and territory governments",
+    "The Senate",
+    "The Australian Government"
+   ],
+   "answer": 1,
+   "explain": "Public transport is primarily a state and territory responsibility.",
+   "official": false,
+   "ref": "Australian Citizenship: Our Common Bond – Part 3: Government and the law in Australia (What do the three levels of government do?)"
+  },
+  {
+   "id": "au-244",
+   "topic": "gov",
+   "q": "Which level of government is primarily responsible for forestry?",
+   "options": [
+    "State and territory governments",
+    "The Australian Government only",
+    "The High Court",
+    "Local councils"
+   ],
+   "answer": 0,
+   "explain": "Forestry is primarily a state and territory responsibility.",
+   "official": false,
+   "ref": "Australian Citizenship: Our Common Bond – Part 3: Government and the law in Australia (What do the three levels of government do?)"
+  },
+  {
+   "id": "au-245",
+   "topic": "gov",
+   "q": "Which level of government is responsible for rubbish collection?",
+   "options": [
+    "State governments",
+    "The High Court",
+    "Local government",
+    "The Australian Government"
+   ],
+   "answer": 2,
+   "explain": "Rubbish collection is a local government responsibility.",
+   "official": false,
+   "ref": "Australian Citizenship: Our Common Bond – Part 3: Government and the law in Australia (What do the three levels of government do?)"
+  },
+  {
+   "id": "au-246",
+   "topic": "gov",
+   "q": "Which level of government is responsible for building permits?",
+   "options": [
+    "The Senate",
+    "The Australian Government",
+    "The Governor-General",
+    "Local government"
+   ],
+   "answer": 3,
+   "explain": "Building permits are issued by local government.",
+   "official": false,
+   "ref": "Australian Citizenship: Our Common Bond – Part 3: Government and the law in Australia (What do the three levels of government do?)"
+  },
+  {
+   "id": "au-247",
+   "topic": "gov",
+   "q": "Which level of government is responsible for local roads, footpaths and parks?",
+   "options": [
+    "Local government",
+    "The Australian Federal Police",
+    "The High Court",
+    "The Australian Government"
+   ],
+   "answer": 0,
+   "explain": "Local roads, footpaths, parks and playgrounds are local government responsibilities.",
+   "official": false,
+   "ref": "Australian Citizenship: Our Common Bond – Part 3: Government and the law in Australia (What do the three levels of government do?)"
+  },
+  {
+   "id": "au-248",
+   "topic": "gov",
+   "q": "Which level of government is responsible for local libraries and community centres?",
+   "options": [
+    "The AEC",
+    "State Governors",
+    "Local government",
+    "The Australian Government"
+   ],
+   "answer": 2,
+   "explain": "Local libraries, halls and community centres are run by local government.",
+   "official": false,
+   "ref": "Australian Citizenship: Our Common Bond – Part 3: Government and the law in Australia (What do the three levels of government do?)"
+  },
+  {
+   "id": "au-249",
+   "topic": "gov",
+   "q": "Which level of government is responsible for food and meat inspection and animal control?",
+   "options": [
+    "Local government",
+    "The Senate",
+    "The Australian Government",
+    "The High Court"
+   ],
+   "answer": 0,
+   "explain": "Food inspection and noise and animal control are local government responsibilities.",
+   "official": false,
+   "ref": "Australian Citizenship: Our Common Bond – Part 3: Government and the law in Australia (What do the three levels of government do?)"
+  },
+  {
+   "id": "au-250",
+   "topic": "gov",
+   "q": "Which level of government is responsible for taxation and national economic management?",
+   "options": [
+    "The Australian Government",
+    "Local councils",
+    "State Governors",
+    "The courts"
+   ],
+   "answer": 0,
+   "explain": "Taxation and national economic management are federal responsibilities.",
+   "official": false,
+   "ref": "Australian Citizenship: Our Common Bond – Part 3: Government and the law in Australia (What do the three levels of government do?)"
+  },
+  {
+   "id": "au-251",
+   "topic": "gov",
+   "q": "Which level of government is responsible for trade and commerce?",
+   "options": [
+    "Local councils",
+    "The AEC",
+    "The Australian Government",
+    "State police"
+   ],
+   "answer": 2,
+   "explain": "Trade and commerce is a federal responsibility.",
+   "official": false,
+   "ref": "Australian Citizenship: Our Common Bond – Part 3: Government and the law in Australia (What do the three levels of government do?)"
+  },
+  {
+   "id": "au-252",
+   "topic": "gov",
+   "q": "What is a political party?",
+   "options": [
+    "A group of people who share similar ideas about how a country should be governed",
+    "A government department",
+    "A court of law",
+    "A celebration held after an election"
+   ],
+   "answer": 0,
+   "explain": "A political party is a group with shared ideas about governing who work to turn those ideas into laws.",
+   "official": false,
+   "ref": "Australian Citizenship: Our Common Bond – Part 3: Government and the law in Australia (Political parties)"
+  },
+  {
+   "id": "au-253",
+   "topic": "gov",
+   "q": "Which of these is one of Australia's main political parties, as named in the guide?",
+   "options": [
+    "The Republican Party",
+    "The Conservative Party",
+    "The Australian Labor Party",
+    "The Social Democratic Party"
+   ],
+   "answer": 2,
+   "explain": "The guide names the Liberal Party, the Australian Labor Party, the Nationals and the Australian Greens.",
+   "official": false,
+   "ref": "Australian Citizenship: Our Common Bond – Part 3: Government and the law in Australia (Political parties)"
+  },
+  {
+   "id": "au-254",
+   "topic": "gov",
+   "q": "What are members of parliament who do not belong to a political party called?",
+   "options": [
+    "Ministers",
+    "Independents",
+    "Governors",
+    "Senators"
+   ],
+   "answer": 1,
+   "explain": "Parliamentarians who do not belong to a party are called independents.",
+   "official": false,
+   "ref": "Australian Citizenship: Our Common Bond – Part 3: Government and the law in Australia (Political parties)"
+  },
+  {
+   "id": "au-255",
+   "topic": "gov",
+   "q": "Are Australians free to join a political party?",
+   "options": [
+    "Yes, if they choose",
+    "No, it is compulsory",
+    "Only after ten years of citizenship",
+    "No, only politicians can join"
+   ],
+   "answer": 0,
+   "explain": "People are free to join a political party if they choose.",
+   "official": false,
+   "ref": "Australian Citizenship: Our Common Bond – Part 3: Government and the law in Australia (Political parties)"
+  },
+  {
+   "id": "au-256",
+   "topic": "gov",
+   "q": "After a federal election, who generally forms the Australian Government?",
+   "options": [
+    "The party with the oldest leader",
+    "The party with the most senators",
+    "The party or coalition with the majority of members in the House of Representatives",
+    "The party chosen by the Governor-General personally"
+   ],
+   "answer": 2,
+   "explain": "The government is formed by the party or coalition with a majority in the House of Representatives.",
+   "official": false,
+   "ref": "Australian Citizenship: Our Common Bond – Part 3: Government and the law in Australia (How is the Australian Government formed?)"
+  },
+  {
+   "id": "au-257",
+   "topic": "gov",
+   "q": "Who becomes Prime Minister?",
+   "options": [
+    "The leader of the party or coalition that forms government",
+    "The person with the most personal votes nationally",
+    "The Governor-General",
+    "The leader of the Senate"
+   ],
+   "answer": 0,
+   "explain": "The leader of the governing party or coalition becomes Prime Minister.",
+   "official": false,
+   "ref": "Australian Citizenship: Our Common Bond – Part 3: Government and the law in Australia (How is the Australian Government formed?)"
+  },
+  {
+   "id": "au-258",
+   "topic": "gov",
+   "q": "Who forms the Opposition?",
+   "options": [
+    "The party with the fewest members",
+    "The independents",
+    "The party or coalition with the second largest number of members in the House of Representatives",
+    "The Senate"
+   ],
+   "answer": 2,
+   "explain": "The party or coalition with the second largest number of members forms the Opposition.",
+   "official": false,
+   "ref": "Australian Citizenship: Our Common Bond – Part 3: Government and the law in Australia (How is the Australian Government formed?)"
+  },
+  {
+   "id": "au-259",
+   "topic": "gov",
+   "q": "What is a coalition?",
+   "options": [
+    "A local council",
+    "A type of election",
+    "A group of judges",
+    "Two or more political parties joining together, usually to form a government or opposition"
+   ],
+   "answer": 3,
+   "explain": "A coalition is the joining of two or more political parties.",
+   "official": false,
+   "ref": "Australian Citizenship: Our Common Bond – Glossary of testable section (coalition)"
+  },
+  {
+   "id": "au-260",
+   "topic": "gov",
+   "q": "Who recommends which members of parliament become ministers?",
+   "options": [
+    "The voters",
+    "The Prime Minister",
+    "The Chief Justice",
+    "The Governor-General"
+   ],
+   "answer": 1,
+   "explain": "The Prime Minister recommends MPs or senators to become ministers; the Governor-General approves.",
+   "official": false,
+   "ref": "Australian Citizenship: Our Common Bond – Part 3: Government and the law in Australia (How is the Australian Government formed?)"
+  },
+  {
+   "id": "au-261",
+   "topic": "gov",
+   "q": "What is the Cabinet?",
+   "options": [
+    "The key decision-making body of government, made up of ministers with the most important portfolios",
+    "The state Premiers",
+    "All members of parliament",
+    "The High Court judges"
+   ],
+   "answer": 0,
+   "explain": "Ministers with the most important portfolios make up the Cabinet.",
+   "official": false,
+   "ref": "Australian Citizenship: Our Common Bond – Part 3: Government and the law in Australia (How is the Australian Government formed?)"
+  },
+  {
+   "id": "au-262",
+   "topic": "gov",
+   "q": "What is a minister's area of responsibility called?",
+   "options": [
+    "A portfolio",
+    "An electorate",
+    "A shire",
+    "A constituency"
+   ],
+   "answer": 0,
+   "explain": "A minister is responsible for a portfolio, such as employment or the Treasury.",
+   "official": false,
+   "ref": "Australian Citizenship: Our Common Bond – Part 3: Government and the law in Australia (How is the Australian Government formed?)"
+  },
+  {
+   "id": "au-263",
+   "topic": "gov",
+   "q": "What is a proposal for a new law or a change to an existing law called?",
+   "options": [
+    "A Portfolio",
+    "A Bill",
+    "A Referendum",
+    "A Writ"
+   ],
+   "answer": 1,
+   "explain": "A proposed law is called a Bill.",
+   "official": false,
+   "ref": "Australian Citizenship: Our Common Bond – Part 3: Government and the law in Australia (How are laws made?)"
+  },
+  {
+   "id": "au-264",
+   "topic": "gov",
+   "q": "What must happen before a Bill goes to the Governor-General?",
+   "options": [
+    "A referendum must be held",
+    "The King must sign it in London",
+    "The High Court must approve it",
+    "A majority of members in each House of Parliament must agree to it"
+   ],
+   "answer": 3,
+   "explain": "A Bill needs majority agreement in both Houses before going to the Governor-General.",
+   "official": false,
+   "ref": "Australian Citizenship: Our Common Bond – Part 3: Government and the law in Australia (How are laws made?)"
+  },
+  {
+   "id": "au-265",
+   "topic": "gov",
+   "q": "Who signs a Bill so that it becomes law?",
+   "options": [
+    "The Governor-General",
+    "The Prime Minister",
+    "The Chief Justice",
+    "The Speaker"
+   ],
+   "answer": 0,
+   "explain": "The Governor-General gives Royal Assent.",
+   "official": false,
+   "ref": "Australian Citizenship: Our Common Bond – Part 3: Government and the law in Australia (How are laws made?)"
+  },
+  {
+   "id": "au-266",
+   "topic": "gov",
+   "q": "Who decides whether a person has broken the law and what the penalty is?",
+   "options": [
+    "The police",
+    "The Prime Minister",
+    "The victim",
+    "The courts"
+   ],
+   "answer": 3,
+   "explain": "Independent courts decide if a person has broken the law and the penalty.",
+   "official": false,
+   "ref": "Australian Citizenship: Our Common Bond – Part 3: Government and the law in Australia (The courts)"
+  },
+  {
+   "id": "au-267",
+   "topic": "gov",
+   "q": "On what can courts base their decisions?",
+   "options": [
+    "The wishes of the police",
+    "Only the evidence before them",
+    "The opinions of politicians",
+    "Media reports"
+   ],
+   "answer": 1,
+   "explain": "Courts can only base their decisions on the evidence before them.",
+   "official": false,
+   "ref": "Australian Citizenship: Our Common Bond – Part 3: Government and the law in Australia (The courts)"
+  },
+  {
+   "id": "au-268",
+   "topic": "gov",
+   "q": "Who is the highest authority in a court?",
+   "options": [
+    "The judge or magistrate",
+    "The police officer",
+    "The lawyer",
+    "The jury foreperson"
+   ],
+   "answer": 0,
+   "explain": "The judge or magistrate is the highest authority in a court.",
+   "official": false,
+   "ref": "Australian Citizenship: Our Common Bond – Part 3: Government and the law in Australia (Judges and magistrates)"
+  },
+  {
+   "id": "au-269",
+   "topic": "gov",
+   "q": "Who appoints judges and magistrates?",
+   "options": [
+    "The police",
+    "The jury",
+    "The government",
+    "The voters"
+   ],
+   "answer": 2,
+   "explain": "Judges and magistrates are appointed by the government, but cannot be dismissed simply because the government disagrees with their decisions.",
+   "official": false,
+   "ref": "Australian Citizenship: Our Common Bond – Part 3: Government and the law in Australia (Judges and magistrates)"
+  },
+  {
+   "id": "au-270",
+   "topic": "gov",
+   "q": "Can the government remove a judge because it disagrees with the judge's decision?",
+   "options": [
+    "Yes, at any time",
+    "No",
+    "Yes, with the Prime Minister's approval",
+    "Yes, after an election"
+   ],
+   "answer": 1,
+   "explain": "The government cannot take away a judge's job because it disagrees with a decision.",
+   "official": false,
+   "ref": "Australian Citizenship: Our Common Bond – Part 3: Government and the law in Australia (Judges and magistrates)"
+  },
+  {
+   "id": "au-271",
+   "topic": "gov",
+   "q": "What is a magistrate?",
+   "options": [
+    "A judge of a lower court",
+    "A jury member",
+    "A member of parliament",
+    "A police officer"
+   ],
+   "answer": 0,
+   "explain": "A magistrate is a judge of a lower court.",
+   "official": false,
+   "ref": "Australian Citizenship: Our Common Bond – Glossary of testable section (magistrate)"
+  },
+  {
+   "id": "au-272",
+   "topic": "gov",
+   "q": "In Australia's court system, how are people considered until found guilty?",
+   "options": [
+    "Guilty",
+    "Innocent",
+    "Suspicious",
+    "Dangerous"
+   ],
+   "answer": 1,
+   "explain": "People are considered innocent until found guilty in a court.",
+   "official": false,
+   "ref": "Australian Citizenship: Our Common Bond – Part 3: Government and the law in Australia (Juries)"
+  },
+  {
+   "id": "au-273",
+   "topic": "gov",
+   "q": "Does every person in Australia have the right to be represented by a lawyer in court?",
+   "options": [
+    "No, only wealthy people",
+    "Only in the High Court",
+    "Yes",
+    "No, only citizens"
+   ],
+   "answer": 2,
+   "explain": "Every person has the right to be represented by a lawyer in court.",
+   "official": false,
+   "ref": "Australian Citizenship: Our Common Bond – Part 3: Government and the law in Australia (Juries)"
+  },
+  {
+   "id": "au-274",
+   "topic": "gov",
+   "q": "How are members of a jury chosen?",
+   "options": [
+    "By political parties",
+    "By the judge",
+    "Randomly from the general population of Australian citizens",
+    "By the police"
+   ],
+   "answer": 2,
+   "explain": "A jury is a group of ordinary citizens randomly chosen.",
+   "official": false,
+   "ref": "Australian Citizenship: Our Common Bond – Part 3: Government and the law in Australia (Juries)"
+  },
+  {
+   "id": "au-275",
+   "topic": "gov",
+   "q": "In a criminal trial, if the jury finds a person guilty, who decides the penalty?",
+   "options": [
+    "The police",
+    "The jury",
+    "The victim",
+    "The judge"
+   ],
+   "answer": 3,
+   "explain": "The judge decides the penalty.",
+   "official": false,
+   "ref": "Australian Citizenship: Our Common Bond – Part 3: Government and the law in Australia (Juries)"
+  },
+  {
+   "id": "au-276",
+   "topic": "gov",
+   "q": "What is the job of the police?",
+   "options": [
+    "To maintain peace and order and protect life and property",
+    "To make laws",
+    "To decide who is guilty",
+    "To run elections"
+   ],
+   "answer": 0,
+   "explain": "Police maintain peace and order and protect life and property.",
+   "official": false,
+   "ref": "Australian Citizenship: Our Common Bond – Part 3: Government and the law in Australia (The police)"
+  },
+  {
+   "id": "au-277",
+   "topic": "gov",
+   "q": "If the police believe someone has broken the law, what can they do?",
+   "options": [
+    "Take them to the Prime Minister",
+    "Arrest them and bring them before a court",
+    "Decide the punishment themselves",
+    "Fine them without any process for serious crimes"
+   ],
+   "answer": 1,
+   "explain": "Police can arrest a person and bring them before a court; the court decides guilt.",
+   "official": false,
+   "ref": "Australian Citizenship: Our Common Bond – Part 3: Government and the law in Australia (The police)"
+  },
+  {
+   "id": "au-278",
+   "topic": "gov",
+   "q": "Are the police independent of the government?",
+   "options": [
+    "Yes",
+    "Only in the territories",
+    "No, they work for the Prime Minister personally",
+    "No, they take orders from political parties"
+   ],
+   "answer": 0,
+   "explain": "The police are independent of the government.",
+   "official": false,
+   "ref": "Australian Citizenship: Our Common Bond – Part 3: Government and the law in Australia (The police)"
+  },
+  {
+   "id": "au-279",
+   "topic": "gov",
+   "q": "Which national police force investigates crimes against federal laws?",
+   "options": [
+    "The Australian Defence Force",
+    "The Australian Federal Police (AFP)",
+    "The state police",
+    "The Australian Electoral Commission"
+   ],
+   "answer": 1,
+   "explain": "The AFP investigates crimes against federal laws such as drug trafficking and national security crimes.",
+   "official": false,
+   "ref": "Australian Citizenship: Our Common Bond – Part 3: Government and the law in Australia (The police)"
+  },
+  {
+   "id": "au-280",
+   "topic": "gov",
+   "q": "Which police force does general police work in the Australian Capital Territory?",
+   "options": [
+    "The New South Wales Police",
+    "The Northern Territory Police",
+    "The Australian Federal Police",
+    "The Victoria Police"
+   ],
+   "answer": 2,
+   "explain": "The AFP is responsible for general police work in the ACT.",
+   "official": false,
+   "ref": "Australian Citizenship: Our Common Bond – Part 3: Government and the law in Australia (The police)"
+  },
+  {
+   "id": "au-281",
+   "topic": "gov",
+   "q": "Which of these crimes would the Australian Federal Police investigate?",
+   "options": [
+    "A noisy dog",
+    "A local parking offence",
+    "Littering in a park",
+    "Drug trafficking"
+   ],
+   "answer": 3,
+   "explain": "The AFP investigates federal crimes such as drug trafficking, national security and environmental crimes.",
+   "official": false,
+   "ref": "Australian Citizenship: Our Common Bond – Part 3: Government and the law in Australia (The police)"
+  },
+  {
+   "id": "au-282",
+   "topic": "gov",
+   "q": "Is it a crime to offer a bribe to a police officer in Australia?",
+   "options": [
+    "Yes, even offering one is a crime",
+    "No, only accepting one is a crime",
+    "Only in some states",
+    "Only if the amount is large"
+   ],
+   "answer": 0,
+   "explain": "It is a serious crime to bribe the police, and even offering a bribe is a crime.",
+   "official": false,
+   "ref": "Australian Citizenship: Our Common Bond – Part 3: Government and the law in Australia (The police)"
+  },
+  {
+   "id": "au-283",
+   "topic": "gov",
+   "q": "Is not knowing a law an excuse for breaking it in Australia?",
+   "options": [
+    "No, you could still be charged",
+    "Yes, for the first offence",
+    "Only for traffic laws",
+    "Yes, for new migrants"
+   ],
+   "answer": 0,
+   "explain": "Not knowing the law is no excuse.",
+   "official": false,
+   "ref": "Australian Citizenship: Our Common Bond – Part 3: Government and the law in Australia (Criminal offences in Australia)"
+  },
+  {
+   "id": "au-284",
+   "topic": "gov",
+   "q": "Which of these is a serious crime in Australia?",
+   "options": [
+    "Changing your religion",
+    "Joining a trade union",
+    "Criticising the government peacefully",
+    "Possession of illegal drugs"
+   ],
+   "answer": 3,
+   "explain": "Serious crimes include murder, assault, armed robbery, dangerous driving, possession of illegal drugs and fraud.",
+   "official": false,
+   "ref": "Australian Citizenship: Our Common Bond – Part 3: Government and the law in Australia (Criminal offences in Australia)"
+  },
+  {
+   "id": "au-285",
+   "topic": "gov",
+   "q": "What is domestic and family violence?",
+   "options": [
+    "Behaviour or threats that aim to control a partner by causing fear or threatening their safety",
+    "A private matter that is not against the law",
+    "A legal way of disciplining a spouse",
+    "A disagreement settled by discussion"
+   ],
+   "answer": 0,
+   "explain": "Domestic and family violence is illegal and includes behaviour that controls a partner through fear.",
+   "official": false,
+   "ref": "Australian Citizenship: Our Common Bond – Part 3: Government and the law in Australia (Criminal offences in Australia)"
+  },
+  {
+   "id": "au-286",
+   "topic": "gov",
+   "q": "Which of these can be a form of domestic and family violence?",
+   "options": [
+    "Isolating a family member from friends and family",
+    "Visiting relatives",
+    "Helping children with homework",
+    "Discussing a budget together"
+   ],
+   "answer": 0,
+   "explain": "It can include hitting, isolating a family member, or threatening children or pets.",
+   "official": false,
+   "ref": "Australian Citizenship: Our Common Bond – Part 3: Government and the law in Australia (Criminal offences in Australia)"
+  },
+  {
+   "id": "au-287",
+   "topic": "gov",
+   "q": "Who can be sent to jail for domestic and family violence?",
+   "options": [
+    "Anyone who commits it, whether a man or a woman",
+    "Only men",
+    "Only women",
+    "No one; it is not a crime"
+   ],
+   "answer": 0,
+   "explain": "A person who commits these crimes can go to jail, whether a man or a woman.",
+   "official": false,
+   "ref": "Australian Citizenship: Our Common Bond – Part 3: Government and the law in Australia (Criminal offences in Australia)"
+  },
+  {
+   "id": "au-288",
+   "topic": "gov",
+   "q": "Who controls road and traffic rules in Australia?",
+   "options": [
+    "The High Court",
+    "State and territory governments",
+    "Local councils only",
+    "The Australian Government"
+   ],
+   "answer": 1,
+   "explain": "Road and traffic rules are controlled by state and territory governments.",
+   "official": false,
+   "ref": "Australian Citizenship: Our Common Bond – Part 3: Government and the law in Australia (Traffic offences)"
+  },
+  {
+   "id": "au-289",
+   "topic": "gov",
+   "q": "What do you need to drive a car in Australia?",
+   "options": [
+    "Nothing if you are a citizen",
+    "Only a passport",
+    "A local driver's licence and a registered car",
+    "Only car insurance from overseas"
+   ],
+   "answer": 2,
+   "explain": "You must have a local driver's licence and the car must be registered.",
+   "official": false,
+   "ref": "Australian Citizenship: Our Common Bond – Part 3: Government and the law in Australia (Traffic offences)"
+  },
+  {
+   "id": "au-290",
+   "topic": "gov",
+   "q": "Who must wear a seatbelt in a car?",
+   "options": [
+    "Everybody travelling in the car",
+    "Only passengers in the front",
+    "Only the driver",
+    "Only children"
+   ],
+   "answer": 0,
+   "explain": "Everybody travelling in a car must wear a seatbelt; babies and young children need approved car seats.",
+   "official": false,
+   "ref": "Australian Citizenship: Our Common Bond – Part 3: Government and the law in Australia (Traffic offences)"
+  },
+  {
+   "id": "au-291",
+   "topic": "gov",
+   "q": "Is it legal to use a hand-held mobile phone while driving?",
+   "options": [
+    "No, it is against the law",
+    "Yes, in rural areas",
+    "Yes, at all times",
+    "Yes, at traffic lights"
+   ],
+   "answer": 0,
+   "explain": "Using a hand-held mobile device while driving is against the law.",
+   "official": false,
+   "ref": "Australian Citizenship: Our Common Bond – Part 3: Government and the law in Australia (Traffic offences)"
+  },
+  {
+   "id": "au-292",
+   "topic": "gov",
+   "q": "Is it legal to drive above the blood alcohol limit?",
+   "options": [
+    "Yes, on weekends",
+    "No, it is illegal",
+    "Yes, outside cities",
+    "Yes, if you drive slowly"
+   ],
+   "answer": 1,
+   "explain": "It is illegal to drive after taking drugs or above the blood alcohol limit.",
+   "official": false,
+   "ref": "Australian Citizenship: Our Common Bond – Part 3: Government and the law in Australia (Traffic offences)"
+  },
+  {
+   "id": "au-293",
+   "topic": "gov",
+   "q": "What happens to people who break traffic laws?",
+   "options": [
+    "They must leave the country",
+    "They lose their citizenship",
+    "They can be fined or sent to prison",
+    "Nothing happens"
+   ],
+   "answer": 2,
+   "explain": "People can be fined or imprisoned for breaking traffic laws.",
+   "official": false,
+   "ref": "Australian Citizenship: Our Common Bond – Part 3: Government and the law in Australia (Traffic offences)"
+  },
+  {
+   "id": "au-294",
+   "topic": "gov",
+   "q": "What is the Commonwealth electoral roll?",
+   "options": [
+    "A list of members of parliament",
+    "A list of laws",
+    "The list of people registered to vote",
+    "A list of taxpayers"
+   ],
+   "answer": 2,
+   "explain": "The electoral roll is the list of people registered to vote.",
+   "official": false,
+   "ref": "Australian Citizenship: Our Common Bond – Glossary of testable section (electoral roll)"
+  },
+  {
+   "id": "au-295",
+   "topic": "gov",
+   "q": "What is an electorate?",
+   "options": [
+    "A state parliament",
+    "A political party",
+    "A court district",
+    "A district of voters who elect a member to the House of Representatives"
+   ],
+   "answer": 3,
+   "explain": "Electorates are also called electoral districts, divisions or seats.",
+   "official": false,
+   "ref": "Australian Citizenship: Our Common Bond – Glossary of testable section (electorate)"
+  },
+  {
+   "id": "au-296",
+   "topic": "gov",
+   "q": "Must referendums on constitutional change also be voted in?",
+   "options": [
+    "Only for people over 21",
+    "Only in the territories",
+    "No, they are optional",
+    "Yes, voting is compulsory in referendums"
+   ],
+   "answer": 3,
+   "explain": "Voting is compulsory in elections and in referenda on constitutional change.",
+   "official": false,
+   "ref": "Australian Citizenship: Our Common Bond – Part 3: Government and the law in Australia (Voting)"
+  },
+  {
+   "id": "au-297",
+   "topic": "gov",
+   "q": "How is the government of the Australian Capital Territory different at the local level?",
+   "options": [
+    "It is run by New South Wales",
+    "It has no government",
+    "The ACT Government is responsible for services usually provided by local councils",
+    "It is run by the High Court"
+   ],
+   "answer": 2,
+   "explain": "The guide lists local government services as the responsibility of local governments and the ACT Government.",
+   "official": false,
+   "ref": "Australian Citizenship: Our Common Bond – Part 3: Government and the law in Australia (What do the three levels of government do?)"
+  },
+  {
+   "id": "au-298",
+   "topic": "values",
+   "q": "Australian values are based on which of the following?",
+   "options": [
+    "Freedom, respect, fairness and equality of opportunity",
+    "Wealth and social class",
+    "One official religion",
+    "Loyalty to a political party"
+   ],
+   "answer": 0,
+   "explain": "Australian values are based on freedom, respect, fairness and equality of opportunity.",
+   "official": false,
+   "ref": "Australian Citizenship: Our Common Bond – Part 4: Australian values"
+  },
+  {
+   "id": "au-299",
+   "topic": "values",
+   "q": "Do Australian laws apply to all people in Australia, regardless of their background or culture?",
+   "options": [
+    "Yes",
+    "No, only to citizens",
+    "No, some cultures have their own laws",
+    "No, only to people born in Australia"
+   ],
+   "answer": 0,
+   "explain": "Australian laws apply to all people in Australia, regardless of background or culture.",
+   "official": false,
+   "ref": "Australian Citizenship: Our Common Bond – Part 4: Australian values"
+  },
+  {
+   "id": "au-300",
+   "topic": "values",
+   "q": "Under the Rule of Law, is any person or group above the law?",
+   "options": [
+    "Yes, wealthy people",
+    "Yes, the Prime Minister",
+    "Yes, religious leaders",
+    "No"
+   ],
+   "answer": 3,
+   "explain": "Under the Rule of Law, all Australians are equal before the law and no one is above it.",
+   "official": false,
+   "ref": "Australian Citizenship: Our Common Bond – Part 4: Australian values (Commitment to the Rule of Law)"
+  },
+  {
+   "id": "au-301",
+   "topic": "values",
+   "q": "Should you obey the law even if no one is watching?",
+   "options": [
+    "Yes, you should always follow the law",
+    "Only if you agree with the law",
+    "No, only when police are present",
+    "Only in public places"
+   ],
+   "answer": 0,
+   "explain": "The guide says you should follow the law even if no one is watching.",
+   "official": false,
+   "ref": "Australian Citizenship: Our Common Bond – Part 4: Australian values (Commitment to the Rule of Law)"
+  },
+  {
+   "id": "au-302",
+   "topic": "values",
+   "q": "Why is voting compulsory in Australia, according to the values section?",
+   "options": [
+    "To make elections shorter",
+    "To favour one party",
+    "To raise money",
+    "It shows the importance of participating in elections"
+   ],
+   "answer": 3,
+   "explain": "Compulsory voting shows the importance of participating in elections.",
+   "official": false,
+   "ref": "Australian Citizenship: Our Common Bond – Part 4: Australian values (Parliamentary democracy)"
+  },
+  {
+   "id": "au-303",
+   "topic": "values",
+   "q": "Who determines Australia's laws?",
+   "options": [
+    "Religious leaders",
+    "The King personally",
+    "Parliaments elected by the people",
+    "The police"
+   ],
+   "answer": 2,
+   "explain": "Australia's laws are determined by parliaments elected by the people.",
+   "official": false,
+   "ref": "Australian Citizenship: Our Common Bond – Part 4: Australian values (Parliamentary democracy)"
+  },
+  {
+   "id": "au-304",
+   "topic": "values",
+   "q": "Can newspapers, television and radio in Australia express their ideas freely?",
+   "options": [
+    "Yes, they have the same freedom of speech, within the law",
+    "Only during elections",
+    "Only if they support the government",
+    "No, they are controlled by the government"
+   ],
+   "answer": 0,
+   "explain": "Media outlets share the same freedom of speech, within the law.",
+   "official": false,
+   "ref": "Australian Citizenship: Our Common Bond – Part 4: Australian values (Freedom of speech)"
+  },
+  {
+   "id": "au-305",
+   "topic": "values",
+   "q": "Why are Australians allowed to peacefully protest against the actions of the government?",
+   "options": [
+    "Because the government is always wrong",
+    "Because tolerance of peaceful protest is an essential part of democracy",
+    "Because protests replace elections",
+    "Because protests are compulsory"
+   ],
+   "answer": 1,
+   "explain": "Tolerance of peaceful public protest is an essential part of democracy.",
+   "official": false,
+   "ref": "Australian Citizenship: Our Common Bond – Part 4: Australian values (Freedom of speech)"
+  },
+  {
+   "id": "au-306",
+   "topic": "values",
+   "q": "Is it acceptable to promote violence against a group because of their religion or ethnicity?",
+   "options": [
+    "No, never; it is against Australian values and the law",
+    "Yes, in private",
+    "Yes, if it is online",
+    "Yes, if you disagree with them"
+   ],
+   "answer": 0,
+   "explain": "It is never acceptable to promote violence against any person or group.",
+   "official": false,
+   "ref": "Australian Citizenship: Our Common Bond – Part 4: Australian values (Freedom of speech)"
+  },
+  {
+   "id": "au-307",
+   "topic": "values",
+   "q": "Under freedom of speech, which of these is illegal?",
+   "options": [
+    "Making false allegations about someone",
+    "Criticising a government policy",
+    "Writing a letter to a newspaper",
+    "Discussing politics with friends"
+   ],
+   "answer": 0,
+   "explain": "It is illegal to make false allegations or to encourage others to break the law.",
+   "official": false,
+   "ref": "Australian Citizenship: Our Common Bond – Part 4: Australian values (Freedom of speech)"
+  },
+  {
+   "id": "au-308",
+   "topic": "values",
+   "q": "Is it legal to encourage others to break the law?",
+   "options": [
+    "Yes, if it is on social media",
+    "Yes, if it is a minor law",
+    "Yes, during a protest",
+    "No"
+   ],
+   "answer": 3,
+   "explain": "Encouraging others to break the law is illegal.",
+   "official": false,
+   "ref": "Australian Citizenship: Our Common Bond – Part 4: Australian values (Freedom of speech)"
+  },
+  {
+   "id": "au-309",
+   "topic": "values",
+   "q": "Can a person in Australia be forced to leave an organisation they have joined?",
+   "options": [
+    "No, people cannot be compelled to join or forced to leave",
+    "Yes, by a religious leader",
+    "Yes, by their employer",
+    "Yes, by their family"
+   ],
+   "answer": 0,
+   "explain": "Individuals cannot be compelled to join an organisation or forced to leave it.",
+   "official": false,
+   "ref": "Australian Citizenship: Our Common Bond – Part 4: Australian values (Freedom of association)"
+  },
+  {
+   "id": "au-310",
+   "topic": "values",
+   "q": "Which of the following is a condition for protests in Australia?",
+   "options": [
+    "They must support the government",
+    "They must be peaceful and must not injure people or damage property",
+    "They must be held at night",
+    "They must be approved by a religious leader"
+   ],
+   "answer": 1,
+   "explain": "All protests must be within the law: peaceful, not injuring people or damaging property.",
+   "official": false,
+   "ref": "Australian Citizenship: Our Common Bond – Part 4: Australian values (Freedom of association)"
+  },
+  {
+   "id": "au-311",
+   "topic": "values",
+   "q": "Do religious laws have legal status in Australia?",
+   "options": [
+    "Yes, if both people agree",
+    "No, Australian law must be followed by everyone",
+    "Yes, for members of that religion",
+    "Yes, in family matters"
+   ],
+   "answer": 1,
+   "explain": "Religious laws have no legal status in Australia.",
+   "official": false,
+   "ref": "Australian Citizenship: Our Common Bond – Part 4: Australian values (Freedom of religion)"
+  },
+  {
+   "id": "au-312",
+   "topic": "values",
+   "q": "Is polygamy (being married to more than one person at the same time) legal in Australia?",
+   "options": [
+    "Yes, if all partners agree",
+    "No, it is against the law",
+    "Yes, in some states",
+    "Yes, if it is a religious practice"
+   ],
+   "answer": 1,
+   "explain": "Polygamy is against the law and can result in severe penalties.",
+   "official": false,
+   "ref": "Australian Citizenship: Our Common Bond – Part 4: Australian values (Freedom of religion)"
+  },
+  {
+   "id": "au-313",
+   "topic": "values",
+   "q": "Is forced marriage legal in Australia?",
+   "options": [
+    "No, it is against the law and can result in imprisonment",
+    "Yes, if the family agrees",
+    "Yes, if the couple is over 18",
+    "Yes, if it is a cultural tradition"
+   ],
+   "answer": 0,
+   "explain": "Forced marriage is illegal and can lead to severe penalties, including prison.",
+   "official": false,
+   "ref": "Australian Citizenship: Our Common Bond – Part 4: Australian values (Freedom of religion)"
+  },
+  {
+   "id": "au-314",
+   "topic": "values",
+   "q": "Is religious intolerance acceptable in Australian society?",
+   "options": [
+    "No",
+    "Yes, if it is your belief",
+    "Yes, towards minority religions",
+    "Yes, in private"
+   ],
+   "answer": 0,
+   "explain": "Religious intolerance is not acceptable in Australian society.",
+   "official": false,
+   "ref": "Australian Citizenship: Our Common Bond – Part 4: Australian values (Freedom of religion)"
+  },
+  {
+   "id": "au-315",
+   "topic": "values",
+   "q": "How does Australian law treat Buddhists compared with Christians?",
+   "options": [
+    "Exactly the same",
+    "It depends on the state",
+    "Buddhists receive preference",
+    "Christians receive preference"
+   ],
+   "answer": 0,
+   "explain": "People of all faiths receive the same treatment under the law.",
+   "official": false,
+   "ref": "Australian Citizenship: Our Common Bond – Part 4: Australian values (Equality of all people under the law)"
+  },
+  {
+   "id": "au-316",
+   "topic": "values",
+   "q": "Under Australian law, can two men or two women marry each other?",
+   "options": [
+    "No",
+    "Only overseas",
+    "Only in some states",
+    "Yes"
+   ],
+   "answer": 3,
+   "explain": "Under Australian law, two people can marry, including two men or two women.",
+   "official": false,
+   "ref": "Australian Citizenship: Our Common Bond – Part 4: Australian values (Equality of all people under the law)"
+  },
+  {
+   "id": "au-317",
+   "topic": "values",
+   "q": "Which of these rights do both men and women have in Australia?",
+   "options": [
+    "Only men can stand for parliament",
+    "Only men can join the police",
+    "Only women can apply for divorce",
+    "To vote, stand for parliament and join the Defence Force and police"
+   ],
+   "answer": 3,
+   "explain": "Men and women have equal access to education, employment, voting, parliament, the ADF and the police.",
+   "official": false,
+   "ref": "Australian Citizenship: Our Common Bond – Part 4: Australian values (Equality of all people under the law)"
+  },
+  {
+   "id": "au-318",
+   "topic": "values",
+   "q": "In Australia, can a woman get a job ahead of a man if she has better qualifications and skills?",
+   "options": [
+    "Yes, it is her right",
+    "Only if no man applies",
+    "Only in some jobs",
+    "No, men must be given priority"
+   ],
+   "answer": 0,
+   "explain": "It is a woman's right to get a job ahead of a man if she has better qualifications and skills.",
+   "official": false,
+   "ref": "Australian Citizenship: Our Common Bond – Part 4: Australian values (Equality of all people under the law)"
+  },
+  {
+   "id": "au-319",
+   "topic": "values",
+   "q": "Who can make independent choices about personal matters such as marriage and religion?",
+   "options": [
+    "Only religious leaders",
+    "Both men and women",
+    "Only parents",
+    "Only men"
+   ],
+   "answer": 1,
+   "explain": "Both men and women can make their own independent choices about personal matters.",
+   "official": false,
+   "ref": "Australian Citizenship: Our Common Bond – Part 4: Australian values (Equality of all people under the law)"
+  },
+  {
+   "id": "au-320",
+   "topic": "values",
+   "q": "Is physical violence against a spouse or partner ever acceptable in Australia?",
+   "options": [
+    "Yes, if it is a cultural practice",
+    "Yes, in private",
+    "No, it is a criminal offence",
+    "Yes, if the partner agrees"
+   ],
+   "answer": 2,
+   "explain": "Physical violence against a spouse or partner is never acceptable and is a criminal offence.",
+   "official": false,
+   "ref": "Australian Citizenship: Our Common Bond – Part 4: Australian values (Equality of all people under the law)"
+  },
+  {
+   "id": "au-321",
+   "topic": "values",
+   "q": "Is divorce acceptable in Australia?",
+   "options": [
+    "Yes, either a husband or a wife may apply",
+    "Only the husband may apply",
+    "Only with the family's permission",
+    "No, divorce is illegal"
+   ],
+   "answer": 0,
+   "explain": "Divorce is acceptable; either spouse may apply even if the other wants to stay married.",
+   "official": false,
+   "ref": "Australian Citizenship: Our Common Bond – Part 4: Australian values (Equality of all people under the law)"
+  },
+  {
+   "id": "au-322",
+   "topic": "values",
+   "q": "Can a wife apply for a divorce even if her husband wants to continue the marriage?",
+   "options": [
+    "No",
+    "Yes",
+    "Only with her family's agreement",
+    "Only after 20 years"
+   ],
+   "answer": 1,
+   "explain": "Either a husband or a wife may apply for divorce, even if the other spouse wishes to continue the marriage.",
+   "official": false,
+   "ref": "Australian Citizenship: Our Common Bond – Part 4: Australian values (Equality of all people under the law)"
+  },
+  {
+   "id": "au-323",
+   "topic": "values",
+   "q": "When an organisation fills a job, whom does the law support it in selecting?",
+   "options": [
+    "A relative of the manager",
+    "The person with the best skills and experience",
+    "The person from the largest ethnic group",
+    "The wealthiest applicant"
+   ],
+   "answer": 1,
+   "explain": "The law supports selecting the person with the best skills and experience.",
+   "official": false,
+   "ref": "Australian Citizenship: Our Common Bond – Part 4: Australian values (Equality of opportunity and a 'fair go')"
+  },
+  {
+   "id": "au-324",
+   "topic": "values",
+   "q": "What should a person's achievements in life be based on?",
+   "options": [
+    "Their hard work and talents",
+    "Their family's wealth",
+    "Their gender",
+    "Their ethnicity"
+   ],
+   "answer": 0,
+   "explain": "What someone achieves should result from their hard work and talents.",
+   "official": false,
+   "ref": "Australian Citizenship: Our Common Bond – Part 4: Australian values (Equality of opportunity and a 'fair go')"
+  },
+  {
+   "id": "au-325",
+   "topic": "values",
+   "q": "Should a person get a job because of their gender, wealth or ethnicity?",
+   "options": [
+    "Yes, gender should decide",
+    "No, it should be based on skills and experience",
+    "Yes, ethnicity should decide",
+    "Yes, wealth should decide"
+   ],
+   "answer": 1,
+   "explain": "Jobs should be given on skills and experience, not gender, wealth or ethnicity.",
+   "official": false,
+   "ref": "Australian Citizenship: Our Common Bond – Part 4: Australian values (Equality of opportunity and a 'fair go')"
+  },
+  {
+   "id": "au-326",
+   "topic": "values",
+   "q": "Is there a formal class system in Australian society?",
+   "options": [
+    "Yes, based on wealth",
+    "No; people should not be limited by class distinctions",
+    "Yes, based on religion",
+    "Yes, based on birthplace"
+   ],
+   "answer": 1,
+   "explain": "Australians believe everyone deserves a fair go, without class distinctions.",
+   "official": false,
+   "ref": "Australian Citizenship: Our Common Bond – Part 4: Australian values (Equality of opportunity and a 'fair go')"
+  },
+  {
+   "id": "au-327",
+   "topic": "values",
+   "q": "Is violence of any kind, including verbal and physical abuse, legal in Australia?",
+   "options": [
+    "No, it is illegal",
+    "Yes, within families",
+    "Yes, if provoked",
+    "Yes, verbal abuse is legal"
+   ],
+   "answer": 0,
+   "explain": "Violence of any kind, including verbal and physical abuse, is illegal.",
+   "official": false,
+   "ref": "Australian Citizenship: Our Common Bond – Part 4: Australian values (Mutual respect and tolerance)"
+  },
+  {
+   "id": "au-328",
+   "topic": "values",
+   "q": "How do Australians believe disagreements should be handled?",
+   "options": [
+    "By fighting",
+    "Peacefully, respecting the right of all to be safe from violence and intimidation",
+    "By threats",
+    "By ignoring the law"
+   ],
+   "answer": 1,
+   "explain": "Australians believe in peaceful disagreement and the right to be safe from violence and intimidation.",
+   "official": false,
+   "ref": "Australian Citizenship: Our Common Bond – Part 4: Australian values (Mutual respect and tolerance)"
+  },
+  {
+   "id": "au-329",
+   "topic": "values",
+   "q": "What is the age of sexual consent in Australia?",
+   "options": [
+    "14 in all states",
+    "16 or 17, depending on the state or territory",
+    "18 in all states",
+    "21 in all states"
+   ],
+   "answer": 1,
+   "explain": "The age of consent is 16 or 17 depending on the state or territory.",
+   "official": false,
+   "ref": "Australian Citizenship: Our Common Bond – Part 4: Australian values (Mutual respect and tolerance)"
+  },
+  {
+   "id": "au-330",
+   "topic": "values",
+   "q": "A 20-year-old man wants to have sexual relations with a 15-year-old girl. Is this legal in Australia?",
+   "options": [
+    "Yes, if her parents agree",
+    "Yes, if they are married",
+    "No, it is against the law in all states and territories",
+    "Yes, in some states"
+   ],
+   "answer": 2,
+   "explain": "It is illegal in all Australian states and territories.",
+   "official": false,
+   "ref": "Australian Citizenship: Our Common Bond – Part 4: Australian values (Mutual respect and tolerance)"
+  },
+  {
+   "id": "au-331",
+   "topic": "values",
+   "q": "Should you obey a lawful request from the police?",
+   "options": [
+    "Only if a lawyer is present",
+    "Only if you agree",
+    "Yes, because Australians commit to following the law",
+    "No, never"
+   ],
+   "answer": 2,
+   "explain": "Lawful actions of the police should be supported, and you should obey a lawful request.",
+   "official": false,
+   "ref": "Australian Citizenship: Our Common Bond – Part 4: Australian values (Mutual respect and tolerance)"
+  },
+  {
+   "id": "au-332",
+   "topic": "values",
+   "q": "What does mutual respect and tolerance mean?",
+   "options": [
+    "Listening to others and respecting their views even when they differ from yours",
+    "Agreeing with everyone",
+    "Only respecting people of your own culture",
+    "Avoiding people who are different"
+   ],
+   "answer": 0,
+   "explain": "It means listening to and respecting others' views and being tolerant where you disagree.",
+   "official": false,
+   "ref": "Australian Citizenship: Our Common Bond – Part 4: Australian values (Mutual respect and tolerance)"
+  },
+  {
+   "id": "au-333",
+   "topic": "values",
+   "q": "Is it acceptable to make racially abusive comments at a sporting event?",
+   "options": [
+    "No, racism has no place in Australia",
+    "Yes, if it is a joke",
+    "Yes, if the other team started it",
+    "Yes, it is part of sport"
+   ],
+   "answer": 0,
+   "explain": "Racism has no place in Australia, including racially abusive comments in public or at sporting events.",
+   "official": false,
+   "ref": "Australian Citizenship: Our Common Bond – Part 4: Australian values (Mutual respect and tolerance)"
+  },
+  {
+   "id": "au-334",
+   "topic": "values",
+   "q": "Is it acceptable to create or share racially offensive material on the internet?",
+   "options": [
+    "Yes, on private accounts",
+    "Yes, if it is anonymous",
+    "Yes, if it is a joke",
+    "No"
+   ],
+   "answer": 3,
+   "explain": "Creating or sharing racially offensive material online is unacceptable; racism has no place in Australia.",
+   "official": false,
+   "ref": "Australian Citizenship: Our Common Bond – Part 4: Australian values (Mutual respect and tolerance)"
+  },
+  {
+   "id": "au-335",
+   "topic": "values",
+   "q": "Where can incidents of racism be reported?",
+   "options": [
+    "To the police or the Australian Human Rights Commission",
+    "Only to a religious leader",
+    "Only to your employer",
+    "Nowhere; it must be ignored"
+   ],
+   "answer": 0,
+   "explain": "Racism should be reported to the police; complaints can also go to the Australian Human Rights Commission.",
+   "official": false,
+   "ref": "Australian Citizenship: Our Common Bond – Glossary of testable section (racism / Australian Human Rights Commission)"
+  },
+  {
+   "id": "au-336",
+   "topic": "values",
+   "q": "Australians expect everyone living in Australia to do what?",
+   "options": [
+    "Participate in society and make a contribution to the community",
+    "Keep away from the community",
+    "Rely on others for support",
+    "Stay out of politics"
+   ],
+   "answer": 0,
+   "explain": "Everyone is expected to participate and contribute to the community.",
+   "official": false,
+   "ref": "Australian Citizenship: Our Common Bond – Part 4: Australian values (Making a contribution)"
+  },
+  {
+   "id": "au-337",
+   "topic": "values",
+   "q": "Who has a responsibility to try to support themselves and their families when able to do so?",
+   "options": [
+    "Everyone",
+    "Only the government",
+    "Only citizens born in Australia",
+    "Only men"
+   ],
+   "answer": 0,
+   "explain": "Everyone has a responsibility to try to support themselves and their families when able.",
+   "official": false,
+   "ref": "Australian Citizenship: Our Common Bond – Part 4: Australian values (Making a contribution)"
+  },
+  {
+   "id": "au-338",
+   "topic": "values",
+   "q": "What is 'mateship'?",
+   "options": [
+    "Competing against your friends",
+    "Joining a political party",
+    "Working only for money",
+    "Helping each other, especially in times of need"
+   ],
+   "answer": 3,
+   "explain": "Mateship means helping and receiving help from others, especially in difficult times.",
+   "official": false,
+   "ref": "Australian Citizenship: Our Common Bond – Part 4: Australian values (Compassion for those in need)"
+  },
+  {
+   "id": "au-339",
+   "topic": "values",
+   "q": "Which of these is an example of mateship?",
+   "options": [
+    "Driving a friend to a medical appointment",
+    "Refusing to help in a bushfire",
+    "Ignoring a sick neighbour",
+    "Only helping family members"
+   ],
+   "answer": 0,
+   "explain": "Examples include taking a meal to an elderly neighbour or driving a friend to a medical appointment.",
+   "official": false,
+   "ref": "Australian Citizenship: Our Common Bond – Part 4: Australian values (Compassion for those in need)"
+  },
+  {
+   "id": "au-340",
+   "topic": "values",
+   "q": "What does volunteering offer people in Australia?",
+   "options": [
+    "Automatic citizenship",
+    "A guaranteed government job",
+    "A chance to share knowledge, learn skills and feel part of the community",
+    "Exemption from tax"
+   ],
+   "answer": 2,
+   "explain": "Volunteering helps people share knowledge, learn skills and integrate into the community.",
+   "official": false,
+   "ref": "Australian Citizenship: Our Common Bond – Part 4: Australian values (Compassion for those in need)"
+  },
+  {
+   "id": "au-341",
+   "topic": "values",
+   "q": "What is a volunteer?",
+   "options": [
+    "A paid public servant",
+    "A police officer",
+    "A person who gives their time without expecting payment",
+    "A member of the jury"
+   ],
+   "answer": 2,
+   "explain": "A volunteer gives time to a person or organisation without payment.",
+   "official": false,
+   "ref": "Australian Citizenship: Our Common Bond – Glossary of testable section (volunteer)"
+  },
+  {
+   "id": "au-342",
+   "topic": "values",
+   "q": "How do Australians respond in times of crisis such as bushfires?",
+   "options": [
+    "They come together and help each other",
+    "They avoid each other",
+    "They leave it all to the government",
+    "They only help their own ethnic group"
+   ],
+   "answer": 0,
+   "explain": "During the 2019-20 bushfires, many communities collected donations to help those affected.",
+   "official": false,
+   "ref": "Australian Citizenship: Our Common Bond – Part 4: Australian values (Our community)"
+  },
+  {
+   "id": "au-343",
+   "topic": "values",
+   "q": "How does Australian society view the English language?",
+   "options": [
+    "As optional for everyone",
+    "As less important than other languages",
+    "As a language only for government",
+    "As the national language and an important unifying element"
+   ],
+   "answer": 3,
+   "explain": "English is the national language and an important unifying element of society.",
+   "official": false,
+   "ref": "Australian Citizenship: Our Common Bond – Part 4: Australian values (English as the national language)"
+  },
+  {
+   "id": "au-344",
+   "topic": "values",
+   "q": "Why is it important to learn English in Australia?",
+   "options": [
+    "It is required to own a car",
+    "It is required to use a hospital",
+    "It helps you get an education and a job and integrate into the community",
+    "It is needed to practise religion"
+   ],
+   "answer": 2,
+   "explain": "English helps with education, employment and integration and is essential for social cohesion.",
+   "official": false,
+   "ref": "Australian Citizenship: Our Common Bond – Part 4: Australian values (English as the national language)"
+  },
+  {
+   "id": "au-345",
+   "topic": "values",
+   "q": "What must applicants for Australian citizenship undertake to do if English is not their native language?",
+   "options": [
+    "Make reasonable efforts to learn English",
+    "Pass a university English course",
+    "Only speak English at home",
+    "Stop speaking their own language"
+   ],
+   "answer": 0,
+   "explain": "Applicants must undertake to make reasonable efforts to learn English.",
+   "official": false,
+   "ref": "Australian Citizenship: Our Common Bond – Part 4: Australian values (English as the national language)"
+  },
+  {
+   "id": "au-346",
+   "topic": "values",
+   "q": "If you suspect a neighbour is planning a serious crime, what should you do?",
+   "options": [
+    "Ignore it",
+    "Report it to Australian government authorities as soon as possible",
+    "Warn the neighbour",
+    "Deal with it yourself"
+   ],
+   "answer": 1,
+   "explain": "You should report suspected serious crimes to authorities as soon as possible.",
+   "official": false,
+   "ref": "Australian Citizenship: Our Common Bond – Part 4: Australian values (Helping to keep our society safe)"
+  },
+  {
+   "id": "au-347",
+   "topic": "values",
+   "q": "If you see or know of a child being abused, what should you do?",
+   "options": [
+    "Do nothing",
+    "Keep it within the family",
+    "Post about it on social media",
+    "Report it to the police"
+   ],
+   "answer": 3,
+   "explain": "Child abuse should be reported to the police to investigate.",
+   "official": false,
+   "ref": "Australian Citizenship: Our Common Bond – Part 4: Australian values (Helping to keep our society safe)"
+  },
+  {
+   "id": "au-348",
+   "topic": "values",
+   "q": "What is cyber abuse?",
+   "options": [
+    "Shopping online",
+    "Using technology to threaten, intimidate, harass or humiliate someone",
+    "Using the internet to pay bills",
+    "Sending emails to your MP"
+   ],
+   "answer": 1,
+   "explain": "Cyber abuse is behaviour using technology to threaten, harass or humiliate; many forms are illegal.",
+   "official": false,
+   "ref": "Australian Citizenship: Our Common Bond – Part 4: Australian values (Helping to keep our society safe) / Glossary"
+  },
+  {
+   "id": "au-349",
+   "topic": "values",
+   "q": "Which of these is an example of cyber abuse?",
+   "options": [
+    "Posting a holiday photo of yourself",
+    "Sharing sexual photos of someone online without their consent",
+    "Sending a birthday message",
+    "Joining an online study group"
+   ],
+   "answer": 1,
+   "explain": "Sharing sexual images without consent, online stalking and racist abuse online are examples of cyber abuse.",
+   "official": false,
+   "ref": "Australian Citizenship: Our Common Bond – Part 4: Australian values (Helping to keep our society safe)"
+  },
+  {
+   "id": "au-350",
+   "topic": "values",
+   "q": "Is online abuse accepted in Australia?",
+   "options": [
+    "Yes, if anonymous",
+    "Yes, online speech has no limits",
+    "No, and many forms are illegal",
+    "Only between adults"
+   ],
+   "answer": 2,
+   "explain": "Online abuse is not accepted, and many forms are illegal.",
+   "official": false,
+   "ref": "Australian Citizenship: Our Common Bond – Part 4: Australian values (Helping to keep our society safe)"
+  },
+  {
+   "id": "au-351",
+   "topic": "values",
+   "q": "Can an Australian citizen hold citizenship of another country?",
+   "options": [
+    "Only for ten years",
+    "Yes, if the laws of the other country allow it",
+    "Only if born in Australia",
+    "No, never"
+   ],
+   "answer": 1,
+   "explain": "Dual or multiple citizenship is possible if the other country's laws allow it.",
+   "official": false,
+   "ref": "Australian Citizenship: Our Common Bond – Part 4: Australian values (Loyalty to Australia)"
+  },
+  {
+   "id": "au-352",
+   "topic": "values",
+   "q": "Must a dual citizen in Australia obey all Australian laws?",
+   "options": [
+    "No, they can choose which country's laws to follow",
+    "Yes, at all times",
+    "Only if they were born in Australia",
+    "Only on weekdays"
+   ],
+   "answer": 1,
+   "explain": "Even dual citizens in Australia must follow all Australian laws at all times.",
+   "official": false,
+   "ref": "Australian Citizenship: Our Common Bond – Part 4: Australian values (Loyalty to Australia)"
+  },
+  {
+   "id": "au-353",
+   "topic": "values",
+   "q": "Do some Australian laws apply to Australian citizens even when they are overseas?",
+   "options": [
+    "Yes, for example laws against sexual activity with a child under 16",
+    "Only tax laws",
+    "No, Australian law never applies overseas",
+    "Only traffic laws"
+   ],
+   "answer": 0,
+   "explain": "Some laws apply overseas; it is illegal for Australians to engage in sexual activity with a child under 16 anywhere.",
+   "official": false,
+   "ref": "Australian Citizenship: Our Common Bond – Part 4: Australian values (Loyalty to Australia)"
+  },
+  {
+   "id": "au-354",
+   "topic": "values",
+   "q": "Which of these would undermine Australia's interests?",
+   "options": [
+    "Voting in an election",
+    "Paying taxes",
+    "Using social media to share official government secrets",
+    "Volunteering"
+   ],
+   "answer": 2,
+   "explain": "Sharing official government secrets on social media undermines Australia's interests.",
+   "official": false,
+   "ref": "Australian Citizenship: Our Common Bond – Part 4: Australian values (Loyalty to Australia)"
+  },
+  {
+   "id": "au-355",
+   "topic": "values",
+   "q": "Which of these would damage Australian community relations?",
+   "options": [
+    "Attending a cultural festival",
+    "Helping a neighbour",
+    "Promoting distrust and fear of an ethnic community",
+    "Learning another language"
+   ],
+   "answer": 2,
+   "explain": "Promoting distrust of an ethnic community damages community relations.",
+   "official": false,
+   "ref": "Australian Citizenship: Our Common Bond – Part 4: Australian values (Loyalty to Australia)"
+  },
+  {
+   "id": "au-356",
+   "topic": "values",
+   "q": "In the citizenship pledge, to whom do Australian citizens pledge loyalty?",
+   "options": [
+    "A political party",
+    "Australia and its people",
+    "Their country of birth",
+    "A religious leader"
+   ],
+   "answer": 1,
+   "explain": "Citizens pledge loyalty to Australia and its people.",
+   "official": false,
+   "ref": "Australian Citizenship: Our Common Bond – Part 4: Australian values (Loyalty to Australia)"
+  },
+  {
+   "id": "au-357",
+   "topic": "values",
+   "q": "Should all people in Australia be given equal opportunity to pursue their goals regardless of ethnicity or religion?",
+   "options": [
+    "No, only the majority religion",
+    "No, only citizens",
+    "Yes, as long as they obey Australian law",
+    "Only people born in Australia"
+   ],
+   "answer": 2,
+   "explain": "All people should have equal opportunity regardless of ethnicity or religion, as long as they obey the law.",
+   "official": false,
+   "ref": "Australian Citizenship: Our Common Bond – Part 4: Australian values (Freedom of religion)"
+  },
+  {
+   "id": "au-358",
+   "topic": "values",
+   "q": "What must religious practices in Australia not do?",
+   "options": [
+    "Take place in public",
+    "Include prayer",
+    "Include music",
+    "Break Australian laws"
+   ],
+   "answer": 3,
+   "explain": "Religious practices must not break Australian laws.",
+   "official": false,
+   "ref": "Australian Citizenship: Our Common Bond – Part 4: Australian values (Freedom of religion)"
+  },
+  {
+   "id": "au-359",
+   "topic": "values",
+   "q": "Is it a right of people in Australia to be safe from violence and intimidation?",
+   "options": [
+    "Yes",
+    "No",
+    "Only in public places",
+    "Only for citizens"
+   ],
+   "answer": 0,
+   "explain": "Australians believe above all in the right to be safe and free from violence and intimidation.",
+   "official": false,
+   "ref": "Australian Citizenship: Our Common Bond – Part 4: Australian values (Mutual respect and tolerance)"
+  },
+  {
+   "id": "au-360",
+   "topic": "values",
+   "q": "Which values are a reason so many people want to become Australian citizens?",
+   "options": [
+    "A single national religion",
+    "Low taxes",
+    "Australian values that define and shape the country",
+    "Hot weather only"
+   ],
+   "answer": 2,
+   "explain": "The guide states Australian values define the country and are a reason people want to become citizens.",
+   "official": false,
+   "ref": "Australian Citizenship: Our Common Bond – Part 4: Australian values"
+  },
+  {
+   "id": "au-361",
+   "topic": "values",
+   "q": "What does Australian citizenship ask you to do with Australian values?",
+   "options": [
+    "Respect, share and uphold them in everyday life",
+    "Follow them only when in public",
+    "Keep them only in mind during ceremonies",
+    "Replace them with your own laws"
+   ],
+   "answer": 0,
+   "explain": "Citizenship is about living out these values in everyday life and in your community.",
+   "official": false,
+   "ref": "Australian Citizenship: Our Common Bond – Part 4: Australian values"
+  },
+  {
+   "id": "au-362",
+   "topic": "values",
+   "q": "Is it acceptable to discriminate against someone at work because they are a woman?",
+   "options": [
+    "Yes, in private companies",
+    "Yes, in some industries",
+    "Yes, if it is a tradition",
+    "No, it is against the law"
+   ],
+   "answer": 3,
+   "explain": "It is against the law to discriminate against a person because of their gender.",
+   "official": false,
+   "ref": "Australian Citizenship: Our Common Bond – Part 4: Australian values (Equality of all people under the law)"
+  },
+  {
+   "id": "au-363",
+   "topic": "values",
+   "q": "How are people from different backgrounds treated under Australian law?",
+   "options": [
+    "The majority group receives preference",
+    "Neither given preferential treatment nor discriminated against",
+    "Citizens by birth receive more rights",
+    "New migrants receive fewer rights"
+   ],
+   "answer": 1,
+   "explain": "The law ensures people from different backgrounds are neither preferred nor discriminated against.",
+   "official": false,
+   "ref": "Australian Citizenship: Our Common Bond – Part 4: Australian values (Equality of all people under the law)"
+  },
+  {
+   "id": "au-364",
+   "topic": "values",
+   "q": "Are Australians free to join or leave any lawful group voluntarily?",
+   "options": [
+    "Only with government permission",
+    "Only political parties",
+    "No, membership is for life",
+    "Yes"
+   ],
+   "answer": 3,
+   "explain": "People are free to join or leave any group voluntarily, within the law.",
+   "official": false,
+   "ref": "Australian Citizenship: Our Common Bond – Part 4: Australian values (Freedom of association)"
+  },
+  {
+   "id": "au-365",
+   "topic": "values",
+   "q": "Must other people's freedom of speech be respected, as long as their expression is lawful?",
+   "options": [
+    "No, only your own freedom matters",
+    "Only if they are citizens",
+    "Yes",
+    "Only if you agree with them"
+   ],
+   "answer": 2,
+   "explain": "Other people's lawful freedom of speech and expression must be respected.",
+   "official": false,
+   "ref": "Australian Citizenship: Our Common Bond – Part 4: Australian values (Freedom of speech)"
+  },
+  {
+   "id": "au-366",
+   "topic": "values",
+   "q": "Many new migrants have become leaders in business, the arts and sport. According to the guide, how did they achieve this?",
+   "options": [
+    "Through their family connections",
+    "Through government favouritism",
+    "Through hard work and enterprise",
+    "Through their wealth alone"
+   ],
+   "answer": 2,
+   "explain": "Many migrants have become leaders through hard work and enterprise.",
+   "official": false,
+   "ref": "Australian Citizenship: Our Common Bond – Part 4: Australian values (Equality of opportunity and a 'fair go')"
+  },
+  {
+   "id": "au-367",
+   "topic": "values",
+   "q": "If a person's cultural practice is different from Australian law, what must they do?",
+   "options": [
+    "Choose whichever they prefer",
+    "Follow Australian law",
+    "Follow their cultural practice",
+    "Ask a religious leader to decide"
+   ],
+   "answer": 1,
+   "explain": "Regardless of background or culture, you must follow Australian laws.",
+   "official": false,
+   "ref": "Australian Citizenship: Our Common Bond – Part 4: Australian values"
+  }
+ ],
+ "version": 1
+}

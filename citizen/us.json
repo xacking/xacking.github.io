@@ -1,0 +1,2011 @@
+{
+ "code": "us",
+ "test": "U.S. Naturalization Civics Test",
+ "edition": "2025 civics test (128 questions) — for Form N-400 applications filed on or after October 20, 2025; still the current version in October 2026. Applicants who filed before October 20, 2025 take the 2008 civics test (100 questions).",
+ "language": "en",
+ "exam": {
+  "questions": 20,
+  "passMark": 12,
+  "minutes": null,
+  "rules": "The civics test is an oral test given by a USCIS officer at the naturalization interview. For applications filed on or after October 20, 2025, the officer asks up to 20 of the 128 official questions and you must answer 12 correctly; the officer stops once you have 12 correct or 9 incorrect answers. Questions about office holders (President, Vice President, Speaker, Chief Justice) must be answered with the person serving at the time of your interview, and some questions depend on where you live (your senators, representative, governor and state capital). If you are 65 or older and have been a lawful permanent resident for 20 or more years (65/20 special consideration), you study only the 20 starred questions, may take the test in your language, are asked 10 of them and need 6 correct. Applicants who filed before October 20, 2025 take the 2008 test instead (up to 10 of 100 questions, 6 correct to pass). If you fail, you get one retest, usually 60–90 days later."
+ },
+ "sources": [
+  {
+   "title": "128 Civics Questions and Answers (2025 version), USCIS form M-1778 (09/25)",
+   "url": "https://www.uscis.gov/sites/default/files/document/questions-and-answers/2025-Civics-Test-128-Questions-and-Answers.pdf",
+   "licence": "U.S. federal government work — public domain (17 U.S.C. §105)",
+   "note": "Official question bank and accepted answers; all 128 questions, answer keys and 65/20 asterisks taken from it."
+  },
+  {
+   "title": "Notice of Implementation of 2025 Naturalization Civics Test, Federal Register 2025-18050 (Sept. 18, 2025)",
+   "url": "https://www.federalregister.gov/documents/2025/09/18/2025-18050/notice-of-implementation-of-2025-naturalization-civics-test",
+   "licence": "U.S. federal government work — public domain",
+   "note": "Effective date (filed on/after Oct 20, 2025), 20 questions / 12 correct / stop at 9 wrong, 65/20 rules, 2008 test for earlier filings."
+  },
+  {
+   "title": "USCIS Civics Test Updates",
+   "url": "https://www.uscis.gov/citizenship/testupdates",
+   "licence": "U.S. federal government work — public domain",
+   "note": "Official source for current office-holder answers (President, Vice President, Speaker, Chief Justice); verified with news coverage as of October 2026."
+  },
+  {
+   "title": "100 Civics Questions and Answers (2008 version)",
+   "url": "https://www.uscis.gov/sites/default/files/document/questions-and-answers/100q.pdf",
+   "licence": "U.S. federal government work — public domain",
+   "note": "Older test still used for applications filed before Oct 20, 2025; not included in this bank."
+  }
+ ],
+ "topics": [
+  {
+   "id": "principles",
+   "title": "Principles of American Government"
+  },
+  {
+   "id": "system",
+   "title": "System of Government"
+  },
+  {
+   "id": "rights",
+   "title": "Rights and Responsibilities"
+  },
+  {
+   "id": "colonial",
+   "title": "Colonial Period and Independence"
+  },
+  {
+   "id": "1800s",
+   "title": "1800s"
+  },
+  {
+   "id": "recent",
+   "title": "Recent American History and Other Important Historical Information"
+  },
+  {
+   "id": "symbols",
+   "title": "Symbols and Holidays"
+  }
+ ],
+ "questions": [
+  {
+   "id": "us-001",
+   "topic": "principles",
+   "q": "What is the form of government of the United States?",
+   "options": [
+    "Monarchy",
+    "Republic",
+    "Confederation of independent states",
+    "Direct democracy"
+   ],
+   "answer": 1,
+   "explain": "The United States is a republic. Also accepted: constitution-based federal republic; representative democracy.",
+   "official": true,
+   "ref": "USCIS M-1778 (09/25) 128 Civics Questions and Answers (2025 version), American Government, A: Principles of American Government, question 1"
+  },
+  {
+   "id": "us-002",
+   "topic": "principles",
+   "q": "What is the supreme law of the land?",
+   "options": [
+    "Presidential executive orders",
+    "The U.S. Constitution",
+    "The Articles of Confederation",
+    "The Declaration of Independence"
+   ],
+   "answer": 1,
+   "explain": "The (U.S.) Constitution is the supreme law of the land.",
+   "official": true,
+   "ref": "USCIS M-1778 (09/25) 128 Civics Questions and Answers (2025 version), American Government, A: Principles of American Government, question 2 (* 65/20)",
+   "special6520": true
+  },
+  {
+   "id": "us-003",
+   "topic": "principles",
+   "q": "Name one thing the U.S. Constitution does.",
+   "options": [
+    "Declares independence from Britain",
+    "Sets the federal budget each year",
+    "Defines the powers of government",
+    "Elects the President"
+   ],
+   "answer": 2,
+   "explain": "Accepted answers: forms the government; defines powers of government; defines the parts of government; protects the rights of the people.",
+   "official": true,
+   "ref": "USCIS M-1778 (09/25) 128 Civics Questions and Answers (2025 version), American Government, A: Principles of American Government, question 3"
+  },
+  {
+   "id": "us-004",
+   "topic": "principles",
+   "q": "The U.S. Constitution starts with the words “We the People.” What does “We the People” mean?",
+   "options": [
+    "Rule by a king",
+    "Government by the states only",
+    "Rule by the military",
+    "Self-government"
+   ],
+   "answer": 3,
+   "explain": "“We the People” means the people govern themselves. Also accepted: popular sovereignty; consent of the governed; people should govern themselves; (example of) social contract.",
+   "official": true,
+   "ref": "USCIS M-1778 (09/25) 128 Civics Questions and Answers (2025 version), American Government, A: Principles of American Government, question 4"
+  },
+  {
+   "id": "us-005",
+   "topic": "principles",
+   "q": "How are changes made to the U.S. Constitution?",
+   "options": [
+    "Treaties",
+    "Executive orders",
+    "Supreme Court decisions",
+    "Amendments"
+   ],
+   "answer": 3,
+   "explain": "The Constitution is changed through amendments. Also accepted: the amendment process.",
+   "official": true,
+   "ref": "USCIS M-1778 (09/25) 128 Civics Questions and Answers (2025 version), American Government, A: Principles of American Government, question 5"
+  },
+  {
+   "id": "us-006",
+   "topic": "principles",
+   "q": "What does the Bill of Rights protect?",
+   "options": [
+    "The basic rights of Americans",
+    "The power of Congress to collect taxes",
+    "The power of the President",
+    "The authority of the military"
+   ],
+   "answer": 0,
+   "explain": "The Bill of Rights protects the basic rights of Americans. Also accepted: the basic rights of people living in the United States.",
+   "official": true,
+   "ref": "USCIS M-1778 (09/25) 128 Civics Questions and Answers (2025 version), American Government, A: Principles of American Government, question 6"
+  },
+  {
+   "id": "us-007",
+   "topic": "principles",
+   "q": "How many amendments does the U.S. Constitution have?",
+   "options": [
+    "Ten (10)",
+    "Twenty-five (25)",
+    "Thirty-three (33)",
+    "Twenty-seven (27)"
+   ],
+   "answer": 3,
+   "explain": "The Constitution has 27 amendments. (The first 10 are the Bill of Rights.)",
+   "official": true,
+   "ref": "USCIS M-1778 (09/25) 128 Civics Questions and Answers (2025 version), American Government, A: Principles of American Government, question 7 (* 65/20)",
+   "special6520": true
+  },
+  {
+   "id": "us-008",
+   "topic": "principles",
+   "q": "Why is the Declaration of Independence important?",
+   "options": [
+    "It says America is free from British control.",
+    "It ended the Civil War.",
+    "It established the Supreme Court.",
+    "It created the three branches of government."
+   ],
+   "answer": 0,
+   "explain": "Also accepted: it says all people are created equal; it identifies inherent rights; it identifies individual freedoms.",
+   "official": true,
+   "ref": "USCIS M-1778 (09/25) 128 Civics Questions and Answers (2025 version), American Government, A: Principles of American Government, question 8"
+  },
+  {
+   "id": "us-009",
+   "topic": "principles",
+   "q": "What founding document said the American colonies were free from Britain?",
+   "options": [
+    "Mayflower Compact",
+    "Emancipation Proclamation",
+    "U.S. Constitution",
+    "Declaration of Independence"
+   ],
+   "answer": 3,
+   "explain": "The Declaration of Independence (1776) said the colonies were free from Britain.",
+   "official": true,
+   "ref": "USCIS M-1778 (09/25) 128 Civics Questions and Answers (2025 version), American Government, A: Principles of American Government, question 9"
+  },
+  {
+   "id": "us-010",
+   "topic": "principles",
+   "q": "Name two important ideas from the Declaration of Independence and the U.S. Constitution.",
+   "options": [
+    "Liberty and unlimited government",
+    "Monarchy and aristocracy",
+    "Liberty and equality",
+    "Equality and a state religion"
+   ],
+   "answer": 2,
+   "explain": "Accepted answers: equality; liberty; social contract; natural rights; limited government; self-government.",
+   "official": true,
+   "ref": "USCIS M-1778 (09/25) 128 Civics Questions and Answers (2025 version), American Government, A: Principles of American Government, question 10"
+  },
+  {
+   "id": "us-011",
+   "topic": "principles",
+   "q": "The words “Life, Liberty, and the pursuit of Happiness” are in what founding document?",
+   "options": [
+    "Bill of Rights",
+    "Federalist Papers",
+    "Declaration of Independence",
+    "U.S. Constitution"
+   ],
+   "answer": 2,
+   "explain": "These words are in the Declaration of Independence.",
+   "official": true,
+   "ref": "USCIS M-1778 (09/25) 128 Civics Questions and Answers (2025 version), American Government, A: Principles of American Government, question 11"
+  },
+  {
+   "id": "us-012",
+   "topic": "principles",
+   "q": "What is the economic system of the United States?",
+   "options": [
+    "Socialism",
+    "Communism",
+    "Capitalism",
+    "Feudalism"
+   ],
+   "answer": 2,
+   "explain": "The U.S. economic system is capitalism. Also accepted: free market economy.",
+   "official": true,
+   "ref": "USCIS M-1778 (09/25) 128 Civics Questions and Answers (2025 version), American Government, A: Principles of American Government, question 12 (* 65/20)",
+   "special6520": true
+  },
+  {
+   "id": "us-013",
+   "topic": "principles",
+   "q": "What is the rule of law?",
+   "options": [
+    "Laws apply only to citizens.",
+    "The President can overrule any court.",
+    "Only judges must follow the law.",
+    "No one is above the law."
+   ],
+   "answer": 3,
+   "explain": "Also accepted: everyone must follow the law; leaders must obey the law; government must obey the law.",
+   "official": true,
+   "ref": "USCIS M-1778 (09/25) 128 Civics Questions and Answers (2025 version), American Government, A: Principles of American Government, question 13"
+  },
+  {
+   "id": "us-014",
+   "topic": "principles",
+   "q": "Many documents influenced the U.S. Constitution. Name one.",
+   "options": [
+    "Articles of Confederation",
+    "Emancipation Proclamation",
+    "Gettysburg Address",
+    "Monroe Doctrine"
+   ],
+   "answer": 0,
+   "explain": "Also accepted: Declaration of Independence; Federalist Papers; Anti-Federalist Papers; Virginia Declaration of Rights; Fundamental Orders of Connecticut; Mayflower Compact; Iroquois Great Law of Peace.",
+   "official": true,
+   "ref": "USCIS M-1778 (09/25) 128 Civics Questions and Answers (2025 version), American Government, A: Principles of American Government, question 14"
+  },
+  {
+   "id": "us-015",
+   "topic": "principles",
+   "q": "There are three branches of government. Why?",
+   "options": [
+    "So laws can be passed faster",
+    "So the President can choose which branch to use",
+    "So each state can have its own branch",
+    "So one part does not become too powerful"
+   ],
+   "answer": 3,
+   "explain": "Also accepted: checks and balances; separation of powers.",
+   "official": true,
+   "ref": "USCIS M-1778 (09/25) 128 Civics Questions and Answers (2025 version), American Government, A: Principles of American Government, question 15"
+  },
+  {
+   "id": "us-016",
+   "topic": "system",
+   "q": "Name the three branches of government.",
+   "options": [
+    "Federal, state, and local",
+    "Army, Navy, and Air Force",
+    "Legislative, executive, and judicial",
+    "Senate, House, and Cabinet"
+   ],
+   "answer": 2,
+   "explain": "Also accepted: Congress, president, and the courts.",
+   "official": true,
+   "ref": "USCIS M-1778 (09/25) 128 Civics Questions and Answers (2025 version), American Government, B: System of Government, question 16"
+  },
+  {
+   "id": "us-017",
+   "topic": "system",
+   "q": "The President of the United States is in charge of which branch of government?",
+   "options": [
+    "Legislative branch",
+    "Executive branch",
+    "Judicial branch",
+    "Military branch"
+   ],
+   "answer": 1,
+   "explain": "The President leads the executive branch.",
+   "official": true,
+   "ref": "USCIS M-1778 (09/25) 128 Civics Questions and Answers (2025 version), American Government, B: System of Government, question 17"
+  },
+  {
+   "id": "us-018",
+   "topic": "system",
+   "q": "What part of the federal government writes laws?",
+   "options": [
+    "Congress",
+    "The Supreme Court",
+    "The Cabinet",
+    "The President"
+   ],
+   "answer": 0,
+   "explain": "Also accepted: (U.S. or national) legislature; legislative branch.",
+   "official": true,
+   "ref": "USCIS M-1778 (09/25) 128 Civics Questions and Answers (2025 version), American Government, B: System of Government, question 18"
+  },
+  {
+   "id": "us-019",
+   "topic": "system",
+   "q": "What are the two parts of the U.S. Congress?",
+   "options": [
+    "The Senate and the House of Representatives",
+    "The Senate and the Supreme Court",
+    "The President and the Vice President",
+    "The House of Representatives and the Cabinet"
+   ],
+   "answer": 0,
+   "explain": "Congress is made up of the Senate and the House (of Representatives).",
+   "official": true,
+   "ref": "USCIS M-1778 (09/25) 128 Civics Questions and Answers (2025 version), American Government, B: System of Government, question 19"
+  },
+  {
+   "id": "us-020",
+   "topic": "system",
+   "q": "Name one power of the U.S. Congress.",
+   "options": [
+    "Appoints federal judges",
+    "Vetoes bills",
+    "Serves as Commander in Chief",
+    "Declares war"
+   ],
+   "answer": 3,
+   "explain": "Accepted answers: writes laws; declares war; makes the federal budget. Vetoing bills, appointing judges and commanding the military are powers of the President.",
+   "official": true,
+   "ref": "USCIS M-1778 (09/25) 128 Civics Questions and Answers (2025 version), American Government, B: System of Government, question 20 (* 65/20)",
+   "special6520": true
+  },
+  {
+   "id": "us-021",
+   "topic": "system",
+   "q": "How many U.S. senators are there?",
+   "options": [
+    "Four hundred thirty-five (435)",
+    "Five hundred thirty-five (535)",
+    "Fifty (50)",
+    "One hundred (100)"
+   ],
+   "answer": 3,
+   "explain": "There are 100 U.S. senators: two from each of the 50 states.",
+   "official": true,
+   "ref": "USCIS M-1778 (09/25) 128 Civics Questions and Answers (2025 version), American Government, B: System of Government, question 21"
+  },
+  {
+   "id": "us-022",
+   "topic": "system",
+   "q": "How long is a term for a U.S. senator?",
+   "options": [
+    "Two (2) years",
+    "Six (6) years",
+    "Four (4) years",
+    "Eight (8) years"
+   ],
+   "answer": 1,
+   "explain": "A U.S. senator is elected for a six-year term.",
+   "official": true,
+   "ref": "USCIS M-1778 (09/25) 128 Civics Questions and Answers (2025 version), American Government, B: System of Government, question 22"
+  },
+  {
+   "id": "us-023",
+   "topic": "system",
+   "q": "Official question 23 asks: “Who is one of your state’s U.S. senators now?” Which answer does USCIS accept?",
+   "options": [
+    "The name of either of the two U.S. senators who currently represent your state",
+    "The name of your U.S. representative",
+    "The name of your state’s governor",
+    "The name of any U.S. senator from any state"
+   ],
+   "answer": 0,
+   "explain": "The answer depends on where you live, so learn the names of your state’s two current senators (senate.gov). D.C. residents and residents of U.S. territories should answer that D.C. (or their territory) has no U.S. senators.",
+   "official": false,
+   "ref": "USCIS M-1778 (09/25) 128 Civics Questions and Answers (2025 version), American Government, B: System of Government, question 23 — rewritten: the official answer depends on where the applicant lives"
+  },
+  {
+   "id": "us-024",
+   "topic": "system",
+   "q": "How many voting members are in the House of Representatives?",
+   "options": [
+    "Five hundred thirty-eight (538)",
+    "Fifty (50)",
+    "One hundred (100)",
+    "Four hundred thirty-five (435)"
+   ],
+   "answer": 3,
+   "explain": "The House has 435 voting members.",
+   "official": true,
+   "ref": "USCIS M-1778 (09/25) 128 Civics Questions and Answers (2025 version), American Government, B: System of Government, question 24"
+  },
+  {
+   "id": "us-025",
+   "topic": "system",
+   "q": "How long is a term for a member of the House of Representatives?",
+   "options": [
+    "Four (4) years",
+    "One (1) year",
+    "Two (2) years",
+    "Six (6) years"
+   ],
+   "answer": 2,
+   "explain": "Members of the House are elected for two-year terms.",
+   "official": true,
+   "ref": "USCIS M-1778 (09/25) 128 Civics Questions and Answers (2025 version), American Government, B: System of Government, question 25"
+  },
+  {
+   "id": "us-026",
+   "topic": "system",
+   "q": "Why do U.S. representatives serve shorter terms than U.S. senators?",
+   "options": [
+    "To more closely follow public opinion",
+    "Because the Constitution limits them to one term",
+    "Because the House has fewer members than the Senate",
+    "Because representatives are appointed, not elected"
+   ],
+   "answer": 0,
+   "explain": "Short two-year terms make representatives face voters often, so they more closely follow public opinion.",
+   "official": true,
+   "ref": "USCIS M-1778 (09/25) 128 Civics Questions and Answers (2025 version), American Government, B: System of Government, question 26"
+  },
+  {
+   "id": "us-027",
+   "topic": "system",
+   "q": "How many senators does each state have?",
+   "options": [
+    "Four (4)",
+    "It depends on the state’s population",
+    "One (1)",
+    "Two (2)"
+   ],
+   "answer": 3,
+   "explain": "Every state has two senators. (The number of representatives, not senators, depends on population.)",
+   "official": true,
+   "ref": "USCIS M-1778 (09/25) 128 Civics Questions and Answers (2025 version), American Government, B: System of Government, question 27"
+  },
+  {
+   "id": "us-028",
+   "topic": "system",
+   "q": "Why does each state have two senators?",
+   "options": [
+    "Because each state has two political parties",
+    "To give the President two advisors from each state",
+    "Equal representation for small states",
+    "Because states with more people need more senators"
+   ],
+   "answer": 2,
+   "explain": "Also accepted: the Great Compromise (Connecticut Compromise).",
+   "official": true,
+   "ref": "USCIS M-1778 (09/25) 128 Civics Questions and Answers (2025 version), American Government, B: System of Government, question 28"
+  },
+  {
+   "id": "us-029",
+   "topic": "system",
+   "q": "Official question 29 asks: “Name your U.S. representative.” Which answer does USCIS accept?",
+   "options": [
+    "The name of the member of the House who currently represents your congressional district",
+    "The name of the Speaker of the House",
+    "The name of one of your state’s U.S. senators",
+    "The name of your representative in the state legislature"
+   ],
+   "answer": 0,
+   "explain": "The answer depends on where you live; find your representative at house.gov. Residents of territories with a nonvoting Delegate or Resident Commissioner may name that person, or say the territory has no (voting) representatives in Congress.",
+   "official": false,
+   "ref": "USCIS M-1778 (09/25) 128 Civics Questions and Answers (2025 version), American Government, B: System of Government, question 29 — rewritten: the official answer depends on where the applicant lives"
+  },
+  {
+   "id": "us-030",
+   "topic": "system",
+   "q": "What is the name of the Speaker of the House of Representatives now?",
+   "options": [
+    "Kevin McCarthy",
+    "Hakeem Jeffries",
+    "Mike Johnson",
+    "Nancy Pelosi"
+   ],
+   "answer": 2,
+   "explain": "As of October 2026 the Speaker is Mike Johnson. This answer can change (a new Congress starts in January 2027); give the name of the Speaker serving at the time of your interview and check uscis.gov/citizenship/testupdates.",
+   "official": true,
+   "ref": "USCIS M-1778 (09/25) 128 Civics Questions and Answers (2025 version), American Government, B: System of Government, question 30 (* 65/20)",
+   "special6520": true
+  },
+  {
+   "id": "us-031",
+   "topic": "system",
+   "q": "Who does a U.S. senator represent?",
+   "options": [
+    "Citizens of their congressional district only",
+    "The governor of their state",
+    "The President",
+    "Citizens of their state"
+   ],
+   "answer": 3,
+   "explain": "Also accepted: people of their state.",
+   "official": true,
+   "ref": "USCIS M-1778 (09/25) 128 Civics Questions and Answers (2025 version), American Government, B: System of Government, question 31"
+  },
+  {
+   "id": "us-032",
+   "topic": "system",
+   "q": "Who elects U.S. senators?",
+   "options": [
+    "The state legislature",
+    "The House of Representatives",
+    "Citizens from their state",
+    "The President"
+   ],
+   "answer": 2,
+   "explain": "Senators are elected by the citizens of their state (since the 17th Amendment, 1913).",
+   "official": true,
+   "ref": "USCIS M-1778 (09/25) 128 Civics Questions and Answers (2025 version), American Government, B: System of Government, question 32"
+  },
+  {
+   "id": "us-033",
+   "topic": "system",
+   "q": "Who does a member of the House of Representatives represent?",
+   "options": [
+    "The Supreme Court",
+    "The governor of their state",
+    "The Senate",
+    "Citizens in their congressional district"
+   ],
+   "answer": 3,
+   "explain": "Also accepted: citizens in their district; people from/in their (congressional) district.",
+   "official": true,
+   "ref": "USCIS M-1778 (09/25) 128 Civics Questions and Answers (2025 version), American Government, B: System of Government, question 33"
+  },
+  {
+   "id": "us-034",
+   "topic": "system",
+   "q": "Who elects members of the House of Representatives?",
+   "options": [
+    "Citizens from their congressional district",
+    "State governors",
+    "The Senate",
+    "The President"
+   ],
+   "answer": 0,
+   "explain": "Representatives are elected by citizens from their (congressional) district.",
+   "official": true,
+   "ref": "USCIS M-1778 (09/25) 128 Civics Questions and Answers (2025 version), American Government, B: System of Government, question 34"
+  },
+  {
+   "id": "us-035",
+   "topic": "system",
+   "q": "Some states have more representatives than other states. Why?",
+   "options": [
+    "Because they joined the Union earlier",
+    "Because of the state’s population",
+    "Because of the state’s wealth",
+    "Because of the state’s land area"
+   ],
+   "answer": 1,
+   "explain": "Also accepted: (because) they have more people; (because) some states have more people.",
+   "official": true,
+   "ref": "USCIS M-1778 (09/25) 128 Civics Questions and Answers (2025 version), American Government, B: System of Government, question 35"
+  },
+  {
+   "id": "us-036",
+   "topic": "system",
+   "q": "The President of the United States is elected for how many years?",
+   "options": [
+    "Six (6) years",
+    "Two (2) years",
+    "Eight (8) years",
+    "Four (4) years"
+   ],
+   "answer": 3,
+   "explain": "The President is elected for a four-year term.",
+   "official": true,
+   "ref": "USCIS M-1778 (09/25) 128 Civics Questions and Answers (2025 version), American Government, B: System of Government, question 36 (* 65/20)",
+   "special6520": true
+  },
+  {
+   "id": "us-037",
+   "topic": "system",
+   "q": "The President of the United States can serve only two terms. Why?",
+   "options": [
+    "Because of the 22nd Amendment",
+    "Because of the 14th Amendment",
+    "Because of the 10th Amendment",
+    "Because of the 19th Amendment"
+   ],
+   "answer": 0,
+   "explain": "Also accepted: to keep the president from becoming too powerful.",
+   "official": true,
+   "ref": "USCIS M-1778 (09/25) 128 Civics Questions and Answers (2025 version), American Government, B: System of Government, question 37"
+  },
+  {
+   "id": "us-038",
+   "topic": "system",
+   "q": "What is the name of the President of the United States now?",
+   "options": [
+    "JD Vance",
+    "Barack Obama",
+    "Joe Biden",
+    "Donald J. Trump"
+   ],
+   "answer": 3,
+   "explain": "As of October 2026 the President is Donald J. Trump (in office since January 20, 2025). Give the name of the President serving at the time of your interview; check uscis.gov/citizenship/testupdates.",
+   "official": true,
+   "ref": "USCIS M-1778 (09/25) 128 Civics Questions and Answers (2025 version), American Government, B: System of Government, question 38 (* 65/20)",
+   "special6520": true
+  },
+  {
+   "id": "us-039",
+   "topic": "system",
+   "q": "What is the name of the Vice President of the United States now?",
+   "options": [
+    "Kamala Harris",
+    "Mike Pence",
+    "Marco Rubio",
+    "JD Vance"
+   ],
+   "answer": 3,
+   "explain": "As of October 2026 the Vice President is JD Vance (in office since January 20, 2025). Give the name of the Vice President serving at the time of your interview; check uscis.gov/citizenship/testupdates.",
+   "official": true,
+   "ref": "USCIS M-1778 (09/25) 128 Civics Questions and Answers (2025 version), American Government, B: System of Government, question 39 (* 65/20)",
+   "special6520": true
+  },
+  {
+   "id": "us-040",
+   "topic": "system",
+   "q": "If the president can no longer serve, who becomes president?",
+   "options": [
+    "The Vice President",
+    "The Chief Justice",
+    "The Secretary of State",
+    "The Speaker of the House"
+   ],
+   "answer": 0,
+   "explain": "The Vice President (of the United States) becomes president.",
+   "official": true,
+   "ref": "USCIS M-1778 (09/25) 128 Civics Questions and Answers (2025 version), American Government, B: System of Government, question 40"
+  },
+  {
+   "id": "us-041",
+   "topic": "system",
+   "q": "Name one power of the president.",
+   "options": [
+    "Writes laws",
+    "Vetoes bills",
+    "Decides if laws are constitutional",
+    "Declares war"
+   ],
+   "answer": 1,
+   "explain": "Accepted answers: signs bills into law; vetoes bills; enforces laws; Commander in Chief (of the military); chief diplomat; appoints federal judges.",
+   "official": true,
+   "ref": "USCIS M-1778 (09/25) 128 Civics Questions and Answers (2025 version), American Government, B: System of Government, question 41"
+  },
+  {
+   "id": "us-042",
+   "topic": "system",
+   "q": "Who is Commander in Chief of the U.S. military?",
+   "options": [
+    "The Chief Justice",
+    "The President",
+    "The Vice President",
+    "The Speaker of the House"
+   ],
+   "answer": 1,
+   "explain": "The President (of the United States) is Commander in Chief.",
+   "official": true,
+   "ref": "USCIS M-1778 (09/25) 128 Civics Questions and Answers (2025 version), American Government, B: System of Government, question 42"
+  },
+  {
+   "id": "us-043",
+   "topic": "system",
+   "q": "Who signs bills to become laws?",
+   "options": [
+    "The Chief Justice",
+    "The Speaker of the House",
+    "The President",
+    "The Vice President"
+   ],
+   "answer": 2,
+   "explain": "The President (of the United States) signs bills into law.",
+   "official": true,
+   "ref": "USCIS M-1778 (09/25) 128 Civics Questions and Answers (2025 version), American Government, B: System of Government, question 43"
+  },
+  {
+   "id": "us-044",
+   "topic": "system",
+   "q": "Who vetoes bills?",
+   "options": [
+    "The Chief Justice",
+    "The Senate Majority Leader",
+    "The President",
+    "The Speaker of the House"
+   ],
+   "answer": 2,
+   "explain": "The President (of the United States) vetoes bills.",
+   "official": true,
+   "ref": "USCIS M-1778 (09/25) 128 Civics Questions and Answers (2025 version), American Government, B: System of Government, question 44 (* 65/20)",
+   "special6520": true
+  },
+  {
+   "id": "us-045",
+   "topic": "system",
+   "q": "Who appoints federal judges?",
+   "options": [
+    "The Speaker of the House",
+    "The Chief Justice",
+    "The President",
+    "The voters"
+   ],
+   "answer": 2,
+   "explain": "The President (of the United States) appoints federal judges.",
+   "official": true,
+   "ref": "USCIS M-1778 (09/25) 128 Civics Questions and Answers (2025 version), American Government, B: System of Government, question 45"
+  },
+  {
+   "id": "us-046",
+   "topic": "system",
+   "q": "The executive branch has many parts. Name one.",
+   "options": [
+    "The Senate",
+    "The Cabinet",
+    "The Supreme Court",
+    "The House of Representatives"
+   ],
+   "answer": 1,
+   "explain": "Accepted answers: President (of the United States); Cabinet; federal departments and agencies.",
+   "official": true,
+   "ref": "USCIS M-1778 (09/25) 128 Civics Questions and Answers (2025 version), American Government, B: System of Government, question 46"
+  },
+  {
+   "id": "us-047",
+   "topic": "system",
+   "q": "What does the President’s Cabinet do?",
+   "options": [
+    "Decides Supreme Court cases",
+    "Writes federal laws",
+    "Elects the President",
+    "Advises the President"
+   ],
+   "answer": 3,
+   "explain": "The Cabinet advises the President (of the United States).",
+   "official": true,
+   "ref": "USCIS M-1778 (09/25) 128 Civics Questions and Answers (2025 version), American Government, B: System of Government, question 47"
+  },
+  {
+   "id": "us-048",
+   "topic": "system",
+   "q": "What are two Cabinet-level positions?",
+   "options": [
+    "Chief Justice and Attorney General",
+    "Secretary of State and Attorney General",
+    "Speaker of the House and Secretary of State",
+    "Senate Majority Leader and Secretary of Labor"
+   ],
+   "answer": 1,
+   "explain": "Accepted: Attorney General; Secretaries of Agriculture, Commerce, Education, Energy, Health and Human Services, Homeland Security, Housing and Urban Development, the Interior, Labor, State, Transportation, the Treasury, Veterans Affairs, War (Defense); Vice President; EPA and SBA Administrators; CIA Director; OMB Director; Director of National Intelligence; U.S. Trade Representative.",
+   "official": true,
+   "ref": "USCIS M-1778 (09/25) 128 Civics Questions and Answers (2025 version), American Government, B: System of Government, question 48"
+  },
+  {
+   "id": "us-049",
+   "topic": "system",
+   "q": "Why is the Electoral College important?",
+   "options": [
+    "It decides who is elected president.",
+    "It chooses each state’s senators.",
+    "It decides who sits on the Supreme Court.",
+    "It writes the federal budget."
+   ],
+   "answer": 0,
+   "explain": "Also accepted: it provides a compromise between the popular election of the president and congressional selection.",
+   "official": true,
+   "ref": "USCIS M-1778 (09/25) 128 Civics Questions and Answers (2025 version), American Government, B: System of Government, question 49"
+  },
+  {
+   "id": "us-050",
+   "topic": "system",
+   "q": "What is one part of the judicial branch?",
+   "options": [
+    "Senate",
+    "Cabinet",
+    "Department of Justice",
+    "Supreme Court"
+   ],
+   "answer": 3,
+   "explain": "Also accepted: federal courts. (The Department of Justice is part of the executive branch.)",
+   "official": true,
+   "ref": "USCIS M-1778 (09/25) 128 Civics Questions and Answers (2025 version), American Government, B: System of Government, question 50"
+  },
+  {
+   "id": "us-051",
+   "topic": "system",
+   "q": "What does the judicial branch do?",
+   "options": [
+    "Vetoes bills",
+    "Decides if a law goes against the Constitution",
+    "Collects taxes",
+    "Writes laws"
+   ],
+   "answer": 1,
+   "explain": "Also accepted: reviews laws; explains laws; resolves disputes (disagreements) about the law.",
+   "official": true,
+   "ref": "USCIS M-1778 (09/25) 128 Civics Questions and Answers (2025 version), American Government, B: System of Government, question 51"
+  },
+  {
+   "id": "us-052",
+   "topic": "system",
+   "q": "What is the highest court in the United States?",
+   "options": [
+    "State supreme court",
+    "U.S. Court of Appeals",
+    "Supreme Court",
+    "U.S. District Court"
+   ],
+   "answer": 2,
+   "explain": "The Supreme Court is the highest court in the United States.",
+   "official": true,
+   "ref": "USCIS M-1778 (09/25) 128 Civics Questions and Answers (2025 version), American Government, B: System of Government, question 52 (* 65/20)",
+   "special6520": true
+  },
+  {
+   "id": "us-053",
+   "topic": "system",
+   "q": "How many seats are on the Supreme Court?",
+   "options": [
+    "Thirteen (13)",
+    "Nine (9)",
+    "Eleven (11)",
+    "Seven (7)"
+   ],
+   "answer": 1,
+   "explain": "The Supreme Court has nine seats.",
+   "official": true,
+   "ref": "USCIS M-1778 (09/25) 128 Civics Questions and Answers (2025 version), American Government, B: System of Government, question 53"
+  },
+  {
+   "id": "us-054",
+   "topic": "system",
+   "q": "How many Supreme Court justices are usually needed to decide a case?",
+   "options": [
+    "Three (3)",
+    "Five (5)",
+    "Seven (7)",
+    "Nine (9)"
+   ],
+   "answer": 1,
+   "explain": "A majority of the nine justices, five, is usually needed to decide a case.",
+   "official": true,
+   "ref": "USCIS M-1778 (09/25) 128 Civics Questions and Answers (2025 version), American Government, B: System of Government, question 54"
+  },
+  {
+   "id": "us-055",
+   "topic": "system",
+   "q": "How long do Supreme Court justices serve?",
+   "options": [
+    "For life",
+    "Four (4) years",
+    "Ten (10) years",
+    "Six (6) years"
+   ],
+   "answer": 0,
+   "explain": "Also accepted: lifetime appointment; (until) retirement.",
+   "official": true,
+   "ref": "USCIS M-1778 (09/25) 128 Civics Questions and Answers (2025 version), American Government, B: System of Government, question 55"
+  },
+  {
+   "id": "us-056",
+   "topic": "system",
+   "q": "Supreme Court justices serve for life. Why?",
+   "options": [
+    "Because the Constitution requires them to be elected",
+    "To be independent of politics",
+    "So they can later run for President",
+    "Because no one can replace them"
+   ],
+   "answer": 1,
+   "explain": "Also accepted: to limit outside (political) influence.",
+   "official": true,
+   "ref": "USCIS M-1778 (09/25) 128 Civics Questions and Answers (2025 version), American Government, B: System of Government, question 56"
+  },
+  {
+   "id": "us-057",
+   "topic": "system",
+   "q": "Who is the Chief Justice of the United States now?",
+   "options": [
+    "John G. Roberts, Jr.",
+    "Brett Kavanaugh",
+    "Samuel Alito",
+    "Clarence Thomas"
+   ],
+   "answer": 0,
+   "explain": "As of October 2026 the Chief Justice is John G. Roberts, Jr. (since 2005). Give the name of the Chief Justice serving at the time of your interview; check uscis.gov/citizenship/testupdates.",
+   "official": true,
+   "ref": "USCIS M-1778 (09/25) 128 Civics Questions and Answers (2025 version), American Government, B: System of Government, question 57"
+  },
+  {
+   "id": "us-058",
+   "topic": "system",
+   "q": "Name one power that is only for the federal government.",
+   "options": [
+    "Approve zoning and land use",
+    "Provide schooling and education",
+    "Give a driver’s license",
+    "Print paper money"
+   ],
+   "answer": 3,
+   "explain": "Also accepted: mint coins; declare war; create an army; make treaties; set foreign policy. The other options are powers of the states.",
+   "official": true,
+   "ref": "USCIS M-1778 (09/25) 128 Civics Questions and Answers (2025 version), American Government, B: System of Government, question 58"
+  },
+  {
+   "id": "us-059",
+   "topic": "system",
+   "q": "Name one power that is only for the states.",
+   "options": [
+    "Declare war",
+    "Give a driver’s license",
+    "Print paper money",
+    "Make treaties"
+   ],
+   "answer": 1,
+   "explain": "Also accepted: provide schooling and education; provide protection (police); provide safety (fire departments); approve zoning and land use.",
+   "official": true,
+   "ref": "USCIS M-1778 (09/25) 128 Civics Questions and Answers (2025 version), American Government, B: System of Government, question 59"
+  },
+  {
+   "id": "us-060",
+   "topic": "system",
+   "q": "What is the purpose of the 10th Amendment?",
+   "options": [
+    "It ends slavery.",
+    "It gives women the right to vote.",
+    "It limits the President to two terms.",
+    "Powers not given to the federal government belong to the states or to the people."
+   ],
+   "answer": 3,
+   "explain": "The 10th Amendment reserves powers not given to the federal government to the states or to the people.",
+   "official": true,
+   "ref": "USCIS M-1778 (09/25) 128 Civics Questions and Answers (2025 version), American Government, B: System of Government, question 60"
+  },
+  {
+   "id": "us-061",
+   "topic": "system",
+   "q": "Official question 61 asks: “Who is the governor of your state now?” Which answer does USCIS accept?",
+   "options": [
+    "The name of your state’s capital city",
+    "The name of the person serving as governor of your state at the time of your interview",
+    "The name of your state’s first governor",
+    "The name of the President of the United States"
+   ],
+   "answer": 1,
+   "explain": "The answer depends on where you live, so learn your state’s current governor (see your state’s official website). D.C. residents should answer that D.C. does not have a governor. This is one of the 20 questions for the 65/20 special consideration.",
+   "official": false,
+   "ref": "USCIS M-1778 (09/25) 128 Civics Questions and Answers (2025 version), American Government, B: System of Government, question 61 (* 65/20) — rewritten: the official answer depends on where the applicant lives",
+   "special6520": true
+  },
+  {
+   "id": "us-062",
+   "topic": "system",
+   "q": "Official question 62 asks: “What is the capital of your state?” Which answer does USCIS accept?",
+   "options": [
+    "The capital city of the state where you live (for example, Albany for New York)",
+    "Washington, D.C., for every state",
+    "The largest city in your state (for example, New York City for New York)",
+    "The city where you were born"
+   ],
+   "answer": 0,
+   "explain": "The answer depends on where you live; the capital is often not the largest city. D.C. residents should answer that D.C. is not a state and has no capital; residents of U.S. territories should name the territory’s capital.",
+   "official": false,
+   "ref": "USCIS M-1778 (09/25) 128 Civics Questions and Answers (2025 version), American Government, B: System of Government, question 62 — rewritten: the official answer depends on where the applicant lives"
+  },
+  {
+   "id": "us-063",
+   "topic": "rights",
+   "q": "There are four amendments to the U.S. Constitution about who can vote. Describe one of them.",
+   "options": [
+    "Only citizens who own land can vote.",
+    "Citizens eighteen (18) and older can vote.",
+    "Only men can vote.",
+    "Citizens must pay a poll tax to vote."
+   ],
+   "answer": 1,
+   "explain": "Also accepted: you don’t have to pay (a poll tax) to vote; any citizen can vote (women and men can vote); a male citizen of any race (can vote).",
+   "official": true,
+   "ref": "USCIS M-1778 (09/25) 128 Civics Questions and Answers (2025 version), American Government, C: Rights and Responsibilities, question 63"
+  },
+  {
+   "id": "us-064",
+   "topic": "rights",
+   "q": "Who can vote in federal elections, run for federal office, and serve on a jury in the United States?",
+   "options": [
+    "Anyone age 18 or older living in the U.S.",
+    "Lawful permanent residents",
+    "Visa holders",
+    "U.S. citizens"
+   ],
+   "answer": 3,
+   "explain": "Only citizens (of the United States) can do these things.",
+   "official": true,
+   "ref": "USCIS M-1778 (09/25) 128 Civics Questions and Answers (2025 version), American Government, C: Rights and Responsibilities, question 64"
+  },
+  {
+   "id": "us-065",
+   "topic": "rights",
+   "q": "What are three rights of everyone living in the United States?",
+   "options": [
+    "Freedom of speech, freedom of religion, freedom of assembly",
+    "Freedom of assembly, the right to run for federal office, freedom of religion",
+    "The right to serve on a federal jury, freedom of speech, the right to bear arms",
+    "Freedom of speech, the right to vote in federal elections, freedom of religion"
+   ],
+   "answer": 0,
+   "explain": "Accepted: freedom of expression; freedom of speech; freedom of assembly; freedom to petition the government; freedom of religion; the right to bear arms. Voting, running for federal office and jury service are for citizens only.",
+   "official": true,
+   "ref": "USCIS M-1778 (09/25) 128 Civics Questions and Answers (2025 version), American Government, C: Rights and Responsibilities, question 65"
+  },
+  {
+   "id": "us-066",
+   "topic": "rights",
+   "q": "What do we show loyalty to when we say the Pledge of Allegiance?",
+   "options": [
+    "The United States",
+    "Congress",
+    "Your state governor",
+    "The President"
+   ],
+   "answer": 0,
+   "explain": "Also accepted: the flag.",
+   "official": true,
+   "ref": "USCIS M-1778 (09/25) 128 Civics Questions and Answers (2025 version), American Government, C: Rights and Responsibilities, question 66 (* 65/20)",
+   "special6520": true
+  },
+  {
+   "id": "us-067",
+   "topic": "rights",
+   "q": "Name two promises that new citizens make in the Oath of Allegiance.",
+   "options": [
+    "Defend the Constitution and join a political party",
+    "Give up loyalty to other countries and defend the Constitution",
+    "Vote in every election and join a political party",
+    "Give up loyalty to other countries and never travel abroad"
+   ],
+   "answer": 1,
+   "explain": "Accepted: give up loyalty to other countries; defend the (U.S.) Constitution; obey the laws of the United States; serve in the military (if needed); serve the nation (if needed); be loyal to the United States.",
+   "official": true,
+   "ref": "USCIS M-1778 (09/25) 128 Civics Questions and Answers (2025 version), American Government, C: Rights and Responsibilities, question 67"
+  },
+  {
+   "id": "us-068",
+   "topic": "rights",
+   "q": "How can people become United States citizens?",
+   "options": [
+    "Live in the United States for one year",
+    "Get a U.S. driver’s license",
+    "Naturalize",
+    "Buy property in the United States"
+   ],
+   "answer": 2,
+   "explain": "Also accepted: be born in the United States, under the conditions set by the 14th Amendment; derive citizenship (under conditions set by Congress).",
+   "official": true,
+   "ref": "USCIS M-1778 (09/25) 128 Civics Questions and Answers (2025 version), American Government, C: Rights and Responsibilities, question 68"
+  },
+  {
+   "id": "us-069",
+   "topic": "rights",
+   "q": "What are two examples of civic participation in the United States?",
+   "options": [
+    "Get a library card and join a gym",
+    "Travel abroad and shop online",
+    "Vote and join a civic group",
+    "Buy a car and open a bank account"
+   ],
+   "answer": 2,
+   "explain": "Accepted: vote; run for office; join a political party; help with a campaign; join a civic or community group; give an elected official your opinion; contact elected officials; support or oppose an issue or policy; write to a newspaper.",
+   "official": true,
+   "ref": "USCIS M-1778 (09/25) 128 Civics Questions and Answers (2025 version), American Government, C: Rights and Responsibilities, question 69"
+  },
+  {
+   "id": "us-070",
+   "topic": "rights",
+   "q": "What is one way Americans can serve their country?",
+   "options": [
+    "Buy a house",
+    "Get a driver’s license",
+    "Serve in the military",
+    "Travel abroad on vacation"
+   ],
+   "answer": 2,
+   "explain": "Also accepted: vote; pay taxes; obey the law; run for office; work for local, state, or federal government.",
+   "official": true,
+   "ref": "USCIS M-1778 (09/25) 128 Civics Questions and Answers (2025 version), American Government, C: Rights and Responsibilities, question 70"
+  },
+  {
+   "id": "us-071",
+   "topic": "rights",
+   "q": "Why is it important to pay federal taxes?",
+   "options": [
+    "Only citizens living abroad must pay them",
+    "To fund state governments only",
+    "Required by law",
+    "It is optional, so paying is a courtesy"
+   ],
+   "answer": 2,
+   "explain": "Also accepted: all people pay to fund the federal government; required by the (U.S.) Constitution (16th Amendment); civic duty.",
+   "official": true,
+   "ref": "USCIS M-1778 (09/25) 128 Civics Questions and Answers (2025 version), American Government, C: Rights and Responsibilities, question 71"
+  },
+  {
+   "id": "us-072",
+   "topic": "rights",
+   "q": "It is important for all men age 18 through 25 to register for the Selective Service. Name one reason why.",
+   "options": [
+    "To get free college tuition",
+    "It is required only for women",
+    "Required by law",
+    "To receive a passport automatically"
+   ],
+   "answer": 2,
+   "explain": "Also accepted: civic duty; makes the draft fair, if needed.",
+   "official": true,
+   "ref": "USCIS M-1778 (09/25) 128 Civics Questions and Answers (2025 version), American Government, C: Rights and Responsibilities, question 72"
+  },
+  {
+   "id": "us-073",
+   "topic": "colonial",
+   "q": "The colonists came to America for many reasons. Name one.",
+   "options": [
+    "To serve in the British army",
+    "Religious freedom",
+    "To escape World War I",
+    "To build railroads"
+   ],
+   "answer": 1,
+   "explain": "Also accepted: freedom; political liberty; economic opportunity; escape persecution.",
+   "official": true,
+   "ref": "USCIS M-1778 (09/25) 128 Civics Questions and Answers (2025 version), American History, A: Colonial Period and Independence, question 73"
+  },
+  {
+   "id": "us-074",
+   "topic": "colonial",
+   "q": "Who lived in America before the Europeans arrived?",
+   "options": [
+    "Spanish settlers",
+    "American Indians",
+    "Dutch traders",
+    "Pilgrims"
+   ],
+   "answer": 1,
+   "explain": "Also accepted: Native Americans.",
+   "official": true,
+   "ref": "USCIS M-1778 (09/25) 128 Civics Questions and Answers (2025 version), American History, A: Colonial Period and Independence, question 74 (* 65/20)",
+   "special6520": true
+  },
+  {
+   "id": "us-075",
+   "topic": "colonial",
+   "q": "What group of people was taken and sold as slaves?",
+   "options": [
+    "The French",
+    "The English",
+    "The Dutch",
+    "Africans"
+   ],
+   "answer": 3,
+   "explain": "Also accepted: people from Africa.",
+   "official": true,
+   "ref": "USCIS M-1778 (09/25) 128 Civics Questions and Answers (2025 version), American History, A: Colonial Period and Independence, question 75"
+  },
+  {
+   "id": "us-076",
+   "topic": "colonial",
+   "q": "What war did the Americans fight to win independence from Britain?",
+   "options": [
+    "The Civil War",
+    "The French and Indian War",
+    "The War of 1812",
+    "The American Revolution"
+   ],
+   "answer": 3,
+   "explain": "Also accepted: the (American) Revolutionary War; War for (American) Independence.",
+   "official": true,
+   "ref": "USCIS M-1778 (09/25) 128 Civics Questions and Answers (2025 version), American History, A: Colonial Period and Independence, question 76"
+  },
+  {
+   "id": "us-077",
+   "topic": "colonial",
+   "q": "Name one reason why the Americans declared independence from Britain.",
+   "options": [
+    "Taxation without representation",
+    "The colonists wanted to keep the Articles of Confederation",
+    "Britain gave the colonists too many seats in Parliament",
+    "The colonists wanted to join France"
+   ],
+   "answer": 0,
+   "explain": "Also accepted: high taxes; British soldiers stayed in Americans’ houses (quartering); no self-government; Boston Massacre; Boston Tea Party (Tea Act); Stamp Act; Sugar Act; Townshend Acts; Intolerable (Coercive) Acts.",
+   "official": true,
+   "ref": "USCIS M-1778 (09/25) 128 Civics Questions and Answers (2025 version), American History, A: Colonial Period and Independence, question 77"
+  },
+  {
+   "id": "us-078",
+   "topic": "colonial",
+   "q": "Who wrote the Declaration of Independence?",
+   "options": [
+    "Thomas Jefferson",
+    "James Madison",
+    "George Washington",
+    "Abraham Lincoln"
+   ],
+   "answer": 0,
+   "explain": "(Thomas) Jefferson wrote the Declaration of Independence.",
+   "official": true,
+   "ref": "USCIS M-1778 (09/25) 128 Civics Questions and Answers (2025 version), American History, A: Colonial Period and Independence, question 78 (* 65/20)",
+   "special6520": true
+  },
+  {
+   "id": "us-079",
+   "topic": "colonial",
+   "q": "When was the Declaration of Independence adopted?",
+   "options": [
+    "January 1, 1776",
+    "July 4, 1776",
+    "July 4, 1812",
+    "September 17, 1787"
+   ],
+   "answer": 1,
+   "explain": "The Declaration of Independence was adopted on July 4, 1776. (September 17, 1787 is when the Constitution was signed.)",
+   "official": true,
+   "ref": "USCIS M-1778 (09/25) 128 Civics Questions and Answers (2025 version), American History, A: Colonial Period and Independence, question 79"
+  },
+  {
+   "id": "us-080",
+   "topic": "colonial",
+   "q": "The American Revolution had many important events. Name one.",
+   "options": [
+    "Battle of Fort Sumter",
+    "Battle of Gettysburg",
+    "Battle of Saratoga",
+    "Attack on Pearl Harbor"
+   ],
+   "answer": 2,
+   "explain": "Also accepted: (Battle of) Bunker Hill; Declaration of Independence; Washington Crossing the Delaware (Battle of Trenton); Valley Forge (Encampment); (Battle of) Yorktown.",
+   "official": true,
+   "ref": "USCIS M-1778 (09/25) 128 Civics Questions and Answers (2025 version), American History, A: Colonial Period and Independence, question 80"
+  },
+  {
+   "id": "us-081",
+   "topic": "colonial",
+   "q": "There were 13 original states. Name five.",
+   "options": [
+    "New Hampshire, New York, Virginia, Georgia, Maryland",
+    "Rhode Island, North Carolina, Florida, New York, Delaware",
+    "Massachusetts, Vermont, Delaware, Virginia, Georgia",
+    "Connecticut, Maine, Pennsylvania, New Jersey, South Carolina"
+   ],
+   "answer": 0,
+   "explain": "The 13 original states: New Hampshire, Massachusetts, Rhode Island, Connecticut, New York, New Jersey, Pennsylvania, Delaware, Maryland, Virginia, North Carolina, South Carolina, Georgia. Vermont, Maine and Florida joined later.",
+   "official": true,
+   "ref": "USCIS M-1778 (09/25) 128 Civics Questions and Answers (2025 version), American History, A: Colonial Period and Independence, question 81"
+  },
+  {
+   "id": "us-082",
+   "topic": "colonial",
+   "q": "What founding document was written in 1787?",
+   "options": [
+    "Articles of Confederation",
+    "Bill of Rights",
+    "Declaration of Independence",
+    "U.S. Constitution"
+   ],
+   "answer": 3,
+   "explain": "The (U.S.) Constitution was written in 1787.",
+   "official": true,
+   "ref": "USCIS M-1778 (09/25) 128 Civics Questions and Answers (2025 version), American History, A: Colonial Period and Independence, question 82"
+  },
+  {
+   "id": "us-083",
+   "topic": "colonial",
+   "q": "The Federalist Papers supported the passage of the U.S. Constitution. Name one of the writers.",
+   "options": [
+    "Benjamin Franklin",
+    "James Madison",
+    "George Washington",
+    "Thomas Jefferson"
+   ],
+   "answer": 1,
+   "explain": "Also accepted: (Alexander) Hamilton; (John) Jay; Publius.",
+   "official": true,
+   "ref": "USCIS M-1778 (09/25) 128 Civics Questions and Answers (2025 version), American History, A: Colonial Period and Independence, question 83"
+  },
+  {
+   "id": "us-084",
+   "topic": "colonial",
+   "q": "Why were the Federalist Papers important?",
+   "options": [
+    "They declared independence from Britain.",
+    "They helped people understand the U.S. Constitution.",
+    "They freed the slaves.",
+    "They ended the Civil War."
+   ],
+   "answer": 1,
+   "explain": "Also accepted: they supported passing the (U.S.) Constitution.",
+   "official": true,
+   "ref": "USCIS M-1778 (09/25) 128 Civics Questions and Answers (2025 version), American History, A: Colonial Period and Independence, question 84"
+  },
+  {
+   "id": "us-085",
+   "topic": "colonial",
+   "q": "Benjamin Franklin is famous for many things. Name one.",
+   "options": [
+    "Third president of the United States",
+    "Wrote “The Star-Spangled Banner”",
+    "First president of the United States",
+    "First Postmaster General of the United States"
+   ],
+   "answer": 3,
+   "explain": "Also accepted: founded the first free public libraries; helped write the Declaration of Independence; inventor; U.S. diplomat.",
+   "official": true,
+   "ref": "USCIS M-1778 (09/25) 128 Civics Questions and Answers (2025 version), American History, A: Colonial Period and Independence, question 85"
+  },
+  {
+   "id": "us-086",
+   "topic": "colonial",
+   "q": "George Washington is famous for many things. Name one.",
+   "options": [
+    "Bought the Louisiana Territory",
+    "Wrote the Declaration of Independence",
+    "First president of the United States",
+    "Freed the slaves"
+   ],
+   "answer": 2,
+   "explain": "Also accepted: “Father of Our Country”; General of the Continental Army; President of the Constitutional Convention.",
+   "official": true,
+   "ref": "USCIS M-1778 (09/25) 128 Civics Questions and Answers (2025 version), American History, A: Colonial Period and Independence, question 86 (* 65/20)",
+   "special6520": true
+  },
+  {
+   "id": "us-087",
+   "topic": "colonial",
+   "q": "Thomas Jefferson is famous for many things. Name one.",
+   "options": [
+    "Third president of the United States",
+    "First president of the United States",
+    "First Secretary of the Treasury",
+    "“Father of the Constitution”"
+   ],
+   "answer": 0,
+   "explain": "Also accepted: writer of the Declaration of Independence; doubled the size of the U.S. (Louisiana Purchase); first Secretary of State; founded the University of Virginia; writer of the Virginia Statute on Religious Freedom.",
+   "official": true,
+   "ref": "USCIS M-1778 (09/25) 128 Civics Questions and Answers (2025 version), American History, A: Colonial Period and Independence, question 87"
+  },
+  {
+   "id": "us-088",
+   "topic": "colonial",
+   "q": "James Madison is famous for many things. Name one.",
+   "options": [
+    "First Secretary of the Treasury",
+    "Writer of the Declaration of Independence",
+    "“Father of the Constitution”",
+    "General of the Continental Army"
+   ],
+   "answer": 2,
+   "explain": "Also accepted: fourth president of the United States; president during the War of 1812; one of the writers of the Federalist Papers.",
+   "official": true,
+   "ref": "USCIS M-1778 (09/25) 128 Civics Questions and Answers (2025 version), American History, A: Colonial Period and Independence, question 88"
+  },
+  {
+   "id": "us-089",
+   "topic": "colonial",
+   "q": "Alexander Hamilton is famous for many things. Name one.",
+   "options": [
+    "Writer of the Declaration of Independence",
+    "First Secretary of the Treasury",
+    "Third president of the United States",
+    "First Postmaster General"
+   ],
+   "answer": 1,
+   "explain": "Also accepted: one of the writers of the Federalist Papers; helped establish the First Bank of the United States; aide to General George Washington; member of the Continental Congress.",
+   "official": true,
+   "ref": "USCIS M-1778 (09/25) 128 Civics Questions and Answers (2025 version), American History, A: Colonial Period and Independence, question 89"
+  },
+  {
+   "id": "us-090",
+   "topic": "1800s",
+   "q": "What territory did the United States buy from France in 1803?",
+   "options": [
+    "Alaska",
+    "Florida",
+    "Oregon Territory",
+    "Louisiana Territory"
+   ],
+   "answer": 3,
+   "explain": "The U.S. bought the Louisiana Territory (Louisiana) from France in 1803. Alaska was bought from Russia; Florida came from Spain.",
+   "official": true,
+   "ref": "USCIS M-1778 (09/25) 128 Civics Questions and Answers (2025 version), American History, B: 1800s, question 90"
+  },
+  {
+   "id": "us-091",
+   "topic": "1800s",
+   "q": "Name one war fought by the United States in the 1800s.",
+   "options": [
+    "Mexican-American War",
+    "Vietnam War",
+    "World War I",
+    "Korean War"
+   ],
+   "answer": 0,
+   "explain": "Also accepted: War of 1812; Civil War; Spanish-American War.",
+   "official": true,
+   "ref": "USCIS M-1778 (09/25) 128 Civics Questions and Answers (2025 version), American History, B: 1800s, question 91"
+  },
+  {
+   "id": "us-092",
+   "topic": "1800s",
+   "q": "Name the U.S. war between the North and the South.",
+   "options": [
+    "The Civil War",
+    "The Mexican-American War",
+    "The Revolutionary War",
+    "The War of 1812"
+   ],
+   "answer": 0,
+   "explain": "The war between the North and the South was the Civil War.",
+   "official": true,
+   "ref": "USCIS M-1778 (09/25) 128 Civics Questions and Answers (2025 version), American History, B: 1800s, question 92"
+  },
+  {
+   "id": "us-093",
+   "topic": "1800s",
+   "q": "The Civil War had many important events. Name one.",
+   "options": [
+    "Battle of Yorktown",
+    "Battle of Gettysburg",
+    "Attack on Pearl Harbor",
+    "Battle of Bunker Hill"
+   ],
+   "answer": 1,
+   "explain": "Also accepted: (Battle of) Fort Sumter; Emancipation Proclamation; (Battle of) Vicksburg; Sherman’s March; (Surrender at) Appomattox; (Battle of) Antietam/Sharpsburg; Lincoln was assassinated.",
+   "official": true,
+   "ref": "USCIS M-1778 (09/25) 128 Civics Questions and Answers (2025 version), American History, B: 1800s, question 93"
+  },
+  {
+   "id": "us-094",
+   "topic": "1800s",
+   "q": "Abraham Lincoln is famous for many things. Name one.",
+   "options": [
+    "Wrote the Declaration of Independence",
+    "First president of the United States",
+    "Saved (preserved) the Union",
+    "Bought the Louisiana Territory"
+   ],
+   "answer": 2,
+   "explain": "Also accepted: freed the slaves (Emancipation Proclamation); led the U.S. during the Civil War; 16th president of the United States; delivered the Gettysburg Address.",
+   "official": true,
+   "ref": "USCIS M-1778 (09/25) 128 Civics Questions and Answers (2025 version), American History, B: 1800s, question 94 (* 65/20)",
+   "special6520": true
+  },
+  {
+   "id": "us-095",
+   "topic": "1800s",
+   "q": "What did the Emancipation Proclamation do?",
+   "options": [
+    "Bought Louisiana from France",
+    "Gave women the right to vote",
+    "Ended the Revolutionary War",
+    "Freed slaves in the Confederate states"
+   ],
+   "answer": 3,
+   "explain": "Also accepted: freed the slaves; freed slaves in the Confederacy; freed slaves in most Southern states.",
+   "official": true,
+   "ref": "USCIS M-1778 (09/25) 128 Civics Questions and Answers (2025 version), American History, B: 1800s, question 95"
+  },
+  {
+   "id": "us-096",
+   "topic": "1800s",
+   "q": "What U.S. war ended slavery?",
+   "options": [
+    "The Revolutionary War",
+    "The Civil War",
+    "World War I",
+    "The War of 1812"
+   ],
+   "answer": 1,
+   "explain": "The Civil War ended slavery.",
+   "official": true,
+   "ref": "USCIS M-1778 (09/25) 128 Civics Questions and Answers (2025 version), American History, B: 1800s, question 96"
+  },
+  {
+   "id": "us-097",
+   "topic": "1800s",
+   "q": "What amendment says all persons born or naturalized in the United States, and subject to the jurisdiction thereof, are U.S. citizens?",
+   "options": [
+    "14th Amendment",
+    "15th Amendment",
+    "19th Amendment",
+    "13th Amendment"
+   ],
+   "answer": 0,
+   "explain": "The 14th Amendment (1868) defines U.S. citizenship.",
+   "official": true,
+   "ref": "USCIS M-1778 (09/25) 128 Civics Questions and Answers (2025 version), American History, B: 1800s, question 97"
+  },
+  {
+   "id": "us-098",
+   "topic": "1800s",
+   "q": "When did all men get the right to vote?",
+   "options": [
+    "In 1776",
+    "In 1920",
+    "After World War II",
+    "After the Civil War"
+   ],
+   "answer": 3,
+   "explain": "Also accepted: during Reconstruction; (with the) 15th Amendment; 1870.",
+   "official": true,
+   "ref": "USCIS M-1778 (09/25) 128 Civics Questions and Answers (2025 version), American History, B: 1800s, question 98"
+  },
+  {
+   "id": "us-099",
+   "topic": "1800s",
+   "q": "Name one leader of the women’s rights movement in the 1800s.",
+   "options": [
+    "Eleanor Roosevelt",
+    "Susan B. Anthony",
+    "Martha Washington",
+    "Betsy Ross"
+   ],
+   "answer": 1,
+   "explain": "Also accepted: Elizabeth Cady Stanton; Sojourner Truth; Harriet Tubman; Lucretia Mott; Lucy Stone.",
+   "official": true,
+   "ref": "USCIS M-1778 (09/25) 128 Civics Questions and Answers (2025 version), American History, B: 1800s, question 99"
+  },
+  {
+   "id": "us-100",
+   "topic": "recent",
+   "q": "Name one war fought by the United States in the 1900s.",
+   "options": [
+    "Civil War",
+    "Mexican-American War",
+    "World War II",
+    "War of 1812"
+   ],
+   "answer": 2,
+   "explain": "Also accepted: World War I; Korean War; Vietnam War; (Persian) Gulf War.",
+   "official": true,
+   "ref": "USCIS M-1778 (09/25) 128 Civics Questions and Answers (2025 version), American History, C: Recent American History and Other Important Historical Information, question 100"
+  },
+  {
+   "id": "us-101",
+   "topic": "recent",
+   "q": "Why did the United States enter World War I?",
+   "options": [
+    "To force the Iraqi military from Kuwait",
+    "Because Germany attacked U.S. civilian ships",
+    "Because Japan attacked Pearl Harbor",
+    "To stop the spread of communism"
+   ],
+   "answer": 1,
+   "explain": "Also accepted: to support the Allied Powers (England, France, Italy, and Russia); to oppose the Central Powers (Germany, Austria-Hungary, the Ottoman Empire, and Bulgaria).",
+   "official": true,
+   "ref": "USCIS M-1778 (09/25) 128 Civics Questions and Answers (2025 version), American History, C: Recent American History and Other Important Historical Information, question 101"
+  },
+  {
+   "id": "us-102",
+   "topic": "recent",
+   "q": "When did all women get the right to vote?",
+   "options": [
+    "1920",
+    "1945",
+    "1870",
+    "1812"
+   ],
+   "answer": 0,
+   "explain": "Also accepted: after World War I; (with the) 19th Amendment.",
+   "official": true,
+   "ref": "USCIS M-1778 (09/25) 128 Civics Questions and Answers (2025 version), American History, C: Recent American History and Other Important Historical Information, question 102"
+  },
+  {
+   "id": "us-103",
+   "topic": "recent",
+   "q": "What was the Great Depression?",
+   "options": [
+    "A war in Europe",
+    "A period of fast economic growth",
+    "The longest economic recession in modern history",
+    "A war between the North and the South"
+   ],
+   "answer": 2,
+   "explain": "USCIS answer: longest economic recession in modern history.",
+   "official": true,
+   "ref": "USCIS M-1778 (09/25) 128 Civics Questions and Answers (2025 version), American History, C: Recent American History and Other Important Historical Information, question 103"
+  },
+  {
+   "id": "us-104",
+   "topic": "recent",
+   "q": "When did the Great Depression start?",
+   "options": [
+    "The attack on Pearl Harbor in 1941",
+    "The September 11 attacks in 2001",
+    "The stock market crash of 1929",
+    "The end of World War I in 1918"
+   ],
+   "answer": 2,
+   "explain": "Also accepted: the Great Crash (1929).",
+   "official": true,
+   "ref": "USCIS M-1778 (09/25) 128 Civics Questions and Answers (2025 version), American History, C: Recent American History and Other Important Historical Information, question 104"
+  },
+  {
+   "id": "us-105",
+   "topic": "recent",
+   "q": "Who was president during the Great Depression and World War II?",
+   "options": [
+    "Dwight Eisenhower",
+    "Theodore Roosevelt",
+    "Franklin Roosevelt",
+    "Woodrow Wilson"
+   ],
+   "answer": 2,
+   "explain": "(Franklin) Roosevelt was president during the Great Depression and World War II.",
+   "official": true,
+   "ref": "USCIS M-1778 (09/25) 128 Civics Questions and Answers (2025 version), American History, C: Recent American History and Other Important Historical Information, question 105"
+  },
+  {
+   "id": "us-106",
+   "topic": "recent",
+   "q": "Why did the United States enter World War II?",
+   "options": [
+    "To stop the spread of communism in Korea",
+    "Japan attacked Pearl Harbor",
+    "Iraq invaded Kuwait",
+    "Germany sank U.S. ships in 1917"
+   ],
+   "answer": 1,
+   "explain": "Also accepted: (bombing of) Pearl Harbor; to support the Allied Powers (England, France, and Russia); to oppose the Axis Powers (Germany, Italy, and Japan).",
+   "official": true,
+   "ref": "USCIS M-1778 (09/25) 128 Civics Questions and Answers (2025 version), American History, C: Recent American History and Other Important Historical Information, question 106"
+  },
+  {
+   "id": "us-107",
+   "topic": "recent",
+   "q": "Dwight Eisenhower is famous for many things. Name one.",
+   "options": [
+    "General during World War II",
+    "President during the Civil War",
+    "President during the Great Depression",
+    "First Secretary of State"
+   ],
+   "answer": 0,
+   "explain": "Also accepted: president at the end of (during) the Korean War; 34th president of the United States; signed the Federal-Aid Highway Act of 1956 (created the Interstate System).",
+   "official": true,
+   "ref": "USCIS M-1778 (09/25) 128 Civics Questions and Answers (2025 version), American History, C: Recent American History and Other Important Historical Information, question 107"
+  },
+  {
+   "id": "us-108",
+   "topic": "recent",
+   "q": "Who was the United States’ main rival during the Cold War?",
+   "options": [
+    "Canada",
+    "Soviet Union",
+    "France",
+    "Japan"
+   ],
+   "answer": 1,
+   "explain": "Also accepted: USSR; Russia.",
+   "official": true,
+   "ref": "USCIS M-1778 (09/25) 128 Civics Questions and Answers (2025 version), American History, C: Recent American History and Other Important Historical Information, question 108"
+  },
+  {
+   "id": "us-109",
+   "topic": "recent",
+   "q": "During the Cold War, what was one main concern of the United States?",
+   "options": [
+    "The Great Depression",
+    "Monarchy",
+    "Slavery",
+    "Communism"
+   ],
+   "answer": 3,
+   "explain": "Also accepted: nuclear war.",
+   "official": true,
+   "ref": "USCIS M-1778 (09/25) 128 Civics Questions and Answers (2025 version), American History, C: Recent American History and Other Important Historical Information, question 109"
+  },
+  {
+   "id": "us-110",
+   "topic": "recent",
+   "q": "Why did the United States enter the Korean War?",
+   "options": [
+    "To stop the spread of communism",
+    "Because Japan attacked Pearl Harbor",
+    "To win independence from Britain",
+    "To force the Iraqi military from Kuwait"
+   ],
+   "answer": 0,
+   "explain": "The U.S. entered the Korean War to stop the spread of communism.",
+   "official": true,
+   "ref": "USCIS M-1778 (09/25) 128 Civics Questions and Answers (2025 version), American History, C: Recent American History and Other Important Historical Information, question 110"
+  },
+  {
+   "id": "us-111",
+   "topic": "recent",
+   "q": "Why did the United States enter the Vietnam War?",
+   "options": [
+    "To buy territory from France",
+    "To stop the spread of communism",
+    "Because Germany attacked U.S. ships",
+    "To respond to the September 11 attacks"
+   ],
+   "answer": 1,
+   "explain": "The U.S. entered the Vietnam War to stop the spread of communism.",
+   "official": true,
+   "ref": "USCIS M-1778 (09/25) 128 Civics Questions and Answers (2025 version), American History, C: Recent American History and Other Important Historical Information, question 111"
+  },
+  {
+   "id": "us-112",
+   "topic": "recent",
+   "q": "What did the civil rights movement do?",
+   "options": [
+    "Fought to end racial discrimination",
+    "Fought to lower federal taxes",
+    "Fought for independence from Britain",
+    "Fought to end the Cold War"
+   ],
+   "answer": 0,
+   "explain": "The civil rights movement fought to end racial discrimination.",
+   "official": true,
+   "ref": "USCIS M-1778 (09/25) 128 Civics Questions and Answers (2025 version), American History, C: Recent American History and Other Important Historical Information, question 112"
+  },
+  {
+   "id": "us-113",
+   "topic": "recent",
+   "q": "Martin Luther King, Jr. is famous for many things. Name one.",
+   "options": [
+    "Led the Union army in the Civil War",
+    "Was the first Postmaster General",
+    "Fought for civil rights",
+    "Wrote the Declaration of Independence"
+   ],
+   "answer": 2,
+   "explain": "Also accepted: worked for equality for all Americans; worked to ensure that people would “not be judged by the color of their skin, but by the content of their character.”",
+   "official": true,
+   "ref": "USCIS M-1778 (09/25) 128 Civics Questions and Answers (2025 version), American History, C: Recent American History and Other Important Historical Information, question 113 (* 65/20)",
+   "special6520": true
+  },
+  {
+   "id": "us-114",
+   "topic": "recent",
+   "q": "Why did the United States enter the Persian Gulf War?",
+   "options": [
+    "To respond to the September 11 attacks",
+    "Because Japan attacked Pearl Harbor",
+    "To stop the spread of communism",
+    "To force the Iraqi military from Kuwait"
+   ],
+   "answer": 3,
+   "explain": "The U.S. entered the Persian Gulf War (1991) to force the Iraqi military from Kuwait.",
+   "official": true,
+   "ref": "USCIS M-1778 (09/25) 128 Civics Questions and Answers (2025 version), American History, C: Recent American History and Other Important Historical Information, question 114"
+  },
+  {
+   "id": "us-115",
+   "topic": "recent",
+   "q": "What major event happened on September 11, 2001 in the United States?",
+   "options": [
+    "The stock market crashed",
+    "A major earthquake hit New York City",
+    "Japan attacked Pearl Harbor",
+    "Terrorists attacked the United States"
+   ],
+   "answer": 3,
+   "explain": "Also accepted: terrorists crashed two planes into the World Trade Center in New York City; a plane into the Pentagon in Arlington, Virginia; and a plane aimed at Washington, D.C. crashed in a field in Pennsylvania.",
+   "official": true,
+   "ref": "USCIS M-1778 (09/25) 128 Civics Questions and Answers (2025 version), American History, C: Recent American History and Other Important Historical Information, question 115 (* 65/20)",
+   "special6520": true
+  },
+  {
+   "id": "us-116",
+   "topic": "recent",
+   "q": "Name one U.S. military conflict after the September 11, 2001 attacks.",
+   "options": [
+    "War in Afghanistan",
+    "Persian Gulf War",
+    "Vietnam War",
+    "Korean War"
+   ],
+   "answer": 0,
+   "explain": "Also accepted: (Global) War on Terror; War in Iraq. (The Persian Gulf War was in 1991.)",
+   "official": true,
+   "ref": "USCIS M-1778 (09/25) 128 Civics Questions and Answers (2025 version), American History, C: Recent American History and Other Important Historical Information, question 116"
+  },
+  {
+   "id": "us-117",
+   "topic": "recent",
+   "q": "Name one American Indian tribe in the United States.",
+   "options": [
+    "Cherokee",
+    "Inca",
+    "Aztec",
+    "Maya"
+   ],
+   "answer": 0,
+   "explain": "The USCIS list includes Apache, Blackfeet, Cayuga, Cherokee, Cheyenne, Chippewa, Choctaw, Creek, Crow, Hopi, Huron, Inupiat, Lakota, Mohawk, Mohegan, Navajo, Oneida, Onondaga, Pueblo, Seminole, Seneca, Shawnee, Sioux, Teton, Tuscarora (full list at bia.gov). The Aztec, Inca and Maya were in Mexico, Central and South America.",
+   "official": true,
+   "ref": "USCIS M-1778 (09/25) 128 Civics Questions and Answers (2025 version), American History, C: Recent American History and Other Important Historical Information, question 117"
+  },
+  {
+   "id": "us-118",
+   "topic": "recent",
+   "q": "Name one example of an American innovation.",
+   "options": [
+    "Magnetic compass",
+    "Gunpowder",
+    "Airplane",
+    "Printing press"
+   ],
+   "answer": 2,
+   "explain": "Also accepted: light bulb; automobile (cars, internal combustion engine); skyscrapers; assembly line; landing on the moon; integrated circuit (IC).",
+   "official": true,
+   "ref": "USCIS M-1778 (09/25) 128 Civics Questions and Answers (2025 version), American History, C: Recent American History and Other Important Historical Information, question 118"
+  },
+  {
+   "id": "us-119",
+   "topic": "symbols",
+   "q": "What is the capital of the United States?",
+   "options": [
+    "New York City",
+    "Boston",
+    "Washington, D.C.",
+    "Philadelphia"
+   ],
+   "answer": 2,
+   "explain": "The capital of the United States is Washington, D.C.",
+   "official": true,
+   "ref": "USCIS M-1778 (09/25) 128 Civics Questions and Answers (2025 version), Symbols and Holidays, question 119"
+  },
+  {
+   "id": "us-120",
+   "topic": "symbols",
+   "q": "Where is the Statue of Liberty?",
+   "options": [
+    "Chesapeake Bay",
+    "New York Harbor",
+    "Boston Harbor",
+    "San Francisco Bay"
+   ],
+   "answer": 1,
+   "explain": "Also accepted: New York; Liberty Island; New Jersey; near New York City; on the Hudson (River).",
+   "official": true,
+   "ref": "USCIS M-1778 (09/25) 128 Civics Questions and Answers (2025 version), Symbols and Holidays, question 120"
+  },
+  {
+   "id": "us-121",
+   "topic": "symbols",
+   "q": "Why does the flag have 13 stripes?",
+   "options": [
+    "Because there are 13 amendments in the Bill of Rights",
+    "Because there were 13 original colonies",
+    "Because there were 13 founding fathers",
+    "Because there were 13 presidents before Lincoln"
+   ],
+   "answer": 1,
+   "explain": "Also accepted: (because the stripes) represent the original colonies.",
+   "official": true,
+   "ref": "USCIS M-1778 (09/25) 128 Civics Questions and Answers (2025 version), Symbols and Holidays, question 121 (* 65/20)",
+   "special6520": true
+  },
+  {
+   "id": "us-122",
+   "topic": "symbols",
+   "q": "Why does the flag have 50 stars?",
+   "options": [
+    "One star for each state",
+    "One star for each amendment",
+    "One star for each Supreme Court justice",
+    "One star for each president"
+   ],
+   "answer": 0,
+   "explain": "Also accepted: each star represents a state; (because there are) 50 states.",
+   "official": true,
+   "ref": "USCIS M-1778 (09/25) 128 Civics Questions and Answers (2025 version), Symbols and Holidays, question 122"
+  },
+  {
+   "id": "us-123",
+   "topic": "symbols",
+   "q": "What is the name of the national anthem?",
+   "options": [
+    "My Country, ’Tis of Thee",
+    "God Bless America",
+    "The Star-Spangled Banner",
+    "America the Beautiful"
+   ],
+   "answer": 2,
+   "explain": "The national anthem is “The Star-Spangled Banner.”",
+   "official": true,
+   "ref": "USCIS M-1778 (09/25) 128 Civics Questions and Answers (2025 version), Symbols and Holidays, question 123"
+  },
+  {
+   "id": "us-124",
+   "topic": "symbols",
+   "q": "The Nation’s first motto was “E Pluribus Unum.” What does that mean?",
+   "options": [
+    "Liberty and justice for all",
+    "United we stand",
+    "Out of many, one",
+    "In God we trust"
+   ],
+   "answer": 2,
+   "explain": "Also accepted: we all become one.",
+   "official": true,
+   "ref": "USCIS M-1778 (09/25) 128 Civics Questions and Answers (2025 version), Symbols and Holidays, question 124"
+  },
+  {
+   "id": "us-125",
+   "topic": "symbols",
+   "q": "What is Independence Day?",
+   "options": [
+    "A holiday to celebrate U.S. independence from Britain",
+    "A holiday to honor soldiers who died in military service",
+    "A holiday to honor veterans",
+    "A holiday to celebrate the end of the Civil War"
+   ],
+   "answer": 0,
+   "explain": "Also accepted: the country’s birthday.",
+   "official": true,
+   "ref": "USCIS M-1778 (09/25) 128 Civics Questions and Answers (2025 version), Symbols and Holidays, question 125"
+  },
+  {
+   "id": "us-126",
+   "topic": "symbols",
+   "q": "Name three national U.S. holidays.",
+   "options": [
+    "Flag Day, Thanksgiving Day, Labor Day",
+    "Valentine’s Day, Memorial Day, New Year’s Day",
+    "Halloween, Independence Day, Veterans Day",
+    "Thanksgiving Day, Labor Day, Memorial Day"
+   ],
+   "answer": 3,
+   "explain": "Accepted: New Year’s Day; Martin Luther King, Jr. Day; Presidents Day (Washington’s Birthday); Memorial Day; Juneteenth; Independence Day; Labor Day; Columbus Day; Veterans Day; Thanksgiving Day; Christmas Day. Flag Day, Halloween and Valentine’s Day are not federal holidays.",
+   "official": true,
+   "ref": "USCIS M-1778 (09/25) 128 Civics Questions and Answers (2025 version), Symbols and Holidays, question 126 (* 65/20)",
+   "special6520": true
+  },
+  {
+   "id": "us-127",
+   "topic": "symbols",
+   "q": "What is Memorial Day?",
+   "options": [
+    "A holiday to celebrate U.S. independence",
+    "A holiday to honor U.S. presidents",
+    "A holiday to honor soldiers who died in military service",
+    "A holiday to celebrate workers"
+   ],
+   "answer": 2,
+   "explain": "Memorial Day honors soldiers who died in military service.",
+   "official": true,
+   "ref": "USCIS M-1778 (09/25) 128 Civics Questions and Answers (2025 version), Symbols and Holidays, question 127"
+  },
+  {
+   "id": "us-128",
+   "topic": "symbols",
+   "q": "What is Veterans Day?",
+   "options": [
+    "A holiday to celebrate workers",
+    "A holiday to honor U.S. presidents",
+    "A holiday to celebrate the end of the Civil War",
+    "A holiday to honor people who have served in the U.S. military"
+   ],
+   "answer": 3,
+   "explain": "Also accepted: a holiday to honor people in the (U.S.) military.",
+   "official": true,
+   "ref": "USCIS M-1778 (09/25) 128 Civics Questions and Answers (2025 version), Symbols and Holidays, question 128"
+  }
+ ],
+ "version": 1
+}
