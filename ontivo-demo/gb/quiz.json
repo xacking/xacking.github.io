@@ -1,0 +1,66 @@
+{
+ "date": "2026-10-18",
+ "generatedAt": "2026-10-18T08:10:04.478Z",
+ "questions": [
+  {
+   "type": "section",
+   "headline": "Police officer shot in foot in Nottingham city centre",
+   "options": [
+    "WORLD",
+    "NATION",
+    "BUSINESS",
+    "HEALTH"
+   ],
+   "answer": 1,
+   "url": "https://www.bbc.co.uk/news/articles/c63elzvjpgn2o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+   "type": "section",
+   "headline": "Several dead or injured in major fire at Canada military base",
+   "options": [
+    "WORLD",
+    "BUSINESS",
+    "NATION",
+    "ENTERTAINMENT"
+   ],
+   "answer": 0,
+   "url": "https://www.bbc.co.uk/news/articles/cr86z0w4lxdxo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+   "type": "section",
+   "headline": "Heating oil customers face tough winter",
+   "options": [
+    "ENTERTAINMENT",
+    "TECHNOLOGY",
+    "BUSINESS",
+    "NATION"
+   ],
+   "answer": 2,
+   "url": "https://www.bbc.co.uk/news/articles/cq1j3x66e1rno?at_medium=RSS&at_campaign=rss"
+  },
+  {
+   "type": "section",
+   "headline": "No further action against government adviser's wife over Palestine Action post, police say",
+   "options": [
+    "HEALTH",
+    "ENTERTAINMENT",
+    "TECHNOLOGY",
+    "NATION"
+   ],
+   "answer": 2,
+   "url": "https://www.bbc.co.uk/news/articles/cv8ez40yz950o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+   "type": "section",
+   "headline": "New Zealand avoid World Cup shock against Fiji",
+   "options": [
+    "SPORTS",
+    "TECHNOLOGY",
+    "SCIENCE",
+    "BUSINESS"
+   ],
+   "answer": 0,
+   "url": "https://www.bbc.co.uk/sport/rugby-league/articles/cmx2q94rppe9o?at_medium=RSS&at_campaign=rss"
+  }
+ ]
+}

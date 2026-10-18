@@ -1,0 +1,44 @@
+{
+ "generatedAt": "2026-10-18T06:52:15.174979Z",
+ "demo": false,
+ "channels": [
+  {
+   "id": "nasa-plus",
+   "number": 1,
+   "name": "NASA+ Live",
+   "category": "science",
+   "color": "#0B3D91",
+   "stream": "https://images-assets.nasa.gov/video/jsc2021m000138_4K_Earth_Views_Extended_Cut_for_Earth_Day_%202021_210422-4KMP4/jsc2021m000138_4K_Earth_Views_Extended_Cut_for_Earth_Day_%202021_210422-4KMP4~medium.mp4",
+   "logo": "",
+   "poster": "",
+   "nowTitle": "Earth views from the space station",
+   "nextTitle": ""
+  },
+  {
+   "id": "ebs-en",
+   "number": 2,
+   "name": "EbS",
+   "category": "news",
+   "color": "#0A5BD3",
+   "stream": "https://streams.prd.commavservices.eu/live/ebs/index.m3u8",
+   "logo": "https://i.imgur.com/DIIRPNN.png",
+   "poster": "",
+   "nowTitle": "EU institutions live \u00b7 \u00a9 European Union",
+   "nextTitle": "",
+   "audioTrack": "en"
+  },
+  {
+   "id": "ebsplus-en",
+   "number": 3,
+   "name": "EbS+",
+   "category": "news",
+   "color": "#0A5BD3",
+   "stream": "https://streams.prd.commavservices.eu/live/ebsplus/index.m3u8",
+   "logo": "https://i.imgur.com/7V012zQ.png",
+   "poster": "",
+   "nowTitle": "EU institutions live \u00b7 \u00a9 European Union",
+   "nextTitle": "",
+   "audioTrack": "en"
+  }
+ ]
+}
