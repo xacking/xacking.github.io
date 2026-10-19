@@ -1,6 +1,6 @@
 {
- "updated": "2026-10-19T16:25:55Z",
- "checked": "2026-10-19T16:25:55Z",
+ "updated": "2026-10-19T21:14:09Z",
+ "checked": "2026-10-19T21:14:09Z",
  "streams": {
   "tvasahi24": {
    "live": true,
@@ -12,19 +12,19 @@
   },
   "ntvlive": {
    "live": true,
-   "videoId": "3aj12yIdnjA",
-   "title": "【夜ニュースライブ】最新ニュースと生活情報（10月19日） ──THE LATEST NEWS SUMMARY（日テレNEWS LIVE）",
-   "embedUrl": "https://www.youtube.com/embed/3aj12yIdnjA",
-   "watchUrl": "https://www.youtube.com/watch?v=3aj12yIdnjA",
-   "thumb": "https://i.ytimg.com/vi/3aj12yIdnjA/hqdefault_live.jpg"
+   "videoId": "dSGkPZUPc1c",
+   "title": "【朝ニュースライブ】最新ニュースと生活情報（10月20日） ──THE LATEST NEWS SUMMARY（日テレNEWS LIVE）",
+   "embedUrl": "https://www.youtube.com/embed/dSGkPZUPc1c",
+   "watchUrl": "https://www.youtube.com/watch?v=dSGkPZUPc1c",
+   "thumb": "https://i.ytimg.com/vi/dSGkPZUPc1c/hqdefault_live.jpg"
   },
   "weathernews": {
    "live": true,
-   "videoId": "6t3BqnVNnRg",
-   "title": "【ライブ】最新天気ニュース・地震情報 2026年10月19日(月)23:00〜 ／〈ウェザーニュースLiVE〉",
-   "embedUrl": "https://www.youtube.com/embed/6t3BqnVNnRg",
-   "watchUrl": "https://www.youtube.com/watch?v=6t3BqnVNnRg",
-   "thumb": "https://i.ytimg.com/vi/6t3BqnVNnRg/hqdefault_live.jpg"
+   "videoId": "-HBPXH_40fU",
+   "title": "【ライブ】最新天気ニュース・地震情報 2026年10月20日(火) ／広い範囲で傘が活躍　北陸周辺は強まる雨に注意〈ウェザーニュースLiVEモーニング・田辺真南葉／飯島栄一〉",
+   "embedUrl": "https://www.youtube.com/embed/-HBPXH_40fU",
+   "watchUrl": "https://www.youtube.com/watch?v=-HBPXH_40fU",
+   "thumb": "https://i.ytimg.com/vi/-HBPXH_40fU/hqdefault_live.jpg"
   },
   "quake": {
    "live": true,
@@ -76,11 +76,11 @@
   },
   "tbs": {
    "live": true,
-   "videoId": "QluGEkojwdk",
-   "title": "【ニュースライブ】最新ニュースまとめ（Japan News Digest）（10月19日）｜TBS NEWS DIG",
-   "embedUrl": "https://www.youtube.com/embed/QluGEkojwdk",
-   "watchUrl": "https://www.youtube.com/watch?v=QluGEkojwdk",
-   "thumb": "https://i.ytimg.com/vi/QluGEkojwdk/hqdefault_live.jpg"
+   "videoId": "aOVW4wQvGAA",
+   "title": "【ニュースライブ】朝のニュース（Japan News Digest Live）最新情報など（10月20日）｜TBS NEWS DIG",
+   "embedUrl": "https://www.youtube.com/embed/aOVW4wQvGAA",
+   "watchUrl": "https://www.youtube.com/watch?v=aOVW4wQvGAA",
+   "thumb": "https://i.ytimg.com/vi/aOVW4wQvGAA/hqdefault_live.jpg"
   },
   "sapporo": {
    "live": true,
@@ -100,11 +100,11 @@
   },
   "tokyo-fuji": {
    "live": true,
-   "videoId": "BiFnTaIfYP8",
-   "title": "＃オリオン座流星群極大期【星空と東京ライブカメラ】TOKYO STARRY SKY LIVE CAMERA 東京ライブカメラ 　＃オリオン座流星群 #orionidmeteorshower",
-   "embedUrl": "https://www.youtube.com/embed/BiFnTaIfYP8",
-   "watchUrl": "https://www.youtube.com/watch?v=BiFnTaIfYP8",
-   "thumb": "https://i.ytimg.com/vi/BiFnTaIfYP8/hqdefault_live.jpg"
+   "videoId": "1VXJHYlT71g",
+   "title": "【東京ライブカメラ】TOKYO LIVE CAMERA.  Mt'Fuji from Tokyo  富士山 紅富士 赤富士 東京からの富士山    #東京ライブカメラ #富士山東京 #東京夜景",
+   "embedUrl": "https://www.youtube.com/embed/1VXJHYlT71g",
+   "watchUrl": "https://www.youtube.com/watch?v=1VXJHYlT71g",
+   "thumb": "https://i.ytimg.com/vi/1VXJHYlT71g/hqdefault_live.jpg"
   },
   "oshino": {
    "live": true,
