@@ -133,11 +133,21 @@ def main():
 
     def comparable(d):
         return {k: {kk: vv for kk, vv in v.items() if kk != 'stale'} for k, v in d.items()}
-    if comparable(streams) == comparable(old) and not any(v.get('stale') for v in streams.values()):
+    now = datetime.datetime.now(datetime.timezone.utc).replace(microsecond=0)
+    stamp = now.isoformat().replace('+00:00', 'Z')
+    try:
+        prev = json.load(open(old_path, encoding='utf-8'))
+    except Exception:
+        prev = {}
+    changed = comparable(streams) != comparable(old) or any(v.get('stale') for v in streams.values())
+    last_check = datetime.datetime.fromisoformat((prev.get('checked') or prev.get('updated') or '2000-01-01T00:00:00Z').replace('Z', '+00:00'))
+    if not changed and now - last_check < datetime.timedelta(hours=3):
         print('No change')
         return 0
 
-    out = dict(updated=datetime.datetime.now(datetime.timezone.utc).replace(microsecond=0).isoformat().replace('+00:00', 'Z'), streams=streams)
+    # "updated" = when the stream list last changed; "checked" = last time this job confirmed it.
+    # A heartbeat write at least every 3 hours keeps "checked" honest without a commit every run.
+    out = dict(updated=stamp if changed else prev.get('updated', stamp), checked=stamp, streams=streams)
     with open(old_path, 'w', encoding='utf-8') as f:
         json.dump(out, f, ensure_ascii=False, indent=1)
         f.write('\n')

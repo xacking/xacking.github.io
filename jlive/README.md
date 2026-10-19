@@ -26,7 +26,7 @@ Each entry in `live.json` looks like:
 "dotonbori": {"live": true, "videoId": "6OgYfTMOmhY", "title": "…", "embedUrl": "https://www.youtube.com/embed/6OgYfTMOmhY", "watchUrl": "…", "thumb": "…"}
 ```
 
-`live: false` comes with a `reason`: `not-live` or `embedding-disabled`. `stale: true` means YouTube couldn't be read on the last run and the previous value was kept.
+`live: false` comes with a `reason`: `not-live` or `embedding-disabled`. `checked` is the last time the job confirmed the list (at least every 3 hours); `updated` is when it last changed. `stale: true` means YouTube couldn't be read on the last run and the previous value was kept.
 
 ## Rules the app must follow
 
