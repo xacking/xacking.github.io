@@ -1,6 +1,6 @@
 {
- "updated": "2026-10-19T11:43:00Z",
- "checked": "2026-10-19T11:43:00Z",
+ "updated": "2026-10-19T11:43:41Z",
+ "checked": "2026-10-19T11:43:41Z",
  "streams": {
   "tvasahi24": {
    "live": true,
@@ -35,8 +35,12 @@
    "thumb": "https://i.ytimg.com/vi/yqI7WEFZ31E/hqdefault_live.jpg"
   },
   "dotonbori": {
-   "live": false,
-   "reason": "not-live"
+   "live": true,
+   "videoId": "6OgYfTMOmhY",
+   "title": "【LIVE】大阪・道頓堀ライブカメラ　グリコ看板前の様子は？ Osaka Dotonbori #道頓堀 #ライブカメラ",
+   "embedUrl": "https://www.youtube.com/embed/6OgYfTMOmhY",
+   "watchUrl": "https://www.youtube.com/watch?v=6OgYfTMOmhY",
+   "thumb": "https://i.ytimg.com/vi/6OgYfTMOmhY/hqdefault_live.jpg"
   },
   "fuji-shizuoka": {
    "live": true,
