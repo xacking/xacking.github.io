@@ -1,0 +1,27 @@
+{
+ "updated": "2026-10-19T12:00:00Z",
+ "links": [
+  {
+   "id": "nhkworld",
+   "kind": "news",
+   "name": "NHK World-Japan",
+   "note": "Free English news. Opens NHK’s own app.",
+   "ios": "https://apple.co/2KJwoHr",
+   "android": "https://play.google.com/store/apps/details?id=jp.or.nhk.nhkworld.tv"
+  },
+  {
+   "id": "tver",
+   "kind": "news",
+   "name": "TVer 24-hour news",
+   "note": "Nippon TV, TBS and Fuji news channels. Japan only.",
+   "web": "https://tver.jp/"
+  },
+  {
+   "id": "radiko",
+   "kind": "radio",
+   "name": "radiko",
+   "note": "Japanese radio. Works only inside Japan.",
+   "web": "https://radiko.jp/"
+  }
+ ]
+}

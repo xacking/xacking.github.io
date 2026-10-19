@@ -1,0 +1,19 @@
+{
+ "app": "Japan Live",
+ "schema": 1,
+ "updated": "2026-10-19T12:00:00Z",
+ "minAppVersion": "1.0.0",
+ "showPendingSources": false,
+ "liveRefreshMinutes": 30,
+ "feeds": {
+  "channels": "https://xacking.github.io/jlive/v1/channels.json",
+  "cams": "https://xacking.github.io/jlive/v1/cams.json",
+  "live": "https://xacking.github.io/jlive/v1/live.json",
+  "links": "https://xacking.github.io/jlive/v1/links.json",
+  "wallpapers": "https://xacking.github.io/jlive/v1/wallpapers.json",
+  "quiz": "https://xacking.github.io/jlive/v1/quiz.json",
+  "words": "https://xacking.github.io/jlive/v1/words.json",
+  "sudoku": "https://xacking.github.io/jlive/v1/sudoku.json"
+ },
+ "notice": null
+}

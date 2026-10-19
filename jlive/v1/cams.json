@@ -1,0 +1,222 @@
+{
+ "updated": "2026-10-19T12:00:00Z",
+ "cams": [
+  {
+   "id": "sapporo",
+   "cat": "city",
+   "lat": 43.057,
+   "lon": 141.353,
+   "city": "Sapporo",
+   "region": "Hokkaido",
+   "name": "Tanukikoji arcade",
+   "jp": "札幌 · 狸小路",
+   "desc": "Hokkaido’s biggest shopping street",
+   "best": "Evening",
+   "credit": "たぬきやLIVE",
+   "channelId": "UCRZplV8vE67bgCI6_3sm3mQ",
+   "match": [
+    "狸小路"
+   ],
+   "status": "pending",
+   "channelUrl": "https://www.youtube.com/channel/UCRZplV8vE67bgCI6_3sm3mQ"
+  },
+  {
+   "id": "niigata",
+   "cat": "sea",
+   "lat": 37.88,
+   "lon": 138.98,
+   "city": "Niigata",
+   "region": "Niigata",
+   "name": "Sunset over Sado",
+   "jp": "新潟 · 日本海ゆうひ",
+   "desc": "The sun sets behind Sado Island",
+   "best": "Sunset",
+   "credit": "新潟市 西区 SUNSET",
+   "channelId": "UC0tIwl3Ar4zRIuzsZi6QzYw",
+   "match": [
+    "ゆうひ",
+    "Sunset"
+   ],
+   "status": "pending",
+   "channelUrl": "https://www.youtube.com/channel/UC0tIwl3Ar4zRIuzsZi6QzYw"
+  },
+  {
+   "id": "tokyo-fuji",
+   "cat": "city",
+   "lat": 35.707,
+   "lon": 139.666,
+   "city": "Tokyo",
+   "region": "Kanto",
+   "name": "Mt Fuji from Tokyo",
+   "jp": "東京 · 中野から富士山",
+   "desc": "Fuji over the rooftops on clear days",
+   "best": "Sunrise",
+   "credit": "VICENTE AGEMATSU",
+   "channelId": "UCz9uOOV45iv-gi8t5fpdkDQ",
+   "match": [
+    "東京ライブカメラ",
+    "TOKYO"
+   ],
+   "exclude": [
+    "山頂"
+   ],
+   "status": "official",
+   "note": "Owner allows reuse with credit. New video ID every 12 hours.",
+   "channelUrl": "https://www.youtube.com/channel/UCz9uOOV45iv-gi8t5fpdkDQ"
+  },
+  {
+   "id": "oshino",
+   "cat": "nature",
+   "lat": 35.46,
+   "lon": 138.84,
+   "city": "Oshino",
+   "region": "Yamanashi",
+   "name": "Mt Fuji from Lake Oshino",
+   "jp": "忍野 · 富士山",
+   "desc": "Reflections on calm mornings",
+   "hours": "Until 18:00 JST",
+   "best": "Early morning",
+   "credit": "ケーブルテレビ河口湖",
+   "channelId": "UCK9eHUAiJeNA2i_1TcgZcfw",
+   "match": [
+    "富士山"
+   ],
+   "status": "pending",
+   "channelUrl": "https://www.youtube.com/channel/UCK9eHUAiJeNA2i_1TcgZcfw"
+  },
+  {
+   "id": "fuji-shizuoka",
+   "cat": "nature",
+   "lat": 34.976,
+   "lon": 138.383,
+   "city": "Shizuoka",
+   "region": "Tokai",
+   "name": "Mt Fuji from Shizuoka",
+   "jp": "静岡各地情報カメラ",
+   "desc": "Fuji on clear days, news in emergencies",
+   "best": "Clear mornings",
+   "credit": "Daiichi-TV NEWS",
+   "channelId": "UCNGwxGuezr6aSAn9IYk4F1Q",
+   "match": [
+    "情報カメラ"
+   ],
+   "status": "official",
+   "channelUrl": "https://www.youtube.com/channel/UCNGwxGuezr6aSAn9IYk4F1Q"
+  },
+  {
+   "id": "toba-otters",
+   "cat": "animals",
+   "lat": 34.48,
+   "lon": 136.85,
+   "city": "Toba",
+   "region": "Mie",
+   "name": "Toba Aquarium sea otters",
+   "jp": "鳥羽水族館 · ラッコ",
+   "desc": "Mei and Kira, Japan’s best-known sea otters",
+   "hours": "9:30–17:00 JST",
+   "best": "Feeding time",
+   "credit": "鳥羽水族館 TOBA AQUARIUM",
+   "channelId": "UCQcj-JgG6XA0hGcTYWnK3ig",
+   "match": [
+    "ラッコ"
+   ],
+   "status": "official",
+   "channelUrl": "https://www.youtube.com/channel/UCQcj-JgG6XA0hGcTYWnK3ig"
+  },
+  {
+   "id": "kyoto-tower",
+   "cat": "city",
+   "lat": 34.99,
+   "lon": 135.759,
+   "city": "Kyoto",
+   "region": "Kansai",
+   "name": "Kyoto Tower",
+   "jp": "京都タワー",
+   "desc": "The tower outside Kyoto Station",
+   "best": "After dark",
+   "credit": "butsuguya",
+   "channelId": "UCbK8WglSwkj6R0nqcmZH_NQ",
+   "match": [
+    "京都タワー"
+   ],
+   "status": "pending",
+   "channelUrl": "https://www.youtube.com/channel/UCbK8WglSwkj6R0nqcmZH_NQ"
+  },
+  {
+   "id": "dotonbori",
+   "cat": "city",
+   "lat": 34.665,
+   "lon": 135.501,
+   "city": "Osaka",
+   "region": "Kansai",
+   "name": "Dotonbori, Osaka",
+   "jp": "大阪 · 道頓堀",
+   "desc": "The Glico sign and the canal crowds",
+   "best": "Night",
+   "credit": "MBS NEWS",
+   "channelId": "UCkKJhKO73xF1pK5h9R82ZGQ",
+   "match": [
+    "道頓堀"
+   ],
+   "status": "official",
+   "channelUrl": "https://www.youtube.com/channel/UCkKJhKO73xF1pK5h9R82ZGQ"
+  },
+  {
+   "id": "tottori",
+   "cat": "sea",
+   "lat": 35.52,
+   "lon": 134.1,
+   "city": "Tottori",
+   "region": "Tottori",
+   "name": "Sea of Japan coast",
+   "jp": "鳥取 · 伏野海岸",
+   "desc": "Waves seen from a painter’s studio",
+   "best": "Stormy days",
+   "credit": "Atelier COCOON",
+   "channelId": "UCLkGTD9DRsG-Y27qE9uehaQ",
+   "match": [
+    "伏野"
+   ],
+   "status": "pending",
+   "channelUrl": "https://www.youtube.com/channel/UCLkGTD9DRsG-Y27qE9uehaQ"
+  },
+  {
+   "id": "kurushima",
+   "cat": "sea",
+   "lat": 34.07,
+   "lon": 132.99,
+   "city": "Imabari",
+   "region": "Ehime",
+   "name": "Kurushima Strait ships",
+   "jp": "今治 · 来島海峡",
+   "desc": "Passing ships tagged with name and speed",
+   "best": "Daytime",
+   "credit": "SKHN",
+   "channelId": "UCCdKPqsk7bM62NUMCbHx_kA",
+   "match": [
+    "来島海峡"
+   ],
+   "status": "pending",
+   "channelUrl": "https://www.youtube.com/channel/UCCdKPqsk7bM62NUMCbHx_kA"
+  },
+  {
+   "id": "sakurajima",
+   "cat": "nature",
+   "lat": 31.59,
+   "lon": 130.56,
+   "city": "Sakurajima",
+   "region": "Kagoshima",
+   "name": "Sakurajima volcano",
+   "jp": "桜島",
+   "desc": "An active volcano across the bay",
+   "best": "Any time",
+   "credit": "KYT 鹿児島読売テレビ",
+   "channelId": "UCmGV3cjwDinrtulXJH6Yc4g",
+   "match": [
+    "ライブカメラ"
+   ],
+   "status": "official",
+   "channelUrl": "https://www.youtube.com/channel/UCmGV3cjwDinrtulXJH6Yc4g"
+  }
+ ]
+}

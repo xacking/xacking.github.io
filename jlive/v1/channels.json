@@ -1,0 +1,163 @@
+{
+ "updated": "2026-10-19T12:00:00Z",
+ "channels": [
+  {
+   "id": "tvasahi24",
+   "num": 1,
+   "kind": "news",
+   "name": "TV Asahi News 24",
+   "jp": "テレ朝NEWS24",
+   "show": "Japan news around the clock",
+   "credit": "ANNnewsCH",
+   "channelId": "UCGCZAYq5Xxojl_tSXcVJhiQ",
+   "match": [
+    "NEWS24",
+    "24時間"
+   ],
+   "pinnedVideoId": "coYw-eVU0Ks",
+   "status": "official",
+   "channelUrl": "https://www.youtube.com/channel/UCGCZAYq5Xxojl_tSXcVJhiQ"
+  },
+  {
+   "id": "ntvlive",
+   "num": 2,
+   "kind": "news",
+   "name": "Nippon TV News Live",
+   "jp": "日テレNEWS LIVE",
+   "show": "Rolling news, politics and world",
+   "credit": "日テレNEWS",
+   "channelId": "UCuTAXTexrhetbOe3zgskJBQ",
+   "match": [
+    "ニュースライブ",
+    "LIVE"
+   ],
+   "status": "official",
+   "channelUrl": "https://www.youtube.com/channel/UCuTAXTexrhetbOe3zgskJBQ"
+  },
+  {
+   "id": "weathernews",
+   "num": 3,
+   "kind": "weather",
+   "name": "Weathernews Live",
+   "jp": "ウェザーニュースLiVE",
+   "show": "Live forecasters 5:00–23:00 JST",
+   "credit": "ウェザーニュース",
+   "channelId": "UCNsidkYpIAQ4QaufptQBPHQ",
+   "match": [
+    "ウェザーニュースLiVE",
+    "天気"
+   ],
+   "exclude": [
+    "地震ライブ"
+   ],
+   "status": "official",
+   "channelUrl": "https://www.youtube.com/channel/UCNsidkYpIAQ4QaufptQBPHQ"
+  },
+  {
+   "id": "quake",
+   "num": 4,
+   "kind": "alerts",
+   "name": "Earthquake Live",
+   "jp": "地震ライブ",
+   "show": "Early warnings and shaking maps, 24/7",
+   "credit": "ウェザーニュース",
+   "channelId": "UCNsidkYpIAQ4QaufptQBPHQ",
+   "match": [
+    "地震ライブ",
+    "緊急地震速報"
+   ],
+   "status": "official",
+   "channelUrl": "https://www.youtube.com/channel/UCNsidkYpIAQ4QaufptQBPHQ"
+  },
+  {
+   "id": "dotonbori",
+   "num": 5,
+   "kind": "cam",
+   "name": "Dotonbori, Osaka",
+   "jp": "道頓堀 グリコ看板前",
+   "show": "Live camera · no commentary",
+   "credit": "MBS NEWS",
+   "channelId": "UCkKJhKO73xF1pK5h9R82ZGQ",
+   "match": [
+    "道頓堀"
+   ],
+   "status": "official",
+   "channelUrl": "https://www.youtube.com/channel/UCkKJhKO73xF1pK5h9R82ZGQ"
+  },
+  {
+   "id": "fuji-shizuoka",
+   "num": 6,
+   "kind": "cam",
+   "name": "Mt Fuji from Shizuoka",
+   "jp": "静岡各地情報カメラ",
+   "show": "Fuji on clear days · news in emergencies",
+   "credit": "Daiichi-TV NEWS",
+   "channelId": "UCNGwxGuezr6aSAn9IYk4F1Q",
+   "match": [
+    "情報カメラ"
+   ],
+   "status": "official",
+   "channelUrl": "https://www.youtube.com/channel/UCNGwxGuezr6aSAn9IYk4F1Q"
+  },
+  {
+   "id": "sakurajima",
+   "num": 7,
+   "kind": "cam",
+   "name": "Sakurajima volcano",
+   "jp": "桜島",
+   "show": "Active volcano across Kagoshima Bay",
+   "credit": "KYT 鹿児島読売テレビ",
+   "channelId": "UCmGV3cjwDinrtulXJH6Yc4g",
+   "match": [
+    "ライブカメラ"
+   ],
+   "status": "official",
+   "channelUrl": "https://www.youtube.com/channel/UCmGV3cjwDinrtulXJH6Yc4g"
+  },
+  {
+   "id": "toba-otters",
+   "num": 8,
+   "kind": "cam",
+   "name": "Toba sea otters",
+   "jp": "鳥羽水族館 ラッコ",
+   "show": "Mei and Kira · live 9:30–17:00 JST",
+   "credit": "鳥羽水族館 TOBA AQUARIUM",
+   "channelId": "UCQcj-JgG6XA0hGcTYWnK3ig",
+   "match": [
+    "ラッコ"
+   ],
+   "status": "official",
+   "note": "Aquarium allows screenshots only with its on-screen label and a link. Do not offer frame saving.",
+   "channelUrl": "https://www.youtube.com/channel/UCQcj-JgG6XA0hGcTYWnK3ig"
+  },
+  {
+   "id": "rcc",
+   "num": 9,
+   "kind": "news",
+   "name": "RCC News Hiroshima",
+   "jp": "RCC NEWS DIG",
+   "show": "Hiroshima news on a 24-hour loop",
+   "credit": "RCC NEWS DIG Powered by JNN",
+   "channelId": "UCATnyu9lou_Lw43gvyoh8uA",
+   "match": [
+    "24h",
+    "24時間"
+   ],
+   "status": "official",
+   "channelUrl": "https://www.youtube.com/channel/UCATnyu9lou_Lw43gvyoh8uA"
+  },
+  {
+   "id": "tbs",
+   "num": 10,
+   "kind": "news",
+   "name": "TBS News Dig",
+   "jp": "TBS NEWS DIG",
+   "show": "Live for press conferences and breaking news",
+   "credit": "TBS NEWS DIG Powered by JNN",
+   "channelId": "UC6AG81pAkf6Lbi_1VC5NmPA",
+   "match": [],
+   "status": "official",
+   "channelUrl": "https://www.youtube.com/channel/UC6AG81pAkf6Lbi_1VC5NmPA"
+  }
+ ]
+}

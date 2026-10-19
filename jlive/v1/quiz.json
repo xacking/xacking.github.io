@@ -1,0 +1,207 @@
+{
+ "updated": "2026-10-19T12:00:00Z",
+ "geo": [
+  {
+   "id": "tokyo",
+   "clue": "A giant scramble crossing outside one of the world’s busiest stations.",
+   "answer": "Tokyo",
+   "fact": "Shibuya Crossing in Tokyo. Every light change, people cross from all directions at once.",
+   "options": [
+    "Tokyo",
+    "Osaka",
+    "Nagoya",
+    "Fukuoka"
+   ]
+  },
+  {
+   "id": "miyajima",
+   "clue": "A huge red gate that seems to float on the sea at high tide.",
+   "answer": "Hiroshima",
+   "fact": "The torii of Itsukushima Shrine on Miyajima island, Hiroshima Prefecture.",
+   "options": [
+    "Kyoto",
+    "Hiroshima",
+    "Nara",
+    "Nagasaki"
+   ]
+  },
+  {
+   "id": "nagano",
+   "clue": "Wild monkeys soaking in a steaming hot spring among the snow.",
+   "answer": "Nagano",
+   "fact": "Jigokudani Snow Monkey Park in Nagano. The macaques bathe to stay warm in winter.",
+   "options": [
+    "Hokkaido",
+    "Nagano",
+    "Aomori",
+    "Niigata"
+   ]
+  },
+  {
+   "id": "kagoshima",
+   "clue": "An active volcano smoking just across the bay from the city.",
+   "answer": "Kagoshima",
+   "fact": "Sakurajima faces Kagoshima city and erupts small plumes regularly.",
+   "options": [
+    "Kagoshima",
+    "Okinawa",
+    "Kumamoto",
+    "Sendai"
+   ]
+  },
+  {
+   "id": "osaka",
+   "clue": "Neon signs and a famous running-man billboard along a canal.",
+   "answer": "Osaka",
+   "fact": "Dotonbori in Osaka, famous for its signs and street food like takoyaki.",
+   "options": [
+    "Kobe",
+    "Tokyo",
+    "Osaka",
+    "Yokohama"
+   ]
+  },
+  {
+   "id": "fuji",
+   "clue": "Japan’s highest mountain reflected in a calm lake at dawn.",
+   "answer": "Yamanashi",
+   "fact": "Mt Fuji from Lake Kawaguchi, Yamanashi. Fuji sits on the Shizuoka and Yamanashi border.",
+   "options": [
+    "Shizuoka",
+    "Nagano",
+    "Yamanashi",
+    "Gunma"
+   ]
+  },
+  {
+   "id": "sapporo",
+   "clue": "A city park filled with giant snow sculptures every February.",
+   "answer": "Sapporo",
+   "fact": "The Sapporo Snow Festival takes over Odori Park each winter.",
+   "options": [
+    "Sapporo",
+    "Sendai",
+    "Hakodate",
+    "Kanazawa"
+   ]
+  },
+  {
+   "id": "fukuoka",
+   "clue": "Tiny open-air food stalls light up the riverside at night.",
+   "answer": "Fukuoka",
+   "fact": "Fukuoka’s yatai stalls in Nakasu serve ramen and grilled skewers.",
+   "options": [
+    "Hiroshima",
+    "Fukuoka",
+    "Okayama",
+    "Matsuyama"
+   ]
+  }
+ ],
+ "kanji": [
+  {
+   "id": "jishin",
+   "kanji": "地震",
+   "reading": "じしん · jishin",
+   "answer": "Earthquake",
+   "fact": "地 means ground and 震 means shake.",
+   "options": [
+    "Earthquake",
+    "Weather",
+    "Island",
+    "Volcano"
+   ]
+  },
+  {
+   "id": "eki",
+   "kanji": "駅",
+   "reading": "えき · eki",
+   "answer": "Station",
+   "fact": "The horse radical 馬 is a hint: old post stations kept horses.",
+   "options": [
+    "Horse",
+    "Station",
+    "Bridge",
+    "Ticket"
+   ]
+  },
+  {
+   "id": "koyo",
+   "kanji": "紅葉",
+   "reading": "こうよう · kōyō",
+   "answer": "Autumn leaves",
+   "fact": "紅 is crimson and 葉 is leaf. Also read momiji, the maple.",
+   "options": [
+    "Cherry blossom",
+    "Green tea",
+    "Autumn leaves",
+    "Red bean"
+   ]
+  },
+  {
+   "id": "tenki",
+   "kanji": "天気",
+   "reading": "てんき · tenki",
+   "answer": "Weather",
+   "fact": "天 is sky or heaven and 気 is spirit or air.",
+   "options": [
+    "Weather",
+    "Heaven",
+    "Energy",
+    "Sky tree"
+   ]
+  },
+  {
+   "id": "densha",
+   "kanji": "電車",
+   "reading": "でんしゃ · densha",
+   "answer": "Train",
+   "fact": "電 is electricity and 車 is vehicle: an electric car.",
+   "options": [
+    "Car",
+    "Train",
+    "Telephone",
+    "Taxi"
+   ]
+  },
+  {
+   "id": "sakura",
+   "kanji": "桜",
+   "reading": "さくら · sakura",
+   "answer": "Cherry blossom",
+   "fact": "The tree radical 木 sits on the left of 桜.",
+   "options": [
+    "Plum",
+    "Cherry blossom",
+    "Pine",
+    "Bamboo"
+   ]
+  },
+  {
+   "id": "kawa",
+   "kanji": "川",
+   "reading": "かわ · kawa",
+   "answer": "River",
+   "fact": "Three flowing lines: one of the oldest picture kanji.",
+   "options": [
+    "Mountain",
+    "Rain",
+    "River",
+    "Three"
+   ]
+  },
+  {
+   "id": "yama",
+   "kanji": "山",
+   "reading": "やま · yama",
+   "answer": "Mountain",
+   "fact": "Three peaks. Fujisan is 富士山.",
+   "options": [
+    "Mountain",
+    "Fire",
+    "Gate",
+    "Field"
+   ]
+  }
+ ]
+}

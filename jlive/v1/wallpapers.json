@@ -1,0 +1,96 @@
+{
+ "updated": "2026-10-19T12:00:00Z",
+ "wallpapers": [
+  {
+   "id": "hinomaru",
+   "cat": "minimal",
+   "name": "Red sun",
+   "set": "Minimal set",
+   "image": "https://xacking.github.io/jlive/v1/wallpapers/hinomaru.jpg",
+   "thumb": "https://xacking.github.io/jlive/v1/wallpapers/thumbs/hinomaru.jpg",
+   "width": 1170,
+   "height": 2532
+  },
+  {
+   "id": "fujidawn",
+   "cat": "fuji",
+   "name": "Fuji at dawn",
+   "set": "Fuji set",
+   "image": "https://xacking.github.io/jlive/v1/wallpapers/fujidawn.jpg",
+   "thumb": "https://xacking.github.io/jlive/v1/wallpapers/thumbs/fujidawn.jpg",
+   "width": 1170,
+   "height": 2532
+  },
+  {
+   "id": "waves",
+   "cat": "pattern",
+   "name": "Seigaiha waves",
+   "set": "Pattern set",
+   "image": "https://xacking.github.io/jlive/v1/wallpapers/waves.jpg",
+   "thumb": "https://xacking.github.io/jlive/v1/wallpapers/thumbs/waves.jpg",
+   "width": 1170,
+   "height": 2532
+  },
+  {
+   "id": "neon",
+   "cat": "city",
+   "name": "Shinjuku neon",
+   "set": "Night city set",
+   "image": "https://xacking.github.io/jlive/v1/wallpapers/neon.jpg",
+   "thumb": "https://xacking.github.io/jlive/v1/wallpapers/thumbs/neon.jpg",
+   "width": 1170,
+   "height": 2532
+  },
+  {
+   "id": "sakura",
+   "cat": "seasons",
+   "name": "Sakura drift",
+   "set": "Seasons set",
+   "image": "https://xacking.github.io/jlive/v1/wallpapers/sakura.jpg",
+   "thumb": "https://xacking.github.io/jlive/v1/wallpapers/thumbs/sakura.jpg",
+   "width": 1170,
+   "height": 2532
+  },
+  {
+   "id": "fujinight",
+   "cat": "fuji",
+   "name": "Fuji under stars",
+   "set": "Fuji set",
+   "image": "https://xacking.github.io/jlive/v1/wallpapers/fujinight.jpg",
+   "thumb": "https://xacking.github.io/jlive/v1/wallpapers/thumbs/fujinight.jpg",
+   "width": 1170,
+   "height": 2532
+  },
+  {
+   "id": "shizuka",
+   "cat": "minimal",
+   "name": "Stillness",
+   "set": "Minimal set",
+   "image": "https://xacking.github.io/jlive/v1/wallpapers/shizuka.jpg",
+   "thumb": "https://xacking.github.io/jlive/v1/wallpapers/thumbs/shizuka.jpg",
+   "width": 1170,
+   "height": 2532
+  },
+  {
+   "id": "momiji",
+   "cat": "seasons",
+   "name": "Autumn maple",
+   "set": "Seasons set",
+   "image": "https://xacking.github.io/jlive/v1/wallpapers/momiji.jpg",
+   "thumb": "https://xacking.github.io/jlive/v1/wallpapers/thumbs/momiji.jpg",
+   "width": 1170,
+   "height": 2532
+  },
+  {
+   "id": "fujired",
+   "cat": "fuji",
+   "name": "Red sun over Fuji",
+   "set": "Fuji set",
+   "isNew": true,
+   "image": "https://xacking.github.io/jlive/v1/wallpapers/fujired.jpg",
+   "thumb": "https://xacking.github.io/jlive/v1/wallpapers/thumbs/fujired.jpg",
+   "width": 1170,
+   "height": 2532
+  }
+ ]
+}

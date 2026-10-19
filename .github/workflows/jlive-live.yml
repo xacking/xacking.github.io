@@ -1,0 +1,43 @@
+name: Japan Live - refresh live streams
+
+on:
+  schedule:
+    - cron: '7,37 * * * *'   # every 30 minutes
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - 'jlive/v1/channels.json'
+      - 'jlive/v1/cams.json'
+      - '.github/scripts/jlive_live.py'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: jlive-live
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Find current live streams
+        run: python .github/scripts/jlive_live.py
+      - name: Commit live.json if it changed
+        run: |
+          if git diff --quiet -- jlive/v1/live.json; then
+            echo "live.json unchanged"
+            exit 0
+          fi
+          git config user.name "jlive-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add jlive/v1/live.json
+          git commit -m "Japan Live: refresh live streams"
+          git pull --rebase --autostash
+          git push
