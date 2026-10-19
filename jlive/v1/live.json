@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-19T09:00:04Z",
+ "updated": "2026-10-19T09:01:17Z",
  "streams": {
   "tvasahi24": {
    "live": true,
@@ -11,19 +11,19 @@
   },
   "ntvlive": {
    "live": true,
-   "videoId": "WyeNPQbIh5Q",
-   "title": "【夕ニュースライブ】最新ニュースと生活情報（10月19日） ──THE LATEST NEWS SUMMARY（日テレNEWS LIVE）",
-   "embedUrl": "https://www.youtube.com/embed/WyeNPQbIh5Q",
-   "watchUrl": "https://www.youtube.com/watch?v=WyeNPQbIh5Q",
-   "thumb": "https://i.ytimg.com/vi/WyeNPQbIh5Q/hqdefault_live.jpg"
+   "videoId": "jO7piNdGTSg",
+   "title": "【夜ニュースライブ】最新ニュースと生活情報（10月19日） ──THE LATEST NEWS SUMMARY（日テレNEWS LIVE）",
+   "embedUrl": "https://www.youtube.com/embed/jO7piNdGTSg",
+   "watchUrl": "https://www.youtube.com/watch?v=jO7piNdGTSg",
+   "thumb": "https://i.ytimg.com/vi/jO7piNdGTSg/hqdefault_live.jpg"
   },
   "weathernews": {
    "live": true,
-   "videoId": "W39cjjnR6gs",
-   "title": "【ライブ】最新天気ニュース・地震情報 2026年10月19日(月) ／〈ウェザーニュースLiVEイブニング・戸北美月／宇野沢達也〉",
-   "embedUrl": "https://www.youtube.com/embed/W39cjjnR6gs",
-   "watchUrl": "https://www.youtube.com/watch?v=W39cjjnR6gs",
-   "thumb": "https://i.ytimg.com/vi/W39cjjnR6gs/hqdefault_live.jpg"
+   "videoId": "uop2w-WugsY",
+   "title": "【情報公開】ウェザーニュースLiVE 冬フェス〜今年最後のハレ騒ぎ〜  詳細情報を大公開SP 10月19日(月) 18:00〜18:30",
+   "embedUrl": "https://www.youtube.com/embed/uop2w-WugsY",
+   "watchUrl": "https://www.youtube.com/watch?v=uop2w-WugsY",
+   "thumb": "https://i.ytimg.com/vi/uop2w-WugsY/hqdefault_live.jpg"
   },
   "quake": {
    "live": true,
@@ -75,11 +75,11 @@
   },
   "tbs": {
    "live": true,
-   "videoId": "jZgl5kn2Hj0",
-   "title": "【国会中継・リプレイ】参議院予算委員会　「消費税減税」めぐり国債含む“財源”について論戦　高市総理ら全閣僚出席（2026年10月19日午後1時～ LIVE配信）｜TBS NEWS DIG",
-   "embedUrl": "https://www.youtube.com/embed/jZgl5kn2Hj0",
-   "watchUrl": "https://www.youtube.com/watch?v=jZgl5kn2Hj0",
-   "thumb": "https://i.ytimg.com/vi/jZgl5kn2Hj0/hqdefault_live.jpg"
+   "videoId": "HP4yX7vimAc",
+   "title": "【ニュースライブ】夜のニュース（Japan News Digest Live）最新情報など（10月19日）｜TBS NEWS DIG",
+   "embedUrl": "https://www.youtube.com/embed/HP4yX7vimAc",
+   "watchUrl": "https://www.youtube.com/watch?v=HP4yX7vimAc",
+   "thumb": "https://i.ytimg.com/vi/HP4yX7vimAc/hqdefault_live.jpg"
   },
   "sapporo": {
    "live": true,
@@ -122,12 +122,8 @@
    "thumb": "https://i.ytimg.com/vi/CeSitkT_nbw/hqdefault_live.jpg"
   },
   "tottori": {
-   "live": true,
-   "videoId": "0ZN0CW-IpVk",
-   "title": "鳥取市伏野海岸ライブカメラ　The Sea of Japan live camera.",
-   "embedUrl": "https://www.youtube.com/embed/0ZN0CW-IpVk",
-   "watchUrl": "https://www.youtube.com/watch?v=0ZN0CW-IpVk",
-   "thumb": "https://i.ytimg.com/vi/0ZN0CW-IpVk/hqdefault_live.jpg"
+   "live": false,
+   "reason": "not-live"
   },
   "kurushima": {
    "live": true,
