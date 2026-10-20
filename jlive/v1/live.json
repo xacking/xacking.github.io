@@ -1,6 +1,6 @@
 {
- "updated": "2026-10-20T19:58:43Z",
- "checked": "2026-10-20T19:58:43Z",
+ "updated": "2026-10-20T23:09:16Z",
+ "checked": "2026-10-20T23:09:16Z",
  "streams": {
   "tvasahi24": {
    "live": true,
@@ -12,19 +12,19 @@
   },
   "ntvlive": {
    "live": true,
-   "videoId": "nuc5p8HrRI0",
-   "title": "【夜ニュースライブ】最新ニュースと生活情報（10月20日） ──THE LATEST NEWS SUMMARY（日テレNEWS LIVE）",
-   "embedUrl": "https://www.youtube.com/embed/nuc5p8HrRI0",
-   "watchUrl": "https://www.youtube.com/watch?v=nuc5p8HrRI0",
-   "thumb": "https://i.ytimg.com/vi/nuc5p8HrRI0/hqdefault_live.jpg"
+   "videoId": "E-nV2__P-QM",
+   "title": "【朝ニュースライブ】最新ニュースと生活情報（10月21日） ──THE LATEST NEWS SUMMARY（日テレNEWS LIVE）",
+   "embedUrl": "https://www.youtube.com/embed/E-nV2__P-QM",
+   "watchUrl": "https://www.youtube.com/watch?v=E-nV2__P-QM",
+   "thumb": "https://i.ytimg.com/vi/E-nV2__P-QM/hqdefault_live.jpg"
   },
   "weathernews": {
    "live": true,
-   "videoId": "bSKk3HT9XhQ",
-   "title": "【ライブ】最新天気ニュース・地震情報 2026年10月21日(水) ／〈ウェザーニュースLiVEモーニング・魚住茉由／飯島栄一〉",
-   "embedUrl": "https://www.youtube.com/embed/bSKk3HT9XhQ",
-   "watchUrl": "https://www.youtube.com/watch?v=bSKk3HT9XhQ",
-   "thumb": "https://i.ytimg.com/vi/bSKk3HT9XhQ/hqdefault_live.jpg"
+   "videoId": "dYJ0BHMrdUo",
+   "title": "【ライブ】最新天気ニュース・地震情報 2026年10月21日(水) ／各地で雨や風が強まる　関東など季節外れの気温に〈ウェザーニュースLiVEサンシャイン・ 福吉貴文／飯島栄一〉",
+   "embedUrl": "https://www.youtube.com/embed/dYJ0BHMrdUo",
+   "watchUrl": "https://www.youtube.com/watch?v=dYJ0BHMrdUo",
+   "thumb": "https://i.ytimg.com/vi/dYJ0BHMrdUo/hqdefault_live.jpg"
   },
   "quake": {
    "live": true,
@@ -96,11 +96,11 @@
   },
   "tokyo-fuji": {
    "live": true,
-   "videoId": "Gapn_16jif4",
-   "title": "＃オリオン座流星群極大期【星空と東京ライブカメラ】TOKYO STARRY SKY LIVE CAMERA 東京ライブカメラ 　＃オリオン座流星群 #orionidmeteorshower",
-   "embedUrl": "https://www.youtube.com/embed/Gapn_16jif4",
-   "watchUrl": "https://www.youtube.com/watch?v=Gapn_16jif4",
-   "thumb": "https://i.ytimg.com/vi/Gapn_16jif4/hqdefault_live.jpg"
+   "videoId": "UVhttiEuFeA",
+   "title": "【東京ライブカメラ】TOKYO LIVE CAMERA.  Mt'Fuji from Tokyo  富士山 紅富士 赤富士 東京からの富士山    #東京ライブカメラ #富士山東京 #東京夜景",
+   "embedUrl": "https://www.youtube.com/embed/UVhttiEuFeA",
+   "watchUrl": "https://www.youtube.com/watch?v=UVhttiEuFeA",
+   "thumb": "https://i.ytimg.com/vi/UVhttiEuFeA/hqdefault_live.jpg"
   },
   "oshino": {
    "live": true,
