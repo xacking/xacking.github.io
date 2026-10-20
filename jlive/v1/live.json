@@ -1,6 +1,6 @@
 {
- "updated": "2026-10-20T05:57:58Z",
- "checked": "2026-10-20T05:57:58Z",
+ "updated": "2026-10-20T11:27:30Z",
+ "checked": "2026-10-20T11:27:30Z",
  "streams": {
   "tvasahi24": {
    "live": true,
@@ -12,19 +12,19 @@
   },
   "ntvlive": {
    "live": true,
-   "videoId": "lmw9T_HsdJQ",
-   "title": "【リプレイ】気象庁3か月予報  11～1月の天気はどうなる？──社会ニュースライブ （日テレNEWS LIVE）",
-   "embedUrl": "https://www.youtube.com/embed/lmw9T_HsdJQ",
-   "watchUrl": "https://www.youtube.com/watch?v=lmw9T_HsdJQ",
-   "thumb": "https://i.ytimg.com/vi/lmw9T_HsdJQ/hqdefault_live.jpg"
+   "videoId": "y59hnBkIxWA",
+   "title": "【夜ニュースライブ】最新ニュースと生活情報（10月20日） ──THE LATEST NEWS SUMMARY（日テレNEWS LIVE）",
+   "embedUrl": "https://www.youtube.com/embed/y59hnBkIxWA",
+   "watchUrl": "https://www.youtube.com/watch?v=y59hnBkIxWA",
+   "thumb": "https://i.ytimg.com/vi/y59hnBkIxWA/hqdefault_live.jpg"
   },
   "weathernews": {
    "live": true,
-   "videoId": "Mr83kw1KBQQ",
-   "title": "【ライブ】最新天気ニュース・地震情報 2026年10月20日(火)／東北北陸静岡では強雨雷雨に注意　明日は広範囲で荒天〈ウェザーニュースLiVEアフタヌーン・川畑玲／宇野沢達也〉",
-   "embedUrl": "https://www.youtube.com/embed/Mr83kw1KBQQ",
-   "watchUrl": "https://www.youtube.com/watch?v=Mr83kw1KBQQ",
-   "thumb": "https://i.ytimg.com/vi/Mr83kw1KBQQ/hqdefault_live.jpg"
+   "videoId": "d7rJQnYMnXs",
+   "title": "【ライブ】最新天気ニュース・地震情報 2026年10月20日(火)20:00〜 ／明日は強まる雨や風に注意〈ウェザーニュースLiVEムーン・ 小林李衣奈／宇野沢達也〉",
+   "embedUrl": "https://www.youtube.com/embed/d7rJQnYMnXs",
+   "watchUrl": "https://www.youtube.com/watch?v=d7rJQnYMnXs",
+   "thumb": "https://i.ytimg.com/vi/d7rJQnYMnXs/hqdefault_live.jpg"
   },
   "quake": {
    "live": true,
@@ -76,11 +76,11 @@
   },
   "tbs": {
    "live": true,
-   "videoId": "UnpgmhjHSfw",
-   "title": "【国会中継・ライブ】衆議院本会議 消費税減税の関連法案が審議入り（2026年10月20日午後1時～ LIVE配信）｜TBS NEWS DIG",
-   "embedUrl": "https://www.youtube.com/embed/UnpgmhjHSfw",
-   "watchUrl": "https://www.youtube.com/watch?v=UnpgmhjHSfw",
-   "thumb": "https://i.ytimg.com/vi/UnpgmhjHSfw/hqdefault_live.jpg"
+   "videoId": "BbKY-fb9Fpo",
+   "title": "【ニュースライブ】夜のニュース（Japan News Digest Live）最新情報など（10月20日）｜TBS NEWS DIG",
+   "embedUrl": "https://www.youtube.com/embed/BbKY-fb9Fpo",
+   "watchUrl": "https://www.youtube.com/watch?v=BbKY-fb9Fpo",
+   "thumb": "https://i.ytimg.com/vi/BbKY-fb9Fpo/hqdefault_live.jpg"
   },
   "sapporo": {
    "live": true,
@@ -100,11 +100,11 @@
   },
   "tokyo-fuji": {
    "live": true,
-   "videoId": "1VXJHYlT71g",
-   "title": "【東京ライブカメラ】TOKYO LIVE CAMERA.  Mt'Fuji from Tokyo  富士山 紅富士 赤富士 東京からの富士山    #東京ライブカメラ #富士山東京 #東京夜景",
-   "embedUrl": "https://www.youtube.com/embed/1VXJHYlT71g",
-   "watchUrl": "https://www.youtube.com/watch?v=1VXJHYlT71g",
-   "thumb": "https://i.ytimg.com/vi/1VXJHYlT71g/hqdefault_live.jpg"
+   "videoId": "Gapn_16jif4",
+   "title": "＃オリオン座流星群極大期【星空と東京ライブカメラ】TOKYO STARRY SKY LIVE CAMERA 東京ライブカメラ 　＃オリオン座流星群 #orionidmeteorshower",
+   "embedUrl": "https://www.youtube.com/embed/Gapn_16jif4",
+   "watchUrl": "https://www.youtube.com/watch?v=Gapn_16jif4",
+   "thumb": "https://i.ytimg.com/vi/Gapn_16jif4/hqdefault_live.jpg"
   },
   "oshino": {
    "live": true,
