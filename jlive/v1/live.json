@@ -1,6 +1,6 @@
 {
- "updated": "2026-10-20T11:27:30Z",
- "checked": "2026-10-20T11:27:30Z",
+ "updated": "2026-10-20T15:50:01Z",
+ "checked": "2026-10-20T15:50:01Z",
  "streams": {
   "tvasahi24": {
    "live": true,
@@ -12,27 +12,27 @@
   },
   "ntvlive": {
    "live": true,
-   "videoId": "y59hnBkIxWA",
+   "videoId": "nuc5p8HrRI0",
    "title": "【夜ニュースライブ】最新ニュースと生活情報（10月20日） ──THE LATEST NEWS SUMMARY（日テレNEWS LIVE）",
-   "embedUrl": "https://www.youtube.com/embed/y59hnBkIxWA",
-   "watchUrl": "https://www.youtube.com/watch?v=y59hnBkIxWA",
-   "thumb": "https://i.ytimg.com/vi/y59hnBkIxWA/hqdefault_live.jpg"
+   "embedUrl": "https://www.youtube.com/embed/nuc5p8HrRI0",
+   "watchUrl": "https://www.youtube.com/watch?v=nuc5p8HrRI0",
+   "thumb": "https://i.ytimg.com/vi/nuc5p8HrRI0/hqdefault_live.jpg"
   },
   "weathernews": {
    "live": true,
-   "videoId": "d7rJQnYMnXs",
-   "title": "【ライブ】最新天気ニュース・地震情報 2026年10月20日(火)20:00〜 ／明日は強まる雨や風に注意〈ウェザーニュースLiVEムーン・ 小林李衣奈／宇野沢達也〉",
-   "embedUrl": "https://www.youtube.com/embed/d7rJQnYMnXs",
-   "watchUrl": "https://www.youtube.com/watch?v=d7rJQnYMnXs",
-   "thumb": "https://i.ytimg.com/vi/d7rJQnYMnXs/hqdefault_live.jpg"
+   "videoId": "Tn9AafKjuZM",
+   "title": "【ライブ】最新天気ニュース・地震情報 2026年10月20日(火)23:00〜 ／〈ウェザーニュースLiVE〉",
+   "embedUrl": "https://www.youtube.com/embed/Tn9AafKjuZM",
+   "watchUrl": "https://www.youtube.com/watch?v=Tn9AafKjuZM",
+   "thumb": "https://i.ytimg.com/vi/Tn9AafKjuZM/hqdefault_live.jpg"
   },
   "quake": {
    "live": true,
-   "videoId": "PyBJV8y-PTM",
+   "videoId": "ZyAJkGpbwr0",
    "title": "【地震ライブ】緊急地震速報 24時間リアルタイム配信中 ウェザーニュース／Earthquake Alert Japan Live",
-   "embedUrl": "https://www.youtube.com/embed/PyBJV8y-PTM",
-   "watchUrl": "https://www.youtube.com/watch?v=PyBJV8y-PTM",
-   "thumb": "https://i.ytimg.com/vi/PyBJV8y-PTM/hqdefault_live.jpg"
+   "embedUrl": "https://www.youtube.com/embed/ZyAJkGpbwr0",
+   "watchUrl": "https://www.youtube.com/watch?v=ZyAJkGpbwr0",
+   "thumb": "https://i.ytimg.com/vi/ZyAJkGpbwr0/hqdefault_live.jpg"
   },
   "dotonbori": {
    "live": true,
@@ -67,20 +67,16 @@
    "thumb": "https://i.ytimg.com/vi/YonXVFE9C3g/hqdefault_live.jpg"
   },
   "rcc": {
-   "live": true,
-   "videoId": "GlRZMNsAkM4",
-   "title": "【24h LIVE】広島最新ニュース　～24時間ライブ配信中～【RCC NEWS DIG】",
-   "embedUrl": "https://www.youtube.com/embed/GlRZMNsAkM4",
-   "watchUrl": "https://www.youtube.com/watch?v=GlRZMNsAkM4",
-   "thumb": "https://i.ytimg.com/vi/GlRZMNsAkM4/hqdefault_live.jpg"
+   "live": false,
+   "reason": "not-live"
   },
   "tbs": {
    "live": true,
-   "videoId": "BbKY-fb9Fpo",
-   "title": "【ニュースライブ】夜のニュース（Japan News Digest Live）最新情報など（10月20日）｜TBS NEWS DIG",
-   "embedUrl": "https://www.youtube.com/embed/BbKY-fb9Fpo",
-   "watchUrl": "https://www.youtube.com/watch?v=BbKY-fb9Fpo",
-   "thumb": "https://i.ytimg.com/vi/BbKY-fb9Fpo/hqdefault_live.jpg"
+   "videoId": "zxk8jN9z66Q",
+   "title": "【ニュースライブ】最新ニュースまとめ（Japan News Digest）（10月20日）｜TBS NEWS DIG",
+   "embedUrl": "https://www.youtube.com/embed/zxk8jN9z66Q",
+   "watchUrl": "https://www.youtube.com/watch?v=zxk8jN9z66Q",
+   "thumb": "https://i.ytimg.com/vi/zxk8jN9z66Q/hqdefault_live.jpg"
   },
   "sapporo": {
    "live": true,
