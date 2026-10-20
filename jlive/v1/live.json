@@ -1,6 +1,6 @@
 {
- "updated": "2026-10-20T00:37:48Z",
- "checked": "2026-10-20T00:37:48Z",
+ "updated": "2026-10-20T05:57:58Z",
+ "checked": "2026-10-20T05:57:58Z",
  "streams": {
   "tvasahi24": {
    "live": true,
@@ -12,19 +12,19 @@
   },
   "ntvlive": {
    "live": true,
-   "videoId": "5PgS74Y_Vzg",
-   "title": "【アメリカライブ】イーロン・マスク氏  アメリカの全子どもにスペースX株を1株贈与の考え  1.6兆円相当…「第1弾だ」 ── 国際ニュースライブ（日テレNEWS LIVE）",
-   "embedUrl": "https://www.youtube.com/embed/5PgS74Y_Vzg",
-   "watchUrl": "https://www.youtube.com/watch?v=5PgS74Y_Vzg",
-   "thumb": "https://i.ytimg.com/vi/5PgS74Y_Vzg/hqdefault_live.jpg"
+   "videoId": "lmw9T_HsdJQ",
+   "title": "【リプレイ】気象庁3か月予報  11～1月の天気はどうなる？──社会ニュースライブ （日テレNEWS LIVE）",
+   "embedUrl": "https://www.youtube.com/embed/lmw9T_HsdJQ",
+   "watchUrl": "https://www.youtube.com/watch?v=lmw9T_HsdJQ",
+   "thumb": "https://i.ytimg.com/vi/lmw9T_HsdJQ/hqdefault_live.jpg"
   },
   "weathernews": {
    "live": true,
-   "videoId": "LbMd2BvWHHU",
-   "title": "【ライブ】最新天気ニュース・地震情報 2026年10月20日(火)／前線通過で日本海側を中心に激しい雷雨に注意〈ウェザーニュースLiVEサンシャイン・ 松本真央／飯島栄一〉",
-   "embedUrl": "https://www.youtube.com/embed/LbMd2BvWHHU",
-   "watchUrl": "https://www.youtube.com/watch?v=LbMd2BvWHHU",
-   "thumb": "https://i.ytimg.com/vi/LbMd2BvWHHU/hqdefault_live.jpg"
+   "videoId": "Mr83kw1KBQQ",
+   "title": "【ライブ】最新天気ニュース・地震情報 2026年10月20日(火)／東北北陸静岡では強雨雷雨に注意　明日は広範囲で荒天〈ウェザーニュースLiVEアフタヌーン・川畑玲／宇野沢達也〉",
+   "embedUrl": "https://www.youtube.com/embed/Mr83kw1KBQQ",
+   "watchUrl": "https://www.youtube.com/watch?v=Mr83kw1KBQQ",
+   "thumb": "https://i.ytimg.com/vi/Mr83kw1KBQQ/hqdefault_live.jpg"
   },
   "quake": {
    "live": true,
@@ -76,11 +76,11 @@
   },
   "tbs": {
    "live": true,
-   "videoId": "aOVW4wQvGAA",
-   "title": "【ニュースライブ】朝のニュース（Japan News Digest Live）最新情報など（10月20日）｜TBS NEWS DIG",
-   "embedUrl": "https://www.youtube.com/embed/aOVW4wQvGAA",
-   "watchUrl": "https://www.youtube.com/watch?v=aOVW4wQvGAA",
-   "thumb": "https://i.ytimg.com/vi/aOVW4wQvGAA/hqdefault_live.jpg"
+   "videoId": "UnpgmhjHSfw",
+   "title": "【国会中継・ライブ】衆議院本会議 消費税減税の関連法案が審議入り（2026年10月20日午後1時～ LIVE配信）｜TBS NEWS DIG",
+   "embedUrl": "https://www.youtube.com/embed/UnpgmhjHSfw",
+   "watchUrl": "https://www.youtube.com/watch?v=UnpgmhjHSfw",
+   "thumb": "https://i.ytimg.com/vi/UnpgmhjHSfw/hqdefault_live.jpg"
   },
   "sapporo": {
    "live": true,
