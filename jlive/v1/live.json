@@ -1,6 +1,6 @@
 {
- "updated": "2026-10-19T21:14:09Z",
- "checked": "2026-10-19T21:14:09Z",
+ "updated": "2026-10-20T00:37:48Z",
+ "checked": "2026-10-20T00:37:48Z",
  "streams": {
   "tvasahi24": {
    "live": true,
@@ -12,19 +12,19 @@
   },
   "ntvlive": {
    "live": true,
-   "videoId": "dSGkPZUPc1c",
-   "title": "【朝ニュースライブ】最新ニュースと生活情報（10月20日） ──THE LATEST NEWS SUMMARY（日テレNEWS LIVE）",
-   "embedUrl": "https://www.youtube.com/embed/dSGkPZUPc1c",
-   "watchUrl": "https://www.youtube.com/watch?v=dSGkPZUPc1c",
-   "thumb": "https://i.ytimg.com/vi/dSGkPZUPc1c/hqdefault_live.jpg"
+   "videoId": "5PgS74Y_Vzg",
+   "title": "【アメリカライブ】イーロン・マスク氏  アメリカの全子どもにスペースX株を1株贈与の考え  1.6兆円相当…「第1弾だ」 ── 国際ニュースライブ（日テレNEWS LIVE）",
+   "embedUrl": "https://www.youtube.com/embed/5PgS74Y_Vzg",
+   "watchUrl": "https://www.youtube.com/watch?v=5PgS74Y_Vzg",
+   "thumb": "https://i.ytimg.com/vi/5PgS74Y_Vzg/hqdefault_live.jpg"
   },
   "weathernews": {
    "live": true,
-   "videoId": "-HBPXH_40fU",
-   "title": "【ライブ】最新天気ニュース・地震情報 2026年10月20日(火) ／広い範囲で傘が活躍　北陸周辺は強まる雨に注意〈ウェザーニュースLiVEモーニング・田辺真南葉／飯島栄一〉",
-   "embedUrl": "https://www.youtube.com/embed/-HBPXH_40fU",
-   "watchUrl": "https://www.youtube.com/watch?v=-HBPXH_40fU",
-   "thumb": "https://i.ytimg.com/vi/-HBPXH_40fU/hqdefault_live.jpg"
+   "videoId": "LbMd2BvWHHU",
+   "title": "【ライブ】最新天気ニュース・地震情報 2026年10月20日(火)／前線通過で日本海側を中心に激しい雷雨に注意〈ウェザーニュースLiVEサンシャイン・ 松本真央／飯島栄一〉",
+   "embedUrl": "https://www.youtube.com/embed/LbMd2BvWHHU",
+   "watchUrl": "https://www.youtube.com/watch?v=LbMd2BvWHHU",
+   "thumb": "https://i.ytimg.com/vi/LbMd2BvWHHU/hqdefault_live.jpg"
   },
   "quake": {
    "live": true,
