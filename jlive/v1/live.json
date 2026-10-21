@@ -1,6 +1,6 @@
 {
- "updated": "2026-10-21T07:31:01Z",
- "checked": "2026-10-21T07:31:01Z",
+ "updated": "2026-10-21T07:36:56Z",
+ "checked": "2026-10-21T07:36:56Z",
  "streams": {
   "tvasahi24": {
    "live": true,
@@ -20,11 +20,11 @@
   },
   "weathernews": {
    "live": true,
-   "videoId": "FB4Amg-bRXQ",
-   "title": "【ライブ】最新天気ニュース・地震情報 2026年10月21日(水)／各地で雨や風が強まる　関東など季節外れの気温に〈ウェザーニュースLiVEアフタヌーン・佐藤剣慎／宇野沢達也〉",
-   "embedUrl": "https://www.youtube.com/embed/FB4Amg-bRXQ",
-   "watchUrl": "https://www.youtube.com/watch?v=FB4Amg-bRXQ",
-   "thumb": "https://i.ytimg.com/vi/FB4Amg-bRXQ/hqdefault_live.jpg"
+   "videoId": "kS81qB9BZko",
+   "title": "【ライブ】最新天気ニュース・地震情報 2026年10月21日(水) ／各地で雨や風が強まる 台風は明日から非常に強い勢力で沖縄に接近〈ウェザーニュースLiVEイブニング・小川千奈／宇野沢達也〉",
+   "embedUrl": "https://www.youtube.com/embed/kS81qB9BZko",
+   "watchUrl": "https://www.youtube.com/watch?v=kS81qB9BZko",
+   "thumb": "https://i.ytimg.com/vi/kS81qB9BZko/hqdefault_live.jpg"
   },
   "quake": {
    "live": true,
@@ -133,6 +133,61 @@
    "embedUrl": "https://www.youtube.com/embed/EAkfCe5VNFc",
    "watchUrl": "https://www.youtube.com/watch?v=EAkfCe5VNFc",
    "thumb": "https://i.ytimg.com/vi/EAkfCe5VNFc/hqdefault_live.jpg"
+  },
+  "r-nhkworld": {
+   "live": true,
+   "type": "hls",
+   "url": "https://masterpl.hls.nhkworld.jp/hls/r1/live/master.m3u8"
+  },
+  "r-shonan": {
+   "live": true,
+   "type": "audio",
+   "url": "http://shonanbeachfm.out.airtime.pro:8000/shonanbeachfm_a"
+  },
+  "r-setagaya": {
+   "live": true,
+   "type": "audio",
+   "url": "https://fmsetagaya834.out.airtime.pro/fmsetagaya834_a"
+  },
+  "r-kahoku": {
+   "live": true,
+   "type": "audio",
+   "url": "http://radio.kahoku.net:8000/"
+  },
+  "r-ottava": {
+   "live": true,
+   "type": "audio",
+   "url": "http://ottava2.out.airtime.pro:8000/ottava2_a"
+  },
+  "r-j1hits": {
+   "live": true,
+   "type": "audio",
+   "url": "https://jenny.torontocast.com:2000/stream/J1HITS"
+  },
+  "r-j1gold": {
+   "live": true,
+   "type": "audio",
+   "url": "http://jenny.torontocast.com:8062/"
+  },
+  "r-listenmoe": {
+   "live": true,
+   "type": "audio",
+   "url": "https://listen.moe/fallback"
+  },
+  "r-jazzsakura": {
+   "live": true,
+   "type": "audio",
+   "url": "https://kathy.torontocast.com:3330/"
+  },
+  "r-ashiya": {
+   "live": true,
+   "type": "audio",
+   "url": "https://s3.radio.co/sc8d895604/listen"
+  },
+  "r-cyberforest": {
+   "live": true,
+   "type": "audio",
+   "url": "http://mp3s.nc.u-tokyo.ac.jp/Fuji_CyberForest.mp3"
   }
  }
 }
