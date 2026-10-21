@@ -1,0 +1,182 @@
+{
+ "updated": "2026-10-21T09:00:00Z",
+ "note": "Stations streamed by the stations themselves. status \"official\" = the station publishes this stream for listeners.",
+ "stations": [
+  {
+   "id": "r-nhkworld",
+   "name": "NHK World Radio Japan",
+   "jp": "NHKワールド・ラジオ日本",
+   "genre": "News",
+   "city": "Tokyo",
+   "desc": "NHK’s international radio: news and programmes about Japan",
+   "stream": {
+    "type": "hls",
+    "url": "https://masterpl.hls.nhkworld.jp/hls/r1/live/master.m3u8"
+   },
+   "homepage": "https://www3.nhk.or.jp/nhkworld/",
+   "credit": "NHK WORLD-JAPAN",
+   "color": "#2B4A94",
+   "status": "official"
+  },
+  {
+   "id": "r-shonan",
+   "name": "Shonan Beach FM 78.9",
+   "jp": "湘南ビーチFM",
+   "genre": "Jazz & beach",
+   "city": "Hayama, Kanagawa",
+   "desc": "Community station on the Shonan coast, jazz and easy listening",
+   "stream": {
+    "type": "audio",
+    "url": "http://shonanbeachfm.out.airtime.pro:8000/shonanbeachfm_a"
+   },
+   "homepage": "https://www.beachfm.co.jp/",
+   "credit": "Shonan Beach FM",
+   "color": "#1A9BB5",
+   "status": "official"
+  },
+  {
+   "id": "r-setagaya",
+   "name": "FM Setagaya 83.4",
+   "jp": "FM世田谷",
+   "genre": "Community",
+   "city": "Setagaya, Tokyo",
+   "desc": "Local news, talk and music from a Tokyo neighbourhood",
+   "stream": {
+    "type": "audio",
+    "url": "https://fmsetagaya834.out.airtime.pro/fmsetagaya834_a"
+   },
+   "homepage": "https://fmsetagaya.com/",
+   "credit": "FM世田谷",
+   "color": "#E2502B",
+   "status": "official"
+  },
+  {
+   "id": "r-kahoku",
+   "name": "FM Kahoku 78.7",
+   "jp": "FMかほく",
+   "genre": "Community",
+   "city": "Kahoku, Ishikawa",
+   "desc": "Small-town community FM on the Sea of Japan coast",
+   "stream": {
+    "type": "audio",
+    "url": "http://radio.kahoku.net:8000/"
+   },
+   "homepage": "http://fm.kahoku.net/",
+   "credit": "FMかほく",
+   "color": "#6E9E3A",
+   "status": "official"
+  },
+  {
+   "id": "r-ottava",
+   "name": "Ottava",
+   "jp": "オッターヴァ",
+   "genre": "Classical",
+   "city": "Tokyo",
+   "desc": "Classical music station, presenters in Japanese",
+   "stream": {
+    "type": "audio",
+    "url": "http://ottava2.out.airtime.pro:8000/ottava2_a"
+   },
+   "homepage": "https://ottava.jp/",
+   "credit": "Ottava",
+   "color": "#7A4FB0",
+   "status": "official"
+  },
+  {
+   "id": "r-j1hits",
+   "name": "J1 Hits",
+   "jp": "J1 HITS",
+   "genre": "J-pop",
+   "city": "Tokyo",
+   "desc": "Current J-pop hits around the clock",
+   "stream": {
+    "type": "audio",
+    "url": "https://jenny.torontocast.com:2000/stream/J1HITS"
+   },
+   "homepage": "https://www.j1fm.tokyo/",
+   "credit": "J1 FM",
+   "color": "#D0021B",
+   "status": "official"
+  },
+  {
+   "id": "r-j1gold",
+   "name": "J1 Gold",
+   "jp": "J1 GOLD",
+   "genre": "City pop",
+   "city": "Tokyo",
+   "desc": "Japanese classics from the 70s, 80s and 90s",
+   "stream": {
+    "type": "audio",
+    "url": "http://jenny.torontocast.com:8062/"
+   },
+   "homepage": "https://en.j1fm.tokyo/",
+   "credit": "J1 FM",
+   "color": "#E8A317",
+   "status": "official"
+  },
+  {
+   "id": "r-listenmoe",
+   "name": "LISTEN.moe J-pop",
+   "jp": "リッスン・モエ",
+   "genre": "Anime & J-pop",
+   "city": "Online",
+   "desc": "Fan-run J-pop and anime music radio",
+   "stream": {
+    "type": "audio",
+    "url": "https://listen.moe/fallback"
+   },
+   "homepage": "https://listen.moe/",
+   "credit": "LISTEN.moe",
+   "color": "#E86A92",
+   "status": "official"
+  },
+  {
+   "id": "r-jazzsakura",
+   "name": "Jazz Sakura",
+   "jp": "ジャズ・サクラ",
+   "genre": "Jazz",
+   "city": "Online",
+   "desc": "Japanese jazz from Asia DREAM Radio",
+   "stream": {
+    "type": "audio",
+    "url": "https://kathy.torontocast.com:3330/"
+   },
+   "homepage": "https://asiadreamradio.torontocast.stream/stations",
+   "credit": "Asia DREAM Radio",
+   "color": "#2E4A8B",
+   "status": "official"
+  },
+  {
+   "id": "r-ashiya",
+   "name": "Ashiya Radio",
+   "jp": "アシヤ・ラヂヲ",
+   "genre": "Eclectic",
+   "city": "Ashiya, Hyogo",
+   "desc": "Independent internet radio from Ashiya",
+   "stream": {
+    "type": "audio",
+    "url": "https://s3.radio.co/sc8d895604/listen"
+   },
+   "homepage": "https://ashiya.radio/",
+   "credit": "Ashiya Radio",
+   "color": "#3A3326",
+   "status": "official"
+  },
+  {
+   "id": "r-cyberforest",
+   "name": "Fuji forest sounds",
+   "jp": "富士癒しの森",
+   "genre": "Nature",
+   "city": "Lake Yamanaka",
+   "desc": "Live microphones in a forest by Lake Yamanaka, run by the University of Tokyo",
+   "stream": {
+    "type": "audio",
+    "url": "http://mp3s.nc.u-tokyo.ac.jp/Fuji_CyberForest.mp3"
+   },
+   "homepage": "http://cyberforest.nenv.k.u-tokyo.ac.jp/",
+   "credit": "University of Tokyo CyberForest",
+   "color": "#2F6F4E",
+   "status": "official"
+  }
+ ]
+}

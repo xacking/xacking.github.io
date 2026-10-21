@@ -13,7 +13,8 @@
   "wallpapers": "https://xacking.github.io/jlive/v1/wallpapers.json",
   "quiz": "https://xacking.github.io/jlive/v1/quiz.json",
   "words": "https://xacking.github.io/jlive/v1/words.json",
-  "sudoku": "https://xacking.github.io/jlive/v1/sudoku.json"
+  "sudoku": "https://xacking.github.io/jlive/v1/sudoku.json",
+  "radio": "https://xacking.github.io/jlive/v1/radio.json"
  },
  "notice": null
 }

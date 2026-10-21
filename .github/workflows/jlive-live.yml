@@ -9,6 +9,7 @@ on:
     paths:
       - 'jlive/v1/channels.json'
       - 'jlive/v1/cams.json'
+      - 'jlive/v1/radio.json'
       - '.github/scripts/jlive_live.py'
 
 permissions:

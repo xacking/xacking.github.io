@@ -90,6 +90,22 @@ def pick(source, lives):
     return None, None
 
 
+def probe_stream(url, kind):
+    """True when a direct stream answers like a live stream: an HLS playlist, or audio bytes."""
+    if not url:
+        return False, 'no-url'
+    try:
+        req = urllib.request.Request(url, headers={'User-Agent': UA, 'Icy-MetaData': '1'})
+        with urllib.request.urlopen(req, timeout=20) as r:
+            ctype = (r.headers.get('Content-Type') or '').lower()
+            head = r.read(4096)
+        if kind == 'hls' or url.split('?')[0].endswith('.m3u8'):
+            return (b'#EXTM3U' in head, 'not-a-playlist')
+        return (ctype.startswith(('audio/', 'application/ogg', 'video/')) or len(head) > 1000, 'not-audio')
+    except Exception as e:  # unreachable or refused
+        return False, 'unreachable'
+
+
 def main():
     channels = json.load(open(os.path.join(ROOT, 'channels.json'), encoding='utf-8'))['channels']
     cams = json.load(open(os.path.join(ROOT, 'cams.json'), encoding='utf-8'))['cams']
@@ -99,12 +115,22 @@ def main():
     except Exception:
         old = {}
 
+    try:
+        radio = json.load(open(os.path.join(ROOT, 'radio.json'), encoding='utf-8'))['stations']
+    except Exception:
+        radio = []
+
     sources = {}
-    for s in channels + cams:
+    for s in channels + cams + radio:
         sources.setdefault(s['id'], s)
 
     cache, streams, errors = {}, {}, 0
     for sid, s in sources.items():
+        if s.get('stream'):  # direct stream (m3u8 / audio), not YouTube
+            st = s['stream']
+            ok, reason = probe_stream(st.get('url', ''), st.get('type', 'hls'))
+            streams[sid] = dict(live=ok, type=st.get('type', 'hls'), url=st.get('url', '')) if ok else dict(live=False, reason=reason)
+            continue
         ch = s['channelId']
         try:
             if ch not in cache:
