@@ -1,7 +1,7 @@
 {
  "app": "Japan Live",
  "schema": 1,
- "updated": "2026-10-19T12:00:00Z",
+ "updated": "2026-10-21T09:00:00Z",
  "minAppVersion": "1.0.0",
  "showPendingSources": false,
  "liveRefreshMinutes": 30,
@@ -16,5 +16,25 @@
   "sudoku": "https://xacking.github.io/jlive/v1/sudoku.json",
   "radio": "https://xacking.github.io/jlive/v1/radio.json"
  },
- "notice": null
+ "notice": null,
+ "ads": {
+  "enabled": true,
+  "_note": "Google TEST unit IDs. Replace with your Japan Live AdMob unit IDs before release. enabled:false switches all ads off.",
+  "android": {
+   "banner": "ca-app-pub-3940256099942544/9214589741",
+   "interstitial": "ca-app-pub-3940256099942544/1033173712"
+  },
+  "ios": {
+   "banner": "ca-app-pub-3940256099942544/2435281174",
+   "interstitial": "ca-app-pub-3940256099942544/4411468910"
+  },
+  "placements": [
+   "today",
+   "cams",
+   "play",
+   "wallpapers",
+   "gameOver"
+  ],
+  "interstitialMinutes": 3
+ }
 }

@@ -6,7 +6,7 @@ Base URL: `https://xacking.github.io/jlive/v1/`
 
 | File | What it holds | How it changes |
 |---|---|---|
-| `config.json` | Feed URLs, minimum app version, `showPendingSources`, optional `notice` banner | Edit by hand |
+| `config.json` | Feed URLs, minimum app version, `showPendingSources`, optional `notice` banner, `ads` | Edit by hand |
 | `channels.json` | Watch tab: news, weather, alert and featured cam channels, numbered for the remote | Edit by hand |
 | `cams.json` | Live cams map: real lat/lon, category, credit, YouTube channel | Edit by hand |
 | `live.json` | Current live video for every channel and cam, keyed by source `id` | **Automatic**, every 30 minutes |
@@ -54,3 +54,20 @@ Any channel in `channels.json`, any cam in `cams.json` and every station in `rad
 - Leave out `channelId` and `match`; the job checks the URL instead and writes `live: true` with the `url` into `live.json` when the playlist answers.
 - TV streams play in the app's own video player; radio plays in the background with lock-screen controls.
 - Only add streams the broadcaster publishes itself or has allowed you to use. Re-streams of TV channels taken from IPTV playlists get apps removed from the stores.
+
+## Ads (`config.json` → `ads`)
+
+```json
+"ads": {
+  "enabled": true,
+  "android": {"banner": "ca-app-pub-…/…", "interstitial": "ca-app-pub-…/…"},
+  "ios":     {"banner": "ca-app-pub-…/…", "interstitial": "ca-app-pub-…/…"},
+  "placements": ["today", "cams", "play", "wallpapers", "gameOver"],
+  "interstitialMinutes": 3
+}
+```
+
+- `enabled: false` turns every ad off on the next app launch or refresh, with no app update needed.
+- Unit IDs can be swapped here. The **AdMob App ID** cannot: it's built into the app (Android `-PadmobAppId=…`, iOS `GADApplicationIdentifier` in Info.plist).
+- `placements`: the banner shows on these tabs (`today`, `cams`, `play`, `wallpapers`), and `gameOver` is the full-screen ad after a finished game. `watch` is never allowed, because YouTube's API terms bar ads around their player.
+- Meta Audience Network and Pangle are added as mediation networks in the AdMob console. The app already contains both adapters.
