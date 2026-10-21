@@ -60,14 +60,16 @@ Any channel in `channels.json`, any cam in `cams.json` and every station in `rad
 ```json
 "ads": {
   "enabled": true,
-  "android": {"banner": "ca-app-pub-…/…", "interstitial": "ca-app-pub-…/…"},
-  "ios":     {"banner": "ca-app-pub-…/…", "interstitial": "ca-app-pub-…/…"},
-  "placements": ["today", "cams", "play", "wallpapers", "gameOver"],
+  "android": {"banner": "…", "interstitial": "…", "native": "…", "appOpen": "…"},
+  "ios":     {},
+  "placements": ["today", "cams", "play", "wallpapers", "gameOver", "nativeToday", "nativePlay", "appOpen"],
   "interstitialMinutes": 3
 }
 ```
 
 - `enabled: false` turns every ad off on the next app launch or refresh, with no app update needed.
 - Unit IDs can be swapped here. The **AdMob App ID** cannot: it's built into the app (Android `-PadmobAppId=…`, iOS `GADApplicationIdentifier` in Info.plist).
-- `placements`: the banner shows on these tabs (`today`, `cams`, `play`, `wallpapers`), and `gameOver` is the full-screen ad after a finished game. `watch` is never allowed, because YouTube's API terms bar ads around their player.
+- `placements`: the banner shows on these tabs (`today`, `cams`, `play`, `wallpapers`). `gameOver` is the full-screen ad after a finished game. `nativeToday` and `nativePlay` are native cards on Today and Play. `appOpen` shows when the app returns after 30 s or more away, and on a quick cold start; it never appears over the TV player. Remove any of these to switch it off.
+- An empty `ios` block means no ads on iPhone until an iOS AdMob app exists.
+- Preview builds (`--dart-define=ADS_TEST=true`) always use Google's test units. `watch` is never allowed, because YouTube's API terms bar ads around their player.
 - Meta Audience Network and Pangle are added as mediation networks in the AdMob console. The app already contains both adapters.

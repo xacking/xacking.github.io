@@ -19,21 +19,23 @@
  "notice": null,
  "ads": {
   "enabled": true,
-  "_note": "Google TEST unit IDs. Replace with your Japan Live AdMob unit IDs before release. enabled:false switches all ads off.",
+  "_note": "AdMob app JPver (ca-app-pub-3460668297064608~3864644185). Preview builds swap in Google test units automatically. enabled:false switches every ad off.",
   "android": {
-   "banner": "ca-app-pub-3940256099942544/9214589741",
-   "interstitial": "ca-app-pub-3940256099942544/1033173712"
+   "banner": "ca-app-pub-3460668297064608/9153464030",
+   "interstitial": "ca-app-pub-3460668297064608/1672016106",
+   "native": "ca-app-pub-3460668297064608/1264646989",
+   "appOpen": "ca-app-pub-3460668297064608/8923645151"
   },
-  "ios": {
-   "banner": "ca-app-pub-3940256099942544/2435281174",
-   "interstitial": "ca-app-pub-3940256099942544/4411468910"
-  },
+  "ios": {},
   "placements": [
    "today",
    "cams",
    "play",
    "wallpapers",
-   "gameOver"
+   "gameOver",
+   "nativeToday",
+   "nativePlay",
+   "appOpen"
   ],
   "interstitialMinutes": 3
  }
