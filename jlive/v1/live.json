@@ -1,6 +1,6 @@
 {
- "updated": "2026-10-21T01:59:19Z",
- "checked": "2026-10-21T01:59:19Z",
+ "updated": "2026-10-21T07:31:01Z",
+ "checked": "2026-10-21T07:31:01Z",
  "streams": {
   "tvasahi24": {
    "live": true,
@@ -12,19 +12,19 @@
   },
   "ntvlive": {
    "live": true,
-   "videoId": "25rMI9HlSgQ",
-   "title": "【アメリカライブ】トランプ大統領の支持率、過去最低を更新　アメリカ中間選挙まで約2週間 ── 国際ニュースライブ（日テレNEWS LIVE）",
-   "embedUrl": "https://www.youtube.com/embed/25rMI9HlSgQ",
-   "watchUrl": "https://www.youtube.com/watch?v=25rMI9HlSgQ",
-   "thumb": "https://i.ytimg.com/vi/25rMI9HlSgQ/hqdefault_live.jpg"
+   "videoId": "qQB7GQt7Qhg",
+   "title": "【夕ニュースライブ】最新ニュースと生活情報（10月21日） ──THE LATEST NEWS SUMMARY（日テレNEWS LIVE）",
+   "embedUrl": "https://www.youtube.com/embed/qQB7GQt7Qhg",
+   "watchUrl": "https://www.youtube.com/watch?v=qQB7GQt7Qhg",
+   "thumb": "https://i.ytimg.com/vi/qQB7GQt7Qhg/hqdefault_live.jpg"
   },
   "weathernews": {
    "live": true,
-   "videoId": "7aHzRY4zuEw",
-   "title": "【ライブ】最新天気ニュース・地震情報 2026年10月21日(水) ／各地で雨や風が強まる　関東など季節外れの気温に〈ウェザーニュースLiVEコーヒータイム・松本真央／飯島栄一〉",
-   "embedUrl": "https://www.youtube.com/embed/7aHzRY4zuEw",
-   "watchUrl": "https://www.youtube.com/watch?v=7aHzRY4zuEw",
-   "thumb": "https://i.ytimg.com/vi/7aHzRY4zuEw/hqdefault_live.jpg"
+   "videoId": "FB4Amg-bRXQ",
+   "title": "【ライブ】最新天気ニュース・地震情報 2026年10月21日(水)／各地で雨や風が強まる　関東など季節外れの気温に〈ウェザーニュースLiVEアフタヌーン・佐藤剣慎／宇野沢達也〉",
+   "embedUrl": "https://www.youtube.com/embed/FB4Amg-bRXQ",
+   "watchUrl": "https://www.youtube.com/watch?v=FB4Amg-bRXQ",
+   "thumb": "https://i.ytimg.com/vi/FB4Amg-bRXQ/hqdefault_live.jpg"
   },
   "quake": {
    "live": true,
@@ -72,11 +72,11 @@
   },
   "tbs": {
    "live": true,
-   "videoId": "Vs65aRu7618",
-   "title": "【ニュースライブ】朝のニュース（Japan News Digest Live）最新情報など（10月21日）｜TBS NEWS DIG",
-   "embedUrl": "https://www.youtube.com/embed/Vs65aRu7618",
-   "watchUrl": "https://www.youtube.com/watch?v=Vs65aRu7618",
-   "thumb": "https://i.ytimg.com/vi/Vs65aRu7618/hqdefault_live.jpg"
+   "videoId": "KmByZJwXXFI",
+   "title": "【ニュースライブ】昼のニュース（Japan News Digest Live）最新情報など（10月21日）｜TBS NEWS DIG",
+   "embedUrl": "https://www.youtube.com/embed/KmByZJwXXFI",
+   "watchUrl": "https://www.youtube.com/watch?v=KmByZJwXXFI",
+   "thumb": "https://i.ytimg.com/vi/KmByZJwXXFI/hqdefault_live.jpg"
   },
   "sapporo": {
    "live": true,
@@ -128,11 +128,11 @@
   },
   "kurushima": {
    "live": true,
-   "videoId": "PcQuKzfsTio",
+   "videoId": "EAkfCe5VNFc",
    "title": "【LIVE】来島海峡南側・今治港付近ライブカメラ｜船名・速力AIS｜Japan Ship Watching | Kurushima, Imabari | Ship Names & Speed",
-   "embedUrl": "https://www.youtube.com/embed/PcQuKzfsTio",
-   "watchUrl": "https://www.youtube.com/watch?v=PcQuKzfsTio",
-   "thumb": "https://i.ytimg.com/vi/PcQuKzfsTio/hqdefault_live.jpg"
+   "embedUrl": "https://www.youtube.com/embed/EAkfCe5VNFc",
+   "watchUrl": "https://www.youtube.com/watch?v=EAkfCe5VNFc",
+   "thumb": "https://i.ytimg.com/vi/EAkfCe5VNFc/hqdefault_live.jpg"
   }
  }
 }
