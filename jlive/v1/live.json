@@ -1,6 +1,6 @@
 {
- "updated": "2026-10-21T13:12:13Z",
- "checked": "2026-10-21T13:12:13Z",
+ "updated": "2026-10-21T18:15:12Z",
+ "checked": "2026-10-21T18:15:12Z",
  "streams": {
   "tvasahi24": {
    "live": true,
@@ -12,27 +12,27 @@
   },
   "ntvlive": {
    "live": true,
-   "videoId": "C7nIMHMDki8",
-   "title": "【夜ニュースライブ】最新ニュースと生活情報（10月21日） ──THE LATEST NEWS SUMMARY（日テレNEWS LIVE）",
-   "embedUrl": "https://www.youtube.com/embed/C7nIMHMDki8",
-   "watchUrl": "https://www.youtube.com/watch?v=C7nIMHMDki8",
-   "thumb": "https://i.ytimg.com/vi/C7nIMHMDki8/hqdefault_live.jpg"
+   "videoId": "iLDZ9asNQng",
+   "title": "【アメリカライブ】米中間選挙・最新世論調査　トランプ氏支持率31%で過去最低 、民主党が12ポイントリード ── 国際ニュースライブ（日テレNEWS LIVE）",
+   "embedUrl": "https://www.youtube.com/embed/iLDZ9asNQng",
+   "watchUrl": "https://www.youtube.com/watch?v=iLDZ9asNQng",
+   "thumb": "https://i.ytimg.com/vi/iLDZ9asNQng/hqdefault_live.jpg"
   },
   "weathernews": {
    "live": true,
-   "videoId": "uy7Sh_9BOus",
-   "title": "【ライブ】オリオン座流星群2026 青原桃香キャスター生中継  21日夜は活動のピークに ／2026年10月21日(水)22:00〜 〈ウェザーニュースLiVE〉",
-   "embedUrl": "https://www.youtube.com/embed/uy7Sh_9BOus",
-   "watchUrl": "https://www.youtube.com/watch?v=uy7Sh_9BOus",
-   "thumb": "https://i.ytimg.com/vi/uy7Sh_9BOus/hqdefault_live.jpg"
+   "videoId": "eLZm9_0cdjk",
+   "title": "【ライブ】秋田県子吉川 レベル5氾濫特別警報／最新天気ニュース・地震情報 2026年10月21日(水)23:00〜 〈ウェザーニュースLiVE・ 山岸愛梨／宇野沢達也〉",
+   "embedUrl": "https://www.youtube.com/embed/eLZm9_0cdjk",
+   "watchUrl": "https://www.youtube.com/watch?v=eLZm9_0cdjk",
+   "thumb": "https://i.ytimg.com/vi/eLZm9_0cdjk/hqdefault_live.jpg"
   },
   "quake": {
    "live": true,
-   "videoId": "ZyAJkGpbwr0",
+   "videoId": "s7xHC4W9kMY",
    "title": "【地震ライブ】緊急地震速報 24時間リアルタイム配信中 ウェザーニュース／Earthquake Alert Japan Live",
-   "embedUrl": "https://www.youtube.com/embed/ZyAJkGpbwr0",
-   "watchUrl": "https://www.youtube.com/watch?v=ZyAJkGpbwr0",
-   "thumb": "https://i.ytimg.com/vi/ZyAJkGpbwr0/hqdefault_live.jpg"
+   "embedUrl": "https://www.youtube.com/embed/s7xHC4W9kMY",
+   "watchUrl": "https://www.youtube.com/watch?v=s7xHC4W9kMY",
+   "thumb": "https://i.ytimg.com/vi/s7xHC4W9kMY/hqdefault_live.jpg"
   },
   "dotonbori": {
    "live": true,
