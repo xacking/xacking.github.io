@@ -1,6 +1,6 @@
 {
- "updated": "2026-10-21T07:36:56Z",
- "checked": "2026-10-21T07:36:56Z",
+ "updated": "2026-10-21T13:12:13Z",
+ "checked": "2026-10-21T13:12:13Z",
  "streams": {
   "tvasahi24": {
    "live": true,
@@ -12,19 +12,19 @@
   },
   "ntvlive": {
    "live": true,
-   "videoId": "qQB7GQt7Qhg",
-   "title": "【夕ニュースライブ】最新ニュースと生活情報（10月21日） ──THE LATEST NEWS SUMMARY（日テレNEWS LIVE）",
-   "embedUrl": "https://www.youtube.com/embed/qQB7GQt7Qhg",
-   "watchUrl": "https://www.youtube.com/watch?v=qQB7GQt7Qhg",
-   "thumb": "https://i.ytimg.com/vi/qQB7GQt7Qhg/hqdefault_live.jpg"
+   "videoId": "C7nIMHMDki8",
+   "title": "【夜ニュースライブ】最新ニュースと生活情報（10月21日） ──THE LATEST NEWS SUMMARY（日テレNEWS LIVE）",
+   "embedUrl": "https://www.youtube.com/embed/C7nIMHMDki8",
+   "watchUrl": "https://www.youtube.com/watch?v=C7nIMHMDki8",
+   "thumb": "https://i.ytimg.com/vi/C7nIMHMDki8/hqdefault_live.jpg"
   },
   "weathernews": {
    "live": true,
-   "videoId": "kS81qB9BZko",
-   "title": "【ライブ】最新天気ニュース・地震情報 2026年10月21日(水) ／各地で雨や風が強まる 台風は明日から非常に強い勢力で沖縄に接近〈ウェザーニュースLiVEイブニング・小川千奈／宇野沢達也〉",
-   "embedUrl": "https://www.youtube.com/embed/kS81qB9BZko",
-   "watchUrl": "https://www.youtube.com/watch?v=kS81qB9BZko",
-   "thumb": "https://i.ytimg.com/vi/kS81qB9BZko/hqdefault_live.jpg"
+   "videoId": "uy7Sh_9BOus",
+   "title": "【ライブ】オリオン座流星群2026 青原桃香キャスター生中継  21日夜は活動のピークに ／2026年10月21日(水)22:00〜 〈ウェザーニュースLiVE〉",
+   "embedUrl": "https://www.youtube.com/embed/uy7Sh_9BOus",
+   "watchUrl": "https://www.youtube.com/watch?v=uy7Sh_9BOus",
+   "thumb": "https://i.ytimg.com/vi/uy7Sh_9BOus/hqdefault_live.jpg"
   },
   "quake": {
    "live": true,
@@ -72,11 +72,11 @@
   },
   "tbs": {
    "live": true,
-   "videoId": "KmByZJwXXFI",
-   "title": "【ニュースライブ】昼のニュース（Japan News Digest Live）最新情報など（10月21日）｜TBS NEWS DIG",
-   "embedUrl": "https://www.youtube.com/embed/KmByZJwXXFI",
-   "watchUrl": "https://www.youtube.com/watch?v=KmByZJwXXFI",
-   "thumb": "https://i.ytimg.com/vi/KmByZJwXXFI/hqdefault_live.jpg"
+   "videoId": "3MDIluWUZMQ",
+   "title": "【ニュースライブ】最新ニュースまとめ（Japan News Digest）（10月21日）｜TBS NEWS DIG",
+   "embedUrl": "https://www.youtube.com/embed/3MDIluWUZMQ",
+   "watchUrl": "https://www.youtube.com/watch?v=3MDIluWUZMQ",
+   "thumb": "https://i.ytimg.com/vi/3MDIluWUZMQ/hqdefault_live.jpg"
   },
   "sapporo": {
    "live": true,
@@ -96,11 +96,11 @@
   },
   "tokyo-fuji": {
    "live": true,
-   "videoId": "UVhttiEuFeA",
-   "title": "【東京ライブカメラ】TOKYO LIVE CAMERA.  Mt'Fuji from Tokyo  富士山 紅富士 赤富士 東京からの富士山    #東京ライブカメラ #富士山東京 #東京夜景",
-   "embedUrl": "https://www.youtube.com/embed/UVhttiEuFeA",
-   "watchUrl": "https://www.youtube.com/watch?v=UVhttiEuFeA",
-   "thumb": "https://i.ytimg.com/vi/UVhttiEuFeA/hqdefault_live.jpg"
+   "videoId": "1g-r9jef4ps",
+   "title": "＃オリオン座流星群極大期【星空と東京ライブカメラ】TOKYO STARRY SKY LIVE CAMERA 東京ライブカメラ 　＃オリオン座流星群 #orionidmeteorshower",
+   "embedUrl": "https://www.youtube.com/embed/1g-r9jef4ps",
+   "watchUrl": "https://www.youtube.com/watch?v=1g-r9jef4ps",
+   "thumb": "https://i.ytimg.com/vi/1g-r9jef4ps/hqdefault_live.jpg"
   },
   "oshino": {
    "live": true,
