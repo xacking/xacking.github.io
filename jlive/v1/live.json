@@ -1,6 +1,6 @@
 {
- "updated": "2026-10-22T00:39:20Z",
- "checked": "2026-10-22T00:39:20Z",
+ "updated": "2026-10-22T06:04:50Z",
+ "checked": "2026-10-22T06:04:50Z",
  "streams": {
   "tvasahi24": {
    "live": true,
@@ -12,19 +12,19 @@
   },
   "ntvlive": {
    "live": true,
-   "videoId": "9O-JsS3SuKY",
-   "title": "【国会中継】参議院・農林水産委員会── 政治ニュースライブ［2026年10月22日午前］（日テレNEWS LIVE）",
-   "embedUrl": "https://www.youtube.com/embed/9O-JsS3SuKY",
-   "watchUrl": "https://www.youtube.com/watch?v=9O-JsS3SuKY",
-   "thumb": "https://i.ytimg.com/vi/9O-JsS3SuKY/hqdefault_live.jpg"
+   "videoId": "1H2dzwYVUL8",
+   "title": "【アメリカライブ】メタに制裁金4兆円の支払い命令　大統領選めぐり“ユーザーを欺いた”　米・ニューメキシコ州の裁判所 ── 国際ニュースライブ（日テレNEWS LIVE）",
+   "embedUrl": "https://www.youtube.com/embed/1H2dzwYVUL8",
+   "watchUrl": "https://www.youtube.com/watch?v=1H2dzwYVUL8",
+   "thumb": "https://i.ytimg.com/vi/1H2dzwYVUL8/hqdefault_live.jpg"
   },
   "weathernews": {
    "live": true,
-   "videoId": "a3-nChZ85V8",
-   "title": "【ライブ】最新天気ニュース・地震情報 2026年10月22日(木) ／北日本日本海側は風雨 山沿いでは雪に　沖縄は台風の影響に警戒〈ウェザーニュースLiVEサンシャイン・魚住茉由／山口剛央〉",
-   "embedUrl": "https://www.youtube.com/embed/a3-nChZ85V8",
-   "watchUrl": "https://www.youtube.com/watch?v=a3-nChZ85V8",
-   "thumb": "https://i.ytimg.com/vi/a3-nChZ85V8/hqdefault_live.jpg"
+   "videoId": "fyw7R_T_bao",
+   "title": "【ライブ】最新天気ニュース・地震情報 2026年10月22日(木)／北海道中心に暴風雪注意　明日先島諸島に台風30号接近〈ウェザーニュースLiVEアフタヌーン・佐藤剣慎／本田竜也〉",
+   "embedUrl": "https://www.youtube.com/embed/fyw7R_T_bao",
+   "watchUrl": "https://www.youtube.com/watch?v=fyw7R_T_bao",
+   "thumb": "https://i.ytimg.com/vi/fyw7R_T_bao/hqdefault_live.jpg"
   },
   "quake": {
    "live": true,
@@ -72,11 +72,11 @@
   },
   "tbs": {
    "live": true,
-   "videoId": "nx4IaQy18Q8",
-   "title": "【ニュースライブ】朝のニュース（Japan News Digest Live）最新情報など（10月22日）｜TBS NEWS DIG",
-   "embedUrl": "https://www.youtube.com/embed/nx4IaQy18Q8",
-   "watchUrl": "https://www.youtube.com/watch?v=nx4IaQy18Q8",
-   "thumb": "https://i.ytimg.com/vi/nx4IaQy18Q8/hqdefault_live.jpg"
+   "videoId": "LvJ3dyvOEVM",
+   "title": "【ニュースライブ】昼のニュース（Japan News Digest Live）最新情報など（10月22日）｜TBS NEWS DIG",
+   "embedUrl": "https://www.youtube.com/embed/LvJ3dyvOEVM",
+   "watchUrl": "https://www.youtube.com/watch?v=LvJ3dyvOEVM",
+   "thumb": "https://i.ytimg.com/vi/LvJ3dyvOEVM/hqdefault_live.jpg"
   },
   "sapporo": {
    "live": true,
