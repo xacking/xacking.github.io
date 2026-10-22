@@ -1,6 +1,6 @@
 {
- "updated": "2026-10-22T06:04:50Z",
- "checked": "2026-10-22T06:04:50Z",
+ "updated": "2026-10-22T11:44:43Z",
+ "checked": "2026-10-22T11:44:43Z",
  "streams": {
   "tvasahi24": {
    "live": true,
@@ -12,19 +12,19 @@
   },
   "ntvlive": {
    "live": true,
-   "videoId": "1H2dzwYVUL8",
-   "title": "【アメリカライブ】メタに制裁金4兆円の支払い命令　大統領選めぐり“ユーザーを欺いた”　米・ニューメキシコ州の裁判所 ── 国際ニュースライブ（日テレNEWS LIVE）",
-   "embedUrl": "https://www.youtube.com/embed/1H2dzwYVUL8",
-   "watchUrl": "https://www.youtube.com/watch?v=1H2dzwYVUL8",
-   "thumb": "https://i.ytimg.com/vi/1H2dzwYVUL8/hqdefault_live.jpg"
+   "videoId": "DJrT4bhP3IY",
+   "title": "【PHPに脆弱性】「緊急メンテナンス」続々　“PHPの重大な脆弱性”とは…発見したのは「AI」と発表　今後は？ ── 社会ニュースライブ（日テレNEWS LIVE）",
+   "embedUrl": "https://www.youtube.com/embed/DJrT4bhP3IY",
+   "watchUrl": "https://www.youtube.com/watch?v=DJrT4bhP3IY",
+   "thumb": "https://i.ytimg.com/vi/DJrT4bhP3IY/hqdefault_live.jpg"
   },
   "weathernews": {
    "live": true,
-   "videoId": "fyw7R_T_bao",
-   "title": "【ライブ】最新天気ニュース・地震情報 2026年10月22日(木)／北海道中心に暴風雪注意　明日先島諸島に台風30号接近〈ウェザーニュースLiVEアフタヌーン・佐藤剣慎／本田竜也〉",
-   "embedUrl": "https://www.youtube.com/embed/fyw7R_T_bao",
-   "watchUrl": "https://www.youtube.com/watch?v=fyw7R_T_bao",
-   "thumb": "https://i.ytimg.com/vi/fyw7R_T_bao/hqdefault_live.jpg"
+   "videoId": "oO7DfEFUsi4",
+   "title": "【ライブ】最新天気ニュース・地震情報 2026年10月22日(木)20:00〜 ／あす沖縄は台風30号の影響で大荒れ　西日本も天気下り坂〈ウェザーニュースLiVEムーン・ 戸北美月／本田竜也〉",
+   "embedUrl": "https://www.youtube.com/embed/oO7DfEFUsi4",
+   "watchUrl": "https://www.youtube.com/watch?v=oO7DfEFUsi4",
+   "thumb": "https://i.ytimg.com/vi/oO7DfEFUsi4/hqdefault_live.jpg"
   },
   "quake": {
    "live": true,
@@ -72,11 +72,11 @@
   },
   "tbs": {
    "live": true,
-   "videoId": "LvJ3dyvOEVM",
-   "title": "【ニュースライブ】昼のニュース（Japan News Digest Live）最新情報など（10月22日）｜TBS NEWS DIG",
-   "embedUrl": "https://www.youtube.com/embed/LvJ3dyvOEVM",
-   "watchUrl": "https://www.youtube.com/watch?v=LvJ3dyvOEVM",
-   "thumb": "https://i.ytimg.com/vi/LvJ3dyvOEVM/hqdefault_live.jpg"
+   "videoId": "dzG9bhMQBuI",
+   "title": "【ニュースライブ】夜のニュース（Japan News Digest Live）最新情報など（10月22日）｜TBS NEWS DIG",
+   "embedUrl": "https://www.youtube.com/embed/dzG9bhMQBuI",
+   "watchUrl": "https://www.youtube.com/watch?v=dzG9bhMQBuI",
+   "thumb": "https://i.ytimg.com/vi/dzG9bhMQBuI/hqdefault_live.jpg"
   },
   "sapporo": {
    "live": true,
@@ -96,11 +96,11 @@
   },
   "tokyo-fuji": {
    "live": true,
-   "videoId": "ww4_qRquXMQ",
-   "title": "【東京ライブカメラ】TOKYO LIVE CAMERA.  Mt'Fuji from Tokyo  富士山 紅富士 赤富士 東京からの富士山    #東京ライブカメラ #富士山東京 #東京夜景",
-   "embedUrl": "https://www.youtube.com/embed/ww4_qRquXMQ",
-   "watchUrl": "https://www.youtube.com/watch?v=ww4_qRquXMQ",
-   "thumb": "https://i.ytimg.com/vi/ww4_qRquXMQ/hqdefault_live.jpg"
+   "videoId": "6u5E5b7XbF8",
+   "title": "＃オリオン座流星群極大期【星空と東京ライブカメラ】TOKYO STARRY SKY LIVE CAMERA 東京ライブカメラ 　＃オリオン座流星群 #orionidmeteorshower",
+   "embedUrl": "https://www.youtube.com/embed/6u5E5b7XbF8",
+   "watchUrl": "https://www.youtube.com/watch?v=6u5E5b7XbF8",
+   "thumb": "https://i.ytimg.com/vi/6u5E5b7XbF8/hqdefault_live.jpg"
   },
   "oshino": {
    "live": true,
