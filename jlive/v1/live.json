@@ -1,6 +1,6 @@
 {
- "updated": "2026-10-22T17:05:46Z",
- "checked": "2026-10-22T17:05:46Z",
+ "updated": "2026-10-22T20:33:40Z",
+ "checked": "2026-10-22T20:33:40Z",
  "streams": {
   "tvasahi24": {
    "live": true,
@@ -12,19 +12,19 @@
   },
   "ntvlive": {
    "live": true,
-   "videoId": "tvkg-Wva_Pk",
-   "title": "【夜ニュースライブ】最新ニュースと生活情報（10月22日） ──THE LATEST NEWS SUMMARY（日テレNEWS LIVE）",
-   "embedUrl": "https://www.youtube.com/embed/tvkg-Wva_Pk",
-   "watchUrl": "https://www.youtube.com/watch?v=tvkg-Wva_Pk",
-   "thumb": "https://i.ytimg.com/vi/tvkg-Wva_Pk/hqdefault_live.jpg"
+   "videoId": "ZwSxwV2aLKo",
+   "title": "【朝ニュースライブ】最新ニュースと生活情報（10月23日） ──THE LATEST NEWS SUMMARY（日テレNEWS LIVE）",
+   "embedUrl": "https://www.youtube.com/embed/ZwSxwV2aLKo",
+   "watchUrl": "https://www.youtube.com/watch?v=ZwSxwV2aLKo",
+   "thumb": "https://i.ytimg.com/vi/ZwSxwV2aLKo/hqdefault_live.jpg"
   },
   "weathernews": {
    "live": true,
-   "videoId": "SsyGcAFL3gA",
-   "title": "【ライブ】最新天気ニュース・地震情報 2026年10月22日(火)23:00〜 ／沖縄は台風30号の影響で大荒れ 西日本も雨の範囲が広がる〈ウェザーニュースLiVE〉",
-   "embedUrl": "https://www.youtube.com/embed/SsyGcAFL3gA",
-   "watchUrl": "https://www.youtube.com/watch?v=SsyGcAFL3gA",
-   "thumb": "https://i.ytimg.com/vi/SsyGcAFL3gA/hqdefault_live.jpg"
+   "videoId": "NJMFQwEa4u4",
+   "title": "【ライブ】最新天気ニュース・地震情報 2026年10月23日(金) ／沖縄は台風30号の影響で荒天 西日本は徐々に雨の範囲が拡大〈ウェザーニュースLiVEモーニング・松本真央／有賀哲夫〉",
+   "embedUrl": "https://www.youtube.com/embed/NJMFQwEa4u4",
+   "watchUrl": "https://www.youtube.com/watch?v=NJMFQwEa4u4",
+   "thumb": "https://i.ytimg.com/vi/NJMFQwEa4u4/hqdefault_live.jpg"
   },
   "quake": {
    "live": true,
@@ -59,8 +59,12 @@
    "thumb": "https://i.ytimg.com/vi/LedL97-W4ZE/hqdefault_live.jpg"
   },
   "toba-otters": {
-   "live": false,
-   "reason": "not-live"
+   "live": true,
+   "videoId": "YonXVFE9C3g",
+   "title": "鳥羽水族館ラッコ水槽ライブカメラ　TOBA AUARIUIM SEA OTTER LIVE CAMERA",
+   "embedUrl": "https://www.youtube.com/embed/YonXVFE9C3g",
+   "watchUrl": "https://www.youtube.com/watch?v=YonXVFE9C3g",
+   "thumb": "https://i.ytimg.com/vi/YonXVFE9C3g/hqdefault_live.jpg"
   },
   "rcc": {
    "live": false,
@@ -68,11 +72,11 @@
   },
   "tbs": {
    "live": true,
-   "videoId": "a4r0XlWkh9U",
-   "title": "【「致命的な欠陥」影響は？】”PHPショック”銀行や外食でサービス停止相次ぐ/高市総理の際とも一時遮断/「すき家」「はま寿司」も…企業への影響拡大//個人が注意すべきこととは【ニュースライブ】",
-   "embedUrl": "https://www.youtube.com/embed/a4r0XlWkh9U",
-   "watchUrl": "https://www.youtube.com/watch?v=a4r0XlWkh9U",
-   "thumb": "https://i.ytimg.com/vi/a4r0XlWkh9U/hqdefault_live.jpg"
+   "videoId": "X3tkvHyNeWk",
+   "title": "【ニュースライブ】朝のニュース（Japan News Digest Live）最新情報など（10月23日）｜TBS NEWS DIG",
+   "embedUrl": "https://www.youtube.com/embed/X3tkvHyNeWk",
+   "watchUrl": "https://www.youtube.com/watch?v=X3tkvHyNeWk",
+   "thumb": "https://i.ytimg.com/vi/X3tkvHyNeWk/hqdefault_live.jpg"
   },
   "sapporo": {
    "live": true,
@@ -91,12 +95,8 @@
    "thumb": "https://i.ytimg.com/vi/D0bMDv4ORxM/hqdefault_live.jpg"
   },
   "tokyo-fuji": {
-   "live": true,
-   "videoId": "6u5E5b7XbF8",
-   "title": "＃オリオン座流星群極大期【星空と東京ライブカメラ】TOKYO STARRY SKY LIVE CAMERA 東京ライブカメラ 　＃オリオン座流星群 #orionidmeteorshower",
-   "embedUrl": "https://www.youtube.com/embed/6u5E5b7XbF8",
-   "watchUrl": "https://www.youtube.com/watch?v=6u5E5b7XbF8",
-   "thumb": "https://i.ytimg.com/vi/6u5E5b7XbF8/hqdefault_live.jpg"
+   "live": false,
+   "reason": "not-live"
   },
   "oshino": {
    "live": true,
