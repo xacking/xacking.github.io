@@ -38,5 +38,10 @@
    "appOpen"
   ],
   "interstitialMinutes": 3
+ },
+ "tv": {
+  "url": "https://tiviboy.com/jp.json",
+  "mode": "replace",
+  "_note": "mode replace = only this list on Watch; append = Japan Live's own channels first, then this list. enabled:false or remove to go back to channels.json."
  }
 }

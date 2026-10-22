@@ -73,3 +73,13 @@ Any channel in `channels.json`, any cam in `cams.json` and every station in `rad
 - An empty `ios` block means no ads on iPhone until an iOS AdMob app exists.
 - Preview builds (`--dart-define=ADS_TEST=true`) always use Google's test units. `watch` is never allowed, because YouTube's API terms bar ads around their player.
 - Meta Audience Network and Pangle are added as mediation networks in the AdMob console. The app already contains both adapters.
+
+## TV list (`config.json` → `tv`)
+
+```json
+"tv": {"url": "https://tiviboy.com/jp.json", "mode": "replace"}
+```
+
+The Watch tab loads its channels from this list. `replace` shows only this list; `append` shows Japan Live's own channels first, then this list. Remove the block or set `"enabled": false` to go back to `channels.json`. If the list can't be reached, the app uses its last saved copy, and if it has never loaded, the app falls back to `channels.json`.
+
+The list format is `{"channels": [{"id", "name", "jp", "logo", "stream", "type", "category", "headers", "enabled"}]}`. Only `name`, `logo` and `stream` are required. `category` becomes a filter chip, `headers` are sent with the stream request, and `type` is `hls` by default.
