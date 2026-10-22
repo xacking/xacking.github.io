@@ -1,6 +1,6 @@
 {
- "updated": "2026-10-22T20:33:40Z",
- "checked": "2026-10-22T20:33:40Z",
+ "updated": "2026-10-22T23:35:17Z",
+ "checked": "2026-10-22T23:35:17Z",
  "streams": {
   "tvasahi24": {
    "live": true,
@@ -12,19 +12,19 @@
   },
   "ntvlive": {
    "live": true,
-   "videoId": "ZwSxwV2aLKo",
-   "title": "【朝ニュースライブ】最新ニュースと生活情報（10月23日） ──THE LATEST NEWS SUMMARY（日テレNEWS LIVE）",
-   "embedUrl": "https://www.youtube.com/embed/ZwSxwV2aLKo",
-   "watchUrl": "https://www.youtube.com/watch?v=ZwSxwV2aLKo",
-   "thumb": "https://i.ytimg.com/vi/ZwSxwV2aLKo/hqdefault_live.jpg"
+   "videoId": "thqQBp-d7GE",
+   "title": "【アメリカライブ】メタに制裁金4兆円の支払い命令　大統領選めぐり“ユーザーを欺いた”　米・ニューメキシコ州の裁判所 ── 国際ニュースライブ（日テレNEWS LIVE）",
+   "embedUrl": "https://www.youtube.com/embed/thqQBp-d7GE",
+   "watchUrl": "https://www.youtube.com/watch?v=thqQBp-d7GE",
+   "thumb": "https://i.ytimg.com/vi/thqQBp-d7GE/hqdefault_live.jpg"
   },
   "weathernews": {
    "live": true,
-   "videoId": "NJMFQwEa4u4",
-   "title": "【ライブ】最新天気ニュース・地震情報 2026年10月23日(金) ／沖縄は台風30号の影響で荒天 西日本は徐々に雨の範囲が拡大〈ウェザーニュースLiVEモーニング・松本真央／有賀哲夫〉",
-   "embedUrl": "https://www.youtube.com/embed/NJMFQwEa4u4",
-   "watchUrl": "https://www.youtube.com/watch?v=NJMFQwEa4u4",
-   "thumb": "https://i.ytimg.com/vi/NJMFQwEa4u4/hqdefault_live.jpg"
+   "videoId": "TI4ubV2gAuI",
+   "title": "【ライブ】最新天気ニュース・地震情報 2026年10月23日(金)　台風30号・沖縄 暴風や大雨に厳重警戒 〈ウェザーニュースLiVEサンシャイン・ 岡本結子リサ／有賀哲夫〉",
+   "embedUrl": "https://www.youtube.com/embed/TI4ubV2gAuI",
+   "watchUrl": "https://www.youtube.com/watch?v=TI4ubV2gAuI",
+   "thumb": "https://i.ytimg.com/vi/TI4ubV2gAuI/hqdefault_live.jpg"
   },
   "quake": {
    "live": true,
@@ -95,8 +95,12 @@
    "thumb": "https://i.ytimg.com/vi/D0bMDv4ORxM/hqdefault_live.jpg"
   },
   "tokyo-fuji": {
-   "live": false,
-   "reason": "not-live"
+   "live": true,
+   "videoId": "R3x4CVet4YQ",
+   "title": "【東京ライブカメラ】TOKYO LIVE CAMERA.  Mt'Fuji from Tokyo  富士山 紅富士 赤富士 東京からの富士山    #東京ライブカメラ #富士山東京 #東京夜景",
+   "embedUrl": "https://www.youtube.com/embed/R3x4CVet4YQ",
+   "watchUrl": "https://www.youtube.com/watch?v=R3x4CVet4YQ",
+   "thumb": "https://i.ytimg.com/vi/R3x4CVet4YQ/hqdefault_live.jpg"
   },
   "oshino": {
    "live": true,
