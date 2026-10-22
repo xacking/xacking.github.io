@@ -1,6 +1,6 @@
 {
- "updated": "2026-10-21T21:58:22Z",
- "checked": "2026-10-21T21:58:22Z",
+ "updated": "2026-10-22T00:39:20Z",
+ "checked": "2026-10-22T00:39:20Z",
  "streams": {
   "tvasahi24": {
    "live": true,
@@ -12,19 +12,19 @@
   },
   "ntvlive": {
    "live": true,
-   "videoId": "RXN69LUdrF8",
-   "title": "【朝ニュースライブ】最新ニュースと生活情報（10月22日） ──THE LATEST NEWS SUMMARY（日テレNEWS LIVE）",
-   "embedUrl": "https://www.youtube.com/embed/RXN69LUdrF8",
-   "watchUrl": "https://www.youtube.com/watch?v=RXN69LUdrF8",
-   "thumb": "https://i.ytimg.com/vi/RXN69LUdrF8/hqdefault_live.jpg"
+   "videoId": "9O-JsS3SuKY",
+   "title": "【国会中継】参議院・農林水産委員会── 政治ニュースライブ［2026年10月22日午前］（日テレNEWS LIVE）",
+   "embedUrl": "https://www.youtube.com/embed/9O-JsS3SuKY",
+   "watchUrl": "https://www.youtube.com/watch?v=9O-JsS3SuKY",
+   "thumb": "https://i.ytimg.com/vi/9O-JsS3SuKY/hqdefault_live.jpg"
   },
   "weathernews": {
    "live": true,
-   "videoId": "U1BVY8Vrbc4",
-   "title": "【ライブ】最新天気ニュース・地震情報 2026年10月22日(木) ／北日本日本海側は風雨 山沿いでは雪に　沖縄は台風の影響に警戒〈ウェザーニュースLiVEモーニング・岡本結子リサ／山口剛央〉",
-   "embedUrl": "https://www.youtube.com/embed/U1BVY8Vrbc4",
-   "watchUrl": "https://www.youtube.com/watch?v=U1BVY8Vrbc4",
-   "thumb": "https://i.ytimg.com/vi/U1BVY8Vrbc4/hqdefault_live.jpg"
+   "videoId": "a3-nChZ85V8",
+   "title": "【ライブ】最新天気ニュース・地震情報 2026年10月22日(木) ／北日本日本海側は風雨 山沿いでは雪に　沖縄は台風の影響に警戒〈ウェザーニュースLiVEサンシャイン・魚住茉由／山口剛央〉",
+   "embedUrl": "https://www.youtube.com/embed/a3-nChZ85V8",
+   "watchUrl": "https://www.youtube.com/watch?v=a3-nChZ85V8",
+   "thumb": "https://i.ytimg.com/vi/a3-nChZ85V8/hqdefault_live.jpg"
   },
   "quake": {
    "live": true,
@@ -103,8 +103,12 @@
    "thumb": "https://i.ytimg.com/vi/ww4_qRquXMQ/hqdefault_live.jpg"
   },
   "oshino": {
-   "live": false,
-   "reason": "not-live"
+   "live": true,
+   "videoId": "tuNC0ot0j9I",
+   "title": "【LIVE】葉山・富士山ライブカメラ　裕次郎灯台・江の島　波情報　\"mount fuji live camera\" from Hayama (Japan)【4K】",
+   "embedUrl": "https://www.youtube.com/embed/tuNC0ot0j9I",
+   "watchUrl": "https://www.youtube.com/watch?v=tuNC0ot0j9I",
+   "thumb": "https://i.ytimg.com/vi/tuNC0ot0j9I/hqdefault_live.jpg"
   },
   "kyoto-tower": {
    "live": true,
