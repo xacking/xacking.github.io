@@ -1,6 +1,6 @@
 {
- "updated": "2026-10-23T07:24:52Z",
- "checked": "2026-10-23T07:24:52Z",
+ "updated": "2026-10-23T12:51:43Z",
+ "checked": "2026-10-23T12:51:43Z",
  "streams": {
   "tvasahi24": {
    "live": true,
@@ -12,19 +12,19 @@
   },
   "ntvlive": {
    "live": true,
-   "videoId": "d9lFQWR_qbk",
-   "title": "【夕ニュースライブ】最新ニュースと生活情報（10月23日） ──THE LATEST NEWS SUMMARY（日テレNEWS LIVE）",
-   "embedUrl": "https://www.youtube.com/embed/d9lFQWR_qbk",
-   "watchUrl": "https://www.youtube.com/watch?v=d9lFQWR_qbk",
-   "thumb": "https://i.ytimg.com/vi/d9lFQWR_qbk/hqdefault_live.jpg"
+   "videoId": "87g43h6YfeI",
+   "title": "【PHPに脆弱性】不正アクセス問題めぐり　経産省 “ホワイトハッカー”チーム 立ち上げへ ── 社会ニュースライブ（日テレNEWS LIVE）",
+   "embedUrl": "https://www.youtube.com/embed/87g43h6YfeI",
+   "watchUrl": "https://www.youtube.com/watch?v=87g43h6YfeI",
+   "thumb": "https://i.ytimg.com/vi/87g43h6YfeI/hqdefault_live.jpg"
   },
   "weathernews": {
    "live": true,
-   "videoId": "ykRvzs8VizQ",
-   "title": "【ライブ】最新天気ニュース・地震情報 2026年10月23日(金)／台風30号今夜先島諸島に最接近　明日は西から東日本で雨〈ウェザーニュースLiVEアフタヌーン・江川清音／宇野沢達也〉",
-   "embedUrl": "https://www.youtube.com/embed/ykRvzs8VizQ",
-   "watchUrl": "https://www.youtube.com/watch?v=ykRvzs8VizQ",
-   "thumb": "https://i.ytimg.com/vi/ykRvzs8VizQ/hqdefault_live.jpg"
+   "videoId": "hu1_6jCR10I",
+   "title": "【ライブ】最新天気ニュース・地震情報 2026年10月23日(金)20:00〜 ／台風30号今夜先島諸島に最接近　明日は西から東日本で雨〈ウェザーニュースLiVEムーン・ 小林李衣奈／宇野沢達也〉",
+   "embedUrl": "https://www.youtube.com/embed/hu1_6jCR10I",
+   "watchUrl": "https://www.youtube.com/watch?v=hu1_6jCR10I",
+   "thumb": "https://i.ytimg.com/vi/hu1_6jCR10I/hqdefault_live.jpg"
   },
   "quake": {
    "live": true,
@@ -51,12 +51,8 @@
    "thumb": "https://i.ytimg.com/vi/xeuRyvZQeJo/hqdefault_live.jpg"
   },
   "sakurajima": {
-   "live": true,
-   "videoId": "LedL97-W4ZE",
-   "title": "ライブカメラ",
-   "embedUrl": "https://www.youtube.com/embed/LedL97-W4ZE",
-   "watchUrl": "https://www.youtube.com/watch?v=LedL97-W4ZE",
-   "thumb": "https://i.ytimg.com/vi/LedL97-W4ZE/hqdefault_live.jpg"
+   "live": false,
+   "reason": "not-live"
   },
   "toba-otters": {
    "live": true,
@@ -72,11 +68,11 @@
   },
   "tbs": {
    "live": true,
-   "videoId": "kQhRNZ-WLPE",
-   "title": "【ニュースライブ】昼のニュース（Japan News Digest Live）最新情報など（10月23日）｜TBS NEWS DIG",
-   "embedUrl": "https://www.youtube.com/embed/kQhRNZ-WLPE",
-   "watchUrl": "https://www.youtube.com/watch?v=kQhRNZ-WLPE",
-   "thumb": "https://i.ytimg.com/vi/kQhRNZ-WLPE/hqdefault_live.jpg"
+   "videoId": "M7dNawj1UeU",
+   "title": "【ニュースライブ】最新ニュースまとめ（Japan News Digest）（10月23日）｜TBS NEWS DIG",
+   "embedUrl": "https://www.youtube.com/embed/M7dNawj1UeU",
+   "watchUrl": "https://www.youtube.com/watch?v=M7dNawj1UeU",
+   "thumb": "https://i.ytimg.com/vi/M7dNawj1UeU/hqdefault_live.jpg"
   },
   "sapporo": {
    "live": true,
@@ -96,11 +92,11 @@
   },
   "tokyo-fuji": {
    "live": true,
-   "videoId": "R3x4CVet4YQ",
-   "title": "【東京ライブカメラ】TOKYO LIVE CAMERA.  Mt'Fuji from Tokyo  富士山 紅富士 赤富士 東京からの富士山    #東京ライブカメラ #富士山東京 #東京夜景",
-   "embedUrl": "https://www.youtube.com/embed/R3x4CVet4YQ",
-   "watchUrl": "https://www.youtube.com/watch?v=R3x4CVet4YQ",
-   "thumb": "https://i.ytimg.com/vi/R3x4CVet4YQ/hqdefault_live.jpg"
+   "videoId": "V86aLSXgipU",
+   "title": "＃オリオン座流星群極大期【星空と東京ライブカメラ】TOKYO STARRY SKY LIVE CAMERA 東京ライブカメラ 　＃オリオン座流星群 #orionidmeteorshower",
+   "embedUrl": "https://www.youtube.com/embed/V86aLSXgipU",
+   "watchUrl": "https://www.youtube.com/watch?v=V86aLSXgipU",
+   "thumb": "https://i.ytimg.com/vi/V86aLSXgipU/hqdefault_live.jpg"
   },
   "oshino": {
    "live": true,
@@ -119,8 +115,12 @@
    "thumb": "https://i.ytimg.com/vi/CeSitkT_nbw/hqdefault_live.jpg"
   },
   "tottori": {
-   "live": false,
-   "reason": "not-live"
+   "live": true,
+   "videoId": "0ZN0CW-IpVk",
+   "title": "鳥取市伏野海岸ライブカメラ　The Sea of Japan live camera.",
+   "embedUrl": "https://www.youtube.com/embed/0ZN0CW-IpVk",
+   "watchUrl": "https://www.youtube.com/watch?v=0ZN0CW-IpVk",
+   "thumb": "https://i.ytimg.com/vi/0ZN0CW-IpVk/hqdefault_live.jpg"
   },
   "kurushima": {
    "live": true,
