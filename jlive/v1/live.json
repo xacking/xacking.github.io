@@ -1,6 +1,6 @@
 {
- "updated": "2026-10-22T23:35:17Z",
- "checked": "2026-10-22T23:35:17Z",
+ "updated": "2026-10-23T01:57:09Z",
+ "checked": "2026-10-23T01:57:09Z",
  "streams": {
   "tvasahi24": {
    "live": true,
@@ -12,19 +12,19 @@
   },
   "ntvlive": {
    "live": true,
-   "videoId": "thqQBp-d7GE",
-   "title": "【アメリカライブ】メタに制裁金4兆円の支払い命令　大統領選めぐり“ユーザーを欺いた”　米・ニューメキシコ州の裁判所 ── 国際ニュースライブ（日テレNEWS LIVE）",
-   "embedUrl": "https://www.youtube.com/embed/thqQBp-d7GE",
-   "watchUrl": "https://www.youtube.com/watch?v=thqQBp-d7GE",
-   "thumb": "https://i.ytimg.com/vi/thqQBp-d7GE/hqdefault_live.jpg"
+   "videoId": "wVbugKpxjE8",
+   "title": "【国会中継】衆議院・財務金融委員会  片山財務相出席 ── 政治ニュースライブ［2026年10月23日午前］（日テレNEWS LIVE）",
+   "embedUrl": "https://www.youtube.com/embed/wVbugKpxjE8",
+   "watchUrl": "https://www.youtube.com/watch?v=wVbugKpxjE8",
+   "thumb": "https://i.ytimg.com/vi/wVbugKpxjE8/hqdefault_live.jpg"
   },
   "weathernews": {
    "live": true,
-   "videoId": "TI4ubV2gAuI",
-   "title": "【ライブ】最新天気ニュース・地震情報 2026年10月23日(金)　台風30号・沖縄 暴風や大雨に厳重警戒 〈ウェザーニュースLiVEサンシャイン・ 岡本結子リサ／有賀哲夫〉",
-   "embedUrl": "https://www.youtube.com/embed/TI4ubV2gAuI",
-   "watchUrl": "https://www.youtube.com/watch?v=TI4ubV2gAuI",
-   "thumb": "https://i.ytimg.com/vi/TI4ubV2gAuI/hqdefault_live.jpg"
+   "videoId": "Yugmv5wV_iE",
+   "title": "【ライブ】最新天気ニュース・地震情報 2026年10月23日(金) ／台風30号は先島諸島に最接近〈ウェザーニュースLiVEコーヒータイム・田辺真南葉／有賀哲夫〉",
+   "embedUrl": "https://www.youtube.com/embed/Yugmv5wV_iE",
+   "watchUrl": "https://www.youtube.com/watch?v=Yugmv5wV_iE",
+   "thumb": "https://i.ytimg.com/vi/Yugmv5wV_iE/hqdefault_live.jpg"
   },
   "quake": {
    "live": true,
