@@ -1,6 +1,6 @@
 {
- "updated": "2026-10-23T12:51:43Z",
- "checked": "2026-10-23T12:51:43Z",
+ "updated": "2026-10-23T17:52:04Z",
+ "checked": "2026-10-23T17:52:04Z",
  "streams": {
   "tvasahi24": {
    "live": true,
@@ -12,27 +12,27 @@
   },
   "ntvlive": {
    "live": true,
-   "videoId": "87g43h6YfeI",
-   "title": "【PHPに脆弱性】不正アクセス問題めぐり　経産省 “ホワイトハッカー”チーム 立ち上げへ ── 社会ニュースライブ（日テレNEWS LIVE）",
-   "embedUrl": "https://www.youtube.com/embed/87g43h6YfeI",
-   "watchUrl": "https://www.youtube.com/watch?v=87g43h6YfeI",
-   "thumb": "https://i.ytimg.com/vi/87g43h6YfeI/hqdefault_live.jpg"
+   "videoId": "oWa0MyHh61E",
+   "title": "【台風情報】台風30号　西日本接近へ…広範囲で警報級大雨に警戒を ──気象ニュースライブ（日テレNEWS LIVE）",
+   "embedUrl": "https://www.youtube.com/embed/oWa0MyHh61E",
+   "watchUrl": "https://www.youtube.com/watch?v=oWa0MyHh61E",
+   "thumb": "https://i.ytimg.com/vi/oWa0MyHh61E/hqdefault_live.jpg"
   },
   "weathernews": {
    "live": true,
-   "videoId": "hu1_6jCR10I",
-   "title": "【ライブ】最新天気ニュース・地震情報 2026年10月23日(金)20:00〜 ／台風30号今夜先島諸島に最接近　明日は西から東日本で雨〈ウェザーニュースLiVEムーン・ 小林李衣奈／宇野沢達也〉",
-   "embedUrl": "https://www.youtube.com/embed/hu1_6jCR10I",
-   "watchUrl": "https://www.youtube.com/watch?v=hu1_6jCR10I",
-   "thumb": "https://i.ytimg.com/vi/hu1_6jCR10I/hqdefault_live.jpg"
+   "videoId": "Bng91Xo34KE",
+   "title": "【ライブ】最新天気ニュース・地震情報 2026年10月23日(金)23:00〜 ／台風30号が八重山諸島に最接近　今夜にかけて風雨のピーク〈ウェザーニュースLiVE〉",
+   "embedUrl": "https://www.youtube.com/embed/Bng91Xo34KE",
+   "watchUrl": "https://www.youtube.com/watch?v=Bng91Xo34KE",
+   "thumb": "https://i.ytimg.com/vi/Bng91Xo34KE/hqdefault_live.jpg"
   },
   "quake": {
    "live": true,
-   "videoId": "8zgDFBystCE",
+   "videoId": "y1LYFbOMh_k",
    "title": "【地震ライブ】緊急地震速報 24時間リアルタイム配信中 ウェザーニュース／Earthquake Alert Japan Live",
-   "embedUrl": "https://www.youtube.com/embed/8zgDFBystCE",
-   "watchUrl": "https://www.youtube.com/watch?v=8zgDFBystCE",
-   "thumb": "https://i.ytimg.com/vi/8zgDFBystCE/hqdefault_live.jpg"
+   "embedUrl": "https://www.youtube.com/embed/y1LYFbOMh_k",
+   "watchUrl": "https://www.youtube.com/watch?v=y1LYFbOMh_k",
+   "thumb": "https://i.ytimg.com/vi/y1LYFbOMh_k/hqdefault_live.jpg"
   },
   "dotonbori": {
    "live": true,
