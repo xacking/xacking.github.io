@@ -1,6 +1,6 @@
 {
- "updated": "2026-10-23T01:57:09Z",
- "checked": "2026-10-23T01:57:09Z",
+ "updated": "2026-10-23T07:24:52Z",
+ "checked": "2026-10-23T07:24:52Z",
  "streams": {
   "tvasahi24": {
    "live": true,
@@ -12,19 +12,19 @@
   },
   "ntvlive": {
    "live": true,
-   "videoId": "wVbugKpxjE8",
-   "title": "【国会中継】衆議院・財務金融委員会  片山財務相出席 ── 政治ニュースライブ［2026年10月23日午前］（日テレNEWS LIVE）",
-   "embedUrl": "https://www.youtube.com/embed/wVbugKpxjE8",
-   "watchUrl": "https://www.youtube.com/watch?v=wVbugKpxjE8",
-   "thumb": "https://i.ytimg.com/vi/wVbugKpxjE8/hqdefault_live.jpg"
+   "videoId": "d9lFQWR_qbk",
+   "title": "【夕ニュースライブ】最新ニュースと生活情報（10月23日） ──THE LATEST NEWS SUMMARY（日テレNEWS LIVE）",
+   "embedUrl": "https://www.youtube.com/embed/d9lFQWR_qbk",
+   "watchUrl": "https://www.youtube.com/watch?v=d9lFQWR_qbk",
+   "thumb": "https://i.ytimg.com/vi/d9lFQWR_qbk/hqdefault_live.jpg"
   },
   "weathernews": {
    "live": true,
-   "videoId": "Yugmv5wV_iE",
-   "title": "【ライブ】最新天気ニュース・地震情報 2026年10月23日(金) ／台風30号は先島諸島に最接近〈ウェザーニュースLiVEコーヒータイム・田辺真南葉／有賀哲夫〉",
-   "embedUrl": "https://www.youtube.com/embed/Yugmv5wV_iE",
-   "watchUrl": "https://www.youtube.com/watch?v=Yugmv5wV_iE",
-   "thumb": "https://i.ytimg.com/vi/Yugmv5wV_iE/hqdefault_live.jpg"
+   "videoId": "ykRvzs8VizQ",
+   "title": "【ライブ】最新天気ニュース・地震情報 2026年10月23日(金)／台風30号今夜先島諸島に最接近　明日は西から東日本で雨〈ウェザーニュースLiVEアフタヌーン・江川清音／宇野沢達也〉",
+   "embedUrl": "https://www.youtube.com/embed/ykRvzs8VizQ",
+   "watchUrl": "https://www.youtube.com/watch?v=ykRvzs8VizQ",
+   "thumb": "https://i.ytimg.com/vi/ykRvzs8VizQ/hqdefault_live.jpg"
   },
   "quake": {
    "live": true,
@@ -72,11 +72,11 @@
   },
   "tbs": {
    "live": true,
-   "videoId": "X3tkvHyNeWk",
-   "title": "【ニュースライブ】朝のニュース（Japan News Digest Live）最新情報など（10月23日）｜TBS NEWS DIG",
-   "embedUrl": "https://www.youtube.com/embed/X3tkvHyNeWk",
-   "watchUrl": "https://www.youtube.com/watch?v=X3tkvHyNeWk",
-   "thumb": "https://i.ytimg.com/vi/X3tkvHyNeWk/hqdefault_live.jpg"
+   "videoId": "kQhRNZ-WLPE",
+   "title": "【ニュースライブ】昼のニュース（Japan News Digest Live）最新情報など（10月23日）｜TBS NEWS DIG",
+   "embedUrl": "https://www.youtube.com/embed/kQhRNZ-WLPE",
+   "watchUrl": "https://www.youtube.com/watch?v=kQhRNZ-WLPE",
+   "thumb": "https://i.ytimg.com/vi/kQhRNZ-WLPE/hqdefault_live.jpg"
   },
   "sapporo": {
    "live": true,
@@ -119,12 +119,8 @@
    "thumb": "https://i.ytimg.com/vi/CeSitkT_nbw/hqdefault_live.jpg"
   },
   "tottori": {
-   "live": true,
-   "videoId": "0ZN0CW-IpVk",
-   "title": "鳥取市伏野海岸ライブカメラ　The Sea of Japan live camera.",
-   "embedUrl": "https://www.youtube.com/embed/0ZN0CW-IpVk",
-   "watchUrl": "https://www.youtube.com/watch?v=0ZN0CW-IpVk",
-   "thumb": "https://i.ytimg.com/vi/0ZN0CW-IpVk/hqdefault_live.jpg"
+   "live": false,
+   "reason": "not-live"
   },
   "kurushima": {
    "live": true,
