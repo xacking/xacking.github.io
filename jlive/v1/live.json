@@ -1,6 +1,6 @@
 {
- "updated": "2026-10-23T21:21:12Z",
- "checked": "2026-10-23T21:21:12Z",
+ "updated": "2026-10-23T23:58:41Z",
+ "checked": "2026-10-23T23:58:41Z",
  "streams": {
   "tvasahi24": {
    "live": true,
@@ -12,19 +12,19 @@
   },
   "ntvlive": {
    "live": true,
-   "videoId": "rAuTExxu9jw",
-   "title": "【朝ニュースライブ】最新ニュースと生活情報（10月24日） ──THE LATEST NEWS SUMMARY（日テレNEWS LIVE）",
-   "embedUrl": "https://www.youtube.com/embed/rAuTExxu9jw",
-   "watchUrl": "https://www.youtube.com/watch?v=rAuTExxu9jw",
-   "thumb": "https://i.ytimg.com/vi/rAuTExxu9jw/hqdefault_live.jpg"
+   "videoId": "G8BBHM6B1Eo",
+   "title": "【PHPに脆弱性】「アルカディア」不正アクセスを受け謝罪　140万通以上の“詐欺メール”送信も ── 社会ニュースライブ（日テレNEWS LIVE）",
+   "embedUrl": "https://www.youtube.com/embed/G8BBHM6B1Eo",
+   "watchUrl": "https://www.youtube.com/watch?v=G8BBHM6B1Eo",
+   "thumb": "https://i.ytimg.com/vi/G8BBHM6B1Eo/hqdefault_live.jpg"
   },
   "weathernews": {
    "live": true,
-   "videoId": "8DYqk2IzO_Y",
-   "title": "【ライブ】最新天気ニュース・地震情報 2026年10月24日(土) ／台風30号 先島諸島は暴風雨に厳重警戒〈ウェザーニュースLiVEモーニング・岡本結子リサ／山口剛央〉",
-   "embedUrl": "https://www.youtube.com/embed/8DYqk2IzO_Y",
-   "watchUrl": "https://www.youtube.com/watch?v=8DYqk2IzO_Y",
-   "thumb": "https://i.ytimg.com/vi/8DYqk2IzO_Y/hqdefault_live.jpg"
+   "videoId": "TCqEcChcc4w",
+   "title": "【ライブ】最新天気ニュース・地震情報 2026年10月24日(土) ／台風30号 沖縄は強雨や暴風、高波に警戒〈ウェザーニュースLiVEサンシャイン・魚住茉由／山口剛央〉",
+   "embedUrl": "https://www.youtube.com/embed/TCqEcChcc4w",
+   "watchUrl": "https://www.youtube.com/watch?v=TCqEcChcc4w",
+   "thumb": "https://i.ytimg.com/vi/TCqEcChcc4w/hqdefault_live.jpg"
   },
   "quake": {
    "live": true,
