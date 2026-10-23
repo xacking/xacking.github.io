@@ -1,0 +1,21 @@
+{
+ "updated": "2026-10-23T00:00:00Z",
+ "version": 1,
+ "_note": "Japan Live Games tab. The app shows games in this order, features `featured`, and hides any with enabled:false. Keys must match a game built into the app: sudoku, nonogram, shisensho, reversi, gomoku, 2048, snake, ttt. New puzzles for Sudoku and Picture Logic come from the feeds below, so you can add puzzles without an app update.",
+ "featured": "sudoku",
+ "notice": null,
+ "feeds": {
+  "sudoku": "https://xacking.github.io/jlive/v1/sudoku.json",
+  "nonogram": "https://xacking.github.io/jlive/v1/nonogram.json"
+ },
+ "games": [
+  {"key": "sudoku", "title": "Sudoku", "jp": "数独", "genre": "Puzzle", "desc": "A new puzzle every day, plus easy, medium and hard grids", "color": "#1C2A4A", "isNew": true, "enabled": true},
+  {"key": "nonogram", "title": "Picture Logic", "jp": "お絵かきロジック", "genre": "Puzzle", "desc": "Use the number clues to fill the grid and reveal a picture", "color": "#3A1F2C", "isNew": true, "enabled": true},
+  {"key": "shisensho", "title": "Shisen-Sho", "jp": "四川省", "genre": "Tiles", "desc": "Match pairs joined by a path with no more than two turns", "color": "#2E3322", "isNew": true, "enabled": true},
+  {"key": "reversi", "title": "Reversi", "jp": "リバーシ", "genre": "Board · vs CPU", "desc": "Flip your opponent's stones by surrounding them", "color": "#1F3A33", "isNew": true, "enabled": true},
+  {"key": "gomoku", "title": "Gomoku", "jp": "五目並べ", "genre": "Board · vs CPU", "desc": "Get five in a row before the CPU does", "color": "#3A2E14", "isNew": true, "enabled": true},
+  {"key": "2048", "title": "2048", "jp": "", "genre": "Puzzle", "desc": "Swipe to merge matching tiles", "color": "#33224A", "enabled": true},
+  {"key": "snake", "title": "Snake", "jp": "", "genre": "Arcade", "desc": "Eat, grow, don't hit the walls", "color": "#1F2F3A", "enabled": true},
+  {"key": "ttt", "title": "Tic-Tac-Toe", "jp": "まるばつ", "genre": "Versus CPU", "desc": "Three in a row", "color": "#3A2420", "enabled": true}
+ ]
+}
