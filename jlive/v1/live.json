@@ -1,30 +1,26 @@
 {
- "updated": "2026-10-24T16:55:51Z",
- "checked": "2026-10-24T16:55:51Z",
+ "updated": "2026-10-24T21:51:47Z",
+ "checked": "2026-10-24T21:51:47Z",
  "streams": {
   "tvasahi24": {
-   "live": true,
-   "videoId": "coYw-eVU0Ks",
-   "title": "【ライブ】日本の最新ニュースを24時間ライブ配信｜テレ朝NEWS24（Japan News LIVE）【チャットアンケート実施中！あなたの意見は？】",
-   "embedUrl": "https://www.youtube.com/embed/coYw-eVU0Ks",
-   "watchUrl": "https://www.youtube.com/watch?v=coYw-eVU0Ks",
-   "thumb": "https://i.ytimg.com/vi/coYw-eVU0Ks/hqdefault_live.jpg"
+   "live": false,
+   "reason": "not-live"
   },
   "ntvlive": {
    "live": true,
-   "videoId": "1qL8pDnn-mQ",
-   "title": "【PHPに脆弱性】GMO「能動的サイバー防御」政府に要請　不正取引による損失は補償の方針── 社会ニュースライブ（日テレNEWS LIVE）",
-   "embedUrl": "https://www.youtube.com/embed/1qL8pDnn-mQ",
-   "watchUrl": "https://www.youtube.com/watch?v=1qL8pDnn-mQ",
-   "thumb": "https://i.ytimg.com/vi/1qL8pDnn-mQ/hqdefault_live.jpg"
+   "videoId": "NYBltPtOVJ8",
+   "title": "【朝ニュースライブ】最新ニュースと生活情報（10月25日） ──THE LATEST NEWS SUMMARY（日テレNEWS LIVE）",
+   "embedUrl": "https://www.youtube.com/embed/NYBltPtOVJ8",
+   "watchUrl": "https://www.youtube.com/watch?v=NYBltPtOVJ8",
+   "thumb": "https://i.ytimg.com/vi/NYBltPtOVJ8/hqdefault_live.jpg"
   },
   "weathernews": {
    "live": true,
-   "videoId": "Id_tRefZX3s",
-   "title": "【ライブ】最新天気ニュース・地震情報 2026年10月24日(土)23:00〜 ／台風30号は北上　西日本、東日本は大雨に警戒〈ウェザーニュースLiVE〉",
-   "embedUrl": "https://www.youtube.com/embed/Id_tRefZX3s",
-   "watchUrl": "https://www.youtube.com/watch?v=Id_tRefZX3s",
-   "thumb": "https://i.ytimg.com/vi/Id_tRefZX3s/hqdefault_live.jpg"
+   "videoId": "qfqM6pviSOs",
+   "title": "【ライブ】最新天気ニュース・地震情報 2026年10月25日(日)／東北から西日本は広く雨 局地的に激しい雨の降るおそれ　〈ウェザーニュースLiVEモーニング・魚住茉由／山口剛央〉",
+   "embedUrl": "https://www.youtube.com/embed/qfqM6pviSOs",
+   "watchUrl": "https://www.youtube.com/watch?v=qfqM6pviSOs",
+   "thumb": "https://i.ytimg.com/vi/qfqM6pviSOs/hqdefault_live.jpg"
   },
   "quake": {
    "live": true,
@@ -68,11 +64,11 @@
   },
   "tbs": {
    "live": true,
-   "videoId": "oT0ws4DS5Lo",
-   "title": "【ニュースライブ】最新ニュースまとめ（Japan News Digest）（10月24日）｜TBS NEWS DIG",
-   "embedUrl": "https://www.youtube.com/embed/oT0ws4DS5Lo",
-   "watchUrl": "https://www.youtube.com/watch?v=oT0ws4DS5Lo",
-   "thumb": "https://i.ytimg.com/vi/oT0ws4DS5Lo/hqdefault_live.jpg"
+   "videoId": "vZ8rsDhBfK0",
+   "title": "【ニュースライブ】朝のニュース（Japan News Digest Live）最新情報など（10月25日）｜TBS NEWS DIG",
+   "embedUrl": "https://www.youtube.com/embed/vZ8rsDhBfK0",
+   "watchUrl": "https://www.youtube.com/watch?v=vZ8rsDhBfK0",
+   "thumb": "https://i.ytimg.com/vi/vZ8rsDhBfK0/hqdefault_live.jpg"
   },
   "sapporo": {
    "live": true,
@@ -92,11 +88,11 @@
   },
   "tokyo-fuji": {
    "live": true,
-   "videoId": "QL6HURUHsSk",
-   "title": "＃オリオン座流星群極大期【星空と東京ライブカメラ】TOKYO STARRY SKY LIVE CAMERA 東京ライブカメラ 　＃オリオン座流星群 #orionidmeteorshower",
-   "embedUrl": "https://www.youtube.com/embed/QL6HURUHsSk",
-   "watchUrl": "https://www.youtube.com/watch?v=QL6HURUHsSk",
-   "thumb": "https://i.ytimg.com/vi/QL6HURUHsSk/hqdefault_live.jpg"
+   "videoId": "J4Ivk_Ylr4Y",
+   "title": "【東京ライブカメラ】TOKYO LIVE CAMERA.  Mt'Fuji from Tokyo  富士山 紅富士 赤富士 東京からの富士山    #東京ライブカメラ #富士山東京 #東京夜景",
+   "embedUrl": "https://www.youtube.com/embed/J4Ivk_Ylr4Y",
+   "watchUrl": "https://www.youtube.com/watch?v=J4Ivk_Ylr4Y",
+   "thumb": "https://i.ytimg.com/vi/J4Ivk_Ylr4Y/hqdefault_live.jpg"
   },
   "oshino": {
    "live": true,
