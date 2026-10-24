@@ -1,6 +1,6 @@
 {
- "updated": "2026-10-24T04:29:03Z",
- "checked": "2026-10-24T04:29:03Z",
+ "updated": "2026-10-24T09:05:52Z",
+ "checked": "2026-10-24T09:05:52Z",
  "streams": {
   "tvasahi24": {
    "live": true,
@@ -11,20 +11,16 @@
    "thumb": "https://i.ytimg.com/vi/coYw-eVU0Ks/hqdefault_live.jpg"
   },
   "ntvlive": {
-   "live": true,
-   "videoId": "XfWVQ1591jA",
-   "title": "【アメリカライブ】中間選挙を前に…アラスカ州を相手取り訴訟　上院の共和党現職が敗れた場合の“結果阻止”へ── 国際ニュースライブ（日テレNEWS LIVE）",
-   "embedUrl": "https://www.youtube.com/embed/XfWVQ1591jA",
-   "watchUrl": "https://www.youtube.com/watch?v=XfWVQ1591jA",
-   "thumb": "https://i.ytimg.com/vi/XfWVQ1591jA/hqdefault_live.jpg"
+   "live": false,
+   "reason": "not-live"
   },
   "weathernews": {
    "live": true,
-   "videoId": "gAeAjj4jNhs",
-   "title": "【ライブ】最新天気ニュース・地震情報 2026年10月24日(土) ／台風30号 先島諸島は暴風雨に厳重警戒〈ウェザーニュースLiVEコーヒータイム・佐藤剣慎／山口剛央〉",
-   "embedUrl": "https://www.youtube.com/embed/gAeAjj4jNhs",
-   "watchUrl": "https://www.youtube.com/watch?v=gAeAjj4jNhs",
-   "thumb": "https://i.ytimg.com/vi/gAeAjj4jNhs/hqdefault_live.jpg"
+   "videoId": "XonuRoBQuXg",
+   "title": "【ライブ】最新天気ニュース・地震情報 2026年10月24日(土) ／先島諸島は暴風域抜けるも引き続き土砂災害などに注意〈ウェザーニュースLiVEイブニング・小川千奈／内藤邦裕〉",
+   "embedUrl": "https://www.youtube.com/embed/XonuRoBQuXg",
+   "watchUrl": "https://www.youtube.com/watch?v=XonuRoBQuXg",
+   "thumb": "https://i.ytimg.com/vi/XonuRoBQuXg/hqdefault_live.jpg"
   },
   "quake": {
    "live": true,
@@ -68,11 +64,11 @@
   },
   "tbs": {
    "live": true,
-   "videoId": "PMg_McY1m2M",
-   "title": "【ニュースライブ】昼のニュース（Japan News Digest Live）最新情報など（10月24日）｜TBS NEWS DIG",
-   "embedUrl": "https://www.youtube.com/embed/PMg_McY1m2M",
-   "watchUrl": "https://www.youtube.com/watch?v=PMg_McY1m2M",
-   "thumb": "https://i.ytimg.com/vi/PMg_McY1m2M/hqdefault_live.jpg"
+   "videoId": "kJZNnulpkCY",
+   "title": "【ニュースライブ】夜のニュース（Japan News Digest Live）最新情報など（10月24日）｜TBS NEWS DIG",
+   "embedUrl": "https://www.youtube.com/embed/kJZNnulpkCY",
+   "watchUrl": "https://www.youtube.com/watch?v=kJZNnulpkCY",
+   "thumb": "https://i.ytimg.com/vi/kJZNnulpkCY/hqdefault_live.jpg"
   },
   "sapporo": {
    "live": true,
@@ -92,11 +88,11 @@
   },
   "tokyo-fuji": {
    "live": true,
-   "videoId": "92P5dPguxto",
-   "title": "【東京ライブカメラ】TOKYO LIVE CAMERA.  Mt'Fuji from Tokyo  富士山 紅富士 赤富士 東京からの富士山    #東京ライブカメラ #富士山東京 #東京夜景",
-   "embedUrl": "https://www.youtube.com/embed/92P5dPguxto",
-   "watchUrl": "https://www.youtube.com/watch?v=92P5dPguxto",
-   "thumb": "https://i.ytimg.com/vi/92P5dPguxto/hqdefault_live.jpg"
+   "videoId": "QL6HURUHsSk",
+   "title": "＃オリオン座流星群極大期【星空と東京ライブカメラ】TOKYO STARRY SKY LIVE CAMERA 東京ライブカメラ 　＃オリオン座流星群 #orionidmeteorshower",
+   "embedUrl": "https://www.youtube.com/embed/QL6HURUHsSk",
+   "watchUrl": "https://www.youtube.com/watch?v=QL6HURUHsSk",
+   "thumb": "https://i.ytimg.com/vi/QL6HURUHsSk/hqdefault_live.jpg"
   },
   "oshino": {
    "live": true,
