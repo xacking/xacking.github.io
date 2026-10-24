@@ -1,6 +1,6 @@
 {
- "updated": "2026-10-24T13:18:29Z",
- "checked": "2026-10-24T13:18:29Z",
+ "updated": "2026-10-24T16:55:51Z",
+ "checked": "2026-10-24T16:55:51Z",
  "streams": {
   "tvasahi24": {
    "live": true,
@@ -20,19 +20,19 @@
   },
   "weathernews": {
    "live": true,
-   "videoId": "c5AyP6ofkVQ",
-   "title": "【ライブ】最新天気ニュース・地震情報 2026年10月24日(土)20:00〜 ／先島諸島は暴風域抜けるも引き続き土砂災害などに注意〈ウェザーニュースLiVEムーン・ 戸北美月／内藤邦裕〉",
-   "embedUrl": "https://www.youtube.com/embed/c5AyP6ofkVQ",
-   "watchUrl": "https://www.youtube.com/watch?v=c5AyP6ofkVQ",
-   "thumb": "https://i.ytimg.com/vi/c5AyP6ofkVQ/hqdefault_live.jpg"
+   "videoId": "Id_tRefZX3s",
+   "title": "【ライブ】最新天気ニュース・地震情報 2026年10月24日(土)23:00〜 ／台風30号は北上　西日本、東日本は大雨に警戒〈ウェザーニュースLiVE〉",
+   "embedUrl": "https://www.youtube.com/embed/Id_tRefZX3s",
+   "watchUrl": "https://www.youtube.com/watch?v=Id_tRefZX3s",
+   "thumb": "https://i.ytimg.com/vi/Id_tRefZX3s/hqdefault_live.jpg"
   },
   "quake": {
    "live": true,
-   "videoId": "y1LYFbOMh_k",
+   "videoId": "4kCYuKxbP8Q",
    "title": "【地震ライブ】緊急地震速報 24時間リアルタイム配信中 ウェザーニュース／Earthquake Alert Japan Live",
-   "embedUrl": "https://www.youtube.com/embed/y1LYFbOMh_k",
-   "watchUrl": "https://www.youtube.com/watch?v=y1LYFbOMh_k",
-   "thumb": "https://i.ytimg.com/vi/y1LYFbOMh_k/hqdefault_live.jpg"
+   "embedUrl": "https://www.youtube.com/embed/4kCYuKxbP8Q",
+   "watchUrl": "https://www.youtube.com/watch?v=4kCYuKxbP8Q",
+   "thumb": "https://i.ytimg.com/vi/4kCYuKxbP8Q/hqdefault_live.jpg"
   },
   "dotonbori": {
    "live": true,
