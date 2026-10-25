@@ -1,6 +1,6 @@
 {
- "updated": "2026-10-25T05:15:21Z",
- "checked": "2026-10-25T05:15:21Z",
+ "updated": "2026-10-25T10:07:07Z",
+ "checked": "2026-10-25T10:07:07Z",
  "streams": {
   "tvasahi24": {
    "live": true,
@@ -12,19 +12,19 @@
   },
   "ntvlive": {
    "live": true,
-   "videoId": "qCbmLYSPnPI",
-   "title": "【台風情報】台風30号北上で前線活発　和歌山県北部に「線状降水帯直前予測」　西、東日本はあさってにかけ大雨のおそれ ──気象ニュースライブ（日テレNEWS LIVE）",
-   "embedUrl": "https://www.youtube.com/embed/qCbmLYSPnPI",
-   "watchUrl": "https://www.youtube.com/watch?v=qCbmLYSPnPI",
-   "thumb": "https://i.ytimg.com/vi/qCbmLYSPnPI/hqdefault_live.jpg"
+   "videoId": "IT-1U-9p0TU",
+   "title": "【PHPに脆弱性】届いた“ニセ”メール「自分の情報が...」 相次ぐ“漏えい”で脅威が身近に「4秒で300万円が...」高額の金銭被害まで── 社会ニュースライブ（日テレNEWS LIVE）",
+   "embedUrl": "https://www.youtube.com/embed/IT-1U-9p0TU",
+   "watchUrl": "https://www.youtube.com/watch?v=IT-1U-9p0TU",
+   "thumb": "https://i.ytimg.com/vi/IT-1U-9p0TU/hqdefault_live.jpg"
   },
   "weathernews": {
    "live": true,
-   "videoId": "hPq9LdURLxg",
-   "title": "【ライブ】最新天気ニュース・地震情報 2026年10月25日(日)／東北から西日本は広く雨 局地的に激しい雨の降るおそれ〈ウェザーニュースLiVEアフタヌーン・田辺真南葉／内藤邦裕〉",
-   "embedUrl": "https://www.youtube.com/embed/hPq9LdURLxg",
-   "watchUrl": "https://www.youtube.com/watch?v=hPq9LdURLxg",
-   "thumb": "https://i.ytimg.com/vi/hPq9LdURLxg/hqdefault_live.jpg"
+   "videoId": "B1UisAco30E",
+   "title": "【ライブ】最新天気ニュース・地震情報 2026年10月25日(日) ／〈ウェザーニュースLiVEイブニング・青原桃香／内藤邦裕〉",
+   "embedUrl": "https://www.youtube.com/embed/B1UisAco30E",
+   "watchUrl": "https://www.youtube.com/watch?v=B1UisAco30E",
+   "thumb": "https://i.ytimg.com/vi/B1UisAco30E/hqdefault_live.jpg"
   },
   "quake": {
    "live": true,
@@ -68,11 +68,11 @@
   },
   "tbs": {
    "live": true,
-   "videoId": "XP6u_bxOSvs",
-   "title": "【ニュースライブ】昼のニュース（Japan News Digest Live）最新情報など（10月25日）｜TBS NEWS DIG",
-   "embedUrl": "https://www.youtube.com/embed/XP6u_bxOSvs",
-   "watchUrl": "https://www.youtube.com/watch?v=XP6u_bxOSvs",
-   "thumb": "https://i.ytimg.com/vi/XP6u_bxOSvs/hqdefault_live.jpg"
+   "videoId": "FS5VzrL1xMQ",
+   "title": "【ニュースライブ】夜のニュース（Japan News Digest Live）最新情報など（10月25日）｜TBS NEWS DIG",
+   "embedUrl": "https://www.youtube.com/embed/FS5VzrL1xMQ",
+   "watchUrl": "https://www.youtube.com/watch?v=FS5VzrL1xMQ",
+   "thumb": "https://i.ytimg.com/vi/FS5VzrL1xMQ/hqdefault_live.jpg"
   },
   "sapporo": {
    "live": true,
@@ -92,11 +92,11 @@
   },
   "tokyo-fuji": {
    "live": true,
-   "videoId": "J4Ivk_Ylr4Y",
-   "title": "【東京ライブカメラ】TOKYO LIVE CAMERA.  Mt'Fuji from Tokyo  富士山 紅富士 赤富士 東京からの富士山    #東京ライブカメラ #富士山東京 #東京夜景",
-   "embedUrl": "https://www.youtube.com/embed/J4Ivk_Ylr4Y",
-   "watchUrl": "https://www.youtube.com/watch?v=J4Ivk_Ylr4Y",
-   "thumb": "https://i.ytimg.com/vi/J4Ivk_Ylr4Y/hqdefault_live.jpg"
+   "videoId": "Mqicj2J6ris",
+   "title": "＃オリオン座流星群極大期【星空と東京ライブカメラ】TOKYO STARRY SKY LIVE CAMERA 東京ライブカメラ 　＃オリオン座流星群 #orionidmeteorshower",
+   "embedUrl": "https://www.youtube.com/embed/Mqicj2J6ris",
+   "watchUrl": "https://www.youtube.com/watch?v=Mqicj2J6ris",
+   "thumb": "https://i.ytimg.com/vi/Mqicj2J6ris/hqdefault_live.jpg"
   },
   "oshino": {
    "live": true,
