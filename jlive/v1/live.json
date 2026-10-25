@@ -1,6 +1,6 @@
 {
- "updated": "2026-10-25T10:07:07Z",
- "checked": "2026-10-25T10:07:07Z",
+ "updated": "2026-10-25T14:22:02Z",
+ "checked": "2026-10-25T14:22:02Z",
  "streams": {
   "tvasahi24": {
    "live": true,
@@ -12,19 +12,19 @@
   },
   "ntvlive": {
    "live": true,
-   "videoId": "IT-1U-9p0TU",
-   "title": "【PHPに脆弱性】届いた“ニセ”メール「自分の情報が...」 相次ぐ“漏えい”で脅威が身近に「4秒で300万円が...」高額の金銭被害まで── 社会ニュースライブ（日テレNEWS LIVE）",
-   "embedUrl": "https://www.youtube.com/embed/IT-1U-9p0TU",
-   "watchUrl": "https://www.youtube.com/watch?v=IT-1U-9p0TU",
-   "thumb": "https://i.ytimg.com/vi/IT-1U-9p0TU/hqdefault_live.jpg"
+   "videoId": "vOROVjyYhYs",
+   "title": "【台風情報】台風30号九州接近へ　関東など広範囲で警報級大雨おそれ ──気象ニュースライブ（日テレNEWS LIVE）",
+   "embedUrl": "https://www.youtube.com/embed/vOROVjyYhYs",
+   "watchUrl": "https://www.youtube.com/watch?v=vOROVjyYhYs",
+   "thumb": "https://i.ytimg.com/vi/vOROVjyYhYs/hqdefault_live.jpg"
   },
   "weathernews": {
    "live": true,
-   "videoId": "B1UisAco30E",
-   "title": "【ライブ】最新天気ニュース・地震情報 2026年10月25日(日) ／〈ウェザーニュースLiVEイブニング・青原桃香／内藤邦裕〉",
-   "embedUrl": "https://www.youtube.com/embed/B1UisAco30E",
-   "watchUrl": "https://www.youtube.com/watch?v=B1UisAco30E",
-   "thumb": "https://i.ytimg.com/vi/B1UisAco30E/hqdefault_live.jpg"
+   "videoId": "T-Ti_HiWu7c",
+   "title": "【ライブ】最新天気ニュース・地震情報 2026年10月25日(日)23:00〜 ／あす西日本・東日本は雨の一日　局地的な強雨に警戒〈ウェザーニュースLiVE〉",
+   "embedUrl": "https://www.youtube.com/embed/T-Ti_HiWu7c",
+   "watchUrl": "https://www.youtube.com/watch?v=T-Ti_HiWu7c",
+   "thumb": "https://i.ytimg.com/vi/T-Ti_HiWu7c/hqdefault_live.jpg"
   },
   "quake": {
    "live": true,
@@ -68,11 +68,11 @@
   },
   "tbs": {
    "live": true,
-   "videoId": "FS5VzrL1xMQ",
-   "title": "【ニュースライブ】夜のニュース（Japan News Digest Live）最新情報など（10月25日）｜TBS NEWS DIG",
-   "embedUrl": "https://www.youtube.com/embed/FS5VzrL1xMQ",
-   "watchUrl": "https://www.youtube.com/watch?v=FS5VzrL1xMQ",
-   "thumb": "https://i.ytimg.com/vi/FS5VzrL1xMQ/hqdefault_live.jpg"
+   "videoId": "fLakCRnR8OQ",
+   "title": "【ニュースライブ】最新ニュースまとめ（Japan News Digest）（10月25日）｜TBS NEWS DIG",
+   "embedUrl": "https://www.youtube.com/embed/fLakCRnR8OQ",
+   "watchUrl": "https://www.youtube.com/watch?v=fLakCRnR8OQ",
+   "thumb": "https://i.ytimg.com/vi/fLakCRnR8OQ/hqdefault_live.jpg"
   },
   "sapporo": {
    "live": true,
