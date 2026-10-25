@@ -1,6 +1,6 @@
 {
- "updated": "2026-10-25T14:22:02Z",
- "checked": "2026-10-25T14:22:02Z",
+ "updated": "2026-10-25T17:50:33Z",
+ "checked": "2026-10-25T17:50:33Z",
  "streams": {
   "tvasahi24": {
    "live": true,
@@ -28,11 +28,11 @@
   },
   "quake": {
    "live": true,
-   "videoId": "4kCYuKxbP8Q",
+   "videoId": "Bdmv--_bq3U",
    "title": "【地震ライブ】緊急地震速報 24時間リアルタイム配信中 ウェザーニュース／Earthquake Alert Japan Live",
-   "embedUrl": "https://www.youtube.com/embed/4kCYuKxbP8Q",
-   "watchUrl": "https://www.youtube.com/watch?v=4kCYuKxbP8Q",
-   "thumb": "https://i.ytimg.com/vi/4kCYuKxbP8Q/hqdefault_live.jpg"
+   "embedUrl": "https://www.youtube.com/embed/Bdmv--_bq3U",
+   "watchUrl": "https://www.youtube.com/watch?v=Bdmv--_bq3U",
+   "thumb": "https://i.ytimg.com/vi/Bdmv--_bq3U/hqdefault_live.jpg"
   },
   "dotonbori": {
    "live": true,
