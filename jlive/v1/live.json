@@ -1,6 +1,6 @@
 {
- "updated": "2026-10-25T20:46:05Z",
- "checked": "2026-10-25T20:46:05Z",
+ "updated": "2026-10-25T23:12:04Z",
+ "checked": "2026-10-25T23:12:04Z",
  "streams": {
   "tvasahi24": {
    "live": true,
@@ -20,11 +20,11 @@
   },
   "weathernews": {
    "live": true,
-   "videoId": "YafIHnSfeGE",
-   "title": "【ライブ】最新天気ニュース・地震情報 2026年10月26日(月) ／西日本から東北南部の広い範囲で雨〈ウェザーニュースLiVEモーニング・福吉貴文／有賀哲夫〉",
-   "embedUrl": "https://www.youtube.com/embed/YafIHnSfeGE",
-   "watchUrl": "https://www.youtube.com/watch?v=YafIHnSfeGE",
-   "thumb": "https://i.ytimg.com/vi/YafIHnSfeGE/hqdefault_live.jpg"
+   "videoId": "xJEJ3Ulh9Yo",
+   "title": "【ライブ】最新天気ニュース・地震情報 2026年10月26日(月) ／西日本・東日本は雨 局地的な強まりに注意〈ウェザーニュースLiVEサンシャイン・ 佐藤剣慎／有賀哲夫〉",
+   "embedUrl": "https://www.youtube.com/embed/xJEJ3Ulh9Yo",
+   "watchUrl": "https://www.youtube.com/watch?v=xJEJ3Ulh9Yo",
+   "thumb": "https://i.ytimg.com/vi/xJEJ3Ulh9Yo/hqdefault_live.jpg"
   },
   "quake": {
    "live": true,
