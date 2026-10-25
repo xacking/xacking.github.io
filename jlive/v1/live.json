@@ -1,6 +1,6 @@
 {
- "updated": "2026-10-25T00:17:39Z",
- "checked": "2026-10-25T00:17:39Z",
+ "updated": "2026-10-25T05:15:21Z",
+ "checked": "2026-10-25T05:15:21Z",
  "streams": {
   "tvasahi24": {
    "live": true,
@@ -11,16 +11,20 @@
    "thumb": "https://i.ytimg.com/vi/coYw-eVU0Ks/hqdefault_live.jpg"
   },
   "ntvlive": {
-   "live": false,
-   "reason": "not-live"
+   "live": true,
+   "videoId": "qCbmLYSPnPI",
+   "title": "【台風情報】台風30号北上で前線活発　和歌山県北部に「線状降水帯直前予測」　西、東日本はあさってにかけ大雨のおそれ ──気象ニュースライブ（日テレNEWS LIVE）",
+   "embedUrl": "https://www.youtube.com/embed/qCbmLYSPnPI",
+   "watchUrl": "https://www.youtube.com/watch?v=qCbmLYSPnPI",
+   "thumb": "https://i.ytimg.com/vi/qCbmLYSPnPI/hqdefault_live.jpg"
   },
   "weathernews": {
    "live": true,
-   "videoId": "Kb22tn-gmbY",
-   "title": "【ライブ】最新天気ニュース・地震情報 2026年10月25日(日)／東北から西日本は広く雨 局地的に激しい雨の降るおそれ〈ウェザーニュースLiVEサンシャイン・ 松本真央／山口剛央〉",
-   "embedUrl": "https://www.youtube.com/embed/Kb22tn-gmbY",
-   "watchUrl": "https://www.youtube.com/watch?v=Kb22tn-gmbY",
-   "thumb": "https://i.ytimg.com/vi/Kb22tn-gmbY/hqdefault_live.jpg"
+   "videoId": "hPq9LdURLxg",
+   "title": "【ライブ】最新天気ニュース・地震情報 2026年10月25日(日)／東北から西日本は広く雨 局地的に激しい雨の降るおそれ〈ウェザーニュースLiVEアフタヌーン・田辺真南葉／内藤邦裕〉",
+   "embedUrl": "https://www.youtube.com/embed/hPq9LdURLxg",
+   "watchUrl": "https://www.youtube.com/watch?v=hPq9LdURLxg",
+   "thumb": "https://i.ytimg.com/vi/hPq9LdURLxg/hqdefault_live.jpg"
   },
   "quake": {
    "live": true,
@@ -64,11 +68,11 @@
   },
   "tbs": {
    "live": true,
-   "videoId": "vZ8rsDhBfK0",
-   "title": "【ニュースライブ】朝のニュース（Japan News Digest Live）最新情報など（10月25日）｜TBS NEWS DIG",
-   "embedUrl": "https://www.youtube.com/embed/vZ8rsDhBfK0",
-   "watchUrl": "https://www.youtube.com/watch?v=vZ8rsDhBfK0",
-   "thumb": "https://i.ytimg.com/vi/vZ8rsDhBfK0/hqdefault_live.jpg"
+   "videoId": "XP6u_bxOSvs",
+   "title": "【ニュースライブ】昼のニュース（Japan News Digest Live）最新情報など（10月25日）｜TBS NEWS DIG",
+   "embedUrl": "https://www.youtube.com/embed/XP6u_bxOSvs",
+   "watchUrl": "https://www.youtube.com/watch?v=XP6u_bxOSvs",
+   "thumb": "https://i.ytimg.com/vi/XP6u_bxOSvs/hqdefault_live.jpg"
   },
   "sapporo": {
    "live": true,
