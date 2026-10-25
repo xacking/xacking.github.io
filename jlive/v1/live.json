@@ -1,26 +1,26 @@
 {
- "updated": "2026-10-24T21:51:47Z",
- "checked": "2026-10-24T21:51:47Z",
+ "updated": "2026-10-25T00:17:39Z",
+ "checked": "2026-10-25T00:17:39Z",
  "streams": {
   "tvasahi24": {
+   "live": true,
+   "videoId": "coYw-eVU0Ks",
+   "title": "【ライブ】日本の最新ニュースを24時間ライブ配信｜テレ朝NEWS24（Japan News LIVE）【チャットアンケート実施中！あなたの意見は？】",
+   "embedUrl": "https://www.youtube.com/embed/coYw-eVU0Ks",
+   "watchUrl": "https://www.youtube.com/watch?v=coYw-eVU0Ks",
+   "thumb": "https://i.ytimg.com/vi/coYw-eVU0Ks/hqdefault_live.jpg"
+  },
+  "ntvlive": {
    "live": false,
    "reason": "not-live"
   },
-  "ntvlive": {
-   "live": true,
-   "videoId": "NYBltPtOVJ8",
-   "title": "【朝ニュースライブ】最新ニュースと生活情報（10月25日） ──THE LATEST NEWS SUMMARY（日テレNEWS LIVE）",
-   "embedUrl": "https://www.youtube.com/embed/NYBltPtOVJ8",
-   "watchUrl": "https://www.youtube.com/watch?v=NYBltPtOVJ8",
-   "thumb": "https://i.ytimg.com/vi/NYBltPtOVJ8/hqdefault_live.jpg"
-  },
   "weathernews": {
    "live": true,
-   "videoId": "qfqM6pviSOs",
-   "title": "【ライブ】最新天気ニュース・地震情報 2026年10月25日(日)／東北から西日本は広く雨 局地的に激しい雨の降るおそれ　〈ウェザーニュースLiVEモーニング・魚住茉由／山口剛央〉",
-   "embedUrl": "https://www.youtube.com/embed/qfqM6pviSOs",
-   "watchUrl": "https://www.youtube.com/watch?v=qfqM6pviSOs",
-   "thumb": "https://i.ytimg.com/vi/qfqM6pviSOs/hqdefault_live.jpg"
+   "videoId": "Kb22tn-gmbY",
+   "title": "【ライブ】最新天気ニュース・地震情報 2026年10月25日(日)／東北から西日本は広く雨 局地的に激しい雨の降るおそれ〈ウェザーニュースLiVEサンシャイン・ 松本真央／山口剛央〉",
+   "embedUrl": "https://www.youtube.com/embed/Kb22tn-gmbY",
+   "watchUrl": "https://www.youtube.com/watch?v=Kb22tn-gmbY",
+   "thumb": "https://i.ytimg.com/vi/Kb22tn-gmbY/hqdefault_live.jpg"
   },
   "quake": {
    "live": true,
