@@ -1,6 +1,6 @@
 {
- "updated": "2026-10-25T23:12:04Z",
- "checked": "2026-10-25T23:12:04Z",
+ "updated": "2026-10-26T01:39:46Z",
+ "checked": "2026-10-26T01:39:46Z",
  "streams": {
   "tvasahi24": {
    "live": true,
@@ -12,19 +12,19 @@
   },
   "ntvlive": {
    "live": true,
-   "videoId": "GDCELUakhto",
-   "title": "【朝ニュースライブ】最新ニュースと生活情報（10月26日） ──THE LATEST NEWS SUMMARY（日テレNEWS LIVE）",
-   "embedUrl": "https://www.youtube.com/embed/GDCELUakhto",
-   "watchUrl": "https://www.youtube.com/watch?v=GDCELUakhto",
-   "thumb": "https://i.ytimg.com/vi/GDCELUakhto/hqdefault_live.jpg"
+   "videoId": "Ov24oPe3Sh8",
+   "title": "【アメリカライブ】米中間選挙　オバマ元大統領“激戦州”入り　「急進左派」候補が注目集める── 国際ニュースライブ（日テレNEWS LIVE）",
+   "embedUrl": "https://www.youtube.com/embed/Ov24oPe3Sh8",
+   "watchUrl": "https://www.youtube.com/watch?v=Ov24oPe3Sh8",
+   "thumb": "https://i.ytimg.com/vi/Ov24oPe3Sh8/hqdefault_live.jpg"
   },
   "weathernews": {
    "live": true,
-   "videoId": "xJEJ3Ulh9Yo",
-   "title": "【ライブ】最新天気ニュース・地震情報 2026年10月26日(月) ／西日本・東日本は雨 局地的な強まりに注意〈ウェザーニュースLiVEサンシャイン・ 佐藤剣慎／有賀哲夫〉",
-   "embedUrl": "https://www.youtube.com/embed/xJEJ3Ulh9Yo",
-   "watchUrl": "https://www.youtube.com/watch?v=xJEJ3Ulh9Yo",
-   "thumb": "https://i.ytimg.com/vi/xJEJ3Ulh9Yo/hqdefault_live.jpg"
+   "videoId": "AeZnF4ZDtvI",
+   "title": "【ライブ】最新天気ニュース・地震情報 2026年10月26日(月) ／西日本から東北南部の広い範囲で雨〈ウェザーニュースLiVEコーヒータイム・白井ゆかり／有賀哲夫〉",
+   "embedUrl": "https://www.youtube.com/embed/AeZnF4ZDtvI",
+   "watchUrl": "https://www.youtube.com/watch?v=AeZnF4ZDtvI",
+   "thumb": "https://i.ytimg.com/vi/AeZnF4ZDtvI/hqdefault_live.jpg"
   },
   "quake": {
    "live": true,
@@ -51,8 +51,12 @@
    "thumb": "https://i.ytimg.com/vi/xeuRyvZQeJo/hqdefault_live.jpg"
   },
   "sakurajima": {
-   "live": false,
-   "reason": "not-live"
+   "live": true,
+   "videoId": "Tyi-z_vf0X0",
+   "title": "ライブカメラ",
+   "embedUrl": "https://www.youtube.com/embed/Tyi-z_vf0X0",
+   "watchUrl": "https://www.youtube.com/watch?v=Tyi-z_vf0X0",
+   "thumb": "https://i.ytimg.com/vi/Tyi-z_vf0X0/hqdefault_live.jpg"
   },
   "toba-otters": {
    "live": true,
