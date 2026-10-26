@@ -1,6 +1,6 @@
 {
- "updated": "2026-10-26T01:39:46Z",
- "checked": "2026-10-26T01:39:46Z",
+ "updated": "2026-10-26T07:44:22Z",
+ "checked": "2026-10-26T07:44:22Z",
  "streams": {
   "tvasahi24": {
    "live": true,
@@ -12,19 +12,19 @@
   },
   "ntvlive": {
    "live": true,
-   "videoId": "Ov24oPe3Sh8",
-   "title": "【アメリカライブ】米中間選挙　オバマ元大統領“激戦州”入り　「急進左派」候補が注目集める── 国際ニュースライブ（日テレNEWS LIVE）",
-   "embedUrl": "https://www.youtube.com/embed/Ov24oPe3Sh8",
-   "watchUrl": "https://www.youtube.com/watch?v=Ov24oPe3Sh8",
-   "thumb": "https://i.ytimg.com/vi/Ov24oPe3Sh8/hqdefault_live.jpg"
+   "videoId": "AQbFo4wwh7o",
+   "title": "【夕ニュースライブ】最新ニュースと生活情報（10月26日） ──THE LATEST NEWS SUMMARY（日テレNEWS LIVE）",
+   "embedUrl": "https://www.youtube.com/embed/AQbFo4wwh7o",
+   "watchUrl": "https://www.youtube.com/watch?v=AQbFo4wwh7o",
+   "thumb": "https://i.ytimg.com/vi/AQbFo4wwh7o/hqdefault_live.jpg"
   },
   "weathernews": {
    "live": true,
-   "videoId": "AeZnF4ZDtvI",
-   "title": "【ライブ】最新天気ニュース・地震情報 2026年10月26日(月) ／西日本から東北南部の広い範囲で雨〈ウェザーニュースLiVEコーヒータイム・白井ゆかり／有賀哲夫〉",
-   "embedUrl": "https://www.youtube.com/embed/AeZnF4ZDtvI",
-   "watchUrl": "https://www.youtube.com/watch?v=AeZnF4ZDtvI",
-   "thumb": "https://i.ytimg.com/vi/AeZnF4ZDtvI/hqdefault_live.jpg"
+   "videoId": "EV3r2BJEXrY",
+   "title": "【ライブ】最新天気ニュース・地震情報 2026年10月26日(月) ／西日本から東北南部の広い範囲で雨〈ウェザーニュースLiVEイブニング・戸北美月／宇野沢達也〉",
+   "embedUrl": "https://www.youtube.com/embed/EV3r2BJEXrY",
+   "watchUrl": "https://www.youtube.com/watch?v=EV3r2BJEXrY",
+   "thumb": "https://i.ytimg.com/vi/EV3r2BJEXrY/hqdefault_live.jpg"
   },
   "quake": {
    "live": true,
@@ -72,11 +72,11 @@
   },
   "tbs": {
    "live": true,
-   "videoId": "HJn-4REHd_w",
-   "title": "【ニュースライブ】朝のニュース（Japan News Digest Live）最新情報など（10月26日）｜TBS NEWS DIG",
-   "embedUrl": "https://www.youtube.com/embed/HJn-4REHd_w",
-   "watchUrl": "https://www.youtube.com/watch?v=HJn-4REHd_w",
-   "thumb": "https://i.ytimg.com/vi/HJn-4REHd_w/hqdefault_live.jpg"
+   "videoId": "NlsmBGOOzFw",
+   "title": "【ニュースライブ】関東～九州で局地的大雨のおそれ　台風30号から変わった温帯低気圧が影響　土砂災害に警戒",
+   "embedUrl": "https://www.youtube.com/embed/NlsmBGOOzFw",
+   "watchUrl": "https://www.youtube.com/watch?v=NlsmBGOOzFw",
+   "thumb": "https://i.ytimg.com/vi/NlsmBGOOzFw/hqdefault_live.jpg"
   },
   "sapporo": {
    "live": true,
