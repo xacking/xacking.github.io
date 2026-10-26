@@ -1,6 +1,6 @@
 {
- "updated": "2026-10-26T15:08:29Z",
- "checked": "2026-10-26T15:08:29Z",
+ "updated": "2026-10-26T20:44:38Z",
+ "checked": "2026-10-26T20:44:38Z",
  "streams": {
   "tvasahi24": {
    "live": true,
@@ -11,28 +11,24 @@
    "thumb": "https://i.ytimg.com/vi/coYw-eVU0Ks/hqdefault_live.jpg"
   },
   "ntvlive": {
-   "live": true,
-   "videoId": "4pD0A6IWwLc",
-   "title": "【台風情報】強い雨と風…“元台風”影響か 　列島に迫る強い寒気…冬の足音も──気象ニュースライブ（日テレNEWS LIVE）",
-   "embedUrl": "https://www.youtube.com/embed/4pD0A6IWwLc",
-   "watchUrl": "https://www.youtube.com/watch?v=4pD0A6IWwLc",
-   "thumb": "https://i.ytimg.com/vi/4pD0A6IWwLc/hqdefault_live.jpg"
+   "live": false,
+   "reason": "not-live"
   },
   "weathernews": {
    "live": true,
-   "videoId": "NyADUtuAye4",
-   "title": "【ライブ】最新天気ニュース・地震情報 2026年10月26日(月)23:00〜 ／あす西日本は天気回復　北日本日本海側は次第に雨〈ウェザーニュースLiVE〉",
-   "embedUrl": "https://www.youtube.com/embed/NyADUtuAye4",
-   "watchUrl": "https://www.youtube.com/watch?v=NyADUtuAye4",
-   "thumb": "https://i.ytimg.com/vi/NyADUtuAye4/hqdefault_live.jpg"
+   "videoId": "qSkoTAAmu9w",
+   "title": "【ライブ】最新天気ニュース・地震情報 2026年10月27日(火)／西日本は天気回復　北日本日本海側は次第に雨〈ウェザーニュースLiVEモーニング・福吉貴文／飯島栄一〉",
+   "embedUrl": "https://www.youtube.com/embed/qSkoTAAmu9w",
+   "watchUrl": "https://www.youtube.com/watch?v=qSkoTAAmu9w",
+   "thumb": "https://i.ytimg.com/vi/qSkoTAAmu9w/hqdefault_live.jpg"
   },
   "quake": {
    "live": true,
-   "videoId": "Bdmv--_bq3U",
+   "videoId": "HcWRhHEIcqI",
    "title": "【地震ライブ】緊急地震速報 24時間リアルタイム配信中 ウェザーニュース／Earthquake Alert Japan Live",
-   "embedUrl": "https://www.youtube.com/embed/Bdmv--_bq3U",
-   "watchUrl": "https://www.youtube.com/watch?v=Bdmv--_bq3U",
-   "thumb": "https://i.ytimg.com/vi/Bdmv--_bq3U/hqdefault_live.jpg"
+   "embedUrl": "https://www.youtube.com/embed/HcWRhHEIcqI",
+   "watchUrl": "https://www.youtube.com/watch?v=HcWRhHEIcqI",
+   "thumb": "https://i.ytimg.com/vi/HcWRhHEIcqI/hqdefault_live.jpg"
   },
   "dotonbori": {
    "live": true,
@@ -72,11 +68,11 @@
   },
   "tbs": {
    "live": true,
-   "videoId": "2vcpaaZzhu4",
-   "title": "【ニュースライブ】最新ニュースまとめ（Japan News Digest）（10月26日）｜TBS NEWS DIG",
-   "embedUrl": "https://www.youtube.com/embed/2vcpaaZzhu4",
-   "watchUrl": "https://www.youtube.com/watch?v=2vcpaaZzhu4",
-   "thumb": "https://i.ytimg.com/vi/2vcpaaZzhu4/hqdefault_live.jpg"
+   "videoId": "IsgIYUFJN0s",
+   "title": "【ニュースライブ】朝のニュース（Japan News Digest Live）最新情報など（10月27日）｜TBS NEWS DIG",
+   "embedUrl": "https://www.youtube.com/embed/IsgIYUFJN0s",
+   "watchUrl": "https://www.youtube.com/watch?v=IsgIYUFJN0s",
+   "thumb": "https://i.ytimg.com/vi/IsgIYUFJN0s/hqdefault_live.jpg"
   },
   "sapporo": {
    "live": true,
@@ -96,11 +92,11 @@
   },
   "tokyo-fuji": {
    "live": true,
-   "videoId": "I8c0RwaN8uo",
-   "title": "＃オリオン座流星群極大期【星空と東京ライブカメラ】TOKYO STARRY SKY LIVE CAMERA 東京ライブカメラ 　＃オリオン座流星群 #orionidmeteorshower",
-   "embedUrl": "https://www.youtube.com/embed/I8c0RwaN8uo",
-   "watchUrl": "https://www.youtube.com/watch?v=I8c0RwaN8uo",
-   "thumb": "https://i.ytimg.com/vi/I8c0RwaN8uo/hqdefault_live.jpg"
+   "videoId": "hlmSmudkkWw",
+   "title": "【東京ライブカメラ】TOKYO LIVE CAMERA.  Mt'Fuji from Tokyo  富士山 紅富士 赤富士 東京からの富士山    #東京ライブカメラ #富士山東京 #東京夜景",
+   "embedUrl": "https://www.youtube.com/embed/hlmSmudkkWw",
+   "watchUrl": "https://www.youtube.com/watch?v=hlmSmudkkWw",
+   "thumb": "https://i.ytimg.com/vi/hlmSmudkkWw/hqdefault_live.jpg"
   },
   "oshino": {
    "live": true,
