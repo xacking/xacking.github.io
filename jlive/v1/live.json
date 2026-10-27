@@ -1,6 +1,6 @@
 {
- "updated": "2026-10-27T05:33:17Z",
- "checked": "2026-10-27T05:33:17Z",
+ "updated": "2026-10-27T10:56:51Z",
+ "checked": "2026-10-27T10:56:51Z",
  "streams": {
   "tvasahi24": {
    "live": true,
@@ -12,19 +12,19 @@
   },
   "ntvlive": {
    "live": true,
-   "videoId": "43TfuFGhubY",
-   "title": "【国会中継】衆議院・財務金融委員会──政治ニュースライブ［2026年10月27日午後］（日テレNEWS LIVE）",
-   "embedUrl": "https://www.youtube.com/embed/43TfuFGhubY",
-   "watchUrl": "https://www.youtube.com/watch?v=43TfuFGhubY",
-   "thumb": "https://i.ytimg.com/vi/43TfuFGhubY/hqdefault_live.jpg"
+   "videoId": "xtzi2wuY9fA",
+   "title": "【夜ニュースライブ】最新ニュースと生活情報（10月27日） ──THE LATEST NEWS SUMMARY（日テレNEWS LIVE）",
+   "embedUrl": "https://www.youtube.com/embed/xtzi2wuY9fA",
+   "watchUrl": "https://www.youtube.com/watch?v=xtzi2wuY9fA",
+   "thumb": "https://i.ytimg.com/vi/xtzi2wuY9fA/hqdefault_live.jpg"
   },
   "weathernews": {
    "live": true,
-   "videoId": "c0mPIoR23DE",
-   "title": "【ライブ】最新天気ニュース・地震情報 2026年10月27日(火)／北日本日本海側は次第に雨　西日本は晴れても油断禁物〈ウェザーニュースLiVEアフタヌーン・川畑玲／宇野沢達也〉",
-   "embedUrl": "https://www.youtube.com/embed/c0mPIoR23DE",
-   "watchUrl": "https://www.youtube.com/watch?v=c0mPIoR23DE",
-   "thumb": "https://i.ytimg.com/vi/c0mPIoR23DE/hqdefault_live.jpg"
+   "videoId": "Oee7WFaO9ko",
+   "title": "【ライブ】最新天気ニュース・地震情報 2026年10月27日(火)20:00〜 ／北日本は初冬の嵐　北海道は大雪や吹雪のおそれ〈ウェザーニュースLiVEムーン・小林李衣奈／宇野沢達也〉",
+   "embedUrl": "https://www.youtube.com/embed/Oee7WFaO9ko",
+   "watchUrl": "https://www.youtube.com/watch?v=Oee7WFaO9ko",
+   "thumb": "https://i.ytimg.com/vi/Oee7WFaO9ko/hqdefault_live.jpg"
   },
   "quake": {
    "live": true,
@@ -67,16 +67,20 @@
    "thumb": "https://i.ytimg.com/vi/YonXVFE9C3g/hqdefault_live.jpg"
   },
   "rcc": {
-   "live": false,
-   "reason": "not-live"
+   "live": true,
+   "videoId": "JqV_MewrJfU",
+   "title": "【24h LIVE】広島最新ニュース　～24時間ライブ配信中～【RCC NEWS DIG】",
+   "embedUrl": "https://www.youtube.com/embed/JqV_MewrJfU",
+   "watchUrl": "https://www.youtube.com/watch?v=JqV_MewrJfU",
+   "thumb": "https://i.ytimg.com/vi/JqV_MewrJfU/hqdefault_live.jpg"
   },
   "tbs": {
    "live": true,
-   "videoId": "e2IzaVaeNa0",
-   "title": "【ニュースライブ】昼のニュース（Japan News Digest Live）最新情報など（10月27日）｜TBS NEWS DIG",
-   "embedUrl": "https://www.youtube.com/embed/e2IzaVaeNa0",
-   "watchUrl": "https://www.youtube.com/watch?v=e2IzaVaeNa0",
-   "thumb": "https://i.ytimg.com/vi/e2IzaVaeNa0/hqdefault_live.jpg"
+   "videoId": "aNsOVrHPS0M",
+   "title": "【サイバー攻撃相次ぐ】GMOハッカー集団 1人の個人情報を公開/FX5社でサイバー被害確認/片山大臣「全業者にモニタリング強化要請」/楽天トラベルやJR東海などで個人情報流出【ニュースライブ】",
+   "embedUrl": "https://www.youtube.com/embed/aNsOVrHPS0M",
+   "watchUrl": "https://www.youtube.com/watch?v=aNsOVrHPS0M",
+   "thumb": "https://i.ytimg.com/vi/aNsOVrHPS0M/hqdefault_live.jpg"
   },
   "sapporo": {
    "live": true,
@@ -96,11 +100,11 @@
   },
   "tokyo-fuji": {
    "live": true,
-   "videoId": "hlmSmudkkWw",
-   "title": "【東京ライブカメラ】TOKYO LIVE CAMERA.  Mt'Fuji from Tokyo  富士山 紅富士 赤富士 東京からの富士山    #東京ライブカメラ #富士山東京 #東京夜景",
-   "embedUrl": "https://www.youtube.com/embed/hlmSmudkkWw",
-   "watchUrl": "https://www.youtube.com/watch?v=hlmSmudkkWw",
-   "thumb": "https://i.ytimg.com/vi/hlmSmudkkWw/hqdefault_live.jpg"
+   "videoId": "cCTs-tcWSyY",
+   "title": "＃オリオン座流星群極大期【星空と東京ライブカメラ】TOKYO STARRY SKY LIVE CAMERA 東京ライブカメラ 　＃オリオン座流星群 #orionidmeteorshower",
+   "embedUrl": "https://www.youtube.com/embed/cCTs-tcWSyY",
+   "watchUrl": "https://www.youtube.com/watch?v=cCTs-tcWSyY",
+   "thumb": "https://i.ytimg.com/vi/cCTs-tcWSyY/hqdefault_live.jpg"
   },
   "oshino": {
    "live": true,
