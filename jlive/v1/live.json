@@ -1,6 +1,6 @@
 {
- "updated": "2026-10-26T20:44:38Z",
- "checked": "2026-10-26T20:44:38Z",
+ "updated": "2026-10-27T00:23:05Z",
+ "checked": "2026-10-27T00:23:05Z",
  "streams": {
   "tvasahi24": {
    "live": true,
@@ -11,16 +11,20 @@
    "thumb": "https://i.ytimg.com/vi/coYw-eVU0Ks/hqdefault_live.jpg"
   },
   "ntvlive": {
-   "live": false,
-   "reason": "not-live"
+   "live": true,
+   "videoId": "rGVBp_TkfCU",
+   "title": "【台風情報】強い雨と風…“元台風”影響か 　列島に迫る強い寒気…冬の足音も──気象ニュースライブ（日テレNEWS LIVE）",
+   "embedUrl": "https://www.youtube.com/embed/rGVBp_TkfCU",
+   "watchUrl": "https://www.youtube.com/watch?v=rGVBp_TkfCU",
+   "thumb": "https://i.ytimg.com/vi/rGVBp_TkfCU/hqdefault_live.jpg"
   },
   "weathernews": {
    "live": true,
-   "videoId": "qSkoTAAmu9w",
-   "title": "【ライブ】最新天気ニュース・地震情報 2026年10月27日(火)／西日本は天気回復　北日本日本海側は次第に雨〈ウェザーニュースLiVEモーニング・福吉貴文／飯島栄一〉",
-   "embedUrl": "https://www.youtube.com/embed/qSkoTAAmu9w",
-   "watchUrl": "https://www.youtube.com/watch?v=qSkoTAAmu9w",
-   "thumb": "https://i.ytimg.com/vi/qSkoTAAmu9w/hqdefault_live.jpg"
+   "videoId": "TkDJB0X0t1s",
+   "title": "【ライブ】最新天気ニュース・地震情報 2026年10月27日(火) ／西日本は天気回復　北日本日本海側は次第に雨風強まる〈ウェザーニュースLiVEサンシャイン・ 岡本結子リサ／飯島栄一〉",
+   "embedUrl": "https://www.youtube.com/embed/TkDJB0X0t1s",
+   "watchUrl": "https://www.youtube.com/watch?v=TkDJB0X0t1s",
+   "thumb": "https://i.ytimg.com/vi/TkDJB0X0t1s/hqdefault_live.jpg"
   },
   "quake": {
    "live": true,
@@ -75,12 +79,8 @@
    "thumb": "https://i.ytimg.com/vi/IsgIYUFJN0s/hqdefault_live.jpg"
   },
   "sapporo": {
-   "live": true,
-   "videoId": "b2Ve2fudoHM",
-   "title": "［LIVE CAMERA］札幌 狸小路 ライブカメラ（４丁目） Tanukikoji Shopping Street in Sapporo, Hokkaido, Japan.",
-   "embedUrl": "https://www.youtube.com/embed/b2Ve2fudoHM",
-   "watchUrl": "https://www.youtube.com/watch?v=b2Ve2fudoHM",
-   "thumb": "https://i.ytimg.com/vi/b2Ve2fudoHM/hqdefault_live.jpg"
+   "live": false,
+   "reason": "not-live"
   },
   "niigata": {
    "live": true,
