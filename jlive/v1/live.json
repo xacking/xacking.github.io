@@ -1,6 +1,6 @@
 {
- "updated": "2026-10-27T00:23:05Z",
- "checked": "2026-10-27T00:23:05Z",
+ "updated": "2026-10-27T05:33:17Z",
+ "checked": "2026-10-27T05:33:17Z",
  "streams": {
   "tvasahi24": {
    "live": true,
@@ -12,19 +12,19 @@
   },
   "ntvlive": {
    "live": true,
-   "videoId": "rGVBp_TkfCU",
-   "title": "【台風情報】強い雨と風…“元台風”影響か 　列島に迫る強い寒気…冬の足音も──気象ニュースライブ（日テレNEWS LIVE）",
-   "embedUrl": "https://www.youtube.com/embed/rGVBp_TkfCU",
-   "watchUrl": "https://www.youtube.com/watch?v=rGVBp_TkfCU",
-   "thumb": "https://i.ytimg.com/vi/rGVBp_TkfCU/hqdefault_live.jpg"
+   "videoId": "43TfuFGhubY",
+   "title": "【国会中継】衆議院・財務金融委員会──政治ニュースライブ［2026年10月27日午後］（日テレNEWS LIVE）",
+   "embedUrl": "https://www.youtube.com/embed/43TfuFGhubY",
+   "watchUrl": "https://www.youtube.com/watch?v=43TfuFGhubY",
+   "thumb": "https://i.ytimg.com/vi/43TfuFGhubY/hqdefault_live.jpg"
   },
   "weathernews": {
    "live": true,
-   "videoId": "TkDJB0X0t1s",
-   "title": "【ライブ】最新天気ニュース・地震情報 2026年10月27日(火) ／西日本は天気回復　北日本日本海側は次第に雨風強まる〈ウェザーニュースLiVEサンシャイン・ 岡本結子リサ／飯島栄一〉",
-   "embedUrl": "https://www.youtube.com/embed/TkDJB0X0t1s",
-   "watchUrl": "https://www.youtube.com/watch?v=TkDJB0X0t1s",
-   "thumb": "https://i.ytimg.com/vi/TkDJB0X0t1s/hqdefault_live.jpg"
+   "videoId": "c0mPIoR23DE",
+   "title": "【ライブ】最新天気ニュース・地震情報 2026年10月27日(火)／北日本日本海側は次第に雨　西日本は晴れても油断禁物〈ウェザーニュースLiVEアフタヌーン・川畑玲／宇野沢達也〉",
+   "embedUrl": "https://www.youtube.com/embed/c0mPIoR23DE",
+   "watchUrl": "https://www.youtube.com/watch?v=c0mPIoR23DE",
+   "thumb": "https://i.ytimg.com/vi/c0mPIoR23DE/hqdefault_live.jpg"
   },
   "quake": {
    "live": true,
@@ -72,15 +72,19 @@
   },
   "tbs": {
    "live": true,
-   "videoId": "IsgIYUFJN0s",
-   "title": "【ニュースライブ】朝のニュース（Japan News Digest Live）最新情報など（10月27日）｜TBS NEWS DIG",
-   "embedUrl": "https://www.youtube.com/embed/IsgIYUFJN0s",
-   "watchUrl": "https://www.youtube.com/watch?v=IsgIYUFJN0s",
-   "thumb": "https://i.ytimg.com/vi/IsgIYUFJN0s/hqdefault_live.jpg"
+   "videoId": "e2IzaVaeNa0",
+   "title": "【ニュースライブ】昼のニュース（Japan News Digest Live）最新情報など（10月27日）｜TBS NEWS DIG",
+   "embedUrl": "https://www.youtube.com/embed/e2IzaVaeNa0",
+   "watchUrl": "https://www.youtube.com/watch?v=e2IzaVaeNa0",
+   "thumb": "https://i.ytimg.com/vi/e2IzaVaeNa0/hqdefault_live.jpg"
   },
   "sapporo": {
-   "live": false,
-   "reason": "not-live"
+   "live": true,
+   "videoId": "QMg2GT6dNZw",
+   "title": "［LIVE CAMERA］札幌 狸小路 ライブカメラ（４丁目） Tanukikoji Shopping Street in Sapporo, Hokkaido, Japan.",
+   "embedUrl": "https://www.youtube.com/embed/QMg2GT6dNZw",
+   "watchUrl": "https://www.youtube.com/watch?v=QMg2GT6dNZw",
+   "thumb": "https://i.ytimg.com/vi/QMg2GT6dNZw/hqdefault_live.jpg"
   },
   "niigata": {
    "live": true,
