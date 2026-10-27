@@ -1,6 +1,6 @@
 {
- "updated": "2026-10-27T10:56:51Z",
- "checked": "2026-10-27T10:56:51Z",
+ "updated": "2026-10-27T16:32:22Z",
+ "checked": "2026-10-27T16:32:22Z",
  "streams": {
   "tvasahi24": {
    "live": true,
@@ -12,27 +12,27 @@
   },
   "ntvlive": {
    "live": true,
-   "videoId": "xtzi2wuY9fA",
-   "title": "【夜ニュースライブ】最新ニュースと生活情報（10月27日） ──THE LATEST NEWS SUMMARY（日テレNEWS LIVE）",
-   "embedUrl": "https://www.youtube.com/embed/xtzi2wuY9fA",
-   "watchUrl": "https://www.youtube.com/watch?v=xtzi2wuY9fA",
-   "thumb": "https://i.ytimg.com/vi/xtzi2wuY9fA/hqdefault_live.jpg"
+   "videoId": "QcNvtSly3KE",
+   "title": "【サイバー攻撃】攻撃者側「今後も継続的に個人情報を公開」　GMOが顧客情報アクセスしないよう呼びかけ―― 社会ニュースライブ（日テレNEWS LIVE）",
+   "embedUrl": "https://www.youtube.com/embed/QcNvtSly3KE",
+   "watchUrl": "https://www.youtube.com/watch?v=QcNvtSly3KE",
+   "thumb": "https://i.ytimg.com/vi/QcNvtSly3KE/hqdefault_live.jpg"
   },
   "weathernews": {
    "live": true,
-   "videoId": "Oee7WFaO9ko",
-   "title": "【ライブ】最新天気ニュース・地震情報 2026年10月27日(火)20:00〜 ／北日本は初冬の嵐　北海道は大雪や吹雪のおそれ〈ウェザーニュースLiVEムーン・小林李衣奈／宇野沢達也〉",
-   "embedUrl": "https://www.youtube.com/embed/Oee7WFaO9ko",
-   "watchUrl": "https://www.youtube.com/watch?v=Oee7WFaO9ko",
-   "thumb": "https://i.ytimg.com/vi/Oee7WFaO9ko/hqdefault_live.jpg"
+   "videoId": "KDB3GNUe4uQ",
+   "title": "【ライブ】最新天気ニュース・地震情報 2026年10月27日(火)23:00〜 ／北日本は初冬の嵐　北海道は大雪や吹雪のおそれ〈ウェザーニュースLiVE〉",
+   "embedUrl": "https://www.youtube.com/embed/KDB3GNUe4uQ",
+   "watchUrl": "https://www.youtube.com/watch?v=KDB3GNUe4uQ",
+   "thumb": "https://i.ytimg.com/vi/KDB3GNUe4uQ/hqdefault_live.jpg"
   },
   "quake": {
    "live": true,
-   "videoId": "HcWRhHEIcqI",
+   "videoId": "dGdtz-1SsB0",
    "title": "【地震ライブ】緊急地震速報 24時間リアルタイム配信中 ウェザーニュース／Earthquake Alert Japan Live",
-   "embedUrl": "https://www.youtube.com/embed/HcWRhHEIcqI",
-   "watchUrl": "https://www.youtube.com/watch?v=HcWRhHEIcqI",
-   "thumb": "https://i.ytimg.com/vi/HcWRhHEIcqI/hqdefault_live.jpg"
+   "embedUrl": "https://www.youtube.com/embed/dGdtz-1SsB0",
+   "watchUrl": "https://www.youtube.com/watch?v=dGdtz-1SsB0",
+   "thumb": "https://i.ytimg.com/vi/dGdtz-1SsB0/hqdefault_live.jpg"
   },
   "dotonbori": {
    "live": true,
@@ -76,11 +76,11 @@
   },
   "tbs": {
    "live": true,
-   "videoId": "aNsOVrHPS0M",
-   "title": "【サイバー攻撃相次ぐ】GMOハッカー集団 1人の個人情報を公開/FX5社でサイバー被害確認/片山大臣「全業者にモニタリング強化要請」/楽天トラベルやJR東海などで個人情報流出【ニュースライブ】",
-   "embedUrl": "https://www.youtube.com/embed/aNsOVrHPS0M",
-   "watchUrl": "https://www.youtube.com/watch?v=aNsOVrHPS0M",
-   "thumb": "https://i.ytimg.com/vi/aNsOVrHPS0M/hqdefault_live.jpg"
+   "videoId": "1TV33UGFgNQ",
+   "title": "【ニュースライブ】最新ニュースまとめ（Japan News Digest）（10月27日）｜TBS NEWS DIG",
+   "embedUrl": "https://www.youtube.com/embed/1TV33UGFgNQ",
+   "watchUrl": "https://www.youtube.com/watch?v=1TV33UGFgNQ",
+   "thumb": "https://i.ytimg.com/vi/1TV33UGFgNQ/hqdefault_live.jpg"
   },
   "sapporo": {
    "live": true,
