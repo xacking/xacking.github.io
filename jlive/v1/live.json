@@ -1,6 +1,6 @@
 {
- "updated": "2026-10-27T16:32:22Z",
- "checked": "2026-10-27T16:32:22Z",
+ "updated": "2026-10-27T20:56:31Z",
+ "checked": "2026-10-27T20:56:31Z",
  "streams": {
   "tvasahi24": {
    "live": true,
@@ -12,19 +12,19 @@
   },
   "ntvlive": {
    "live": true,
-   "videoId": "QcNvtSly3KE",
-   "title": "【サイバー攻撃】攻撃者側「今後も継続的に個人情報を公開」　GMOが顧客情報アクセスしないよう呼びかけ―― 社会ニュースライブ（日テレNEWS LIVE）",
-   "embedUrl": "https://www.youtube.com/embed/QcNvtSly3KE",
-   "watchUrl": "https://www.youtube.com/watch?v=QcNvtSly3KE",
-   "thumb": "https://i.ytimg.com/vi/QcNvtSly3KE/hqdefault_live.jpg"
+   "videoId": "vlhQKT3Kcmc",
+   "title": "【朝ニュースライブ】最新ニュースと生活情報（10月28日） ──THE LATEST NEWS SUMMARY（日テレNEWS LIVE）",
+   "embedUrl": "https://www.youtube.com/embed/vlhQKT3Kcmc",
+   "watchUrl": "https://www.youtube.com/watch?v=vlhQKT3Kcmc",
+   "thumb": "https://i.ytimg.com/vi/vlhQKT3Kcmc/hqdefault_live.jpg"
   },
   "weathernews": {
    "live": true,
-   "videoId": "KDB3GNUe4uQ",
-   "title": "【ライブ】最新天気ニュース・地震情報 2026年10月27日(火)23:00〜 ／北日本は初冬の嵐　北海道は大雪や吹雪のおそれ〈ウェザーニュースLiVE〉",
-   "embedUrl": "https://www.youtube.com/embed/KDB3GNUe4uQ",
-   "watchUrl": "https://www.youtube.com/watch?v=KDB3GNUe4uQ",
-   "thumb": "https://i.ytimg.com/vi/KDB3GNUe4uQ/hqdefault_live.jpg"
+   "videoId": "vE5cGw06voQ",
+   "title": "【ライブ】最新天気ニュース・地震情報 2026年10月28日(水) ／北日本は初冬の嵐　北海道は大雪や吹雪のおそれ〈ウェザーニュースLiVEモーニング・松本真央／飯島栄一〉",
+   "embedUrl": "https://www.youtube.com/embed/vE5cGw06voQ",
+   "watchUrl": "https://www.youtube.com/watch?v=vE5cGw06voQ",
+   "thumb": "https://i.ytimg.com/vi/vE5cGw06voQ/hqdefault_live.jpg"
   },
   "quake": {
    "live": true,
@@ -76,11 +76,11 @@
   },
   "tbs": {
    "live": true,
-   "videoId": "1TV33UGFgNQ",
-   "title": "【ニュースライブ】最新ニュースまとめ（Japan News Digest）（10月27日）｜TBS NEWS DIG",
-   "embedUrl": "https://www.youtube.com/embed/1TV33UGFgNQ",
-   "watchUrl": "https://www.youtube.com/watch?v=1TV33UGFgNQ",
-   "thumb": "https://i.ytimg.com/vi/1TV33UGFgNQ/hqdefault_live.jpg"
+   "videoId": "a-5jvE2i2gA",
+   "title": "【ニュースライブ】朝のニュース（Japan News Digest Live）最新情報など（10月28日）｜TBS NEWS DIG",
+   "embedUrl": "https://www.youtube.com/embed/a-5jvE2i2gA",
+   "watchUrl": "https://www.youtube.com/watch?v=a-5jvE2i2gA",
+   "thumb": "https://i.ytimg.com/vi/a-5jvE2i2gA/hqdefault_live.jpg"
   },
   "sapporo": {
    "live": true,
@@ -100,11 +100,11 @@
   },
   "tokyo-fuji": {
    "live": true,
-   "videoId": "cCTs-tcWSyY",
-   "title": "＃オリオン座流星群極大期【星空と東京ライブカメラ】TOKYO STARRY SKY LIVE CAMERA 東京ライブカメラ 　＃オリオン座流星群 #orionidmeteorshower",
-   "embedUrl": "https://www.youtube.com/embed/cCTs-tcWSyY",
-   "watchUrl": "https://www.youtube.com/watch?v=cCTs-tcWSyY",
-   "thumb": "https://i.ytimg.com/vi/cCTs-tcWSyY/hqdefault_live.jpg"
+   "videoId": "ypDjPhIVwjQ",
+   "title": "【東京ライブカメラ】TOKYO LIVE CAMERA.  Mt'Fuji from Tokyo  富士山 紅富士 赤富士 東京からの富士山    #東京ライブカメラ #富士山東京 #東京夜景",
+   "embedUrl": "https://www.youtube.com/embed/ypDjPhIVwjQ",
+   "watchUrl": "https://www.youtube.com/watch?v=ypDjPhIVwjQ",
+   "thumb": "https://i.ytimg.com/vi/ypDjPhIVwjQ/hqdefault_live.jpg"
   },
   "oshino": {
    "live": true,
