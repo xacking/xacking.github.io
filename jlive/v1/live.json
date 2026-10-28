@@ -1,6 +1,6 @@
 {
- "updated": "2026-10-28T19:05:33Z",
- "checked": "2026-10-28T19:05:33Z",
+ "updated": "2026-10-28T23:11:07Z",
+ "checked": "2026-10-28T23:11:07Z",
  "streams": {
   "tvasahi24": {
    "live": true,
@@ -12,19 +12,19 @@
   },
   "ntvlive": {
    "live": true,
-   "videoId": "aPfUGroNnDk",
-   "title": "【アメリカライブ】中間選挙  政治広告費が過去最高に…おととしの大統領選も上回る  日本円で約1兆7700億円　── 国際ニュースライブ（日テレNEWS LIVE）",
-   "embedUrl": "https://www.youtube.com/embed/aPfUGroNnDk",
-   "watchUrl": "https://www.youtube.com/watch?v=aPfUGroNnDk",
-   "thumb": "https://i.ytimg.com/vi/aPfUGroNnDk/hqdefault_live.jpg"
+   "videoId": "ITfn82VrK4I",
+   "title": "【朝ニュースライブ】最新ニュースと生活情報（10月29日） ──THE LATEST NEWS SUMMARY（日テレNEWS LIVE）",
+   "embedUrl": "https://www.youtube.com/embed/ITfn82VrK4I",
+   "watchUrl": "https://www.youtube.com/watch?v=ITfn82VrK4I",
+   "thumb": "https://i.ytimg.com/vi/ITfn82VrK4I/hqdefault_live.jpg"
   },
   "weathernews": {
    "live": true,
-   "videoId": "3WkNror7Cw8",
-   "title": "【ライブ】千葉県で震度５弱の地震 最新天気ニュース・地震情報 2026年10月28日(水)23:00〜 ／あす 西日本は日差し届くも天気下り坂　関東は雲優勢で肌寒い〈ウェザーニュースLiVE〉",
-   "embedUrl": "https://www.youtube.com/embed/3WkNror7Cw8",
-   "watchUrl": "https://www.youtube.com/watch?v=3WkNror7Cw8",
-   "thumb": "https://i.ytimg.com/vi/3WkNror7Cw8/hqdefault_live.jpg"
+   "videoId": "6N308xHU1uo",
+   "title": "【ライブ】最新天気ニュース・地震情報 2026年10月29日(木) ／西日本は日差し届くも天気下り坂〈ウェザーニュースLiVEサンシャイン・白井ゆかり／山口剛央〉",
+   "embedUrl": "https://www.youtube.com/embed/6N308xHU1uo",
+   "watchUrl": "https://www.youtube.com/watch?v=6N308xHU1uo",
+   "thumb": "https://i.ytimg.com/vi/6N308xHU1uo/hqdefault_live.jpg"
   },
   "quake": {
    "live": true,
@@ -76,11 +76,11 @@
   },
   "tbs": {
    "live": true,
-   "videoId": "fEQr1h2IspU",
-   "title": "【ニュースライブ】最新ニュースまとめ（Japan News Digest）（10月28日）｜TBS NEWS DIG",
-   "embedUrl": "https://www.youtube.com/embed/fEQr1h2IspU",
-   "watchUrl": "https://www.youtube.com/watch?v=fEQr1h2IspU",
-   "thumb": "https://i.ytimg.com/vi/fEQr1h2IspU/hqdefault_live.jpg"
+   "videoId": "e3QDTkq8VlU",
+   "title": "【ニュースライブ】朝のニュース（Japan News Digest Live）最新情報など（10月29日）｜TBS NEWS DIG",
+   "embedUrl": "https://www.youtube.com/embed/e3QDTkq8VlU",
+   "watchUrl": "https://www.youtube.com/watch?v=e3QDTkq8VlU",
+   "thumb": "https://i.ytimg.com/vi/e3QDTkq8VlU/hqdefault_live.jpg"
   },
   "sapporo": {
    "live": true,
@@ -100,11 +100,11 @@
   },
   "tokyo-fuji": {
    "live": true,
-   "videoId": "66iW7TZi0Ng",
-   "title": "＃オリオン座流星群極大期【星空と東京ライブカメラ】TOKYO STARRY SKY LIVE CAMERA 東京ライブカメラ 　＃オリオン座流星群 #orionidmeteorshower",
-   "embedUrl": "https://www.youtube.com/embed/66iW7TZi0Ng",
-   "watchUrl": "https://www.youtube.com/watch?v=66iW7TZi0Ng",
-   "thumb": "https://i.ytimg.com/vi/66iW7TZi0Ng/hqdefault_live.jpg"
+   "videoId": "qKlFk02P9FY",
+   "title": "【東京ライブカメラ】TOKYO LIVE CAMERA.  Mt'Fuji from Tokyo  富士山 紅富士 赤富士 東京からの富士山    #東京ライブカメラ #富士山東京 #東京夜景",
+   "embedUrl": "https://www.youtube.com/embed/qKlFk02P9FY",
+   "watchUrl": "https://www.youtube.com/watch?v=qKlFk02P9FY",
+   "thumb": "https://i.ytimg.com/vi/qKlFk02P9FY/hqdefault_live.jpg"
   },
   "oshino": {
    "live": true,
