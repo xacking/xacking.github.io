@@ -1,6 +1,6 @@
 {
- "updated": "2026-10-28T06:15:23Z",
- "checked": "2026-10-28T06:15:23Z",
+ "updated": "2026-10-28T13:30:06Z",
+ "checked": "2026-10-28T13:30:06Z",
  "streams": {
   "tvasahi24": {
    "live": true,
@@ -12,19 +12,19 @@
   },
   "ntvlive": {
    "live": true,
-   "videoId": "U_q-NDcD9uk",
-   "title": "【国会ライブ】衆議院 財務金融・農水連合審査会 ──政治ニュースライブ［2026年10月28日午後］（日テレNEWS LIVE）",
-   "embedUrl": "https://www.youtube.com/embed/U_q-NDcD9uk",
-   "watchUrl": "https://www.youtube.com/watch?v=U_q-NDcD9uk",
-   "thumb": "https://i.ytimg.com/vi/U_q-NDcD9uk/hqdefault_live.jpg"
+   "videoId": "JK1ZRvwvsZo",
+   "title": "【サイバー攻撃】GMOへのサイバー攻撃で“顧客と自社に関する情報”公開  不正アクセス禁止法違反の疑いなど視野に捜査  警視庁―― 社会ニュースライブ（日テレNEWS LIVE）",
+   "embedUrl": "https://www.youtube.com/embed/JK1ZRvwvsZo",
+   "watchUrl": "https://www.youtube.com/watch?v=JK1ZRvwvsZo",
+   "thumb": "https://i.ytimg.com/vi/JK1ZRvwvsZo/hqdefault_live.jpg"
   },
   "weathernews": {
    "live": true,
-   "videoId": "iI1SJGDO9Ns",
-   "title": "【ライブ】最新天気ニュース・地震情報 2026年10月28日(水)／札幌などで初雪　北日本は冬の嵐に〈ウェザーニュースLiVEアフタヌーン・福吉貴文／宇野沢達也〉",
-   "embedUrl": "https://www.youtube.com/embed/iI1SJGDO9Ns",
-   "watchUrl": "https://www.youtube.com/watch?v=iI1SJGDO9Ns",
-   "thumb": "https://i.ytimg.com/vi/iI1SJGDO9Ns/hqdefault_live.jpg"
+   "videoId": "HPeLDQId9Bg",
+   "title": "【ライブ】最新天気ニュース・地震情報 2026年10月28日(水)20:00〜 ／あす 西日本日差し届くも天気下り坂〈ウェザーニュースLiVEムーン・戸北美月／宇野沢達也〉",
+   "embedUrl": "https://www.youtube.com/embed/HPeLDQId9Bg",
+   "watchUrl": "https://www.youtube.com/watch?v=HPeLDQId9Bg",
+   "thumb": "https://i.ytimg.com/vi/HPeLDQId9Bg/hqdefault_live.jpg"
   },
   "quake": {
    "live": true,
@@ -76,11 +76,11 @@
   },
   "tbs": {
    "live": true,
-   "videoId": "UlhLc0pWms0",
-   "title": "【国会中継・ライブ】食料品の消費税減税法案に関する質疑　衆議院 財務金融・農林水産 連合審査会（2026年10月28日午後1時30分～ LIVE配信）｜TBS NEWS DIG",
-   "embedUrl": "https://www.youtube.com/embed/UlhLc0pWms0",
-   "watchUrl": "https://www.youtube.com/watch?v=UlhLc0pWms0",
-   "thumb": "https://i.ytimg.com/vi/UlhLc0pWms0/hqdefault_live.jpg"
+   "videoId": "fEQr1h2IspU",
+   "title": "【ニュースライブ】最新ニュースまとめ（Japan News Digest）（10月28日）｜TBS NEWS DIG",
+   "embedUrl": "https://www.youtube.com/embed/fEQr1h2IspU",
+   "watchUrl": "https://www.youtube.com/watch?v=fEQr1h2IspU",
+   "thumb": "https://i.ytimg.com/vi/fEQr1h2IspU/hqdefault_live.jpg"
   },
   "sapporo": {
    "live": true,
@@ -100,19 +100,19 @@
   },
   "tokyo-fuji": {
    "live": true,
-   "videoId": "ypDjPhIVwjQ",
-   "title": "【東京ライブカメラ】TOKYO LIVE CAMERA.  Mt'Fuji from Tokyo  富士山 紅富士 赤富士 東京からの富士山    #東京ライブカメラ #富士山東京 #東京夜景",
-   "embedUrl": "https://www.youtube.com/embed/ypDjPhIVwjQ",
-   "watchUrl": "https://www.youtube.com/watch?v=ypDjPhIVwjQ",
-   "thumb": "https://i.ytimg.com/vi/ypDjPhIVwjQ/hqdefault_live.jpg"
+   "videoId": "66iW7TZi0Ng",
+   "title": "＃オリオン座流星群極大期【星空と東京ライブカメラ】TOKYO STARRY SKY LIVE CAMERA 東京ライブカメラ 　＃オリオン座流星群 #orionidmeteorshower",
+   "embedUrl": "https://www.youtube.com/embed/66iW7TZi0Ng",
+   "watchUrl": "https://www.youtube.com/watch?v=66iW7TZi0Ng",
+   "thumb": "https://i.ytimg.com/vi/66iW7TZi0Ng/hqdefault_live.jpg"
   },
   "oshino": {
    "live": true,
-   "videoId": "C87jLYZMETM",
-   "title": "【LIVE】【2026.10.28】忍野からの「富士山ライブカメラ」　\"mount fuji live camera\" from Lake Oshino (Oshino Japan)",
-   "embedUrl": "https://www.youtube.com/embed/C87jLYZMETM",
-   "watchUrl": "https://www.youtube.com/watch?v=C87jLYZMETM",
-   "thumb": "https://i.ytimg.com/vi/C87jLYZMETM/hqdefault_live.jpg"
+   "videoId": "tuNC0ot0j9I",
+   "title": "【LIVE】葉山・富士山ライブカメラ　裕次郎灯台・江の島　波情報　\"mount fuji live camera\" from Hayama (Japan)【4K】",
+   "embedUrl": "https://www.youtube.com/embed/tuNC0ot0j9I",
+   "watchUrl": "https://www.youtube.com/watch?v=tuNC0ot0j9I",
+   "thumb": "https://i.ytimg.com/vi/tuNC0ot0j9I/hqdefault_live.jpg"
   },
   "kyoto-tower": {
    "live": true,
