@@ -1,6 +1,6 @@
 {
- "updated": "2026-10-28T00:28:21Z",
- "checked": "2026-10-28T00:28:21Z",
+ "updated": "2026-10-28T06:15:23Z",
+ "checked": "2026-10-28T06:15:23Z",
  "streams": {
   "tvasahi24": {
    "live": true,
@@ -12,19 +12,19 @@
   },
   "ntvlive": {
    "live": true,
-   "videoId": "ddUSsdsMCeQ",
-   "title": "【サイバー攻撃】攻撃者側「今後も継続的に個人情報を公開」　GMOが顧客情報アクセスしないよう呼びかけ―― 社会ニュースライブ（日テレNEWS LIVE）",
-   "embedUrl": "https://www.youtube.com/embed/ddUSsdsMCeQ",
-   "watchUrl": "https://www.youtube.com/watch?v=ddUSsdsMCeQ",
-   "thumb": "https://i.ytimg.com/vi/ddUSsdsMCeQ/hqdefault_live.jpg"
+   "videoId": "U_q-NDcD9uk",
+   "title": "【国会ライブ】衆議院 財務金融・農水連合審査会 ──政治ニュースライブ［2026年10月28日午後］（日テレNEWS LIVE）",
+   "embedUrl": "https://www.youtube.com/embed/U_q-NDcD9uk",
+   "watchUrl": "https://www.youtube.com/watch?v=U_q-NDcD9uk",
+   "thumb": "https://i.ytimg.com/vi/U_q-NDcD9uk/hqdefault_live.jpg"
   },
   "weathernews": {
    "live": true,
-   "videoId": "_1nkxQr6vg8",
-   "title": "【ライブ】最新天気ニュース・地震情報 2026年10月28日(水) ／北日本など初雪観測 北日本は初冬の嵐に 東・西日本も強風で寒い体感〈ウェザーニュースLiVEサンシャイン・岡本結子リサ／飯島栄一〉",
-   "embedUrl": "https://www.youtube.com/embed/_1nkxQr6vg8",
-   "watchUrl": "https://www.youtube.com/watch?v=_1nkxQr6vg8",
-   "thumb": "https://i.ytimg.com/vi/_1nkxQr6vg8/hqdefault_live.jpg"
+   "videoId": "iI1SJGDO9Ns",
+   "title": "【ライブ】最新天気ニュース・地震情報 2026年10月28日(水)／札幌などで初雪　北日本は冬の嵐に〈ウェザーニュースLiVEアフタヌーン・福吉貴文／宇野沢達也〉",
+   "embedUrl": "https://www.youtube.com/embed/iI1SJGDO9Ns",
+   "watchUrl": "https://www.youtube.com/watch?v=iI1SJGDO9Ns",
+   "thumb": "https://i.ytimg.com/vi/iI1SJGDO9Ns/hqdefault_live.jpg"
   },
   "quake": {
    "live": true,
@@ -76,11 +76,11 @@
   },
   "tbs": {
    "live": true,
-   "videoId": "UlT5W2Tz2_g",
-   "title": "【国会中継・ライブ】食料品の消費税減税法案に関する質疑　衆議院・財務金融委員会（2026年10月28日午前9時～ LIVE配信）｜TBS NEWS DIG",
-   "embedUrl": "https://www.youtube.com/embed/UlT5W2Tz2_g",
-   "watchUrl": "https://www.youtube.com/watch?v=UlT5W2Tz2_g",
-   "thumb": "https://i.ytimg.com/vi/UlT5W2Tz2_g/hqdefault_live.jpg"
+   "videoId": "UlhLc0pWms0",
+   "title": "【国会中継・ライブ】食料品の消費税減税法案に関する質疑　衆議院 財務金融・農林水産 連合審査会（2026年10月28日午後1時30分～ LIVE配信）｜TBS NEWS DIG",
+   "embedUrl": "https://www.youtube.com/embed/UlhLc0pWms0",
+   "watchUrl": "https://www.youtube.com/watch?v=UlhLc0pWms0",
+   "thumb": "https://i.ytimg.com/vi/UlhLc0pWms0/hqdefault_live.jpg"
   },
   "sapporo": {
    "live": true,
