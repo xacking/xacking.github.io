@@ -1,6 +1,6 @@
 {
- "updated": "2026-10-28T13:30:06Z",
- "checked": "2026-10-28T13:30:06Z",
+ "updated": "2026-10-28T19:05:33Z",
+ "checked": "2026-10-28T19:05:33Z",
  "streams": {
   "tvasahi24": {
    "live": true,
@@ -12,27 +12,27 @@
   },
   "ntvlive": {
    "live": true,
-   "videoId": "JK1ZRvwvsZo",
-   "title": "【サイバー攻撃】GMOへのサイバー攻撃で“顧客と自社に関する情報”公開  不正アクセス禁止法違反の疑いなど視野に捜査  警視庁―― 社会ニュースライブ（日テレNEWS LIVE）",
-   "embedUrl": "https://www.youtube.com/embed/JK1ZRvwvsZo",
-   "watchUrl": "https://www.youtube.com/watch?v=JK1ZRvwvsZo",
-   "thumb": "https://i.ytimg.com/vi/JK1ZRvwvsZo/hqdefault_live.jpg"
+   "videoId": "aPfUGroNnDk",
+   "title": "【アメリカライブ】中間選挙  政治広告費が過去最高に…おととしの大統領選も上回る  日本円で約1兆7700億円　── 国際ニュースライブ（日テレNEWS LIVE）",
+   "embedUrl": "https://www.youtube.com/embed/aPfUGroNnDk",
+   "watchUrl": "https://www.youtube.com/watch?v=aPfUGroNnDk",
+   "thumb": "https://i.ytimg.com/vi/aPfUGroNnDk/hqdefault_live.jpg"
   },
   "weathernews": {
    "live": true,
-   "videoId": "HPeLDQId9Bg",
-   "title": "【ライブ】最新天気ニュース・地震情報 2026年10月28日(水)20:00〜 ／あす 西日本日差し届くも天気下り坂〈ウェザーニュースLiVEムーン・戸北美月／宇野沢達也〉",
-   "embedUrl": "https://www.youtube.com/embed/HPeLDQId9Bg",
-   "watchUrl": "https://www.youtube.com/watch?v=HPeLDQId9Bg",
-   "thumb": "https://i.ytimg.com/vi/HPeLDQId9Bg/hqdefault_live.jpg"
+   "videoId": "3WkNror7Cw8",
+   "title": "【ライブ】千葉県で震度５弱の地震 最新天気ニュース・地震情報 2026年10月28日(水)23:00〜 ／あす 西日本は日差し届くも天気下り坂　関東は雲優勢で肌寒い〈ウェザーニュースLiVE〉",
+   "embedUrl": "https://www.youtube.com/embed/3WkNror7Cw8",
+   "watchUrl": "https://www.youtube.com/watch?v=3WkNror7Cw8",
+   "thumb": "https://i.ytimg.com/vi/3WkNror7Cw8/hqdefault_live.jpg"
   },
   "quake": {
    "live": true,
-   "videoId": "dGdtz-1SsB0",
+   "videoId": "JdZSo4VdFAE",
    "title": "【地震ライブ】緊急地震速報 24時間リアルタイム配信中 ウェザーニュース／Earthquake Alert Japan Live",
-   "embedUrl": "https://www.youtube.com/embed/dGdtz-1SsB0",
-   "watchUrl": "https://www.youtube.com/watch?v=dGdtz-1SsB0",
-   "thumb": "https://i.ytimg.com/vi/dGdtz-1SsB0/hqdefault_live.jpg"
+   "embedUrl": "https://www.youtube.com/embed/JdZSo4VdFAE",
+   "watchUrl": "https://www.youtube.com/watch?v=JdZSo4VdFAE",
+   "thumb": "https://i.ytimg.com/vi/JdZSo4VdFAE/hqdefault_live.jpg"
   },
   "dotonbori": {
    "live": true,
