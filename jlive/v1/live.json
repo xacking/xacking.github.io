@@ -1,6 +1,6 @@
 {
- "updated": "2026-10-29T02:49:22Z",
- "checked": "2026-10-29T02:49:22Z",
+ "updated": "2026-10-29T09:50:59Z",
+ "checked": "2026-10-29T09:50:59Z",
  "streams": {
   "tvasahi24": {
    "live": true,
@@ -12,19 +12,19 @@
   },
   "ntvlive": {
    "live": true,
-   "videoId": "0C7ix4aiRVs",
-   "title": "【国会中継】衆議院・憲法審査会 ── 政治ニュースライブ［2026年10月29日午前］（日テレNEWS LIVE）",
-   "embedUrl": "https://www.youtube.com/embed/0C7ix4aiRVs",
-   "watchUrl": "https://www.youtube.com/watch?v=0C7ix4aiRVs",
-   "thumb": "https://i.ytimg.com/vi/0C7ix4aiRVs/hqdefault_live.jpg"
+   "videoId": "V5caaLjk_4o",
+   "title": "【ライブ】高市首相 コメント ── 政治ニュースライブ（日テレNEWS LIVE）",
+   "embedUrl": "https://www.youtube.com/embed/V5caaLjk_4o",
+   "watchUrl": "https://www.youtube.com/watch?v=V5caaLjk_4o",
+   "thumb": "https://i.ytimg.com/vi/V5caaLjk_4o/hqdefault_live.jpg"
   },
   "weathernews": {
    "live": true,
-   "videoId": "qZOhvNtl2K0",
-   "title": "【ライブ】最新天気ニュース・地震情報 2026年10月29日(木) ／西日本は日差し届くも天気下り坂〈ウェザーニュースLiVEコーヒータイム・福吉貴文／山口剛央〉",
-   "embedUrl": "https://www.youtube.com/embed/qZOhvNtl2K0",
-   "watchUrl": "https://www.youtube.com/watch?v=qZOhvNtl2K0",
-   "thumb": "https://i.ytimg.com/vi/qZOhvNtl2K0/hqdefault_live.jpg"
+   "videoId": "Eb4rQNoO5K8",
+   "title": "【ライブ】最新天気ニュース・地震情報 2026年10月29日(木) ／西日本は日差し届くも天気下り坂〈ウェザーニュースLiVEイブニング・小林李衣奈／本田竜也〉",
+   "embedUrl": "https://www.youtube.com/embed/Eb4rQNoO5K8",
+   "watchUrl": "https://www.youtube.com/watch?v=Eb4rQNoO5K8",
+   "thumb": "https://i.ytimg.com/vi/Eb4rQNoO5K8/hqdefault_live.jpg"
   },
   "quake": {
    "live": true,
@@ -76,11 +76,11 @@
   },
   "tbs": {
    "live": true,
-   "videoId": "SuZYDYkl9NE",
-   "title": "【ニュースライブ】昼のニュース（Japan News Digest Live）最新情報など（10月29日）｜TBS NEWS DIG",
-   "embedUrl": "https://www.youtube.com/embed/SuZYDYkl9NE",
-   "watchUrl": "https://www.youtube.com/watch?v=SuZYDYkl9NE",
-   "thumb": "https://i.ytimg.com/vi/SuZYDYkl9NE/hqdefault_live.jpg"
+   "videoId": "Slvmk32KFpY",
+   "title": "【ニュースライブ】夜のニュース（Japan News Digest Live）最新情報など（10月29日）｜TBS NEWS DIG",
+   "embedUrl": "https://www.youtube.com/embed/Slvmk32KFpY",
+   "watchUrl": "https://www.youtube.com/watch?v=Slvmk32KFpY",
+   "thumb": "https://i.ytimg.com/vi/Slvmk32KFpY/hqdefault_live.jpg"
   },
   "sapporo": {
    "live": true,
@@ -100,11 +100,11 @@
   },
   "tokyo-fuji": {
    "live": true,
-   "videoId": "qKlFk02P9FY",
-   "title": "【東京ライブカメラ】TOKYO LIVE CAMERA.  Mt'Fuji from Tokyo  富士山 紅富士 赤富士 東京からの富士山    #東京ライブカメラ #富士山東京 #東京夜景",
-   "embedUrl": "https://www.youtube.com/embed/qKlFk02P9FY",
-   "watchUrl": "https://www.youtube.com/watch?v=qKlFk02P9FY",
-   "thumb": "https://i.ytimg.com/vi/qKlFk02P9FY/hqdefault_live.jpg"
+   "videoId": "FWxy6FPX-3E",
+   "title": "＃オリオン座流星群【星空と東京ライブカメラ】TOKYO STARRY SKY LIVE CAMERA 東京ライブカメラ 　＃オリオン座流星群 #orionidmeteorshower",
+   "embedUrl": "https://www.youtube.com/embed/FWxy6FPX-3E",
+   "watchUrl": "https://www.youtube.com/watch?v=FWxy6FPX-3E",
+   "thumb": "https://i.ytimg.com/vi/FWxy6FPX-3E/hqdefault_live.jpg"
   },
   "oshino": {
    "live": true,
