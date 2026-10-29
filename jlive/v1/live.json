@@ -1,6 +1,6 @@
 {
- "updated": "2026-10-29T09:50:59Z",
- "checked": "2026-10-29T09:50:59Z",
+ "updated": "2026-10-29T16:53:43Z",
+ "checked": "2026-10-29T16:53:43Z",
  "streams": {
   "tvasahi24": {
    "live": true,
@@ -12,27 +12,27 @@
   },
   "ntvlive": {
    "live": true,
-   "videoId": "V5caaLjk_4o",
-   "title": "【ライブ】高市首相 コメント ── 政治ニュースライブ（日テレNEWS LIVE）",
-   "embedUrl": "https://www.youtube.com/embed/V5caaLjk_4o",
-   "watchUrl": "https://www.youtube.com/watch?v=V5caaLjk_4o",
-   "thumb": "https://i.ytimg.com/vi/V5caaLjk_4o/hqdefault_live.jpg"
+   "videoId": "GGMlCUiIXHo",
+   "title": "【サイバー攻撃】GMO会長兼社長「犯人特定につながる有力情報入手」　警察などに情報提出へ ― 社会ニュースライブ（日テレNEWS LIVE）",
+   "embedUrl": "https://www.youtube.com/embed/GGMlCUiIXHo",
+   "watchUrl": "https://www.youtube.com/watch?v=GGMlCUiIXHo",
+   "thumb": "https://i.ytimg.com/vi/GGMlCUiIXHo/hqdefault_live.jpg"
   },
   "weathernews": {
    "live": true,
-   "videoId": "Eb4rQNoO5K8",
-   "title": "【ライブ】最新天気ニュース・地震情報 2026年10月29日(木) ／西日本は日差し届くも天気下り坂〈ウェザーニュースLiVEイブニング・小林李衣奈／本田竜也〉",
-   "embedUrl": "https://www.youtube.com/embed/Eb4rQNoO5K8",
-   "watchUrl": "https://www.youtube.com/watch?v=Eb4rQNoO5K8",
-   "thumb": "https://i.ytimg.com/vi/Eb4rQNoO5K8/hqdefault_live.jpg"
+   "videoId": "wV8yqLcogms",
+   "title": "【ライブ】最新天気ニュース・地震情報 2026年10月29日(木)23:00〜 ／〈ウェザーニュースLiVE〉",
+   "embedUrl": "https://www.youtube.com/embed/wV8yqLcogms",
+   "watchUrl": "https://www.youtube.com/watch?v=wV8yqLcogms",
+   "thumb": "https://i.ytimg.com/vi/wV8yqLcogms/hqdefault_live.jpg"
   },
   "quake": {
    "live": true,
-   "videoId": "JdZSo4VdFAE",
+   "videoId": "YNt0igZGvEg",
    "title": "【地震ライブ】緊急地震速報 24時間リアルタイム配信中 ウェザーニュース／Earthquake Alert Japan Live",
-   "embedUrl": "https://www.youtube.com/embed/JdZSo4VdFAE",
-   "watchUrl": "https://www.youtube.com/watch?v=JdZSo4VdFAE",
-   "thumb": "https://i.ytimg.com/vi/JdZSo4VdFAE/hqdefault_live.jpg"
+   "embedUrl": "https://www.youtube.com/embed/YNt0igZGvEg",
+   "watchUrl": "https://www.youtube.com/watch?v=YNt0igZGvEg",
+   "thumb": "https://i.ytimg.com/vi/YNt0igZGvEg/hqdefault_live.jpg"
   },
   "dotonbori": {
    "live": true,
@@ -76,11 +76,11 @@
   },
   "tbs": {
    "live": true,
-   "videoId": "Slvmk32KFpY",
-   "title": "【ニュースライブ】夜のニュース（Japan News Digest Live）最新情報など（10月29日）｜TBS NEWS DIG",
-   "embedUrl": "https://www.youtube.com/embed/Slvmk32KFpY",
-   "watchUrl": "https://www.youtube.com/watch?v=Slvmk32KFpY",
-   "thumb": "https://i.ytimg.com/vi/Slvmk32KFpY/hqdefault_live.jpg"
+   "videoId": "eShsza_FZGQ",
+   "title": "【GMOサーバー攻撃】「犯人特定に繋がる情報入手」/脅迫文が”日本語” /「目立ちたい」浮かび上がる犯人像/総務省が“異例の要請”/「懸賞金」に113件の情報【最新ニュースライブ】",
+   "embedUrl": "https://www.youtube.com/embed/eShsza_FZGQ",
+   "watchUrl": "https://www.youtube.com/watch?v=eShsza_FZGQ",
+   "thumb": "https://i.ytimg.com/vi/eShsza_FZGQ/hqdefault_live.jpg"
   },
   "sapporo": {
    "live": true,
