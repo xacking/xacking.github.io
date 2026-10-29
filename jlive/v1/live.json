@@ -1,6 +1,6 @@
 {
- "updated": "2026-10-29T16:53:43Z",
- "checked": "2026-10-29T16:53:43Z",
+ "updated": "2026-10-29T21:45:35Z",
+ "checked": "2026-10-29T21:45:35Z",
  "streams": {
   "tvasahi24": {
    "live": true,
@@ -12,19 +12,19 @@
   },
   "ntvlive": {
    "live": true,
-   "videoId": "GGMlCUiIXHo",
-   "title": "【サイバー攻撃】GMO会長兼社長「犯人特定につながる有力情報入手」　警察などに情報提出へ ― 社会ニュースライブ（日テレNEWS LIVE）",
-   "embedUrl": "https://www.youtube.com/embed/GGMlCUiIXHo",
-   "watchUrl": "https://www.youtube.com/watch?v=GGMlCUiIXHo",
-   "thumb": "https://i.ytimg.com/vi/GGMlCUiIXHo/hqdefault_live.jpg"
+   "videoId": "FUqGAiBwI6s",
+   "title": "【朝ニュースライブ】最新ニュースと生活情報（10月30日） ──THE LATEST NEWS SUMMARY（日テレNEWS LIVE）",
+   "embedUrl": "https://www.youtube.com/embed/FUqGAiBwI6s",
+   "watchUrl": "https://www.youtube.com/watch?v=FUqGAiBwI6s",
+   "thumb": "https://i.ytimg.com/vi/FUqGAiBwI6s/hqdefault_live.jpg"
   },
   "weathernews": {
    "live": true,
-   "videoId": "wV8yqLcogms",
-   "title": "【ライブ】最新天気ニュース・地震情報 2026年10月29日(木)23:00〜 ／〈ウェザーニュースLiVE〉",
-   "embedUrl": "https://www.youtube.com/embed/wV8yqLcogms",
-   "watchUrl": "https://www.youtube.com/watch?v=wV8yqLcogms",
-   "thumb": "https://i.ytimg.com/vi/wV8yqLcogms/hqdefault_live.jpg"
+   "videoId": "je_MjTSFFyc",
+   "title": "【ライブ】最新天気ニュース・地震情報 2026年10月30日(金) ／九州から北海道の広い範囲で雨〈ウェザーニュースLiVEモーニング・岡本結子リサ／山口剛央〉",
+   "embedUrl": "https://www.youtube.com/embed/je_MjTSFFyc",
+   "watchUrl": "https://www.youtube.com/watch?v=je_MjTSFFyc",
+   "thumb": "https://i.ytimg.com/vi/je_MjTSFFyc/hqdefault_live.jpg"
   },
   "quake": {
    "live": true,
@@ -76,11 +76,11 @@
   },
   "tbs": {
    "live": true,
-   "videoId": "eShsza_FZGQ",
-   "title": "【GMOサーバー攻撃】「犯人特定に繋がる情報入手」/脅迫文が”日本語” /「目立ちたい」浮かび上がる犯人像/総務省が“異例の要請”/「懸賞金」に113件の情報【最新ニュースライブ】",
-   "embedUrl": "https://www.youtube.com/embed/eShsza_FZGQ",
-   "watchUrl": "https://www.youtube.com/watch?v=eShsza_FZGQ",
-   "thumb": "https://i.ytimg.com/vi/eShsza_FZGQ/hqdefault_live.jpg"
+   "videoId": "P39Bpz44xLU",
+   "title": "【ニュースライブ】朝のニュース（Japan News Digest Live）最新情報など（10月30日）｜TBS NEWS DIG",
+   "embedUrl": "https://www.youtube.com/embed/P39Bpz44xLU",
+   "watchUrl": "https://www.youtube.com/watch?v=P39Bpz44xLU",
+   "thumb": "https://i.ytimg.com/vi/P39Bpz44xLU/hqdefault_live.jpg"
   },
   "sapporo": {
    "live": true,
@@ -100,11 +100,11 @@
   },
   "tokyo-fuji": {
    "live": true,
-   "videoId": "FWxy6FPX-3E",
-   "title": "＃オリオン座流星群【星空と東京ライブカメラ】TOKYO STARRY SKY LIVE CAMERA 東京ライブカメラ 　＃オリオン座流星群 #orionidmeteorshower",
-   "embedUrl": "https://www.youtube.com/embed/FWxy6FPX-3E",
-   "watchUrl": "https://www.youtube.com/watch?v=FWxy6FPX-3E",
-   "thumb": "https://i.ytimg.com/vi/FWxy6FPX-3E/hqdefault_live.jpg"
+   "videoId": "EQYznRSHgZs",
+   "title": "【東京ライブカメラ】TOKYO LIVE CAMERA.  Mt'Fuji from Tokyo  富士山 紅富士 赤富士 東京からの富士山    #東京ライブカメラ #富士山東京 #東京夜景",
+   "embedUrl": "https://www.youtube.com/embed/EQYznRSHgZs",
+   "watchUrl": "https://www.youtube.com/watch?v=EQYznRSHgZs",
+   "thumb": "https://i.ytimg.com/vi/EQYznRSHgZs/hqdefault_live.jpg"
   },
   "oshino": {
    "live": true,
