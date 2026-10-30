@@ -1,6 +1,6 @@
 {
- "updated": "2026-10-30T01:54:36Z",
- "checked": "2026-10-30T01:54:36Z",
+ "updated": "2026-10-30T08:32:50Z",
+ "checked": "2026-10-30T08:32:50Z",
  "streams": {
   "tvasahi24": {
    "live": true,
@@ -12,19 +12,19 @@
   },
   "ntvlive": {
    "live": true,
-   "videoId": "iVlMcUyC2-s",
-   "title": "【サイバー攻撃】GMO会長兼社長「犯人特定につながる有力情報入手」　警察などに情報提出へ ― 社会ニュースライブ（日テレNEWS LIVE）",
-   "embedUrl": "https://www.youtube.com/embed/iVlMcUyC2-s",
-   "watchUrl": "https://www.youtube.com/watch?v=iVlMcUyC2-s",
-   "thumb": "https://i.ytimg.com/vi/iVlMcUyC2-s/hqdefault_live.jpg"
+   "videoId": "ao9PNQWhb0E",
+   "title": "【夕ニュースライブ】最新ニュースと生活情報（10月30日） ──THE LATEST NEWS SUMMARY（日テレNEWS LIVE）",
+   "embedUrl": "https://www.youtube.com/embed/ao9PNQWhb0E",
+   "watchUrl": "https://www.youtube.com/watch?v=ao9PNQWhb0E",
+   "thumb": "https://i.ytimg.com/vi/ao9PNQWhb0E/hqdefault_live.jpg"
   },
   "weathernews": {
    "live": true,
-   "videoId": "S2pdaZ8QSzo",
-   "title": "【ライブ】最新天気ニュース・地震情報 2026年10月30日(金)／九州から北海道の広い範囲で雨　富士山の初冠雪が発表〈ウェザーニュースLiVEコーヒータイム・福吉貴文／山口剛央〉",
-   "embedUrl": "https://www.youtube.com/embed/S2pdaZ8QSzo",
-   "watchUrl": "https://www.youtube.com/watch?v=S2pdaZ8QSzo",
-   "thumb": "https://i.ytimg.com/vi/S2pdaZ8QSzo/hqdefault_live.jpg"
+   "videoId": "7txbhDM5Dgs",
+   "title": "【ライブ】最新天気ニュース・地震情報 2026年10月30日(金) ／ハロウィンは関東以西で行楽日和　北日本は雨や雪〈ウェザーニュースLiVEイブニング・小林李衣奈／宇野沢達也〉",
+   "embedUrl": "https://www.youtube.com/embed/7txbhDM5Dgs",
+   "watchUrl": "https://www.youtube.com/watch?v=7txbhDM5Dgs",
+   "thumb": "https://i.ytimg.com/vi/7txbhDM5Dgs/hqdefault_live.jpg"
   },
   "quake": {
    "live": true,
@@ -35,12 +35,8 @@
    "thumb": "https://i.ytimg.com/vi/YNt0igZGvEg/hqdefault_live.jpg"
   },
   "dotonbori": {
-   "live": true,
-   "videoId": "6OgYfTMOmhY",
-   "title": "【LIVE】大阪・道頓堀ライブカメラ　グリコ看板前の様子は？ Osaka Dotonbori #道頓堀 #ライブカメラ",
-   "embedUrl": "https://www.youtube.com/embed/6OgYfTMOmhY",
-   "watchUrl": "https://www.youtube.com/watch?v=6OgYfTMOmhY",
-   "thumb": "https://i.ytimg.com/vi/6OgYfTMOmhY/hqdefault_live.jpg"
+   "live": false,
+   "reason": "not-live"
   },
   "fuji-shizuoka": {
    "live": true,
@@ -76,11 +72,11 @@
   },
   "tbs": {
    "live": true,
-   "videoId": "P39Bpz44xLU",
-   "title": "【ニュースライブ】朝のニュース（Japan News Digest Live）最新情報など（10月30日）｜TBS NEWS DIG",
-   "embedUrl": "https://www.youtube.com/embed/P39Bpz44xLU",
-   "watchUrl": "https://www.youtube.com/watch?v=P39Bpz44xLU",
-   "thumb": "https://i.ytimg.com/vi/P39Bpz44xLU/hqdefault_live.jpg"
+   "videoId": "X3Cnl4EEJkY",
+   "title": "【リプレイ】日銀・植田総裁会見 基調物価上昇率“2％目標に事実上到達” 政策金利は1.25％据え置き（2026年10月30日午後3時30分～）｜TBS NEWS DIG",
+   "embedUrl": "https://www.youtube.com/embed/X3Cnl4EEJkY",
+   "watchUrl": "https://www.youtube.com/watch?v=X3Cnl4EEJkY",
+   "thumb": "https://i.ytimg.com/vi/X3Cnl4EEJkY/hqdefault_live.jpg"
   },
   "sapporo": {
    "live": true,
