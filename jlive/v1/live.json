@@ -1,6 +1,6 @@
 {
- "updated": "2026-10-30T15:19:06Z",
- "checked": "2026-10-30T15:19:06Z",
+ "updated": "2026-10-30T20:07:00Z",
+ "checked": "2026-10-30T20:07:00Z",
  "streams": {
   "tvasahi24": {
    "live": true,
@@ -12,27 +12,27 @@
   },
   "ntvlive": {
    "live": true,
-   "videoId": "FIg0xESGihc",
-   "title": "【夜ニュースライブ】最新ニュースと生活情報（10月30日） ──THE LATEST NEWS SUMMARY（日テレNEWS LIVE）",
-   "embedUrl": "https://www.youtube.com/embed/FIg0xESGihc",
-   "watchUrl": "https://www.youtube.com/watch?v=FIg0xESGihc",
-   "thumb": "https://i.ytimg.com/vi/FIg0xESGihc/hqdefault_live.jpg"
+   "videoId": "R8bPJ-H23gw",
+   "title": "【朝ニュースライブ】最新ニュースと生活情報（10月31日） ──THE LATEST NEWS SUMMARY（日テレNEWS LIVE）",
+   "embedUrl": "https://www.youtube.com/embed/R8bPJ-H23gw",
+   "watchUrl": "https://www.youtube.com/watch?v=R8bPJ-H23gw",
+   "thumb": "https://i.ytimg.com/vi/R8bPJ-H23gw/hqdefault_live.jpg"
   },
   "weathernews": {
    "live": true,
-   "videoId": "1Gwq0f3r63s",
-   "title": "【ライブ】最新天気ニュース・地震情報 2026年10月30日(金)23:00〜 ／西日本から北日本の広範囲で雨に〈ウェザーニュースLiVE〉",
-   "embedUrl": "https://www.youtube.com/embed/1Gwq0f3r63s",
-   "watchUrl": "https://www.youtube.com/watch?v=1Gwq0f3r63s",
-   "thumb": "https://i.ytimg.com/vi/1Gwq0f3r63s/hqdefault_live.jpg"
+   "videoId": "OcL8fgmoZck",
+   "title": "【ライブ】最新天気ニュース・地震情報 2026年10月31日(土)／ハロウィンは関東以西で行楽日和 北日本は雨や雪〈ウェザーニュースLiVEモーニング・岡本結子リサ／山口剛央〉",
+   "embedUrl": "https://www.youtube.com/embed/OcL8fgmoZck",
+   "watchUrl": "https://www.youtube.com/watch?v=OcL8fgmoZck",
+   "thumb": "https://i.ytimg.com/vi/OcL8fgmoZck/hqdefault_live.jpg"
   },
   "quake": {
    "live": true,
-   "videoId": "YNt0igZGvEg",
+   "videoId": "-zrIAvradrM",
    "title": "【地震ライブ】緊急地震速報 24時間リアルタイム配信中 ウェザーニュース／Earthquake Alert Japan Live",
-   "embedUrl": "https://www.youtube.com/embed/YNt0igZGvEg",
-   "watchUrl": "https://www.youtube.com/watch?v=YNt0igZGvEg",
-   "thumb": "https://i.ytimg.com/vi/YNt0igZGvEg/hqdefault_live.jpg"
+   "embedUrl": "https://www.youtube.com/embed/-zrIAvradrM",
+   "watchUrl": "https://www.youtube.com/watch?v=-zrIAvradrM",
+   "thumb": "https://i.ytimg.com/vi/-zrIAvradrM/hqdefault_live.jpg"
   },
   "dotonbori": {
    "live": true,
@@ -43,12 +43,8 @@
    "thumb": "https://i.ytimg.com/vi/6OgYfTMOmhY/hqdefault_live.jpg"
   },
   "fuji-shizuoka": {
-   "live": true,
-   "videoId": "xeuRyvZQeJo",
-   "title": "『静岡各地情報カメラ』Daiichi-TV LIVE配信（緊急時にはニュースを配信）",
-   "embedUrl": "https://www.youtube.com/embed/xeuRyvZQeJo",
-   "watchUrl": "https://www.youtube.com/watch?v=xeuRyvZQeJo",
-   "thumb": "https://i.ytimg.com/vi/xeuRyvZQeJo/hqdefault_live.jpg"
+   "live": false,
+   "reason": "not-live"
   },
   "sakurajima": {
    "live": true,
@@ -76,11 +72,11 @@
   },
   "tbs": {
    "live": true,
-   "videoId": "iresLUhgjJY",
-   "title": "【ニュースライブ】最新ニュースまとめ（Japan News Digest）（10月30日）｜TBS NEWS DIG",
-   "embedUrl": "https://www.youtube.com/embed/iresLUhgjJY",
-   "watchUrl": "https://www.youtube.com/watch?v=iresLUhgjJY",
-   "thumb": "https://i.ytimg.com/vi/iresLUhgjJY/hqdefault_live.jpg"
+   "videoId": "EE6v3qxOtLw",
+   "title": "【ニュースライブ】朝のニュース（Japan News Digest Live）最新情報など（10月31日）｜TBS NEWS DIG",
+   "embedUrl": "https://www.youtube.com/embed/EE6v3qxOtLw",
+   "watchUrl": "https://www.youtube.com/watch?v=EE6v3qxOtLw",
+   "thumb": "https://i.ytimg.com/vi/EE6v3qxOtLw/hqdefault_live.jpg"
   },
   "sapporo": {
    "live": true,
@@ -131,12 +127,8 @@
    "thumb": "https://i.ytimg.com/vi/0ZN0CW-IpVk/hqdefault_live.jpg"
   },
   "kurushima": {
-   "live": true,
-   "videoId": "EAkfCe5VNFc",
-   "title": "【LIVE】来島海峡南側・今治港付近ライブカメラ｜船名・速力AIS｜Japan Ship Watching | Kurushima, Imabari | Ship Names & Speed",
-   "embedUrl": "https://www.youtube.com/embed/EAkfCe5VNFc",
-   "watchUrl": "https://www.youtube.com/watch?v=EAkfCe5VNFc",
-   "thumb": "https://i.ytimg.com/vi/EAkfCe5VNFc/hqdefault_live.jpg"
+   "live": false,
+   "reason": "not-live"
   },
   "r-nhkworld": {
    "live": true,
