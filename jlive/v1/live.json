@@ -1,6 +1,6 @@
 {
- "updated": "2026-10-30T20:07:00Z",
- "checked": "2026-10-30T20:07:00Z",
+ "updated": "2026-10-30T23:44:23Z",
+ "checked": "2026-10-30T23:44:23Z",
  "streams": {
   "tvasahi24": {
    "live": true,
@@ -20,11 +20,11 @@
   },
   "weathernews": {
    "live": true,
-   "videoId": "OcL8fgmoZck",
-   "title": "【ライブ】最新天気ニュース・地震情報 2026年10月31日(土)／ハロウィンは関東以西で行楽日和 北日本は雨や雪〈ウェザーニュースLiVEモーニング・岡本結子リサ／山口剛央〉",
-   "embedUrl": "https://www.youtube.com/embed/OcL8fgmoZck",
-   "watchUrl": "https://www.youtube.com/watch?v=OcL8fgmoZck",
-   "thumb": "https://i.ytimg.com/vi/OcL8fgmoZck/hqdefault_live.jpg"
+   "videoId": "Wyd_JePj4WU",
+   "title": "【ライブ】最新天気ニュース・地震情報 2026年10月31日(土) ／ハロウィンは関東以西で行楽日和　北日本は雨や雪〈ウェザーニュースLiVEサンシャイン・松本真央／山口剛央〉",
+   "embedUrl": "https://www.youtube.com/embed/Wyd_JePj4WU",
+   "watchUrl": "https://www.youtube.com/watch?v=Wyd_JePj4WU",
+   "thumb": "https://i.ytimg.com/vi/Wyd_JePj4WU/hqdefault_live.jpg"
   },
   "quake": {
    "live": true,
@@ -96,11 +96,11 @@
   },
   "tokyo-fuji": {
    "live": true,
-   "videoId": "_oFO4Is0DYM",
-   "title": "＃オリオン座流星群【星空と東京ライブカメラ】TOKYO STARRY SKY LIVE CAMERA 東京ライブカメラ 　＃オリオン座流星群 #orionidmeteorshower",
-   "embedUrl": "https://www.youtube.com/embed/_oFO4Is0DYM",
-   "watchUrl": "https://www.youtube.com/watch?v=_oFO4Is0DYM",
-   "thumb": "https://i.ytimg.com/vi/_oFO4Is0DYM/hqdefault_live.jpg"
+   "videoId": "dQJpYVOyGdw",
+   "title": "【東京ライブカメラ】TOKYO LIVE CAMERA.  Mt'Fuji from Tokyo  富士山 紅富士 赤富士 東京からの富士山    #東京ライブカメラ #富士山東京 #東京夜景",
+   "embedUrl": "https://www.youtube.com/embed/dQJpYVOyGdw",
+   "watchUrl": "https://www.youtube.com/watch?v=dQJpYVOyGdw",
+   "thumb": "https://i.ytimg.com/vi/dQJpYVOyGdw/hqdefault_live.jpg"
   },
   "oshino": {
    "live": true,
@@ -127,8 +127,12 @@
    "thumb": "https://i.ytimg.com/vi/0ZN0CW-IpVk/hqdefault_live.jpg"
   },
   "kurushima": {
-   "live": false,
-   "reason": "not-live"
+   "live": true,
+   "videoId": "EAkfCe5VNFc",
+   "title": "【LIVE】来島海峡南側・今治港付近ライブカメラ｜船名・速力AIS｜Japan Ship Watching | Kurushima, Imabari | Ship Names & Speed",
+   "embedUrl": "https://www.youtube.com/embed/EAkfCe5VNFc",
+   "watchUrl": "https://www.youtube.com/watch?v=EAkfCe5VNFc",
+   "thumb": "https://i.ytimg.com/vi/EAkfCe5VNFc/hqdefault_live.jpg"
   },
   "r-nhkworld": {
    "live": true,
