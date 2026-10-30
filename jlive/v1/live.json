@@ -1,6 +1,6 @@
 {
- "updated": "2026-10-29T21:45:35Z",
- "checked": "2026-10-29T21:45:35Z",
+ "updated": "2026-10-30T01:54:36Z",
+ "checked": "2026-10-30T01:54:36Z",
  "streams": {
   "tvasahi24": {
    "live": true,
@@ -12,19 +12,19 @@
   },
   "ntvlive": {
    "live": true,
-   "videoId": "FUqGAiBwI6s",
-   "title": "【朝ニュースライブ】最新ニュースと生活情報（10月30日） ──THE LATEST NEWS SUMMARY（日テレNEWS LIVE）",
-   "embedUrl": "https://www.youtube.com/embed/FUqGAiBwI6s",
-   "watchUrl": "https://www.youtube.com/watch?v=FUqGAiBwI6s",
-   "thumb": "https://i.ytimg.com/vi/FUqGAiBwI6s/hqdefault_live.jpg"
+   "videoId": "iVlMcUyC2-s",
+   "title": "【サイバー攻撃】GMO会長兼社長「犯人特定につながる有力情報入手」　警察などに情報提出へ ― 社会ニュースライブ（日テレNEWS LIVE）",
+   "embedUrl": "https://www.youtube.com/embed/iVlMcUyC2-s",
+   "watchUrl": "https://www.youtube.com/watch?v=iVlMcUyC2-s",
+   "thumb": "https://i.ytimg.com/vi/iVlMcUyC2-s/hqdefault_live.jpg"
   },
   "weathernews": {
    "live": true,
-   "videoId": "je_MjTSFFyc",
-   "title": "【ライブ】最新天気ニュース・地震情報 2026年10月30日(金) ／九州から北海道の広い範囲で雨〈ウェザーニュースLiVEモーニング・岡本結子リサ／山口剛央〉",
-   "embedUrl": "https://www.youtube.com/embed/je_MjTSFFyc",
-   "watchUrl": "https://www.youtube.com/watch?v=je_MjTSFFyc",
-   "thumb": "https://i.ytimg.com/vi/je_MjTSFFyc/hqdefault_live.jpg"
+   "videoId": "S2pdaZ8QSzo",
+   "title": "【ライブ】最新天気ニュース・地震情報 2026年10月30日(金)／九州から北海道の広い範囲で雨　富士山の初冠雪が発表〈ウェザーニュースLiVEコーヒータイム・福吉貴文／山口剛央〉",
+   "embedUrl": "https://www.youtube.com/embed/S2pdaZ8QSzo",
+   "watchUrl": "https://www.youtube.com/watch?v=S2pdaZ8QSzo",
+   "thumb": "https://i.ytimg.com/vi/S2pdaZ8QSzo/hqdefault_live.jpg"
   },
   "quake": {
    "live": true,
