@@ -1,6 +1,6 @@
 {
- "updated": "2026-10-31T11:12:14Z",
- "checked": "2026-10-31T11:12:14Z",
+ "updated": "2026-10-31T16:18:10Z",
+ "checked": "2026-10-31T16:18:10Z",
  "streams": {
   "tvasahi24": {
    "live": true,
@@ -20,19 +20,19 @@
   },
   "weathernews": {
    "live": true,
-   "videoId": "P5loWB_j2wE",
-   "title": "【ライブ】最新天気ニュース・地震情報 2026年10月31日(土)20:00〜 ／北海道は今夜から寒気が流入し雪に　峠道は路面状況に注意〈ウェザーニュースLiVEムーン・戸北美月／芳野達郎〉",
-   "embedUrl": "https://www.youtube.com/embed/P5loWB_j2wE",
-   "watchUrl": "https://www.youtube.com/watch?v=P5loWB_j2wE",
-   "thumb": "https://i.ytimg.com/vi/P5loWB_j2wE/hqdefault_live.jpg"
+   "videoId": "70oMgPLB14s",
+   "title": "【ライブ】最新天気ニュース・地震情報 2026年10月31日(土)23:00〜 ／〈ウェザーニュースLiVE〉",
+   "embedUrl": "https://www.youtube.com/embed/70oMgPLB14s",
+   "watchUrl": "https://www.youtube.com/watch?v=70oMgPLB14s",
+   "thumb": "https://i.ytimg.com/vi/70oMgPLB14s/hqdefault_live.jpg"
   },
   "quake": {
    "live": true,
-   "videoId": "-zrIAvradrM",
+   "videoId": "dPg0XaokATY",
    "title": "【地震ライブ】緊急地震速報 24時間リアルタイム配信中 ウェザーニュース／Earthquake Alert Japan Live",
-   "embedUrl": "https://www.youtube.com/embed/-zrIAvradrM",
-   "watchUrl": "https://www.youtube.com/watch?v=-zrIAvradrM",
-   "thumb": "https://i.ytimg.com/vi/-zrIAvradrM/hqdefault_live.jpg"
+   "embedUrl": "https://www.youtube.com/embed/dPg0XaokATY",
+   "watchUrl": "https://www.youtube.com/watch?v=dPg0XaokATY",
+   "thumb": "https://i.ytimg.com/vi/dPg0XaokATY/hqdefault_live.jpg"
   },
   "dotonbori": {
    "live": true,
@@ -72,11 +72,11 @@
   },
   "tbs": {
    "live": true,
-   "videoId": "WkOzevlB7HI",
-   "title": "【ニュースライブ】夜のニュース（Japan News Digest Live）最新情報など（10月31日）｜TBS NEWS DIG",
-   "embedUrl": "https://www.youtube.com/embed/WkOzevlB7HI",
-   "watchUrl": "https://www.youtube.com/watch?v=WkOzevlB7HI",
-   "thumb": "https://i.ytimg.com/vi/WkOzevlB7HI/hqdefault_live.jpg"
+   "videoId": "KVvvNoIjHhA",
+   "title": "【ニュースライブ】最新ニュースまとめ（Japan News Digest）（10月31日）｜TBS NEWS DIG",
+   "embedUrl": "https://www.youtube.com/embed/KVvvNoIjHhA",
+   "watchUrl": "https://www.youtube.com/watch?v=KVvvNoIjHhA",
+   "thumb": "https://i.ytimg.com/vi/KVvvNoIjHhA/hqdefault_live.jpg"
   },
   "sapporo": {
    "live": true,
