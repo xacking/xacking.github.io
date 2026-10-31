@@ -1,6 +1,6 @@
 {
- "updated": "2026-10-30T23:44:23Z",
- "checked": "2026-10-30T23:44:23Z",
+ "updated": "2026-10-31T05:28:38Z",
+ "checked": "2026-10-31T05:28:38Z",
  "streams": {
   "tvasahi24": {
    "live": true,
@@ -12,19 +12,19 @@
   },
   "ntvlive": {
    "live": true,
-   "videoId": "R8bPJ-H23gw",
-   "title": "【朝ニュースライブ】最新ニュースと生活情報（10月31日） ──THE LATEST NEWS SUMMARY（日テレNEWS LIVE）",
-   "embedUrl": "https://www.youtube.com/embed/R8bPJ-H23gw",
-   "watchUrl": "https://www.youtube.com/watch?v=R8bPJ-H23gw",
-   "thumb": "https://i.ytimg.com/vi/R8bPJ-H23gw/hqdefault_live.jpg"
+   "videoId": "g-LKJLcjg6c",
+   "title": "【アメリカライブ】トランプ大統領、一転して選挙集会実施へ　29日に取りやめ発表も「友人らに頼まれたから」と説明 ── 国際ニュースライブ（日テレNEWS LIVE）",
+   "embedUrl": "https://www.youtube.com/embed/g-LKJLcjg6c",
+   "watchUrl": "https://www.youtube.com/watch?v=g-LKJLcjg6c",
+   "thumb": "https://i.ytimg.com/vi/g-LKJLcjg6c/hqdefault_live.jpg"
   },
   "weathernews": {
    "live": true,
-   "videoId": "Wyd_JePj4WU",
-   "title": "【ライブ】最新天気ニュース・地震情報 2026年10月31日(土) ／ハロウィンは関東以西で行楽日和　北日本は雨や雪〈ウェザーニュースLiVEサンシャイン・松本真央／山口剛央〉",
-   "embedUrl": "https://www.youtube.com/embed/Wyd_JePj4WU",
-   "watchUrl": "https://www.youtube.com/watch?v=Wyd_JePj4WU",
-   "thumb": "https://i.ytimg.com/vi/Wyd_JePj4WU/hqdefault_live.jpg"
+   "videoId": "52wsObsPzgE",
+   "title": "【ライブ】最新天気ニュース・地震情報 2026年10月31日(土)／ハロウィンは関東以西で行楽日和　北日本は雨や雪〈ウェザーニュースLiVEアフタヌーン・青原桃香／芳野達郎〉",
+   "embedUrl": "https://www.youtube.com/embed/52wsObsPzgE",
+   "watchUrl": "https://www.youtube.com/watch?v=52wsObsPzgE",
+   "thumb": "https://i.ytimg.com/vi/52wsObsPzgE/hqdefault_live.jpg"
   },
   "quake": {
    "live": true,
@@ -72,11 +72,11 @@
   },
   "tbs": {
    "live": true,
-   "videoId": "EE6v3qxOtLw",
-   "title": "【ニュースライブ】朝のニュース（Japan News Digest Live）最新情報など（10月31日）｜TBS NEWS DIG",
-   "embedUrl": "https://www.youtube.com/embed/EE6v3qxOtLw",
-   "watchUrl": "https://www.youtube.com/watch?v=EE6v3qxOtLw",
-   "thumb": "https://i.ytimg.com/vi/EE6v3qxOtLw/hqdefault_live.jpg"
+   "videoId": "Sb-pMmzGvlk",
+   "title": "【ニュースライブ】昼のニュース（Japan News Digest Live）最新情報など（10月31日）｜TBS NEWS DIG",
+   "embedUrl": "https://www.youtube.com/embed/Sb-pMmzGvlk",
+   "watchUrl": "https://www.youtube.com/watch?v=Sb-pMmzGvlk",
+   "thumb": "https://i.ytimg.com/vi/Sb-pMmzGvlk/hqdefault_live.jpg"
   },
   "sapporo": {
    "live": true,
