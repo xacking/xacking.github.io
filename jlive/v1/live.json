@@ -1,6 +1,6 @@
 {
- "updated": "2026-10-31T16:18:10Z",
- "checked": "2026-10-31T16:18:10Z",
+ "updated": "2026-10-31T20:16:58Z",
+ "checked": "2026-10-31T20:16:58Z",
  "streams": {
   "tvasahi24": {
    "live": true,
@@ -12,19 +12,19 @@
   },
   "ntvlive": {
    "live": true,
-   "videoId": "AjxUF_D7blQ",
-   "title": "【アメリカライブ】格差是正訴え　激戦州で「急進左派」候補の支持拡大…アメリカ中間選挙の焦点に　トランプ氏とオバマ氏の姿も── 国際ニュースライブ（日テレNEWS LIVE）",
-   "embedUrl": "https://www.youtube.com/embed/AjxUF_D7blQ",
-   "watchUrl": "https://www.youtube.com/watch?v=AjxUF_D7blQ",
-   "thumb": "https://i.ytimg.com/vi/AjxUF_D7blQ/hqdefault_live.jpg"
+   "videoId": "Jpvk2w9g0n8",
+   "title": "【朝ニュースライブ】最新ニュースと生活情報（11月1日） ──THE LATEST NEWS SUMMARY（日テレNEWS LIVE）",
+   "embedUrl": "https://www.youtube.com/embed/Jpvk2w9g0n8",
+   "watchUrl": "https://www.youtube.com/watch?v=Jpvk2w9g0n8",
+   "thumb": "https://i.ytimg.com/vi/Jpvk2w9g0n8/hqdefault_live.jpg"
   },
   "weathernews": {
    "live": true,
-   "videoId": "70oMgPLB14s",
-   "title": "【ライブ】最新天気ニュース・地震情報 2026年10月31日(土)23:00〜 ／〈ウェザーニュースLiVE〉",
-   "embedUrl": "https://www.youtube.com/embed/70oMgPLB14s",
-   "watchUrl": "https://www.youtube.com/watch?v=70oMgPLB14s",
-   "thumb": "https://i.ytimg.com/vi/70oMgPLB14s/hqdefault_live.jpg"
+   "videoId": "NoxMIkUwJ6g",
+   "title": "【ライブ】最新天気ニュース・地震情報 2026年11月1日(日) ／北海道は昼前まで雪 東日本・西日本は午前ほど晴れ〈ウェザーニュースLiVEモーニング・松本真央／山口剛央〉",
+   "embedUrl": "https://www.youtube.com/embed/NoxMIkUwJ6g",
+   "watchUrl": "https://www.youtube.com/watch?v=NoxMIkUwJ6g",
+   "thumb": "https://i.ytimg.com/vi/NoxMIkUwJ6g/hqdefault_live.jpg"
   },
   "quake": {
    "live": true,
@@ -72,11 +72,11 @@
   },
   "tbs": {
    "live": true,
-   "videoId": "KVvvNoIjHhA",
-   "title": "【ニュースライブ】最新ニュースまとめ（Japan News Digest）（10月31日）｜TBS NEWS DIG",
-   "embedUrl": "https://www.youtube.com/embed/KVvvNoIjHhA",
-   "watchUrl": "https://www.youtube.com/watch?v=KVvvNoIjHhA",
-   "thumb": "https://i.ytimg.com/vi/KVvvNoIjHhA/hqdefault_live.jpg"
+   "videoId": "KLxdW3zDaGs",
+   "title": "【ニュースライブ】朝のニュース（Japan News Digest Live）最新情報など（11月1日）｜TBS NEWS DIG",
+   "embedUrl": "https://www.youtube.com/embed/KLxdW3zDaGs",
+   "watchUrl": "https://www.youtube.com/watch?v=KLxdW3zDaGs",
+   "thumb": "https://i.ytimg.com/vi/KLxdW3zDaGs/hqdefault_live.jpg"
   },
   "sapporo": {
    "live": true,
