@@ -1,6 +1,6 @@
 {
- "updated": "2026-10-31T20:16:58Z",
- "checked": "2026-10-31T20:16:58Z",
+ "updated": "2026-10-31T23:41:41Z",
+ "checked": "2026-10-31T23:41:41Z",
  "streams": {
   "tvasahi24": {
    "live": true,
@@ -20,11 +20,11 @@
   },
   "weathernews": {
    "live": true,
-   "videoId": "NoxMIkUwJ6g",
-   "title": "【ライブ】最新天気ニュース・地震情報 2026年11月1日(日) ／北海道は昼前まで雪 東日本・西日本は午前ほど晴れ〈ウェザーニュースLiVEモーニング・松本真央／山口剛央〉",
-   "embedUrl": "https://www.youtube.com/embed/NoxMIkUwJ6g",
-   "watchUrl": "https://www.youtube.com/watch?v=NoxMIkUwJ6g",
-   "thumb": "https://i.ytimg.com/vi/NoxMIkUwJ6g/hqdefault_live.jpg"
+   "videoId": "jVF4xWOXLWk",
+   "title": "【ライブ】最新天気ニュース・地震情報 2026年11月1日(日) ／北日本は雪や雨で寒い  東日本・西日本は午前ほど晴れ〈ウェザーニュースLiVEサンシャイン・魚住茉由／山口剛央〉",
+   "embedUrl": "https://www.youtube.com/embed/jVF4xWOXLWk",
+   "watchUrl": "https://www.youtube.com/watch?v=jVF4xWOXLWk",
+   "thumb": "https://i.ytimg.com/vi/jVF4xWOXLWk/hqdefault_live.jpg"
   },
   "quake": {
    "live": true,
@@ -96,11 +96,11 @@
   },
   "tokyo-fuji": {
    "live": true,
-   "videoId": "m3sC0bnFAZQ",
-   "title": "＃オリオン座流星群【星空と東京ライブカメラ】TOKYO STARRY SKY LIVE CAMERA 東京ライブカメラ 　＃オリオン座流星群 #orionidmeteorshower",
-   "embedUrl": "https://www.youtube.com/embed/m3sC0bnFAZQ",
-   "watchUrl": "https://www.youtube.com/watch?v=m3sC0bnFAZQ",
-   "thumb": "https://i.ytimg.com/vi/m3sC0bnFAZQ/hqdefault_live.jpg"
+   "videoId": "0keyfCwMCew",
+   "title": "【東京ライブカメラ】TOKYO LIVE CAMERA.  Mt'Fuji from Tokyo  富士山 紅富士 赤富士 東京からの富士山    #東京ライブカメラ #富士山東京 #東京夜景",
+   "embedUrl": "https://www.youtube.com/embed/0keyfCwMCew",
+   "watchUrl": "https://www.youtube.com/watch?v=0keyfCwMCew",
+   "thumb": "https://i.ytimg.com/vi/0keyfCwMCew/hqdefault_live.jpg"
   },
   "oshino": {
    "live": true,
