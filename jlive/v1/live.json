@@ -1,6 +1,6 @@
 {
- "updated": "2026-10-31T23:41:41Z",
- "checked": "2026-10-31T23:41:41Z",
+ "updated": "2026-11-01T05:54:05Z",
+ "checked": "2026-11-01T05:54:05Z",
  "streams": {
   "tvasahi24": {
    "live": true,
@@ -12,19 +12,19 @@
   },
   "ntvlive": {
    "live": true,
-   "videoId": "Jpvk2w9g0n8",
-   "title": "【朝ニュースライブ】最新ニュースと生活情報（11月1日） ──THE LATEST NEWS SUMMARY（日テレNEWS LIVE）",
-   "embedUrl": "https://www.youtube.com/embed/Jpvk2w9g0n8",
-   "watchUrl": "https://www.youtube.com/watch?v=Jpvk2w9g0n8",
-   "thumb": "https://i.ytimg.com/vi/Jpvk2w9g0n8/hqdefault_live.jpg"
+   "videoId": "MtUHjC31om8",
+   "title": "【アメリカライブ】“逆風”のトランプ氏 広がる「脱MAGA」実態を追跡 “トランプ支持者”熱狂も「MAGA」に異変『追跡取材 news LOG』── 国際ニュースライブ（日テレNEWS LIVE）",
+   "embedUrl": "https://www.youtube.com/embed/MtUHjC31om8",
+   "watchUrl": "https://www.youtube.com/watch?v=MtUHjC31om8",
+   "thumb": "https://i.ytimg.com/vi/MtUHjC31om8/hqdefault_live.jpg"
   },
   "weathernews": {
    "live": true,
-   "videoId": "jVF4xWOXLWk",
-   "title": "【ライブ】最新天気ニュース・地震情報 2026年11月1日(日) ／北日本は雪や雨で寒い  東日本・西日本は午前ほど晴れ〈ウェザーニュースLiVEサンシャイン・魚住茉由／山口剛央〉",
-   "embedUrl": "https://www.youtube.com/embed/jVF4xWOXLWk",
-   "watchUrl": "https://www.youtube.com/watch?v=jVF4xWOXLWk",
-   "thumb": "https://i.ytimg.com/vi/jVF4xWOXLWk/hqdefault_live.jpg"
+   "videoId": "xeimjSv7eIQ",
+   "title": "【ライブ】最新天気ニュース・地震情報 2026年11月1日(日)／北海道は昼前まで雪 東日本・西日本は午前ほど晴れ〈ウェザーニュースLiVEアフタヌーン・田辺真南葉／芳野達郎〉",
+   "embedUrl": "https://www.youtube.com/embed/xeimjSv7eIQ",
+   "watchUrl": "https://www.youtube.com/watch?v=xeimjSv7eIQ",
+   "thumb": "https://i.ytimg.com/vi/xeimjSv7eIQ/hqdefault_live.jpg"
   },
   "quake": {
    "live": true,
@@ -37,7 +37,7 @@
   "dotonbori": {
    "live": true,
    "videoId": "6OgYfTMOmhY",
-   "title": "【LIVE】大阪・道頓堀ライブカメラ　きょう10月31日はハロウィーン　グリコ看板前の様子は？ Osaka Dotonbori #道頓堀 #ライブカメラ",
+   "title": "【LIVE】大阪・道頓堀ライブカメラ　グリコ看板前の様子は？ Osaka Dotonbori #道頓堀 #ライブカメラ",
    "embedUrl": "https://www.youtube.com/embed/6OgYfTMOmhY",
    "watchUrl": "https://www.youtube.com/watch?v=6OgYfTMOmhY",
    "thumb": "https://i.ytimg.com/vi/6OgYfTMOmhY/hqdefault_live.jpg"
@@ -47,12 +47,8 @@
    "reason": "not-live"
   },
   "sakurajima": {
-   "live": true,
-   "videoId": "Tyi-z_vf0X0",
-   "title": "ライブカメラ",
-   "embedUrl": "https://www.youtube.com/embed/Tyi-z_vf0X0",
-   "watchUrl": "https://www.youtube.com/watch?v=Tyi-z_vf0X0",
-   "thumb": "https://i.ytimg.com/vi/Tyi-z_vf0X0/hqdefault_live.jpg"
+   "live": false,
+   "reason": "not-live"
   },
   "toba-otters": {
    "live": true,
@@ -72,11 +68,11 @@
   },
   "tbs": {
    "live": true,
-   "videoId": "KLxdW3zDaGs",
-   "title": "【ニュースライブ】朝のニュース（Japan News Digest Live）最新情報など（11月1日）｜TBS NEWS DIG",
-   "embedUrl": "https://www.youtube.com/embed/KLxdW3zDaGs",
-   "watchUrl": "https://www.youtube.com/watch?v=KLxdW3zDaGs",
-   "thumb": "https://i.ytimg.com/vi/KLxdW3zDaGs/hqdefault_live.jpg"
+   "videoId": "bR5GioiObNY",
+   "title": "【ニュースライブ】昼のニュース（Japan News Digest Live）最新情報など（11月1日）｜TBS NEWS DIG",
+   "embedUrl": "https://www.youtube.com/embed/bR5GioiObNY",
+   "watchUrl": "https://www.youtube.com/watch?v=bR5GioiObNY",
+   "thumb": "https://i.ytimg.com/vi/bR5GioiObNY/hqdefault_live.jpg"
   },
   "sapporo": {
    "live": true,
