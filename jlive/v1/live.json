@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-01T18:32:59Z",
- "checked": "2026-11-01T18:32:59Z",
+ "updated": "2026-11-01T22:23:47Z",
+ "checked": "2026-11-01T22:23:47Z",
  "streams": {
   "tvasahi24": {
    "live": true,
@@ -12,19 +12,19 @@
   },
   "ntvlive": {
    "live": true,
-   "videoId": "_PSygmrd3mc",
-   "title": "【サイバー攻撃】「フェーズ変わった」　元警察庁サイバー捜査課長が2つのテーマで解説【バンキシャ！】―― 社会ニュースライブ（日テレNEWS LIVE）",
-   "embedUrl": "https://www.youtube.com/embed/_PSygmrd3mc",
-   "watchUrl": "https://www.youtube.com/watch?v=_PSygmrd3mc",
-   "thumb": "https://i.ytimg.com/vi/_PSygmrd3mc/hqdefault_live.jpg"
+   "videoId": "gStWLHhZzWo",
+   "title": "【朝ニュースライブ】最新ニュースと生活情報（11月2日） ──THE LATEST NEWS SUMMARY（日テレNEWS LIVE）",
+   "embedUrl": "https://www.youtube.com/embed/gStWLHhZzWo",
+   "watchUrl": "https://www.youtube.com/watch?v=gStWLHhZzWo",
+   "thumb": "https://i.ytimg.com/vi/gStWLHhZzWo/hqdefault_live.jpg"
   },
   "weathernews": {
    "live": true,
-   "videoId": "3egxTpJrgPg",
-   "title": "【ライブ】最新天気ニュース・地震情報 2026年11月1日(日)23:00〜 ／あす全国的に傘が活躍　強雨や雷雨に注意を〈ウェザーニュースLiVE〉",
-   "embedUrl": "https://www.youtube.com/embed/3egxTpJrgPg",
-   "watchUrl": "https://www.youtube.com/watch?v=3egxTpJrgPg",
-   "thumb": "https://i.ytimg.com/vi/3egxTpJrgPg/hqdefault_live.jpg"
+   "videoId": "Tdru5c_V8Tg",
+   "title": "【ライブ】最新天気ニュース・地震情報 2026年11月2日(月)／全国的に傘が活躍 強雨や雷雨に注意〈ウェザーニュースLiVEモーニング・松本真央／有賀哲夫〉",
+   "embedUrl": "https://www.youtube.com/embed/Tdru5c_V8Tg",
+   "watchUrl": "https://www.youtube.com/watch?v=Tdru5c_V8Tg",
+   "thumb": "https://i.ytimg.com/vi/Tdru5c_V8Tg/hqdefault_live.jpg"
   },
   "quake": {
    "live": true,
@@ -72,19 +72,15 @@
   },
   "tbs": {
    "live": true,
-   "videoId": "flhuFkna7oo",
-   "title": "【ニュースライブ】最新ニュースまとめ（Japan News Digest）（11月1日）｜TBS NEWS DIG",
-   "embedUrl": "https://www.youtube.com/embed/flhuFkna7oo",
-   "watchUrl": "https://www.youtube.com/watch?v=flhuFkna7oo",
-   "thumb": "https://i.ytimg.com/vi/flhuFkna7oo/hqdefault_live.jpg"
+   "videoId": "UlltLBmkmIg",
+   "title": "【ニュースライブ】朝のニュース（Japan News Digest Live）最新情報など（11月2日）｜TBS NEWS DIG",
+   "embedUrl": "https://www.youtube.com/embed/UlltLBmkmIg",
+   "watchUrl": "https://www.youtube.com/watch?v=UlltLBmkmIg",
+   "thumb": "https://i.ytimg.com/vi/UlltLBmkmIg/hqdefault_live.jpg"
   },
   "sapporo": {
-   "live": true,
-   "videoId": "QMg2GT6dNZw",
-   "title": "［LIVE CAMERA］札幌 狸小路 ライブカメラ（４丁目） Tanukikoji Shopping Street in Sapporo, Hokkaido, Japan.",
-   "embedUrl": "https://www.youtube.com/embed/QMg2GT6dNZw",
-   "watchUrl": "https://www.youtube.com/watch?v=QMg2GT6dNZw",
-   "thumb": "https://i.ytimg.com/vi/QMg2GT6dNZw/hqdefault_live.jpg"
+   "live": false,
+   "reason": "not-live"
   },
   "niigata": {
    "live": true,
@@ -96,11 +92,11 @@
   },
   "tokyo-fuji": {
    "live": true,
-   "videoId": "IKUAK5Brvig",
-   "title": "＃オリオン座流星群【星空と東京ライブカメラ】TOKYO STARRY SKY LIVE CAMERA 東京ライブカメラ 　＃オリオン座流星群 #orionidmeteorshower",
-   "embedUrl": "https://www.youtube.com/embed/IKUAK5Brvig",
-   "watchUrl": "https://www.youtube.com/watch?v=IKUAK5Brvig",
-   "thumb": "https://i.ytimg.com/vi/IKUAK5Brvig/hqdefault_live.jpg"
+   "videoId": "6hlDrwv60JY",
+   "title": "【東京ライブカメラ】TOKYO LIVE CAMERA.  Mt'Fuji from Tokyo  富士山 紅富士 赤富士 東京からの富士山    #東京ライブカメラ #富士山東京 #東京夜景",
+   "embedUrl": "https://www.youtube.com/embed/6hlDrwv60JY",
+   "watchUrl": "https://www.youtube.com/watch?v=6hlDrwv60JY",
+   "thumb": "https://i.ytimg.com/vi/6hlDrwv60JY/hqdefault_live.jpg"
   },
   "oshino": {
    "live": true,
