@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-01T13:13:58Z",
- "checked": "2026-11-01T13:13:58Z",
+ "updated": "2026-11-01T18:32:59Z",
+ "checked": "2026-11-01T18:32:59Z",
  "streams": {
   "tvasahi24": {
    "live": true,
@@ -12,27 +12,27 @@
   },
   "ntvlive": {
    "live": true,
-   "videoId": "GWSK0myU-Kw",
-   "title": "【夜ニュースライブ】最新ニュースと生活情報（11月1日） ──THE LATEST NEWS SUMMARY（日テレNEWS LIVE）",
-   "embedUrl": "https://www.youtube.com/embed/GWSK0myU-Kw",
-   "watchUrl": "https://www.youtube.com/watch?v=GWSK0myU-Kw",
-   "thumb": "https://i.ytimg.com/vi/GWSK0myU-Kw/hqdefault_live.jpg"
+   "videoId": "_PSygmrd3mc",
+   "title": "【サイバー攻撃】「フェーズ変わった」　元警察庁サイバー捜査課長が2つのテーマで解説【バンキシャ！】―― 社会ニュースライブ（日テレNEWS LIVE）",
+   "embedUrl": "https://www.youtube.com/embed/_PSygmrd3mc",
+   "watchUrl": "https://www.youtube.com/watch?v=_PSygmrd3mc",
+   "thumb": "https://i.ytimg.com/vi/_PSygmrd3mc/hqdefault_live.jpg"
   },
   "weathernews": {
    "live": true,
-   "videoId": "gOFt97sxX_0",
-   "title": "【ライブ】最新天気ニュース・地震情報 2026年11月1日(日)20:00〜 ／あす全国的に傘が活躍　強雨や雷雨に注意を〈ウェザーニュースLiVEムーン・山岸愛梨／芳野達郎〉",
-   "embedUrl": "https://www.youtube.com/embed/gOFt97sxX_0",
-   "watchUrl": "https://www.youtube.com/watch?v=gOFt97sxX_0",
-   "thumb": "https://i.ytimg.com/vi/gOFt97sxX_0/hqdefault_live.jpg"
+   "videoId": "3egxTpJrgPg",
+   "title": "【ライブ】最新天気ニュース・地震情報 2026年11月1日(日)23:00〜 ／あす全国的に傘が活躍　強雨や雷雨に注意を〈ウェザーニュースLiVE〉",
+   "embedUrl": "https://www.youtube.com/embed/3egxTpJrgPg",
+   "watchUrl": "https://www.youtube.com/watch?v=3egxTpJrgPg",
+   "thumb": "https://i.ytimg.com/vi/3egxTpJrgPg/hqdefault_live.jpg"
   },
   "quake": {
    "live": true,
-   "videoId": "dPg0XaokATY",
+   "videoId": "8Qxgcb47wzQ",
    "title": "【地震ライブ】緊急地震速報 24時間リアルタイム配信中 ウェザーニュース／Earthquake Alert Japan Live",
-   "embedUrl": "https://www.youtube.com/embed/dPg0XaokATY",
-   "watchUrl": "https://www.youtube.com/watch?v=dPg0XaokATY",
-   "thumb": "https://i.ytimg.com/vi/dPg0XaokATY/hqdefault_live.jpg"
+   "embedUrl": "https://www.youtube.com/embed/8Qxgcb47wzQ",
+   "watchUrl": "https://www.youtube.com/watch?v=8Qxgcb47wzQ",
+   "thumb": "https://i.ytimg.com/vi/8Qxgcb47wzQ/hqdefault_live.jpg"
   },
   "dotonbori": {
    "live": true,
