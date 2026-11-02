@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-02T01:47:42Z",
- "checked": "2026-11-02T01:47:42Z",
+ "updated": "2026-11-02T09:22:48Z",
+ "checked": "2026-11-02T09:22:48Z",
  "streams": {
   "tvasahi24": {
    "live": true,
@@ -12,19 +12,19 @@
   },
   "ntvlive": {
    "live": true,
-   "videoId": "RDn_MX8fa_0",
-   "title": "【アメリカライブ】迫る米中間選挙　トランプ氏にも“迷い”？候補者に“変化”も/アメリカ中間選挙　下院は民主党が過半数を取る可能性が高い？　最新情勢は── 国際ニュースライブ（日テレNEWS LIVE）",
-   "embedUrl": "https://www.youtube.com/embed/RDn_MX8fa_0",
-   "watchUrl": "https://www.youtube.com/watch?v=RDn_MX8fa_0",
-   "thumb": "https://i.ytimg.com/vi/RDn_MX8fa_0/hqdefault_live.jpg"
+   "videoId": "lbryUkZEmKc",
+   "title": "【夜ニュースライブ】最新ニュースと生活情報（11月2日） ──THE LATEST NEWS SUMMARY（日テレNEWS LIVE）",
+   "embedUrl": "https://www.youtube.com/embed/lbryUkZEmKc",
+   "watchUrl": "https://www.youtube.com/watch?v=lbryUkZEmKc",
+   "thumb": "https://i.ytimg.com/vi/lbryUkZEmKc/hqdefault_live.jpg"
   },
   "weathernews": {
    "live": true,
-   "videoId": "cSpz1v950Co",
-   "title": "【ライブ】最新天気ニュース・地震情報 2026年11月2日(月) ／全国的に傘が活躍 強雨や雷雨に注意〈ウェザーニュースLiVEコーヒータイム・田辺真南葉／有賀哲夫〉",
-   "embedUrl": "https://www.youtube.com/embed/cSpz1v950Co",
-   "watchUrl": "https://www.youtube.com/watch?v=cSpz1v950Co",
-   "thumb": "https://i.ytimg.com/vi/cSpz1v950Co/hqdefault_live.jpg"
+   "videoId": "mE5EP9pbgYE",
+   "title": "【ライブ】最新天気ニュース・地震情報 2026年11月2日(月) ／明日はおでかけ日和のところも日本海側は雨〈ウェザーニュースLiVEイブニング・小川千奈／宇野沢達也〉",
+   "embedUrl": "https://www.youtube.com/embed/mE5EP9pbgYE",
+   "watchUrl": "https://www.youtube.com/watch?v=mE5EP9pbgYE",
+   "thumb": "https://i.ytimg.com/vi/mE5EP9pbgYE/hqdefault_live.jpg"
   },
   "quake": {
    "live": true,
@@ -72,11 +72,11 @@
   },
   "tbs": {
    "live": true,
-   "videoId": "UlltLBmkmIg",
-   "title": "【ニュースライブ】朝のニュース（Japan News Digest Live）最新情報など（11月2日）｜TBS NEWS DIG",
-   "embedUrl": "https://www.youtube.com/embed/UlltLBmkmIg",
-   "watchUrl": "https://www.youtube.com/watch?v=UlltLBmkmIg",
-   "thumb": "https://i.ytimg.com/vi/UlltLBmkmIg/hqdefault_live.jpg"
+   "videoId": "Qqciq8pip1s",
+   "title": "【ニュースライブ】夜のニュース（Japan News Digest Live）最新情報など（11月2日）｜TBS NEWS DIG",
+   "embedUrl": "https://www.youtube.com/embed/Qqciq8pip1s",
+   "watchUrl": "https://www.youtube.com/watch?v=Qqciq8pip1s",
+   "thumb": "https://i.ytimg.com/vi/Qqciq8pip1s/hqdefault_live.jpg"
   },
   "sapporo": {
    "live": true,
@@ -96,11 +96,11 @@
   },
   "tokyo-fuji": {
    "live": true,
-   "videoId": "6hlDrwv60JY",
-   "title": "【東京ライブカメラ】TOKYO LIVE CAMERA.  Mt'Fuji from Tokyo  富士山 紅富士 赤富士 東京からの富士山    #東京ライブカメラ #富士山東京 #東京夜景",
-   "embedUrl": "https://www.youtube.com/embed/6hlDrwv60JY",
-   "watchUrl": "https://www.youtube.com/watch?v=6hlDrwv60JY",
-   "thumb": "https://i.ytimg.com/vi/6hlDrwv60JY/hqdefault_live.jpg"
+   "videoId": "avahJHn4nqM",
+   "title": "＃オリオン座流星群【星空と東京ライブカメラ】TOKYO STARRY SKY LIVE CAMERA 東京ライブカメラ 　＃オリオン座流星群 #orionidmeteorshower",
+   "embedUrl": "https://www.youtube.com/embed/avahJHn4nqM",
+   "watchUrl": "https://www.youtube.com/watch?v=avahJHn4nqM",
+   "thumb": "https://i.ytimg.com/vi/avahJHn4nqM/hqdefault_live.jpg"
   },
   "oshino": {
    "live": true,
