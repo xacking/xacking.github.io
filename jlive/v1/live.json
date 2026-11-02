@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-01T22:23:47Z",
- "checked": "2026-11-01T22:23:47Z",
+ "updated": "2026-11-02T01:47:42Z",
+ "checked": "2026-11-02T01:47:42Z",
  "streams": {
   "tvasahi24": {
    "live": true,
@@ -12,19 +12,19 @@
   },
   "ntvlive": {
    "live": true,
-   "videoId": "gStWLHhZzWo",
-   "title": "【朝ニュースライブ】最新ニュースと生活情報（11月2日） ──THE LATEST NEWS SUMMARY（日テレNEWS LIVE）",
-   "embedUrl": "https://www.youtube.com/embed/gStWLHhZzWo",
-   "watchUrl": "https://www.youtube.com/watch?v=gStWLHhZzWo",
-   "thumb": "https://i.ytimg.com/vi/gStWLHhZzWo/hqdefault_live.jpg"
+   "videoId": "RDn_MX8fa_0",
+   "title": "【アメリカライブ】迫る米中間選挙　トランプ氏にも“迷い”？候補者に“変化”も/アメリカ中間選挙　下院は民主党が過半数を取る可能性が高い？　最新情勢は── 国際ニュースライブ（日テレNEWS LIVE）",
+   "embedUrl": "https://www.youtube.com/embed/RDn_MX8fa_0",
+   "watchUrl": "https://www.youtube.com/watch?v=RDn_MX8fa_0",
+   "thumb": "https://i.ytimg.com/vi/RDn_MX8fa_0/hqdefault_live.jpg"
   },
   "weathernews": {
    "live": true,
-   "videoId": "Tdru5c_V8Tg",
-   "title": "【ライブ】最新天気ニュース・地震情報 2026年11月2日(月)／全国的に傘が活躍 強雨や雷雨に注意〈ウェザーニュースLiVEモーニング・松本真央／有賀哲夫〉",
-   "embedUrl": "https://www.youtube.com/embed/Tdru5c_V8Tg",
-   "watchUrl": "https://www.youtube.com/watch?v=Tdru5c_V8Tg",
-   "thumb": "https://i.ytimg.com/vi/Tdru5c_V8Tg/hqdefault_live.jpg"
+   "videoId": "cSpz1v950Co",
+   "title": "【ライブ】最新天気ニュース・地震情報 2026年11月2日(月) ／全国的に傘が活躍 強雨や雷雨に注意〈ウェザーニュースLiVEコーヒータイム・田辺真南葉／有賀哲夫〉",
+   "embedUrl": "https://www.youtube.com/embed/cSpz1v950Co",
+   "watchUrl": "https://www.youtube.com/watch?v=cSpz1v950Co",
+   "thumb": "https://i.ytimg.com/vi/cSpz1v950Co/hqdefault_live.jpg"
   },
   "quake": {
    "live": true,
@@ -79,8 +79,12 @@
    "thumb": "https://i.ytimg.com/vi/UlltLBmkmIg/hqdefault_live.jpg"
   },
   "sapporo": {
-   "live": false,
-   "reason": "not-live"
+   "live": true,
+   "videoId": "QMg2GT6dNZw",
+   "title": "［LIVE CAMERA］札幌 狸小路 ライブカメラ（４丁目） Tanukikoji Shopping Street in Sapporo, Hokkaido, Japan.",
+   "embedUrl": "https://www.youtube.com/embed/QMg2GT6dNZw",
+   "watchUrl": "https://www.youtube.com/watch?v=QMg2GT6dNZw",
+   "thumb": "https://i.ytimg.com/vi/QMg2GT6dNZw/hqdefault_live.jpg"
   },
   "niigata": {
    "live": true,
