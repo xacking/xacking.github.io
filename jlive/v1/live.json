@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-02T09:22:48Z",
- "checked": "2026-11-02T09:22:48Z",
+ "updated": "2026-11-02T19:45:51Z",
+ "checked": "2026-11-02T19:45:51Z",
  "streams": {
   "tvasahi24": {
    "live": true,
@@ -12,27 +12,27 @@
   },
   "ntvlive": {
    "live": true,
-   "videoId": "lbryUkZEmKc",
-   "title": "【夜ニュースライブ】最新ニュースと生活情報（11月2日） ──THE LATEST NEWS SUMMARY（日テレNEWS LIVE）",
-   "embedUrl": "https://www.youtube.com/embed/lbryUkZEmKc",
-   "watchUrl": "https://www.youtube.com/watch?v=lbryUkZEmKc",
-   "thumb": "https://i.ytimg.com/vi/lbryUkZEmKc/hqdefault_live.jpg"
+   "videoId": "U4JcqbWuld0",
+   "title": "【サイバー攻撃】GMO熊谷会長「放置したまま死ねません」続投の意向　サイバー攻撃後初会見―― 社会ニュースライブ（日テレNEWS LIVE）",
+   "embedUrl": "https://www.youtube.com/embed/U4JcqbWuld0",
+   "watchUrl": "https://www.youtube.com/watch?v=U4JcqbWuld0",
+   "thumb": "https://i.ytimg.com/vi/U4JcqbWuld0/hqdefault_live.jpg"
   },
   "weathernews": {
    "live": true,
-   "videoId": "mE5EP9pbgYE",
-   "title": "【ライブ】最新天気ニュース・地震情報 2026年11月2日(月) ／明日はおでかけ日和のところも日本海側は雨〈ウェザーニュースLiVEイブニング・小川千奈／宇野沢達也〉",
-   "embedUrl": "https://www.youtube.com/embed/mE5EP9pbgYE",
-   "watchUrl": "https://www.youtube.com/watch?v=mE5EP9pbgYE",
-   "thumb": "https://i.ytimg.com/vi/mE5EP9pbgYE/hqdefault_live.jpg"
+   "videoId": "XFZQ5dORVwU",
+   "title": "【ライブ】最新天気ニュース・地震情報 2026年11月3日(火)／文化の日は広く穏やかな秋晴れ　北陸や北海道はにわか雨に注意〈ウェザーニュースLiVEモーニング・福吉貴文／飯島栄一〉",
+   "embedUrl": "https://www.youtube.com/embed/XFZQ5dORVwU",
+   "watchUrl": "https://www.youtube.com/watch?v=XFZQ5dORVwU",
+   "thumb": "https://i.ytimg.com/vi/XFZQ5dORVwU/hqdefault_live.jpg"
   },
   "quake": {
    "live": true,
-   "videoId": "8Qxgcb47wzQ",
+   "videoId": "gj8MTGzLGcs",
    "title": "【地震ライブ】緊急地震速報 24時間リアルタイム配信中 ウェザーニュース／Earthquake Alert Japan Live",
-   "embedUrl": "https://www.youtube.com/embed/8Qxgcb47wzQ",
-   "watchUrl": "https://www.youtube.com/watch?v=8Qxgcb47wzQ",
-   "thumb": "https://i.ytimg.com/vi/8Qxgcb47wzQ/hqdefault_live.jpg"
+   "embedUrl": "https://www.youtube.com/embed/gj8MTGzLGcs",
+   "watchUrl": "https://www.youtube.com/watch?v=gj8MTGzLGcs",
+   "thumb": "https://i.ytimg.com/vi/gj8MTGzLGcs/hqdefault_live.jpg"
   },
   "dotonbori": {
    "live": true,
@@ -72,11 +72,11 @@
   },
   "tbs": {
    "live": true,
-   "videoId": "Qqciq8pip1s",
-   "title": "【ニュースライブ】夜のニュース（Japan News Digest Live）最新情報など（11月2日）｜TBS NEWS DIG",
-   "embedUrl": "https://www.youtube.com/embed/Qqciq8pip1s",
-   "watchUrl": "https://www.youtube.com/watch?v=Qqciq8pip1s",
-   "thumb": "https://i.ytimg.com/vi/Qqciq8pip1s/hqdefault_live.jpg"
+   "videoId": "tuds4huGju8",
+   "title": "【ニュースライブ】最新ニュースまとめ（Japan News Digest）（11月2日）｜TBS NEWS DIG",
+   "embedUrl": "https://www.youtube.com/embed/tuds4huGju8",
+   "watchUrl": "https://www.youtube.com/watch?v=tuds4huGju8",
+   "thumb": "https://i.ytimg.com/vi/tuds4huGju8/hqdefault_live.jpg"
   },
   "sapporo": {
    "live": true,
@@ -127,12 +127,8 @@
    "thumb": "https://i.ytimg.com/vi/0ZN0CW-IpVk/hqdefault_live.jpg"
   },
   "kurushima": {
-   "live": true,
-   "videoId": "EAkfCe5VNFc",
-   "title": "【LIVE】来島海峡南側・今治港付近ライブカメラ｜船名・速力AIS｜Japan Ship Watching | Kurushima, Imabari | Ship Names & Speed",
-   "embedUrl": "https://www.youtube.com/embed/EAkfCe5VNFc",
-   "watchUrl": "https://www.youtube.com/watch?v=EAkfCe5VNFc",
-   "thumb": "https://i.ytimg.com/vi/EAkfCe5VNFc/hqdefault_live.jpg"
+   "live": false,
+   "reason": "not-live"
   },
   "r-nhkworld": {
    "live": true,
