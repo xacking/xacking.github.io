@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-03T10:00:40Z",
- "checked": "2026-11-03T10:00:40Z",
+ "updated": "2026-11-03T17:47:35Z",
+ "checked": "2026-11-03T17:47:35Z",
  "streams": {
   "tvasahi24": {
    "live": true,
@@ -12,27 +12,27 @@
   },
   "ntvlive": {
    "live": true,
-   "videoId": "YXhPEBGDjo4",
-   "title": "【スペイン列車事故】日本人の死者2人に　死者69人の身元判明 ── 国際ニュースライブ（日テレNEWS LIVE）",
-   "embedUrl": "https://www.youtube.com/embed/YXhPEBGDjo4",
-   "watchUrl": "https://www.youtube.com/watch?v=YXhPEBGDjo4",
-   "thumb": "https://i.ytimg.com/vi/YXhPEBGDjo4/hqdefault_live.jpg"
+   "videoId": "VHmW7W2Dr2s",
+   "title": "【サイバー攻撃】2か月以上も“侵入”気付かず　3時間半の“熊谷劇場”をうけ　GMO側の対応｢失態｣指摘も―― 社会ニュースライブ（日テレNEWS LIVE）",
+   "embedUrl": "https://www.youtube.com/embed/VHmW7W2Dr2s",
+   "watchUrl": "https://www.youtube.com/watch?v=VHmW7W2Dr2s",
+   "thumb": "https://i.ytimg.com/vi/VHmW7W2Dr2s/hqdefault_live.jpg"
   },
   "weathernews": {
    "live": true,
-   "videoId": "QA8aaoypAho",
-   "title": "【ライブ】最新天気ニュース・地震情報 2026年11月3日(火) ／広く穏やかな秋晴れ　北陸や北海道はにわか雨に注意〈ウェザーニュースLiVEイブニング・青原桃香／本田竜也〉",
-   "embedUrl": "https://www.youtube.com/embed/QA8aaoypAho",
-   "watchUrl": "https://www.youtube.com/watch?v=QA8aaoypAho",
-   "thumb": "https://i.ytimg.com/vi/QA8aaoypAho/hqdefault_live.jpg"
+   "videoId": "KxCTQMypjtg",
+   "title": "【ライブ】最新天気ニュース・地震情報 2026年11月3日(火)23:00〜 ／あす太平洋側は雲が多く雨も　北日本は晴れても寒い〈ウェザーニュースLiVE〉",
+   "embedUrl": "https://www.youtube.com/embed/KxCTQMypjtg",
+   "watchUrl": "https://www.youtube.com/watch?v=KxCTQMypjtg",
+   "thumb": "https://i.ytimg.com/vi/KxCTQMypjtg/hqdefault_live.jpg"
   },
   "quake": {
    "live": true,
-   "videoId": "gj8MTGzLGcs",
+   "videoId": "1LK2EsJyXlE",
    "title": "【地震ライブ】緊急地震速報 24時間リアルタイム配信中 ウェザーニュース／Earthquake Alert Japan Live",
-   "embedUrl": "https://www.youtube.com/embed/gj8MTGzLGcs",
-   "watchUrl": "https://www.youtube.com/watch?v=gj8MTGzLGcs",
-   "thumb": "https://i.ytimg.com/vi/gj8MTGzLGcs/hqdefault_live.jpg"
+   "embedUrl": "https://www.youtube.com/embed/1LK2EsJyXlE",
+   "watchUrl": "https://www.youtube.com/watch?v=1LK2EsJyXlE",
+   "thumb": "https://i.ytimg.com/vi/1LK2EsJyXlE/hqdefault_live.jpg"
   },
   "dotonbori": {
    "live": true,
@@ -63,20 +63,16 @@
    "thumb": "https://i.ytimg.com/vi/YonXVFE9C3g/hqdefault_live.jpg"
   },
   "rcc": {
-   "live": true,
-   "videoId": "JqV_MewrJfU",
-   "title": "【24h LIVE】広島最新ニュース　～24時間ライブ配信中～【RCC NEWS DIG】",
-   "embedUrl": "https://www.youtube.com/embed/JqV_MewrJfU",
-   "watchUrl": "https://www.youtube.com/watch?v=JqV_MewrJfU",
-   "thumb": "https://i.ytimg.com/vi/JqV_MewrJfU/hqdefault_live.jpg"
+   "live": false,
+   "reason": "not-live"
   },
   "tbs": {
    "live": true,
-   "videoId": "UzN8encBA7w",
-   "title": "【ニュースライブ】夜のニュース（Japan News Digest Live）最新情報など（11月3日）｜TBS NEWS DIG",
-   "embedUrl": "https://www.youtube.com/embed/UzN8encBA7w",
-   "watchUrl": "https://www.youtube.com/watch?v=UzN8encBA7w",
-   "thumb": "https://i.ytimg.com/vi/UzN8encBA7w/hqdefault_live.jpg"
+   "videoId": "Yay6e8LS4PY",
+   "title": "【ニュースライブ】最新ニュースまとめ（Japan News Digest）（11月3日）｜TBS NEWS DIG",
+   "embedUrl": "https://www.youtube.com/embed/Yay6e8LS4PY",
+   "watchUrl": "https://www.youtube.com/watch?v=Yay6e8LS4PY",
+   "thumb": "https://i.ytimg.com/vi/Yay6e8LS4PY/hqdefault_live.jpg"
   },
   "sapporo": {
    "live": true,
