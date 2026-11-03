@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-02T19:45:51Z",
- "checked": "2026-11-02T19:45:51Z",
+ "updated": "2026-11-03T02:14:01Z",
+ "checked": "2026-11-03T02:14:01Z",
  "streams": {
   "tvasahi24": {
    "live": true,
@@ -12,19 +12,19 @@
   },
   "ntvlive": {
    "live": true,
-   "videoId": "U4JcqbWuld0",
+   "videoId": "kaC2otkb1q4",
    "title": "【サイバー攻撃】GMO熊谷会長「放置したまま死ねません」続投の意向　サイバー攻撃後初会見―― 社会ニュースライブ（日テレNEWS LIVE）",
-   "embedUrl": "https://www.youtube.com/embed/U4JcqbWuld0",
-   "watchUrl": "https://www.youtube.com/watch?v=U4JcqbWuld0",
-   "thumb": "https://i.ytimg.com/vi/U4JcqbWuld0/hqdefault_live.jpg"
+   "embedUrl": "https://www.youtube.com/embed/kaC2otkb1q4",
+   "watchUrl": "https://www.youtube.com/watch?v=kaC2otkb1q4",
+   "thumb": "https://i.ytimg.com/vi/kaC2otkb1q4/hqdefault_live.jpg"
   },
   "weathernews": {
    "live": true,
-   "videoId": "XFZQ5dORVwU",
-   "title": "【ライブ】最新天気ニュース・地震情報 2026年11月3日(火)／文化の日は広く穏やかな秋晴れ　北陸や北海道はにわか雨に注意〈ウェザーニュースLiVEモーニング・福吉貴文／飯島栄一〉",
-   "embedUrl": "https://www.youtube.com/embed/XFZQ5dORVwU",
-   "watchUrl": "https://www.youtube.com/watch?v=XFZQ5dORVwU",
-   "thumb": "https://i.ytimg.com/vi/XFZQ5dORVwU/hqdefault_live.jpg"
+   "videoId": "SkTaTn_Xleo",
+   "title": "【ライブ】最新天気ニュース・地震情報 2026年11月3日(火)／広く穏やかな秋晴れ　北陸や北海道はにわか雨に注意〈ウェザーニュースLiVEコーヒータイム・佐藤剣慎／飯島栄一〉",
+   "embedUrl": "https://www.youtube.com/embed/SkTaTn_Xleo",
+   "watchUrl": "https://www.youtube.com/watch?v=SkTaTn_Xleo",
+   "thumb": "https://i.ytimg.com/vi/SkTaTn_Xleo/hqdefault_live.jpg"
   },
   "quake": {
    "live": true,
@@ -72,11 +72,11 @@
   },
   "tbs": {
    "live": true,
-   "videoId": "tuds4huGju8",
-   "title": "【ニュースライブ】最新ニュースまとめ（Japan News Digest）（11月2日）｜TBS NEWS DIG",
-   "embedUrl": "https://www.youtube.com/embed/tuds4huGju8",
-   "watchUrl": "https://www.youtube.com/watch?v=tuds4huGju8",
-   "thumb": "https://i.ytimg.com/vi/tuds4huGju8/hqdefault_live.jpg"
+   "videoId": "3uObArMlIUU",
+   "title": "【ニュースライブ】昼のニュース（Japan News Digest Live）最新情報など（11月3日）｜TBS NEWS DIG",
+   "embedUrl": "https://www.youtube.com/embed/3uObArMlIUU",
+   "watchUrl": "https://www.youtube.com/watch?v=3uObArMlIUU",
+   "thumb": "https://i.ytimg.com/vi/3uObArMlIUU/hqdefault_live.jpg"
   },
   "sapporo": {
    "live": true,
@@ -96,11 +96,11 @@
   },
   "tokyo-fuji": {
    "live": true,
-   "videoId": "avahJHn4nqM",
-   "title": "＃オリオン座流星群【星空と東京ライブカメラ】TOKYO STARRY SKY LIVE CAMERA 東京ライブカメラ 　＃オリオン座流星群 #orionidmeteorshower",
-   "embedUrl": "https://www.youtube.com/embed/avahJHn4nqM",
-   "watchUrl": "https://www.youtube.com/watch?v=avahJHn4nqM",
-   "thumb": "https://i.ytimg.com/vi/avahJHn4nqM/hqdefault_live.jpg"
+   "videoId": "9og7mH1mjtQ",
+   "title": "【東京ライブカメラ】TOKYO LIVE CAMERA.  Mt'Fuji from Tokyo  富士山 紅富士 赤富士 東京からの富士山    #東京ライブカメラ #富士山東京 #東京夜景",
+   "embedUrl": "https://www.youtube.com/embed/9og7mH1mjtQ",
+   "watchUrl": "https://www.youtube.com/watch?v=9og7mH1mjtQ",
+   "thumb": "https://i.ytimg.com/vi/9og7mH1mjtQ/hqdefault_live.jpg"
   },
   "oshino": {
    "live": true,
@@ -127,8 +127,12 @@
    "thumb": "https://i.ytimg.com/vi/0ZN0CW-IpVk/hqdefault_live.jpg"
   },
   "kurushima": {
-   "live": false,
-   "reason": "not-live"
+   "live": true,
+   "videoId": "EAkfCe5VNFc",
+   "title": "【LIVE】来島海峡南側・今治港付近ライブカメラ｜船名・速力AIS｜Japan Ship Watching | Kurushima, Imabari | Ship Names & Speed",
+   "embedUrl": "https://www.youtube.com/embed/EAkfCe5VNFc",
+   "watchUrl": "https://www.youtube.com/watch?v=EAkfCe5VNFc",
+   "thumb": "https://i.ytimg.com/vi/EAkfCe5VNFc/hqdefault_live.jpg"
   },
   "r-nhkworld": {
    "live": true,
