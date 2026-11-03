@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-03T17:47:35Z",
- "checked": "2026-11-03T17:47:35Z",
+ "updated": "2026-11-03T23:15:31Z",
+ "checked": "2026-11-03T23:15:31Z",
  "streams": {
   "tvasahi24": {
    "live": true,
@@ -12,19 +12,19 @@
   },
   "ntvlive": {
    "live": true,
-   "videoId": "VHmW7W2Dr2s",
-   "title": "【サイバー攻撃】2か月以上も“侵入”気付かず　3時間半の“熊谷劇場”をうけ　GMO側の対応｢失態｣指摘も―― 社会ニュースライブ（日テレNEWS LIVE）",
-   "embedUrl": "https://www.youtube.com/embed/VHmW7W2Dr2s",
-   "watchUrl": "https://www.youtube.com/watch?v=VHmW7W2Dr2s",
-   "thumb": "https://i.ytimg.com/vi/VHmW7W2Dr2s/hqdefault_live.jpg"
+   "videoId": "VIpQThu78Ig",
+   "title": "【朝ニュースライブ】最新ニュースと生活情報（11月4日） ──THE LATEST NEWS SUMMARY（日テレNEWS LIVE）",
+   "embedUrl": "https://www.youtube.com/embed/VIpQThu78Ig",
+   "watchUrl": "https://www.youtube.com/watch?v=VIpQThu78Ig",
+   "thumb": "https://i.ytimg.com/vi/VIpQThu78Ig/hqdefault_live.jpg"
   },
   "weathernews": {
    "live": true,
-   "videoId": "KxCTQMypjtg",
-   "title": "【ライブ】最新天気ニュース・地震情報 2026年11月3日(火)23:00〜 ／あす太平洋側は雲が多く雨も　北日本は晴れても寒い〈ウェザーニュースLiVE〉",
-   "embedUrl": "https://www.youtube.com/embed/KxCTQMypjtg",
-   "watchUrl": "https://www.youtube.com/watch?v=KxCTQMypjtg",
-   "thumb": "https://i.ytimg.com/vi/KxCTQMypjtg/hqdefault_live.jpg"
+   "videoId": "CkdK67Jbrgw",
+   "title": "【ライブ】最新天気ニュース・地震情報 2026年11月4日(水) ／関東から近畿の太平洋側は次第に雨　北日本は晴れても寒い〈ウェザーニュースLiVEサンシャイン・岡本結子リサ／飯島栄一〉",
+   "embedUrl": "https://www.youtube.com/embed/CkdK67Jbrgw",
+   "watchUrl": "https://www.youtube.com/watch?v=CkdK67Jbrgw",
+   "thumb": "https://i.ytimg.com/vi/CkdK67Jbrgw/hqdefault_live.jpg"
   },
   "quake": {
    "live": true,
@@ -68,11 +68,11 @@
   },
   "tbs": {
    "live": true,
-   "videoId": "Yay6e8LS4PY",
-   "title": "【ニュースライブ】最新ニュースまとめ（Japan News Digest）（11月3日）｜TBS NEWS DIG",
-   "embedUrl": "https://www.youtube.com/embed/Yay6e8LS4PY",
-   "watchUrl": "https://www.youtube.com/watch?v=Yay6e8LS4PY",
-   "thumb": "https://i.ytimg.com/vi/Yay6e8LS4PY/hqdefault_live.jpg"
+   "videoId": "pmLLeWDsRGM",
+   "title": "【アメリカ中間選挙】投票始まる/トランプ共和党が劣勢？/カギを握るヒスパニック系の”トランプ離れ”/民主党奪還なら「拒否権連発」/激戦州を相次いで訪問/物価高でトランプ氏に批判の声【ニュースライブ】",
+   "embedUrl": "https://www.youtube.com/embed/pmLLeWDsRGM",
+   "watchUrl": "https://www.youtube.com/watch?v=pmLLeWDsRGM",
+   "thumb": "https://i.ytimg.com/vi/pmLLeWDsRGM/hqdefault_live.jpg"
   },
   "sapporo": {
    "live": true,
@@ -92,11 +92,11 @@
   },
   "tokyo-fuji": {
    "live": true,
-   "videoId": "G9vf1G6xWQw",
-   "title": "＃オリオン座流星群【星空と東京ライブカメラ】TOKYO STARRY SKY LIVE CAMERA 東京ライブカメラ 　＃オリオン座流星群 #orionidmeteorshower",
-   "embedUrl": "https://www.youtube.com/embed/G9vf1G6xWQw",
-   "watchUrl": "https://www.youtube.com/watch?v=G9vf1G6xWQw",
-   "thumb": "https://i.ytimg.com/vi/G9vf1G6xWQw/hqdefault_live.jpg"
+   "videoId": "2drDM1WUPTg",
+   "title": "【東京ライブカメラ】TOKYO LIVE CAMERA.  Mt'Fuji from Tokyo  富士山 紅富士 赤富士 東京からの富士山    #東京ライブカメラ #富士山東京 #東京夜景",
+   "embedUrl": "https://www.youtube.com/embed/2drDM1WUPTg",
+   "watchUrl": "https://www.youtube.com/watch?v=2drDM1WUPTg",
+   "thumb": "https://i.ytimg.com/vi/2drDM1WUPTg/hqdefault_live.jpg"
   },
   "oshino": {
    "live": true,
