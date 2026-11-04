@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-04T11:32:03Z",
- "checked": "2026-11-04T11:32:03Z",
+ "updated": "2026-11-04T18:51:41Z",
+ "checked": "2026-11-04T18:51:41Z",
  "streams": {
   "tvasahi24": {
    "live": true,
@@ -11,28 +11,24 @@
    "thumb": "https://i.ytimg.com/vi/coYw-eVU0Ks/hqdefault_live.jpg"
   },
   "ntvlive": {
-   "live": true,
-   "videoId": "G0sBJte42lI",
-   "title": "【情報漏えい】高速バス予約サイト「不正アクセス」でクレカ情報が約7000件漏えいか 不正利用の報告も 埼玉・志木市「平成エンタープライズ」―― 社会ニュースライブ（日テレNEWS LIVE）",
-   "embedUrl": "https://www.youtube.com/embed/G0sBJte42lI",
-   "watchUrl": "https://www.youtube.com/watch?v=G0sBJte42lI",
-   "thumb": "https://i.ytimg.com/vi/G0sBJte42lI/hqdefault_live.jpg"
+   "live": false,
+   "reason": "not-live"
   },
   "weathernews": {
    "live": true,
-   "videoId": "y2fpouwyaEs",
-   "title": "【ライブ】最新天気ニュース・地震情報 2026年11月4日(水)20:00〜 ／あす全国の広い範囲で雨　関東は局地的な激しい雨に警戒〈ウェザーニュースLiVEムーン・戸北美月／宇野沢達也〉",
-   "embedUrl": "https://www.youtube.com/embed/y2fpouwyaEs",
-   "watchUrl": "https://www.youtube.com/watch?v=y2fpouwyaEs",
-   "thumb": "https://i.ytimg.com/vi/y2fpouwyaEs/hqdefault_live.jpg"
+   "videoId": "jBLZEprAZ8c",
+   "title": "【ライブ】最新天気ニュース・地震情報 2026年11月4日(月)23:00〜 ／全国の広い範囲で雨　関東は局地的な激しい雨に警戒〈ウェザーニュースLiVE〉",
+   "embedUrl": "https://www.youtube.com/embed/jBLZEprAZ8c",
+   "watchUrl": "https://www.youtube.com/watch?v=jBLZEprAZ8c",
+   "thumb": "https://i.ytimg.com/vi/jBLZEprAZ8c/hqdefault_live.jpg"
   },
   "quake": {
    "live": true,
-   "videoId": "1LK2EsJyXlE",
+   "videoId": "JmKABRGnZms",
    "title": "【地震ライブ】緊急地震速報 24時間リアルタイム配信中 ウェザーニュース／Earthquake Alert Japan Live",
-   "embedUrl": "https://www.youtube.com/embed/1LK2EsJyXlE",
-   "watchUrl": "https://www.youtube.com/watch?v=1LK2EsJyXlE",
-   "thumb": "https://i.ytimg.com/vi/1LK2EsJyXlE/hqdefault_live.jpg"
+   "embedUrl": "https://www.youtube.com/embed/JmKABRGnZms",
+   "watchUrl": "https://www.youtube.com/watch?v=JmKABRGnZms",
+   "thumb": "https://i.ytimg.com/vi/JmKABRGnZms/hqdefault_live.jpg"
   },
   "dotonbori": {
    "live": true,
@@ -76,11 +72,11 @@
   },
   "tbs": {
    "live": true,
-   "videoId": "uvoAcDwpsDA",
-   "title": "【ニュースライブ】夜のニュース（Japan News Digest Live）最新情報など（11月4日）｜TBS NEWS DIG",
-   "embedUrl": "https://www.youtube.com/embed/uvoAcDwpsDA",
-   "watchUrl": "https://www.youtube.com/watch?v=uvoAcDwpsDA",
-   "thumb": "https://i.ytimg.com/vi/uvoAcDwpsDA/hqdefault_live.jpg"
+   "videoId": "Llvvy_--fhE",
+   "title": "【ニュースライブ】最新ニュースまとめ（Japan News Digest）（11月4日）｜TBS NEWS DIG",
+   "embedUrl": "https://www.youtube.com/embed/Llvvy_--fhE",
+   "watchUrl": "https://www.youtube.com/watch?v=Llvvy_--fhE",
+   "thumb": "https://i.ytimg.com/vi/Llvvy_--fhE/hqdefault_live.jpg"
   },
   "sapporo": {
    "live": true,
