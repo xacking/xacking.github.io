@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-05T15:48:08Z",
- "checked": "2026-11-05T15:48:08Z",
+ "updated": "2026-11-05T21:57:23Z",
+ "checked": "2026-11-05T21:57:23Z",
  "streams": {
   "tvasahi24": {
    "live": true,
@@ -12,27 +12,27 @@
   },
   "ntvlive": {
    "live": true,
-   "videoId": "IW6h2NaS2Hk",
-   "title": "【情報漏えい】NTTドコモ  不正アクセスで顧客情報流出  携帯番号など最大約30万件―― 社会ニュースライブ（日テレNEWS LIVE）",
-   "embedUrl": "https://www.youtube.com/embed/IW6h2NaS2Hk",
-   "watchUrl": "https://www.youtube.com/watch?v=IW6h2NaS2Hk",
-   "thumb": "https://i.ytimg.com/vi/IW6h2NaS2Hk/hqdefault_live.jpg"
+   "videoId": "2-3FRsruUFY",
+   "title": "【朝ニュースライブ】最新ニュースと生活情報（11月6日） ──THE LATEST NEWS SUMMARY（日テレNEWS LIVE）",
+   "embedUrl": "https://www.youtube.com/embed/2-3FRsruUFY",
+   "watchUrl": "https://www.youtube.com/watch?v=2-3FRsruUFY",
+   "thumb": "https://i.ytimg.com/vi/2-3FRsruUFY/hqdefault_live.jpg"
   },
   "weathernews": {
    "live": true,
-   "videoId": "L7MOahUYjVg",
-   "title": "【ライブ】最新天気ニュース・地震情報 2026年11月5日(木)23:00〜 ／冬型の気圧配置が強まり北海道は夜から雪　関東は季節逆戻りの暖かさ〈ウェザーニュースLiVE〉",
-   "embedUrl": "https://www.youtube.com/embed/L7MOahUYjVg",
-   "watchUrl": "https://www.youtube.com/watch?v=L7MOahUYjVg",
-   "thumb": "https://i.ytimg.com/vi/L7MOahUYjVg/hqdefault_live.jpg"
+   "videoId": "BOLM0t9VHe8",
+   "title": "【ライブ】最新天気ニュース・地震情報 2026年11月6日(金)／日本海側は雨風強まり夜は北海道で雪 関東は季節逆戻りの暖かさ〈ウェザーニュースLiVEモーニング・佐藤剣慎／有賀哲夫〉",
+   "embedUrl": "https://www.youtube.com/embed/BOLM0t9VHe8",
+   "watchUrl": "https://www.youtube.com/watch?v=BOLM0t9VHe8",
+   "thumb": "https://i.ytimg.com/vi/BOLM0t9VHe8/hqdefault_live.jpg"
   },
   "quake": {
    "live": true,
-   "videoId": "JmKABRGnZms",
+   "videoId": "0qIZzrYlXdc",
    "title": "【地震ライブ】緊急地震速報 24時間リアルタイム配信中 ウェザーニュース／Earthquake Alert Japan Live",
-   "embedUrl": "https://www.youtube.com/embed/JmKABRGnZms",
-   "watchUrl": "https://www.youtube.com/watch?v=JmKABRGnZms",
-   "thumb": "https://i.ytimg.com/vi/JmKABRGnZms/hqdefault_live.jpg"
+   "embedUrl": "https://www.youtube.com/embed/0qIZzrYlXdc",
+   "watchUrl": "https://www.youtube.com/watch?v=0qIZzrYlXdc",
+   "thumb": "https://i.ytimg.com/vi/0qIZzrYlXdc/hqdefault_live.jpg"
   },
   "dotonbori": {
    "live": true,
@@ -76,11 +76,11 @@
   },
   "tbs": {
    "live": true,
-   "videoId": "xEhTj-0cQVY",
-   "title": "【ニュースライブ】最新ニュースまとめ（Japan News Digest）（11月5日）｜TBS NEWS DIG",
-   "embedUrl": "https://www.youtube.com/embed/xEhTj-0cQVY",
-   "watchUrl": "https://www.youtube.com/watch?v=xEhTj-0cQVY",
-   "thumb": "https://i.ytimg.com/vi/xEhTj-0cQVY/hqdefault_live.jpg"
+   "videoId": "PdLLK1FuSo4",
+   "title": "【ニュースライブ】朝のニュース（Japan News Digest Live）最新情報など（11月6日）｜TBS NEWS DIG",
+   "embedUrl": "https://www.youtube.com/embed/PdLLK1FuSo4",
+   "watchUrl": "https://www.youtube.com/watch?v=PdLLK1FuSo4",
+   "thumb": "https://i.ytimg.com/vi/PdLLK1FuSo4/hqdefault_live.jpg"
   },
   "sapporo": {
    "live": true,
@@ -100,11 +100,11 @@
   },
   "tokyo-fuji": {
    "live": true,
-   "videoId": "OC6G5P839A4",
-   "title": "＃おうし座流星群極大日【星空と東京ライブカメラ】TOKYO STARRY SKY LIVE CAMERA 東京ライブカメラ 　#おうし座流星群#taurid meteor shower",
-   "embedUrl": "https://www.youtube.com/embed/OC6G5P839A4",
-   "watchUrl": "https://www.youtube.com/watch?v=OC6G5P839A4",
-   "thumb": "https://i.ytimg.com/vi/OC6G5P839A4/hqdefault_live.jpg"
+   "videoId": "pZD_whVKRvE",
+   "title": "【東京ライブカメラ】TOKYO LIVE CAMERA.  Mt'Fuji from Tokyo  富士山 紅富士 赤富士 東京からの富士山    #東京ライブカメラ #富士山東京 #東京夜景",
+   "embedUrl": "https://www.youtube.com/embed/pZD_whVKRvE",
+   "watchUrl": "https://www.youtube.com/watch?v=pZD_whVKRvE",
+   "thumb": "https://i.ytimg.com/vi/pZD_whVKRvE/hqdefault_live.jpg"
   },
   "oshino": {
    "live": true,
