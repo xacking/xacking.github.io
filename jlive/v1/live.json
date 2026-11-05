@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-04T18:51:41Z",
- "checked": "2026-11-04T18:51:41Z",
+ "updated": "2026-11-05T00:20:36Z",
+ "checked": "2026-11-05T00:20:36Z",
  "streams": {
   "tvasahi24": {
    "live": true,
@@ -11,16 +11,20 @@
    "thumb": "https://i.ytimg.com/vi/coYw-eVU0Ks/hqdefault_live.jpg"
   },
   "ntvlive": {
-   "live": false,
-   "reason": "not-live"
+   "live": true,
+   "videoId": "5bIhumQx5OU",
+   "title": "【情報漏えい】不正アクセスによる影響相次ぐ　「無印良品」ではクレカ情報流出か―― 社会ニュースライブ（日テレNEWS LIVE）",
+   "embedUrl": "https://www.youtube.com/embed/5bIhumQx5OU",
+   "watchUrl": "https://www.youtube.com/watch?v=5bIhumQx5OU",
+   "thumb": "https://i.ytimg.com/vi/5bIhumQx5OU/hqdefault_live.jpg"
   },
   "weathernews": {
    "live": true,
-   "videoId": "jBLZEprAZ8c",
-   "title": "【ライブ】最新天気ニュース・地震情報 2026年11月4日(月)23:00〜 ／全国の広い範囲で雨　関東は局地的な激しい雨に警戒〈ウェザーニュースLiVE〉",
-   "embedUrl": "https://www.youtube.com/embed/jBLZEprAZ8c",
-   "watchUrl": "https://www.youtube.com/watch?v=jBLZEprAZ8c",
-   "thumb": "https://i.ytimg.com/vi/jBLZEprAZ8c/hqdefault_live.jpg"
+   "videoId": "02mzdPhgJhI",
+   "title": "【ライブ】最新天気ニュース・地震情報 2026年11月5日(木) ／関東は局地的に激しい雨に警戒　西日本は次第に雨で雷を伴う所も〈ウェザーニュースLiVEサンシャイン・田辺真南葉／山口剛央〉",
+   "embedUrl": "https://www.youtube.com/embed/02mzdPhgJhI",
+   "watchUrl": "https://www.youtube.com/watch?v=02mzdPhgJhI",
+   "thumb": "https://i.ytimg.com/vi/02mzdPhgJhI/hqdefault_live.jpg"
   },
   "quake": {
    "live": true,
@@ -39,12 +43,8 @@
    "thumb": "https://i.ytimg.com/vi/6OgYfTMOmhY/hqdefault_live.jpg"
   },
   "fuji-shizuoka": {
-   "live": true,
-   "videoId": "_H8XG7ficak",
-   "title": "『静岡各地情報カメラ』Daiichi-TV LIVE配信（緊急時にはニュースを配信）",
-   "embedUrl": "https://www.youtube.com/embed/_H8XG7ficak",
-   "watchUrl": "https://www.youtube.com/watch?v=_H8XG7ficak",
-   "thumb": "https://i.ytimg.com/vi/_H8XG7ficak/hqdefault_live.jpg"
+   "live": false,
+   "reason": "not-live"
   },
   "sakurajima": {
    "live": true,
@@ -72,11 +72,11 @@
   },
   "tbs": {
    "live": true,
-   "videoId": "Llvvy_--fhE",
-   "title": "【ニュースライブ】最新ニュースまとめ（Japan News Digest）（11月4日）｜TBS NEWS DIG",
-   "embedUrl": "https://www.youtube.com/embed/Llvvy_--fhE",
-   "watchUrl": "https://www.youtube.com/watch?v=Llvvy_--fhE",
-   "thumb": "https://i.ytimg.com/vi/Llvvy_--fhE/hqdefault_live.jpg"
+   "videoId": "-R_GQQozHIA",
+   "title": "【ニュースライブ】朝のニュース（Japan News Digest Live）最新情報など（11月5日）｜TBS NEWS DIG",
+   "embedUrl": "https://www.youtube.com/embed/-R_GQQozHIA",
+   "watchUrl": "https://www.youtube.com/watch?v=-R_GQQozHIA",
+   "thumb": "https://i.ytimg.com/vi/-R_GQQozHIA/hqdefault_live.jpg"
   },
   "sapporo": {
    "live": true,
@@ -96,11 +96,11 @@
   },
   "tokyo-fuji": {
    "live": true,
-   "videoId": "Ns1nkahb74M",
-   "title": "＃オリオン座流星群【星空と東京ライブカメラ】TOKYO STARRY SKY LIVE CAMERA 東京ライブカメラ 　＃オリオン座流星群 #orionidmeteorshower",
-   "embedUrl": "https://www.youtube.com/embed/Ns1nkahb74M",
-   "watchUrl": "https://www.youtube.com/watch?v=Ns1nkahb74M",
-   "thumb": "https://i.ytimg.com/vi/Ns1nkahb74M/hqdefault_live.jpg"
+   "videoId": "Ayl8JOHfVsQ",
+   "title": "【東京ライブカメラ】TOKYO LIVE CAMERA.  Mt'Fuji from Tokyo  富士山 紅富士 赤富士 東京からの富士山    #東京ライブカメラ #富士山東京 #東京夜景",
+   "embedUrl": "https://www.youtube.com/embed/Ayl8JOHfVsQ",
+   "watchUrl": "https://www.youtube.com/watch?v=Ayl8JOHfVsQ",
+   "thumb": "https://i.ytimg.com/vi/Ayl8JOHfVsQ/hqdefault_live.jpg"
   },
   "oshino": {
    "live": true,
