@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-05T07:21:18Z",
- "checked": "2026-11-05T07:21:18Z",
+ "updated": "2026-11-05T15:48:08Z",
+ "checked": "2026-11-05T15:48:08Z",
  "streams": {
   "tvasahi24": {
    "live": true,
@@ -12,19 +12,19 @@
   },
   "ntvlive": {
    "live": true,
-   "videoId": "jh4lU5ftTZI",
-   "title": "【夕ニュースライブ】最新ニュースと生活情報（11月5日） ──THE LATEST NEWS SUMMARY（日テレNEWS LIVE）",
-   "embedUrl": "https://www.youtube.com/embed/jh4lU5ftTZI",
-   "watchUrl": "https://www.youtube.com/watch?v=jh4lU5ftTZI",
-   "thumb": "https://i.ytimg.com/vi/jh4lU5ftTZI/hqdefault_live.jpg"
+   "videoId": "IW6h2NaS2Hk",
+   "title": "【情報漏えい】NTTドコモ  不正アクセスで顧客情報流出  携帯番号など最大約30万件―― 社会ニュースライブ（日テレNEWS LIVE）",
+   "embedUrl": "https://www.youtube.com/embed/IW6h2NaS2Hk",
+   "watchUrl": "https://www.youtube.com/watch?v=IW6h2NaS2Hk",
+   "thumb": "https://i.ytimg.com/vi/IW6h2NaS2Hk/hqdefault_live.jpg"
   },
   "weathernews": {
    "live": true,
-   "videoId": "zacCJ2jjxp4",
-   "title": "【ライブ】最新天気ニュース・地震情報 2026年11月5日(木)／西日本は局地的な強い雨に注意　日毎の気温変化に注意〈ウェザーニュースLiVEアフタヌーン・小林李衣奈／宇野沢達也〉",
-   "embedUrl": "https://www.youtube.com/embed/zacCJ2jjxp4",
-   "watchUrl": "https://www.youtube.com/watch?v=zacCJ2jjxp4",
-   "thumb": "https://i.ytimg.com/vi/zacCJ2jjxp4/hqdefault_live.jpg"
+   "videoId": "L7MOahUYjVg",
+   "title": "【ライブ】最新天気ニュース・地震情報 2026年11月5日(木)23:00〜 ／冬型の気圧配置が強まり北海道は夜から雪　関東は季節逆戻りの暖かさ〈ウェザーニュースLiVE〉",
+   "embedUrl": "https://www.youtube.com/embed/L7MOahUYjVg",
+   "watchUrl": "https://www.youtube.com/watch?v=L7MOahUYjVg",
+   "thumb": "https://i.ytimg.com/vi/L7MOahUYjVg/hqdefault_live.jpg"
   },
   "quake": {
    "live": true,
@@ -52,11 +52,11 @@
   },
   "sakurajima": {
    "live": true,
-   "videoId": "0K2D5z3RR3Y",
+   "videoId": "yRnOBGfhLGA",
    "title": "ライブカメラ",
-   "embedUrl": "https://www.youtube.com/embed/0K2D5z3RR3Y",
-   "watchUrl": "https://www.youtube.com/watch?v=0K2D5z3RR3Y",
-   "thumb": "https://i.ytimg.com/vi/0K2D5z3RR3Y/hqdefault_live.jpg"
+   "embedUrl": "https://www.youtube.com/embed/yRnOBGfhLGA",
+   "watchUrl": "https://www.youtube.com/watch?v=yRnOBGfhLGA",
+   "thumb": "https://i.ytimg.com/vi/yRnOBGfhLGA/hqdefault_live.jpg"
   },
   "toba-otters": {
    "live": true,
@@ -76,11 +76,11 @@
   },
   "tbs": {
    "live": true,
-   "videoId": "QzyQYWc6uwA",
-   "title": "【アメリカ中間選挙】共和党大敗の原因 トランプ大統領“ガソリン高騰”/モジタバ師は強硬姿勢/各国の反応 中国やウクライナ/ダウ平均は1500ドル超の大幅上昇【最新ニュースライブ】",
-   "embedUrl": "https://www.youtube.com/embed/QzyQYWc6uwA",
-   "watchUrl": "https://www.youtube.com/watch?v=QzyQYWc6uwA",
-   "thumb": "https://i.ytimg.com/vi/QzyQYWc6uwA/hqdefault_live.jpg"
+   "videoId": "xEhTj-0cQVY",
+   "title": "【ニュースライブ】最新ニュースまとめ（Japan News Digest）（11月5日）｜TBS NEWS DIG",
+   "embedUrl": "https://www.youtube.com/embed/xEhTj-0cQVY",
+   "watchUrl": "https://www.youtube.com/watch?v=xEhTj-0cQVY",
+   "thumb": "https://i.ytimg.com/vi/xEhTj-0cQVY/hqdefault_live.jpg"
   },
   "sapporo": {
    "live": true,
@@ -100,11 +100,11 @@
   },
   "tokyo-fuji": {
    "live": true,
-   "videoId": "Ayl8JOHfVsQ",
-   "title": "【東京ライブカメラ】TOKYO LIVE CAMERA.  Mt'Fuji from Tokyo  富士山 紅富士 赤富士 東京からの富士山    #東京ライブカメラ #富士山東京 #東京夜景",
-   "embedUrl": "https://www.youtube.com/embed/Ayl8JOHfVsQ",
-   "watchUrl": "https://www.youtube.com/watch?v=Ayl8JOHfVsQ",
-   "thumb": "https://i.ytimg.com/vi/Ayl8JOHfVsQ/hqdefault_live.jpg"
+   "videoId": "OC6G5P839A4",
+   "title": "＃おうし座流星群極大日【星空と東京ライブカメラ】TOKYO STARRY SKY LIVE CAMERA 東京ライブカメラ 　#おうし座流星群#taurid meteor shower",
+   "embedUrl": "https://www.youtube.com/embed/OC6G5P839A4",
+   "watchUrl": "https://www.youtube.com/watch?v=OC6G5P839A4",
+   "thumb": "https://i.ytimg.com/vi/OC6G5P839A4/hqdefault_live.jpg"
   },
   "oshino": {
    "live": true,
