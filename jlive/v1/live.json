@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-05T21:57:23Z",
- "checked": "2026-11-05T21:57:23Z",
+ "updated": "2026-11-06T02:20:56Z",
+ "checked": "2026-11-06T02:20:56Z",
  "streams": {
   "tvasahi24": {
    "live": true,
@@ -12,19 +12,19 @@
   },
   "ntvlive": {
    "live": true,
-   "videoId": "2-3FRsruUFY",
-   "title": "【朝ニュースライブ】最新ニュースと生活情報（11月6日） ──THE LATEST NEWS SUMMARY（日テレNEWS LIVE）",
-   "embedUrl": "https://www.youtube.com/embed/2-3FRsruUFY",
-   "watchUrl": "https://www.youtube.com/watch?v=2-3FRsruUFY",
-   "thumb": "https://i.ytimg.com/vi/2-3FRsruUFY/hqdefault_live.jpg"
+   "videoId": "D_fz8Yojbew",
+   "title": "【情報漏えい】NTTドコモ  不正アクセスで顧客情報流出  携帯番号など最大約30万件―― 社会ニュースライブ（日テレNEWS LIVE）",
+   "embedUrl": "https://www.youtube.com/embed/D_fz8Yojbew",
+   "watchUrl": "https://www.youtube.com/watch?v=D_fz8Yojbew",
+   "thumb": "https://i.ytimg.com/vi/D_fz8Yojbew/hqdefault_live.jpg"
   },
   "weathernews": {
    "live": true,
-   "videoId": "BOLM0t9VHe8",
-   "title": "【ライブ】最新天気ニュース・地震情報 2026年11月6日(金)／日本海側は雨風強まり夜は北海道で雪 関東は季節逆戻りの暖かさ〈ウェザーニュースLiVEモーニング・佐藤剣慎／有賀哲夫〉",
-   "embedUrl": "https://www.youtube.com/embed/BOLM0t9VHe8",
-   "watchUrl": "https://www.youtube.com/watch?v=BOLM0t9VHe8",
-   "thumb": "https://i.ytimg.com/vi/BOLM0t9VHe8/hqdefault_live.jpg"
+   "videoId": "oG3J3ujJbcA",
+   "title": "【ライブ】最新天気ニュース・地震情報 2026年11月6日(金) ／関東は季節外れの暖かさ　夜は北海道で雪に〈ウェザーニュースLiVEコーヒータイム・岡本結子リサ／有賀哲夫〉",
+   "embedUrl": "https://www.youtube.com/embed/oG3J3ujJbcA",
+   "watchUrl": "https://www.youtube.com/watch?v=oG3J3ujJbcA",
+   "thumb": "https://i.ytimg.com/vi/oG3J3ujJbcA/hqdefault_live.jpg"
   },
   "quake": {
    "live": true,
@@ -51,20 +51,12 @@
    "thumb": "https://i.ytimg.com/vi/PMNZW_A5Zis/hqdefault_live.jpg"
   },
   "sakurajima": {
-   "live": true,
-   "videoId": "yRnOBGfhLGA",
-   "title": "ライブカメラ",
-   "embedUrl": "https://www.youtube.com/embed/yRnOBGfhLGA",
-   "watchUrl": "https://www.youtube.com/watch?v=yRnOBGfhLGA",
-   "thumb": "https://i.ytimg.com/vi/yRnOBGfhLGA/hqdefault_live.jpg"
+   "live": false,
+   "reason": "not-live"
   },
   "toba-otters": {
-   "live": true,
-   "videoId": "YonXVFE9C3g",
-   "title": "鳥羽水族館ラッコ水槽ライブカメラ　TOBA AUARIUIM SEA OTTER LIVE CAMERA",
-   "embedUrl": "https://www.youtube.com/embed/YonXVFE9C3g",
-   "watchUrl": "https://www.youtube.com/watch?v=YonXVFE9C3g",
-   "thumb": "https://i.ytimg.com/vi/YonXVFE9C3g/hqdefault_live.jpg"
+   "live": false,
+   "reason": "not-live"
   },
   "rcc": {
    "live": true,
@@ -76,11 +68,11 @@
   },
   "tbs": {
    "live": true,
-   "videoId": "PdLLK1FuSo4",
-   "title": "【ニュースライブ】朝のニュース（Japan News Digest Live）最新情報など（11月6日）｜TBS NEWS DIG",
-   "embedUrl": "https://www.youtube.com/embed/PdLLK1FuSo4",
-   "watchUrl": "https://www.youtube.com/watch?v=PdLLK1FuSo4",
-   "thumb": "https://i.ytimg.com/vi/PdLLK1FuSo4/hqdefault_live.jpg"
+   "videoId": "__z6SEQdGZY",
+   "title": "【ニュースライブ】昼のニュース（Japan News Digest Live）最新情報など（11月6日）｜TBS NEWS DIG",
+   "embedUrl": "https://www.youtube.com/embed/__z6SEQdGZY",
+   "watchUrl": "https://www.youtube.com/watch?v=__z6SEQdGZY",
+   "thumb": "https://i.ytimg.com/vi/__z6SEQdGZY/hqdefault_live.jpg"
   },
   "sapporo": {
    "live": true,
