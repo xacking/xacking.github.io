@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-06T17:26:39Z",
- "checked": "2026-11-06T17:26:39Z",
+ "updated": "2026-11-06T22:21:52Z",
+ "checked": "2026-11-06T22:21:52Z",
  "streams": {
   "tvasahi24": {
    "live": true,
@@ -12,19 +12,19 @@
   },
   "ntvlive": {
    "live": true,
-   "videoId": "Dyykcobczbk",
-   "title": "【アメリカライブ】共和党大敗受け“ルビオ国務長官が辞任検討”米報道　本人は否定 ── 国際ニュースライブ（日テレNEWS LIVE）",
-   "embedUrl": "https://www.youtube.com/embed/Dyykcobczbk",
-   "watchUrl": "https://www.youtube.com/watch?v=Dyykcobczbk",
-   "thumb": "https://i.ytimg.com/vi/Dyykcobczbk/hqdefault_live.jpg"
+   "videoId": "1OMMDGFfvJY",
+   "title": "【朝ニュースライブ】最新ニュースと生活情報（11月7日） ──THE LATEST NEWS SUMMARY（日テレNEWS LIVE）",
+   "embedUrl": "https://www.youtube.com/embed/1OMMDGFfvJY",
+   "watchUrl": "https://www.youtube.com/watch?v=1OMMDGFfvJY",
+   "thumb": "https://i.ytimg.com/vi/1OMMDGFfvJY/hqdefault_live.jpg"
   },
   "weathernews": {
    "live": true,
-   "videoId": "4UsaBHLIpdY",
-   "title": "【ライブ】最新天気ニュース・地震情報 2026年11月6日(金)23:00〜 ／立冬は強い冬型　北日本は大雪や暴風警戒〈ウェザーニュースLiVE〉",
-   "embedUrl": "https://www.youtube.com/embed/4UsaBHLIpdY",
-   "watchUrl": "https://www.youtube.com/watch?v=4UsaBHLIpdY",
-   "thumb": "https://i.ytimg.com/vi/4UsaBHLIpdY/hqdefault_live.jpg"
+   "videoId": "pV86JU3JquE",
+   "title": "【ライブ】最新天気ニュース・地震情報 2026年11月7日(土)／北海道から東北北部は大雪や吹雪　関東〜西日本は晴れても風が冷たい〈ウェザーニュースLiVEモーニング・松本真央／山口剛央〉",
+   "embedUrl": "https://www.youtube.com/embed/pV86JU3JquE",
+   "watchUrl": "https://www.youtube.com/watch?v=pV86JU3JquE",
+   "thumb": "https://i.ytimg.com/vi/pV86JU3JquE/hqdefault_live.jpg"
   },
   "quake": {
    "live": true,
@@ -72,19 +72,15 @@
   },
   "tbs": {
    "live": true,
-   "videoId": "VpqrhvuOLis",
-   "title": "【ニュースライブ】最新ニュースまとめ（Japan News Digest）（11月6日）｜TBS NEWS DIG",
-   "embedUrl": "https://www.youtube.com/embed/VpqrhvuOLis",
-   "watchUrl": "https://www.youtube.com/watch?v=VpqrhvuOLis",
-   "thumb": "https://i.ytimg.com/vi/VpqrhvuOLis/hqdefault_live.jpg"
+   "videoId": "-GkuIqptdC8",
+   "title": "【ニュースライブ】朝のニュース（Japan News Digest Live）最新情報など（11月7日）｜TBS NEWS DIG",
+   "embedUrl": "https://www.youtube.com/embed/-GkuIqptdC8",
+   "watchUrl": "https://www.youtube.com/watch?v=-GkuIqptdC8",
+   "thumb": "https://i.ytimg.com/vi/-GkuIqptdC8/hqdefault_live.jpg"
   },
   "sapporo": {
-   "live": true,
-   "videoId": "QMg2GT6dNZw",
-   "title": "［LIVE CAMERA］札幌 狸小路 ライブカメラ（４丁目） Tanukikoji Shopping Street in Sapporo, Hokkaido, Japan.",
-   "embedUrl": "https://www.youtube.com/embed/QMg2GT6dNZw",
-   "watchUrl": "https://www.youtube.com/watch?v=QMg2GT6dNZw",
-   "thumb": "https://i.ytimg.com/vi/QMg2GT6dNZw/hqdefault_live.jpg"
+   "live": false,
+   "reason": "not-live"
   },
   "niigata": {
    "live": true,
@@ -96,11 +92,11 @@
   },
   "tokyo-fuji": {
    "live": true,
-   "videoId": "XuvFqRyQ2OQ",
-   "title": "＃おうし座流星群極大日【星空と東京ライブカメラ】TOKYO STARRY SKY LIVE CAMERA 東京ライブカメラ 　#おうし座流星群#taurid meteor shower",
-   "embedUrl": "https://www.youtube.com/embed/XuvFqRyQ2OQ",
-   "watchUrl": "https://www.youtube.com/watch?v=XuvFqRyQ2OQ",
-   "thumb": "https://i.ytimg.com/vi/XuvFqRyQ2OQ/hqdefault_live.jpg"
+   "videoId": "ZNDBpFV7RJo",
+   "title": "【東京ライブカメラ】TOKYO LIVE CAMERA.  Mt'Fuji from Tokyo  富士山 紅富士 赤富士 東京からの富士山    #東京ライブカメラ #富士山東京 #東京夜景",
+   "embedUrl": "https://www.youtube.com/embed/ZNDBpFV7RJo",
+   "watchUrl": "https://www.youtube.com/watch?v=ZNDBpFV7RJo",
+   "thumb": "https://i.ytimg.com/vi/ZNDBpFV7RJo/hqdefault_live.jpg"
   },
   "oshino": {
    "live": true,
