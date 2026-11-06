@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-06T09:49:35Z",
- "checked": "2026-11-06T09:49:35Z",
+ "updated": "2026-11-06T17:26:39Z",
+ "checked": "2026-11-06T17:26:39Z",
  "streams": {
   "tvasahi24": {
    "live": true,
@@ -12,27 +12,27 @@
   },
   "ntvlive": {
    "live": true,
-   "videoId": "zyzszrn3HuA",
-   "title": "【情報漏えい】NTTドコモ  不正アクセスで顧客情報流出  携帯番号など最大約30万件―― 社会ニュースライブ（日テレNEWS LIVE）",
-   "embedUrl": "https://www.youtube.com/embed/zyzszrn3HuA",
-   "watchUrl": "https://www.youtube.com/watch?v=zyzszrn3HuA",
-   "thumb": "https://i.ytimg.com/vi/zyzszrn3HuA/hqdefault_live.jpg"
+   "videoId": "Dyykcobczbk",
+   "title": "【アメリカライブ】共和党大敗受け“ルビオ国務長官が辞任検討”米報道　本人は否定 ── 国際ニュースライブ（日テレNEWS LIVE）",
+   "embedUrl": "https://www.youtube.com/embed/Dyykcobczbk",
+   "watchUrl": "https://www.youtube.com/watch?v=Dyykcobczbk",
+   "thumb": "https://i.ytimg.com/vi/Dyykcobczbk/hqdefault_live.jpg"
   },
   "weathernews": {
    "live": true,
-   "videoId": "bEmV4S0-AAM",
-   "title": "【ライブ】最新天気ニュース・地震情報 2026年11月6日(金) ／明日北日本は雪や強風に注意〈ウェザーニュースLiVEイブニング・小川千奈／宇野沢達也〉",
-   "embedUrl": "https://www.youtube.com/embed/bEmV4S0-AAM",
-   "watchUrl": "https://www.youtube.com/watch?v=bEmV4S0-AAM",
-   "thumb": "https://i.ytimg.com/vi/bEmV4S0-AAM/hqdefault_live.jpg"
+   "videoId": "4UsaBHLIpdY",
+   "title": "【ライブ】最新天気ニュース・地震情報 2026年11月6日(金)23:00〜 ／立冬は強い冬型　北日本は大雪や暴風警戒〈ウェザーニュースLiVE〉",
+   "embedUrl": "https://www.youtube.com/embed/4UsaBHLIpdY",
+   "watchUrl": "https://www.youtube.com/watch?v=4UsaBHLIpdY",
+   "thumb": "https://i.ytimg.com/vi/4UsaBHLIpdY/hqdefault_live.jpg"
   },
   "quake": {
    "live": true,
-   "videoId": "0qIZzrYlXdc",
+   "videoId": "0Ymp8E8Kd0U",
    "title": "【地震ライブ】緊急地震速報 24時間リアルタイム配信中 ウェザーニュース／Earthquake Alert Japan Live",
-   "embedUrl": "https://www.youtube.com/embed/0qIZzrYlXdc",
-   "watchUrl": "https://www.youtube.com/watch?v=0qIZzrYlXdc",
-   "thumb": "https://i.ytimg.com/vi/0qIZzrYlXdc/hqdefault_live.jpg"
+   "embedUrl": "https://www.youtube.com/embed/0Ymp8E8Kd0U",
+   "watchUrl": "https://www.youtube.com/watch?v=0Ymp8E8Kd0U",
+   "thumb": "https://i.ytimg.com/vi/0Ymp8E8Kd0U/hqdefault_live.jpg"
   },
   "dotonbori": {
    "live": true,
@@ -72,11 +72,11 @@
   },
   "tbs": {
    "live": true,
-   "videoId": "0XjYCQgHSO0",
-   "title": "【ニュースライブ】夜のニュース（Japan News Digest Live）最新情報など（11月6日）｜TBS NEWS DIG",
-   "embedUrl": "https://www.youtube.com/embed/0XjYCQgHSO0",
-   "watchUrl": "https://www.youtube.com/watch?v=0XjYCQgHSO0",
-   "thumb": "https://i.ytimg.com/vi/0XjYCQgHSO0/hqdefault_live.jpg"
+   "videoId": "VpqrhvuOLis",
+   "title": "【ニュースライブ】最新ニュースまとめ（Japan News Digest）（11月6日）｜TBS NEWS DIG",
+   "embedUrl": "https://www.youtube.com/embed/VpqrhvuOLis",
+   "watchUrl": "https://www.youtube.com/watch?v=VpqrhvuOLis",
+   "thumb": "https://i.ytimg.com/vi/VpqrhvuOLis/hqdefault_live.jpg"
   },
   "sapporo": {
    "live": true,
