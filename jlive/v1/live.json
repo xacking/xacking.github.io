@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-07T02:20:52Z",
- "checked": "2026-11-07T02:20:52Z",
+ "updated": "2026-11-07T09:13:39Z",
+ "checked": "2026-11-07T09:13:39Z",
  "streams": {
   "tvasahi24": {
    "live": true,
@@ -12,19 +12,19 @@
   },
   "ntvlive": {
    "live": true,
-   "videoId": "1OMMDGFfvJY",
-   "title": "【朝ニュースライブ】最新ニュースと生活情報（11月7日） ──THE LATEST NEWS SUMMARY（日テレNEWS LIVE）",
-   "embedUrl": "https://www.youtube.com/embed/1OMMDGFfvJY",
-   "watchUrl": "https://www.youtube.com/watch?v=1OMMDGFfvJY",
-   "thumb": "https://i.ytimg.com/vi/1OMMDGFfvJY/hqdefault_live.jpg"
+   "videoId": "z-0XAKdqcvI",
+   "title": "【情報漏えい】NTTドコモ  流出した情報の一部に口座番号なども  最大30万件情報流出で会見―― 社会ニュースライブ（日テレNEWS LIVE）",
+   "embedUrl": "https://www.youtube.com/embed/z-0XAKdqcvI",
+   "watchUrl": "https://www.youtube.com/watch?v=z-0XAKdqcvI",
+   "thumb": "https://i.ytimg.com/vi/z-0XAKdqcvI/hqdefault_live.jpg"
   },
   "weathernews": {
    "live": true,
-   "videoId": "-iAPiYdoUgg",
-   "title": "【ライブ】最新天気ニュース・地震情報 2026年11月7日(土)／北海道から東北北部は大雪や吹雪　関東〜西日本は晴れても風が冷たい〈ウェザーニュースLiVEコーヒータイム・青原桃香／山口剛央〉",
-   "embedUrl": "https://www.youtube.com/embed/-iAPiYdoUgg",
-   "watchUrl": "https://www.youtube.com/watch?v=-iAPiYdoUgg",
-   "thumb": "https://i.ytimg.com/vi/-iAPiYdoUgg/hqdefault_live.jpg"
+   "videoId": "bSzHe0DPaPM",
+   "title": "【ライブ】最新天気ニュース・地震情報 2026年11月7日(土) ／北海道から東北北部は大雪や吹雪　関東〜西日本は晴れても風が冷たい〈ウェザーニュースLiVEイブニング・戸北美月／芳野達郎〉",
+   "embedUrl": "https://www.youtube.com/embed/bSzHe0DPaPM",
+   "watchUrl": "https://www.youtube.com/watch?v=bSzHe0DPaPM",
+   "thumb": "https://i.ytimg.com/vi/bSzHe0DPaPM/hqdefault_live.jpg"
   },
   "quake": {
    "live": true,
@@ -72,11 +72,11 @@
   },
   "tbs": {
    "live": true,
-   "videoId": "fLYXFeO5VZw",
-   "title": "【ニュースライブ】昼のニュース（Japan News Digest Live）最新情報など（11月7日）｜TBS NEWS DIG",
-   "embedUrl": "https://www.youtube.com/embed/fLYXFeO5VZw",
-   "watchUrl": "https://www.youtube.com/watch?v=fLYXFeO5VZw",
-   "thumb": "https://i.ytimg.com/vi/fLYXFeO5VZw/hqdefault_live.jpg"
+   "videoId": "2jPJpKM6Mb4",
+   "title": "【ニュースライブ】夜のニュース（Japan News Digest Live）最新情報など（11月7日）｜TBS NEWS DIG",
+   "embedUrl": "https://www.youtube.com/embed/2jPJpKM6Mb4",
+   "watchUrl": "https://www.youtube.com/watch?v=2jPJpKM6Mb4",
+   "thumb": "https://i.ytimg.com/vi/2jPJpKM6Mb4/hqdefault_live.jpg"
   },
   "sapporo": {
    "live": true,
@@ -87,20 +87,16 @@
    "thumb": "https://i.ytimg.com/vi/n7qPeOmLhtM/hqdefault_live.jpg"
   },
   "niigata": {
-   "live": true,
-   "videoId": "D0bMDv4ORxM",
-   "title": "【４Kライブ】絶景日本海ゆうひライブカメラ新潟市西区　Sunset Live Cam – Sea of Japan  Nishi-ku, Niigata",
-   "embedUrl": "https://www.youtube.com/embed/D0bMDv4ORxM",
-   "watchUrl": "https://www.youtube.com/watch?v=D0bMDv4ORxM",
-   "thumb": "https://i.ytimg.com/vi/D0bMDv4ORxM/hqdefault_live.jpg"
+   "live": false,
+   "reason": "not-live"
   },
   "tokyo-fuji": {
    "live": true,
-   "videoId": "ZNDBpFV7RJo",
-   "title": "【東京ライブカメラ】TOKYO LIVE CAMERA.  Mt'Fuji from Tokyo  富士山 紅富士 赤富士 東京からの富士山    #東京ライブカメラ #富士山東京 #東京夜景",
-   "embedUrl": "https://www.youtube.com/embed/ZNDBpFV7RJo",
-   "watchUrl": "https://www.youtube.com/watch?v=ZNDBpFV7RJo",
-   "thumb": "https://i.ytimg.com/vi/ZNDBpFV7RJo/hqdefault_live.jpg"
+   "videoId": "2xtshGGhMvQ",
+   "title": "＃おうし座流星群極大日【星空と東京ライブカメラ】TOKYO STARRY SKY LIVE CAMERA 東京ライブカメラ 　#おうし座流星群#taurid meteor shower",
+   "embedUrl": "https://www.youtube.com/embed/2xtshGGhMvQ",
+   "watchUrl": "https://www.youtube.com/watch?v=2xtshGGhMvQ",
+   "thumb": "https://i.ytimg.com/vi/2xtshGGhMvQ/hqdefault_live.jpg"
   },
   "oshino": {
    "live": true,
