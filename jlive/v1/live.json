@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-07T20:11:09Z",
- "checked": "2026-11-07T20:11:09Z",
+ "updated": "2026-11-07T23:55:58Z",
+ "checked": "2026-11-07T23:55:58Z",
  "streams": {
   "tvasahi24": {
    "live": true,
@@ -20,11 +20,11 @@
   },
   "weathernews": {
    "live": true,
-   "videoId": "y8T_vL8FmRw",
-   "title": "【ライブ】最新天気ニュース・地震情報 2026年11月8日(日)／北海道は寒気の影響が残り雪のところも〈ウェザーニュースLiVEモーニング・松本真央／山口剛央〉",
-   "embedUrl": "https://www.youtube.com/embed/y8T_vL8FmRw",
-   "watchUrl": "https://www.youtube.com/watch?v=y8T_vL8FmRw",
-   "thumb": "https://i.ytimg.com/vi/y8T_vL8FmRw/hqdefault_live.jpg"
+   "videoId": "OPZ_ssgoS-A",
+   "title": "【ライブ】最新天気ニュース・地震情報 2026年11月8日(日) ／北海道は寒気の影響が残り雪のところも〈ウェザーニュースLiVEサンシャイン・魚住茉由／山口剛央〉",
+   "embedUrl": "https://www.youtube.com/embed/OPZ_ssgoS-A",
+   "watchUrl": "https://www.youtube.com/watch?v=OPZ_ssgoS-A",
+   "thumb": "https://i.ytimg.com/vi/OPZ_ssgoS-A/hqdefault_live.jpg"
   },
   "quake": {
    "live": true,
@@ -96,11 +96,11 @@
   },
   "tokyo-fuji": {
    "live": true,
-   "videoId": "2xtshGGhMvQ",
-   "title": "＃おうし座流星群極大日【星空と東京ライブカメラ】TOKYO STARRY SKY LIVE CAMERA 東京ライブカメラ 　#おうし座流星群#taurid meteor shower",
-   "embedUrl": "https://www.youtube.com/embed/2xtshGGhMvQ",
-   "watchUrl": "https://www.youtube.com/watch?v=2xtshGGhMvQ",
-   "thumb": "https://i.ytimg.com/vi/2xtshGGhMvQ/hqdefault_live.jpg"
+   "videoId": "nlfGdBsD2TA",
+   "title": "【東京ライブカメラ】TOKYO LIVE CAMERA.  Mt'Fuji from Tokyo  富士山 紅富士 赤富士 東京からの富士山    #東京ライブカメラ #富士山東京 #東京夜景",
+   "embedUrl": "https://www.youtube.com/embed/nlfGdBsD2TA",
+   "watchUrl": "https://www.youtube.com/watch?v=nlfGdBsD2TA",
+   "thumb": "https://i.ytimg.com/vi/nlfGdBsD2TA/hqdefault_live.jpg"
   },
   "oshino": {
    "live": true,
