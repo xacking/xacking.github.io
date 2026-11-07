@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-07T09:13:39Z",
- "checked": "2026-11-07T09:13:39Z",
+ "updated": "2026-11-07T15:54:39Z",
+ "checked": "2026-11-07T15:54:39Z",
  "streams": {
   "tvasahi24": {
    "live": true,
@@ -12,27 +12,27 @@
   },
   "ntvlive": {
    "live": true,
-   "videoId": "z-0XAKdqcvI",
-   "title": "【情報漏えい】NTTドコモ  流出した情報の一部に口座番号なども  最大30万件情報流出で会見―― 社会ニュースライブ（日テレNEWS LIVE）",
-   "embedUrl": "https://www.youtube.com/embed/z-0XAKdqcvI",
-   "watchUrl": "https://www.youtube.com/watch?v=z-0XAKdqcvI",
-   "thumb": "https://i.ytimg.com/vi/z-0XAKdqcvI/hqdefault_live.jpg"
+   "videoId": "w5_IJ6LVLKY",
+   "title": "【夜ニュースライブ】最新ニュースと生活情報（11月7日） ──THE LATEST NEWS SUMMARY（日テレNEWS LIVE）",
+   "embedUrl": "https://www.youtube.com/embed/w5_IJ6LVLKY",
+   "watchUrl": "https://www.youtube.com/watch?v=w5_IJ6LVLKY",
+   "thumb": "https://i.ytimg.com/vi/w5_IJ6LVLKY/hqdefault_live.jpg"
   },
   "weathernews": {
    "live": true,
-   "videoId": "bSzHe0DPaPM",
-   "title": "【ライブ】最新天気ニュース・地震情報 2026年11月7日(土) ／北海道から東北北部は大雪や吹雪　関東〜西日本は晴れても風が冷たい〈ウェザーニュースLiVEイブニング・戸北美月／芳野達郎〉",
-   "embedUrl": "https://www.youtube.com/embed/bSzHe0DPaPM",
-   "watchUrl": "https://www.youtube.com/watch?v=bSzHe0DPaPM",
-   "thumb": "https://i.ytimg.com/vi/bSzHe0DPaPM/hqdefault_live.jpg"
+   "videoId": "YrpHaY1ceio",
+   "title": "【ライブ】最新天気ニュース・地震情報 2026年11月7日(土)23:00〜 ／北海道は雪や風が強まり荒れた天気に 今夜も積雪や強風に注意を〈ウェザーニュースLiVE〉",
+   "embedUrl": "https://www.youtube.com/embed/YrpHaY1ceio",
+   "watchUrl": "https://www.youtube.com/watch?v=YrpHaY1ceio",
+   "thumb": "https://i.ytimg.com/vi/YrpHaY1ceio/hqdefault_live.jpg"
   },
   "quake": {
    "live": true,
-   "videoId": "0Ymp8E8Kd0U",
+   "videoId": "rLkDOtgQ-Gk",
    "title": "【地震ライブ】緊急地震速報 24時間リアルタイム配信中 ウェザーニュース／Earthquake Alert Japan Live",
-   "embedUrl": "https://www.youtube.com/embed/0Ymp8E8Kd0U",
-   "watchUrl": "https://www.youtube.com/watch?v=0Ymp8E8Kd0U",
-   "thumb": "https://i.ytimg.com/vi/0Ymp8E8Kd0U/hqdefault_live.jpg"
+   "embedUrl": "https://www.youtube.com/embed/rLkDOtgQ-Gk",
+   "watchUrl": "https://www.youtube.com/watch?v=rLkDOtgQ-Gk",
+   "thumb": "https://i.ytimg.com/vi/rLkDOtgQ-Gk/hqdefault_live.jpg"
   },
   "dotonbori": {
    "live": true,
@@ -72,11 +72,11 @@
   },
   "tbs": {
    "live": true,
-   "videoId": "2jPJpKM6Mb4",
-   "title": "【ニュースライブ】夜のニュース（Japan News Digest Live）最新情報など（11月7日）｜TBS NEWS DIG",
-   "embedUrl": "https://www.youtube.com/embed/2jPJpKM6Mb4",
-   "watchUrl": "https://www.youtube.com/watch?v=2jPJpKM6Mb4",
-   "thumb": "https://i.ytimg.com/vi/2jPJpKM6Mb4/hqdefault_live.jpg"
+   "videoId": "jZrVlGLQWiU",
+   "title": "【ニュースライブ】最新ニュースまとめ（Japan News Digest）（11月7日）｜TBS NEWS DIG",
+   "embedUrl": "https://www.youtube.com/embed/jZrVlGLQWiU",
+   "watchUrl": "https://www.youtube.com/watch?v=jZrVlGLQWiU",
+   "thumb": "https://i.ytimg.com/vi/jZrVlGLQWiU/hqdefault_live.jpg"
   },
   "sapporo": {
    "live": true,
@@ -87,8 +87,12 @@
    "thumb": "https://i.ytimg.com/vi/n7qPeOmLhtM/hqdefault_live.jpg"
   },
   "niigata": {
-   "live": false,
-   "reason": "not-live"
+   "live": true,
+   "videoId": "D0bMDv4ORxM",
+   "title": "【４Kライブ】絶景日本海ゆうひライブカメラ新潟市西区　Sunset Live Cam – Sea of Japan  Nishi-ku, Niigata",
+   "embedUrl": "https://www.youtube.com/embed/D0bMDv4ORxM",
+   "watchUrl": "https://www.youtube.com/watch?v=D0bMDv4ORxM",
+   "thumb": "https://i.ytimg.com/vi/D0bMDv4ORxM/hqdefault_live.jpg"
   },
   "tokyo-fuji": {
    "live": true,
