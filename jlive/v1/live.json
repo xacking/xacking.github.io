@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-07T15:54:39Z",
- "checked": "2026-11-07T15:54:39Z",
+ "updated": "2026-11-07T20:11:09Z",
+ "checked": "2026-11-07T20:11:09Z",
  "streams": {
   "tvasahi24": {
    "live": true,
@@ -12,19 +12,19 @@
   },
   "ntvlive": {
    "live": true,
-   "videoId": "w5_IJ6LVLKY",
-   "title": "【夜ニュースライブ】最新ニュースと生活情報（11月7日） ──THE LATEST NEWS SUMMARY（日テレNEWS LIVE）",
-   "embedUrl": "https://www.youtube.com/embed/w5_IJ6LVLKY",
-   "watchUrl": "https://www.youtube.com/watch?v=w5_IJ6LVLKY",
-   "thumb": "https://i.ytimg.com/vi/w5_IJ6LVLKY/hqdefault_live.jpg"
+   "videoId": "l_Dou7wW-uY",
+   "title": "【朝ニュースライブ】最新ニュースと生活情報（11月8日） ──THE LATEST NEWS SUMMARY（日テレNEWS LIVE）",
+   "embedUrl": "https://www.youtube.com/embed/l_Dou7wW-uY",
+   "watchUrl": "https://www.youtube.com/watch?v=l_Dou7wW-uY",
+   "thumb": "https://i.ytimg.com/vi/l_Dou7wW-uY/hqdefault_live.jpg"
   },
   "weathernews": {
    "live": true,
-   "videoId": "YrpHaY1ceio",
-   "title": "【ライブ】最新天気ニュース・地震情報 2026年11月7日(土)23:00〜 ／北海道は雪や風が強まり荒れた天気に 今夜も積雪や強風に注意を〈ウェザーニュースLiVE〉",
-   "embedUrl": "https://www.youtube.com/embed/YrpHaY1ceio",
-   "watchUrl": "https://www.youtube.com/watch?v=YrpHaY1ceio",
-   "thumb": "https://i.ytimg.com/vi/YrpHaY1ceio/hqdefault_live.jpg"
+   "videoId": "y8T_vL8FmRw",
+   "title": "【ライブ】最新天気ニュース・地震情報 2026年11月8日(日)／北海道は寒気の影響が残り雪のところも〈ウェザーニュースLiVEモーニング・松本真央／山口剛央〉",
+   "embedUrl": "https://www.youtube.com/embed/y8T_vL8FmRw",
+   "watchUrl": "https://www.youtube.com/watch?v=y8T_vL8FmRw",
+   "thumb": "https://i.ytimg.com/vi/y8T_vL8FmRw/hqdefault_live.jpg"
   },
   "quake": {
    "live": true,
@@ -72,11 +72,11 @@
   },
   "tbs": {
    "live": true,
-   "videoId": "jZrVlGLQWiU",
-   "title": "【ニュースライブ】最新ニュースまとめ（Japan News Digest）（11月7日）｜TBS NEWS DIG",
-   "embedUrl": "https://www.youtube.com/embed/jZrVlGLQWiU",
-   "watchUrl": "https://www.youtube.com/watch?v=jZrVlGLQWiU",
-   "thumb": "https://i.ytimg.com/vi/jZrVlGLQWiU/hqdefault_live.jpg"
+   "videoId": "k_85QSzdqd8",
+   "title": "【ニュースライブ】朝のニュース（Japan News Digest Live）最新情報など（11月8日）｜TBS NEWS DIG",
+   "embedUrl": "https://www.youtube.com/embed/k_85QSzdqd8",
+   "watchUrl": "https://www.youtube.com/watch?v=k_85QSzdqd8",
+   "thumb": "https://i.ytimg.com/vi/k_85QSzdqd8/hqdefault_live.jpg"
   },
   "sapporo": {
    "live": true,
