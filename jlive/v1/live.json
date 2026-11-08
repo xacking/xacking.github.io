@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-08T13:15:29Z",
- "checked": "2026-11-08T13:15:29Z",
+ "updated": "2026-11-08T18:29:39Z",
+ "checked": "2026-11-08T18:29:39Z",
  "streams": {
   "tvasahi24": {
    "live": true,
@@ -20,19 +20,19 @@
   },
   "weathernews": {
    "live": true,
-   "videoId": "2U6OEwlbt8M",
-   "title": "【ライブ】最新天気ニュース・地震情報 2026年11月8日(日)20:00〜 ／広い範囲で雨や雪　関東や北日本は初冬の寒さ〈ウェザーニュースLiVEムーン・山岸愛梨／芳野達郎〉",
-   "embedUrl": "https://www.youtube.com/embed/2U6OEwlbt8M",
-   "watchUrl": "https://www.youtube.com/watch?v=2U6OEwlbt8M",
-   "thumb": "https://i.ytimg.com/vi/2U6OEwlbt8M/hqdefault_live.jpg"
+   "videoId": "Y3BAP2EqvPE",
+   "title": "【ライブ】最新天気ニュース・地震情報 2026年11月8日(日)23:00〜 ／関東は冷たい雨に　北海道は積雪増加に注意〈ウェザーニュースLiVE〉",
+   "embedUrl": "https://www.youtube.com/embed/Y3BAP2EqvPE",
+   "watchUrl": "https://www.youtube.com/watch?v=Y3BAP2EqvPE",
+   "thumb": "https://i.ytimg.com/vi/Y3BAP2EqvPE/hqdefault_live.jpg"
   },
   "quake": {
    "live": true,
-   "videoId": "rLkDOtgQ-Gk",
+   "videoId": "1qXC6VIktio",
    "title": "【地震ライブ】緊急地震速報 24時間リアルタイム配信中 ウェザーニュース／Earthquake Alert Japan Live",
-   "embedUrl": "https://www.youtube.com/embed/rLkDOtgQ-Gk",
-   "watchUrl": "https://www.youtube.com/watch?v=rLkDOtgQ-Gk",
-   "thumb": "https://i.ytimg.com/vi/rLkDOtgQ-Gk/hqdefault_live.jpg"
+   "embedUrl": "https://www.youtube.com/embed/1qXC6VIktio",
+   "watchUrl": "https://www.youtube.com/watch?v=1qXC6VIktio",
+   "thumb": "https://i.ytimg.com/vi/1qXC6VIktio/hqdefault_live.jpg"
   },
   "dotonbori": {
    "live": true,
@@ -51,12 +51,8 @@
    "thumb": "https://i.ytimg.com/vi/PMNZW_A5Zis/hqdefault_live.jpg"
   },
   "sakurajima": {
-   "live": true,
-   "videoId": "_-zotfJP-lU",
-   "title": "ライブカメラ",
-   "embedUrl": "https://www.youtube.com/embed/_-zotfJP-lU",
-   "watchUrl": "https://www.youtube.com/watch?v=_-zotfJP-lU",
-   "thumb": "https://i.ytimg.com/vi/_-zotfJP-lU/hqdefault_live.jpg"
+   "live": false,
+   "reason": "not-live"
   },
   "toba-otters": {
    "live": true,
@@ -83,8 +79,12 @@
    "thumb": "https://i.ytimg.com/vi/6UTp4V00cls/hqdefault_live.jpg"
   },
   "sapporo": {
-   "live": false,
-   "reason": "not-live"
+   "live": true,
+   "videoId": "Lh77fsvfiAs",
+   "title": "［LIVE CAMERA］札幌 狸小路 ライブカメラ（４丁目） Tanukikoji Shopping Street in Sapporo, Hokkaido, Japan.",
+   "embedUrl": "https://www.youtube.com/embed/Lh77fsvfiAs",
+   "watchUrl": "https://www.youtube.com/watch?v=Lh77fsvfiAs",
+   "thumb": "https://i.ytimg.com/vi/Lh77fsvfiAs/hqdefault_live.jpg"
   },
   "niigata": {
    "live": true,
@@ -127,12 +127,8 @@
    "thumb": "https://i.ytimg.com/vi/0ZN0CW-IpVk/hqdefault_live.jpg"
   },
   "kurushima": {
-   "live": true,
-   "videoId": "EAkfCe5VNFc",
-   "title": "【LIVE】来島海峡南側・今治港付近ライブカメラ｜船名・速力AIS｜Japan Ship Watching | Kurushima, Imabari | Ship Names & Speed",
-   "embedUrl": "https://www.youtube.com/embed/EAkfCe5VNFc",
-   "watchUrl": "https://www.youtube.com/watch?v=EAkfCe5VNFc",
-   "thumb": "https://i.ytimg.com/vi/EAkfCe5VNFc/hqdefault_live.jpg"
+   "live": false,
+   "reason": "not-live"
   },
   "r-nhkworld": {
    "live": true,
