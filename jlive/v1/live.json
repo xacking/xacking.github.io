@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-07T23:55:58Z",
- "checked": "2026-11-07T23:55:58Z",
+ "updated": "2026-11-08T05:53:39Z",
+ "checked": "2026-11-08T05:53:39Z",
  "streams": {
   "tvasahi24": {
    "live": true,
@@ -12,19 +12,19 @@
   },
   "ntvlive": {
    "live": true,
-   "videoId": "l_Dou7wW-uY",
-   "title": "【朝ニュースライブ】最新ニュースと生活情報（11月8日） ──THE LATEST NEWS SUMMARY（日テレNEWS LIVE）",
-   "embedUrl": "https://www.youtube.com/embed/l_Dou7wW-uY",
-   "watchUrl": "https://www.youtube.com/watch?v=l_Dou7wW-uY",
-   "thumb": "https://i.ytimg.com/vi/l_Dou7wW-uY/hqdefault_live.jpg"
+   "videoId": "DWcyLbhtK_I",
+   "title": "【アメリカライブ】トランプ大統領「暴力的なファイターで戦士」総合格闘技団体CEOに報道官打診 ── 国際ニュースライブ（日テレNEWS LIVE）",
+   "embedUrl": "https://www.youtube.com/embed/DWcyLbhtK_I",
+   "watchUrl": "https://www.youtube.com/watch?v=DWcyLbhtK_I",
+   "thumb": "https://i.ytimg.com/vi/DWcyLbhtK_I/hqdefault_live.jpg"
   },
   "weathernews": {
    "live": true,
-   "videoId": "OPZ_ssgoS-A",
-   "title": "【ライブ】最新天気ニュース・地震情報 2026年11月8日(日) ／北海道は寒気の影響が残り雪のところも〈ウェザーニュースLiVEサンシャイン・魚住茉由／山口剛央〉",
-   "embedUrl": "https://www.youtube.com/embed/OPZ_ssgoS-A",
-   "watchUrl": "https://www.youtube.com/watch?v=OPZ_ssgoS-A",
-   "thumb": "https://i.ytimg.com/vi/OPZ_ssgoS-A/hqdefault_live.jpg"
+   "videoId": "gkOeIK1mmzY",
+   "title": "【ライブ】最新天気ニュース・地震情報 2026年11月8日(日)／北海道は寒気の影響が残り雪のところも〈ウェザーニュースLiVEアフタヌーン・小林李衣奈／芳野達郎〉",
+   "embedUrl": "https://www.youtube.com/embed/gkOeIK1mmzY",
+   "watchUrl": "https://www.youtube.com/watch?v=gkOeIK1mmzY",
+   "thumb": "https://i.ytimg.com/vi/gkOeIK1mmzY/hqdefault_live.jpg"
   },
   "quake": {
    "live": true,
@@ -51,8 +51,12 @@
    "thumb": "https://i.ytimg.com/vi/PMNZW_A5Zis/hqdefault_live.jpg"
   },
   "sakurajima": {
-   "live": false,
-   "reason": "not-live"
+   "live": true,
+   "videoId": "_-zotfJP-lU",
+   "title": "ライブカメラ",
+   "embedUrl": "https://www.youtube.com/embed/_-zotfJP-lU",
+   "watchUrl": "https://www.youtube.com/watch?v=_-zotfJP-lU",
+   "thumb": "https://i.ytimg.com/vi/_-zotfJP-lU/hqdefault_live.jpg"
   },
   "toba-otters": {
    "live": true,
@@ -72,11 +76,11 @@
   },
   "tbs": {
    "live": true,
-   "videoId": "k_85QSzdqd8",
-   "title": "【ニュースライブ】朝のニュース（Japan News Digest Live）最新情報など（11月8日）｜TBS NEWS DIG",
-   "embedUrl": "https://www.youtube.com/embed/k_85QSzdqd8",
-   "watchUrl": "https://www.youtube.com/watch?v=k_85QSzdqd8",
-   "thumb": "https://i.ytimg.com/vi/k_85QSzdqd8/hqdefault_live.jpg"
+   "videoId": "YSHup00eGM0",
+   "title": "【ニュースライブ】昼のニュース（Japan News Digest Live）最新情報など（11月8日）｜TBS NEWS DIG",
+   "embedUrl": "https://www.youtube.com/embed/YSHup00eGM0",
+   "watchUrl": "https://www.youtube.com/watch?v=YSHup00eGM0",
+   "thumb": "https://i.ytimg.com/vi/YSHup00eGM0/hqdefault_live.jpg"
   },
   "sapporo": {
    "live": true,
