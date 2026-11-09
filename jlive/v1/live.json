@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-09T01:56:46Z",
- "checked": "2026-11-09T01:56:46Z",
+ "updated": "2026-11-09T09:40:13Z",
+ "checked": "2026-11-09T09:40:13Z",
  "streams": {
   "tvasahi24": {
    "live": true,
@@ -12,19 +12,19 @@
   },
   "ntvlive": {
    "live": true,
-   "videoId": "QlZX-NdjzE0",
-   "title": "【情報漏えい】“日本も標的”北朝鮮ハッカー集団か“会話”入手　サイバー攻撃の裏側、身近に広がるリスク―― 社会ニュースライブ（日テレNEWS LIVE）",
-   "embedUrl": "https://www.youtube.com/embed/QlZX-NdjzE0",
-   "watchUrl": "https://www.youtube.com/watch?v=QlZX-NdjzE0",
-   "thumb": "https://i.ytimg.com/vi/QlZX-NdjzE0/hqdefault_live.jpg"
+   "videoId": "yR4hKDEvqfA",
+   "title": "【夜ニュースライブ】最新ニュースと生活情報（11月9日） ──THE LATEST NEWS SUMMARY（日テレNEWS LIVE）",
+   "embedUrl": "https://www.youtube.com/embed/yR4hKDEvqfA",
+   "watchUrl": "https://www.youtube.com/watch?v=yR4hKDEvqfA",
+   "thumb": "https://i.ytimg.com/vi/yR4hKDEvqfA/hqdefault_live.jpg"
   },
   "weathernews": {
    "live": true,
-   "videoId": "jT1xsxt-5bk",
-   "title": "【ライブ】最新天気ニュース・地震情報 2026年11月9日(月)／広い範囲で雨や雪 関東や北日本は初冬の寒さ〈ウェザーニュースLiVEコーヒータイム・岡本結子リサ／有賀哲夫〉",
-   "embedUrl": "https://www.youtube.com/embed/jT1xsxt-5bk",
-   "watchUrl": "https://www.youtube.com/watch?v=jT1xsxt-5bk",
-   "thumb": "https://i.ytimg.com/vi/jT1xsxt-5bk/hqdefault_live.jpg"
+   "videoId": "-pmkvRN-6VQ",
+   "title": "【ライブ】最新天気ニュース・地震情報 2026年11月9日(月) ／広い範囲で雨や雪 関東や北日本は初冬の寒さ〈ウェザーニュースLiVEイブニング・小林李衣奈／本田竜也〉",
+   "embedUrl": "https://www.youtube.com/embed/-pmkvRN-6VQ",
+   "watchUrl": "https://www.youtube.com/watch?v=-pmkvRN-6VQ",
+   "thumb": "https://i.ytimg.com/vi/-pmkvRN-6VQ/hqdefault_live.jpg"
   },
   "quake": {
    "live": true,
@@ -76,11 +76,11 @@
   },
   "tbs": {
    "live": true,
-   "videoId": "F-e3JSif8bE",
-   "title": "【ニュースライブ】朝のニュース（Japan News Digest Live）最新情報など（11月9日）｜TBS NEWS DIG",
-   "embedUrl": "https://www.youtube.com/embed/F-e3JSif8bE",
-   "watchUrl": "https://www.youtube.com/watch?v=F-e3JSif8bE",
-   "thumb": "https://i.ytimg.com/vi/F-e3JSif8bE/hqdefault_live.jpg"
+   "videoId": "ArLX681QYv8",
+   "title": "【ニュースライブ】夜のニュース（Japan News Digest Live）最新情報など（11月9日）｜TBS NEWS DIG",
+   "embedUrl": "https://www.youtube.com/embed/ArLX681QYv8",
+   "watchUrl": "https://www.youtube.com/watch?v=ArLX681QYv8",
+   "thumb": "https://i.ytimg.com/vi/ArLX681QYv8/hqdefault_live.jpg"
   },
   "sapporo": {
    "live": true,
@@ -91,20 +91,16 @@
    "thumb": "https://i.ytimg.com/vi/Lh77fsvfiAs/hqdefault_live.jpg"
   },
   "niigata": {
-   "live": true,
-   "videoId": "D0bMDv4ORxM",
-   "title": "【４Kライブ】絶景日本海ゆうひライブカメラ新潟市西区　Sunset Live Cam – Sea of Japan  Nishi-ku, Niigata",
-   "embedUrl": "https://www.youtube.com/embed/D0bMDv4ORxM",
-   "watchUrl": "https://www.youtube.com/watch?v=D0bMDv4ORxM",
-   "thumb": "https://i.ytimg.com/vi/D0bMDv4ORxM/hqdefault_live.jpg"
+   "live": false,
+   "reason": "not-live"
   },
   "tokyo-fuji": {
    "live": true,
-   "videoId": "Jzx8Zz4KJPg",
-   "title": "【東京ライブカメラ】TOKYO LIVE CAMERA.  Mt'Fuji from Tokyo  富士山 紅富士 赤富士 東京からの富士山    #東京ライブカメラ #富士山東京 #東京夜景",
-   "embedUrl": "https://www.youtube.com/embed/Jzx8Zz4KJPg",
-   "watchUrl": "https://www.youtube.com/watch?v=Jzx8Zz4KJPg",
-   "thumb": "https://i.ytimg.com/vi/Jzx8Zz4KJPg/hqdefault_live.jpg"
+   "videoId": "xQy3mIgTzkw",
+   "title": "＃おうし座流星群極大日【星空と東京ライブカメラ】TOKYO STARRY SKY LIVE CAMERA 東京ライブカメラ 　#おうし座流星群#taurid meteor shower",
+   "embedUrl": "https://www.youtube.com/embed/xQy3mIgTzkw",
+   "watchUrl": "https://www.youtube.com/watch?v=xQy3mIgTzkw",
+   "thumb": "https://i.ytimg.com/vi/xQy3mIgTzkw/hqdefault_live.jpg"
   },
   "oshino": {
    "live": true,
