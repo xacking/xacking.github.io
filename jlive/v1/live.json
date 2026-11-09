@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-08T22:28:03Z",
- "checked": "2026-11-08T22:28:03Z",
+ "updated": "2026-11-09T01:56:46Z",
+ "checked": "2026-11-09T01:56:46Z",
  "streams": {
   "tvasahi24": {
    "live": true,
@@ -12,19 +12,19 @@
   },
   "ntvlive": {
    "live": true,
-   "videoId": "NwtnKYpRfBs",
-   "title": "【朝ニュースライブ】最新ニュースと生活情報（11月9日） ──THE LATEST NEWS SUMMARY（日テレNEWS LIVE）",
-   "embedUrl": "https://www.youtube.com/embed/NwtnKYpRfBs",
-   "watchUrl": "https://www.youtube.com/watch?v=NwtnKYpRfBs",
-   "thumb": "https://i.ytimg.com/vi/NwtnKYpRfBs/hqdefault_live.jpg"
+   "videoId": "QlZX-NdjzE0",
+   "title": "【情報漏えい】“日本も標的”北朝鮮ハッカー集団か“会話”入手　サイバー攻撃の裏側、身近に広がるリスク―― 社会ニュースライブ（日テレNEWS LIVE）",
+   "embedUrl": "https://www.youtube.com/embed/QlZX-NdjzE0",
+   "watchUrl": "https://www.youtube.com/watch?v=QlZX-NdjzE0",
+   "thumb": "https://i.ytimg.com/vi/QlZX-NdjzE0/hqdefault_live.jpg"
   },
   "weathernews": {
    "live": true,
-   "videoId": "dLy_IxzEYw4",
-   "title": "【ライブ】最新天気ニュース・地震情報 2026年11月9日(月)／広い範囲で雨や雪 関東や北日本は初冬の寒さ〈ウェザーニュースLiVEモーニング・福吉貴文／有賀哲夫〉",
-   "embedUrl": "https://www.youtube.com/embed/dLy_IxzEYw4",
-   "watchUrl": "https://www.youtube.com/watch?v=dLy_IxzEYw4",
-   "thumb": "https://i.ytimg.com/vi/dLy_IxzEYw4/hqdefault_live.jpg"
+   "videoId": "jT1xsxt-5bk",
+   "title": "【ライブ】最新天気ニュース・地震情報 2026年11月9日(月)／広い範囲で雨や雪 関東や北日本は初冬の寒さ〈ウェザーニュースLiVEコーヒータイム・岡本結子リサ／有賀哲夫〉",
+   "embedUrl": "https://www.youtube.com/embed/jT1xsxt-5bk",
+   "watchUrl": "https://www.youtube.com/watch?v=jT1xsxt-5bk",
+   "thumb": "https://i.ytimg.com/vi/jT1xsxt-5bk/hqdefault_live.jpg"
   },
   "quake": {
    "live": true,
@@ -51,8 +51,12 @@
    "thumb": "https://i.ytimg.com/vi/PMNZW_A5Zis/hqdefault_live.jpg"
   },
   "sakurajima": {
-   "live": false,
-   "reason": "not-live"
+   "live": true,
+   "videoId": "EwexeiBKWOc",
+   "title": "ライブカメラ",
+   "embedUrl": "https://www.youtube.com/embed/EwexeiBKWOc",
+   "watchUrl": "https://www.youtube.com/watch?v=EwexeiBKWOc",
+   "thumb": "https://i.ytimg.com/vi/EwexeiBKWOc/hqdefault_live.jpg"
   },
   "toba-otters": {
    "live": true,
@@ -71,8 +75,12 @@
    "thumb": "https://i.ytimg.com/vi/fFjVclXAYKk/hqdefault_live.jpg"
   },
   "tbs": {
-   "live": false,
-   "reason": "not-live"
+   "live": true,
+   "videoId": "F-e3JSif8bE",
+   "title": "【ニュースライブ】朝のニュース（Japan News Digest Live）最新情報など（11月9日）｜TBS NEWS DIG",
+   "embedUrl": "https://www.youtube.com/embed/F-e3JSif8bE",
+   "watchUrl": "https://www.youtube.com/watch?v=F-e3JSif8bE",
+   "thumb": "https://i.ytimg.com/vi/F-e3JSif8bE/hqdefault_live.jpg"
   },
   "sapporo": {
    "live": true,
