@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-09T20:40:20Z",
- "checked": "2026-11-09T20:40:20Z",
+ "updated": "2026-11-10T03:29:26Z",
+ "checked": "2026-11-10T03:29:26Z",
  "streams": {
   "tvasahi24": {
    "live": true,
@@ -11,20 +11,16 @@
    "thumb": "https://i.ytimg.com/vi/coYw-eVU0Ks/hqdefault_live.jpg"
   },
   "ntvlive": {
-   "live": true,
-   "videoId": "ojCELzbwKjI",
-   "title": "【朝ニュースライブ】最新ニュースと生活情報（11月10日） ──THE LATEST NEWS SUMMARY（日テレNEWS LIVE）",
-   "embedUrl": "https://www.youtube.com/embed/ojCELzbwKjI",
-   "watchUrl": "https://www.youtube.com/watch?v=ojCELzbwKjI",
-   "thumb": "https://i.ytimg.com/vi/ojCELzbwKjI/hqdefault_live.jpg"
+   "live": false,
+   "reason": "not-live"
   },
   "weathernews": {
    "live": true,
-   "videoId": "xxk5taHijE4",
-   "title": "【ライブ】最新天気ニュース・地震情報 2026年11月10日(火)／北日本は厳しい寒さ　関東以西の天気は回復傾向〈ウェザーニュースLiVEモーニング・福吉貴文／飯島栄一〉",
-   "embedUrl": "https://www.youtube.com/embed/xxk5taHijE4",
-   "watchUrl": "https://www.youtube.com/watch?v=xxk5taHijE4",
-   "thumb": "https://i.ytimg.com/vi/xxk5taHijE4/hqdefault_live.jpg"
+   "videoId": "vffINurdqkA",
+   "title": "【ライブ】最新天気ニュース・地震情報 2026年11月10日(火) ／北日本は厳しい寒さ　関東以西の天気は回復傾向〈ウェザーニュースLiVEコーヒータイム・駒木結衣／飯島栄一〉",
+   "embedUrl": "https://www.youtube.com/embed/vffINurdqkA",
+   "watchUrl": "https://www.youtube.com/watch?v=vffINurdqkA",
+   "thumb": "https://i.ytimg.com/vi/vffINurdqkA/hqdefault_live.jpg"
   },
   "quake": {
    "live": true,
@@ -55,8 +51,12 @@
    "reason": "not-live"
   },
   "toba-otters": {
-   "live": false,
-   "reason": "not-live"
+   "live": true,
+   "videoId": "YonXVFE9C3g",
+   "title": "鳥羽水族館ラッコ水槽ライブカメラ　TOBA AUARIUIM SEA OTTER LIVE CAMERA",
+   "embedUrl": "https://www.youtube.com/embed/YonXVFE9C3g",
+   "watchUrl": "https://www.youtube.com/watch?v=YonXVFE9C3g",
+   "thumb": "https://i.ytimg.com/vi/YonXVFE9C3g/hqdefault_live.jpg"
   },
   "rcc": {
    "live": true,
@@ -68,11 +68,11 @@
   },
   "tbs": {
    "live": true,
-   "videoId": "MOlwle0lkyU",
-   "title": "【ニュースライブ】朝のニュース（Japan News Digest Live）最新情報など（11月10日）｜TBS NEWS DIG",
-   "embedUrl": "https://www.youtube.com/embed/MOlwle0lkyU",
-   "watchUrl": "https://www.youtube.com/watch?v=MOlwle0lkyU",
-   "thumb": "https://i.ytimg.com/vi/MOlwle0lkyU/hqdefault_live.jpg"
+   "videoId": "bU5VuCH3FQ8",
+   "title": "【ニュースライブ】昼のニュース（Japan News Digest Live）最新情報など（11月10日）｜TBS NEWS DIG",
+   "embedUrl": "https://www.youtube.com/embed/bU5VuCH3FQ8",
+   "watchUrl": "https://www.youtube.com/watch?v=bU5VuCH3FQ8",
+   "thumb": "https://i.ytimg.com/vi/bU5VuCH3FQ8/hqdefault_live.jpg"
   },
   "sapporo": {
    "live": true,
@@ -83,16 +83,20 @@
    "thumb": "https://i.ytimg.com/vi/Lh77fsvfiAs/hqdefault_live.jpg"
   },
   "niigata": {
-   "live": false,
-   "reason": "not-live"
+   "live": true,
+   "videoId": "UrNQzykKfU8",
+   "title": "【４Kライブ】絶景日本海ゆうひライブカメラ新潟市西区　Sunset Live Cam – Sea of Japan  Nishi-ku, Niigata",
+   "embedUrl": "https://www.youtube.com/embed/UrNQzykKfU8",
+   "watchUrl": "https://www.youtube.com/watch?v=UrNQzykKfU8",
+   "thumb": "https://i.ytimg.com/vi/UrNQzykKfU8/hqdefault_live.jpg"
   },
   "tokyo-fuji": {
    "live": true,
-   "videoId": "xQy3mIgTzkw",
-   "title": "＃おうし座流星群極大日【星空と東京ライブカメラ】TOKYO STARRY SKY LIVE CAMERA 東京ライブカメラ 　#おうし座流星群#taurid meteor shower",
-   "embedUrl": "https://www.youtube.com/embed/xQy3mIgTzkw",
-   "watchUrl": "https://www.youtube.com/watch?v=xQy3mIgTzkw",
-   "thumb": "https://i.ytimg.com/vi/xQy3mIgTzkw/hqdefault_live.jpg"
+   "videoId": "zDYkjiQ0qI0",
+   "title": "【東京ライブカメラ】TOKYO LIVE CAMERA.  Mt'Fuji from Tokyo  富士山 紅富士 赤富士 東京からの富士山    #東京ライブカメラ #富士山東京 #東京夜景",
+   "embedUrl": "https://www.youtube.com/embed/zDYkjiQ0qI0",
+   "watchUrl": "https://www.youtube.com/watch?v=zDYkjiQ0qI0",
+   "thumb": "https://i.ytimg.com/vi/zDYkjiQ0qI0/hqdefault_live.jpg"
   },
   "oshino": {
    "live": true,
