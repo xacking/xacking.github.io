@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-10T11:43:10Z",
- "checked": "2026-11-10T11:43:10Z",
+ "updated": "2026-11-10T19:39:59Z",
+ "checked": "2026-11-10T19:39:59Z",
  "streams": {
   "tvasahi24": {
    "live": true,
@@ -12,27 +12,27 @@
   },
   "ntvlive": {
    "live": true,
-   "videoId": "moStw21u9ig",
+   "videoId": "jmqF3cjsvJ8",
    "title": "【夜ニュースライブ】最新ニュースと生活情報（11月10日） ──THE LATEST NEWS SUMMARY（日テレNEWS LIVE）",
-   "embedUrl": "https://www.youtube.com/embed/moStw21u9ig",
-   "watchUrl": "https://www.youtube.com/watch?v=moStw21u9ig",
-   "thumb": "https://i.ytimg.com/vi/moStw21u9ig/hqdefault_live.jpg"
+   "embedUrl": "https://www.youtube.com/embed/jmqF3cjsvJ8",
+   "watchUrl": "https://www.youtube.com/watch?v=jmqF3cjsvJ8",
+   "thumb": "https://i.ytimg.com/vi/jmqF3cjsvJ8/hqdefault_live.jpg"
   },
   "weathernews": {
    "live": true,
-   "videoId": "oMHYuElC5i8",
-   "title": "【ライブ】最新天気ニュース・地震情報 2026年11月10日(火)20:00〜 ／明日 北日本は、日本海側を中心に雲が広がりやすい〈ウェザーニュースLiVEムーン・戸北美月／宇野沢達也〉",
-   "embedUrl": "https://www.youtube.com/embed/oMHYuElC5i8",
-   "watchUrl": "https://www.youtube.com/watch?v=oMHYuElC5i8",
-   "thumb": "https://i.ytimg.com/vi/oMHYuElC5i8/hqdefault_live.jpg"
+   "videoId": "U_XoJJ8D1GI",
+   "title": "【ライブ】最新天気ニュース・地震情報 2026年11月11日(水)／〈ウェザーニュースLiVEモーニング・魚住茉由／飯島栄一〉",
+   "embedUrl": "https://www.youtube.com/embed/U_XoJJ8D1GI",
+   "watchUrl": "https://www.youtube.com/watch?v=U_XoJJ8D1GI",
+   "thumb": "https://i.ytimg.com/vi/U_XoJJ8D1GI/hqdefault_live.jpg"
   },
   "quake": {
    "live": true,
-   "videoId": "vQlevt2p1E4",
+   "videoId": "fwKWZS7wFFg",
    "title": "【地震ライブ】緊急地震速報 24時間リアルタイム配信中 ウェザーニュース／Earthquake Alert Japan Live",
-   "embedUrl": "https://www.youtube.com/embed/vQlevt2p1E4",
-   "watchUrl": "https://www.youtube.com/watch?v=vQlevt2p1E4",
-   "thumb": "https://i.ytimg.com/vi/vQlevt2p1E4/hqdefault_live.jpg"
+   "embedUrl": "https://www.youtube.com/embed/fwKWZS7wFFg",
+   "watchUrl": "https://www.youtube.com/watch?v=fwKWZS7wFFg",
+   "thumb": "https://i.ytimg.com/vi/fwKWZS7wFFg/hqdefault_live.jpg"
   },
   "dotonbori": {
    "live": true,
@@ -72,11 +72,11 @@
   },
   "tbs": {
    "live": true,
-   "videoId": "pqula4ZuTcI",
-   "title": "【ニュースライブ】夜のニュース（Japan News Digest Live）最新情報など（11月10日）｜TBS NEWS DIG",
-   "embedUrl": "https://www.youtube.com/embed/pqula4ZuTcI",
-   "watchUrl": "https://www.youtube.com/watch?v=pqula4ZuTcI",
-   "thumb": "https://i.ytimg.com/vi/pqula4ZuTcI/hqdefault_live.jpg"
+   "videoId": "x6m7ok5ILA0",
+   "title": "【ニュースライブ】最新ニュースまとめ（Japan News Digest）（11月10日）｜TBS NEWS DIG",
+   "embedUrl": "https://www.youtube.com/embed/x6m7ok5ILA0",
+   "watchUrl": "https://www.youtube.com/watch?v=x6m7ok5ILA0",
+   "thumb": "https://i.ytimg.com/vi/x6m7ok5ILA0/hqdefault_live.jpg"
   },
   "sapporo": {
    "live": true,
