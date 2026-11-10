@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-10T03:29:26Z",
- "checked": "2026-11-10T03:29:26Z",
+ "updated": "2026-11-10T11:43:10Z",
+ "checked": "2026-11-10T11:43:10Z",
  "streams": {
   "tvasahi24": {
    "live": true,
@@ -11,16 +11,20 @@
    "thumb": "https://i.ytimg.com/vi/coYw-eVU0Ks/hqdefault_live.jpg"
   },
   "ntvlive": {
-   "live": false,
-   "reason": "not-live"
+   "live": true,
+   "videoId": "moStw21u9ig",
+   "title": "【夜ニュースライブ】最新ニュースと生活情報（11月10日） ──THE LATEST NEWS SUMMARY（日テレNEWS LIVE）",
+   "embedUrl": "https://www.youtube.com/embed/moStw21u9ig",
+   "watchUrl": "https://www.youtube.com/watch?v=moStw21u9ig",
+   "thumb": "https://i.ytimg.com/vi/moStw21u9ig/hqdefault_live.jpg"
   },
   "weathernews": {
    "live": true,
-   "videoId": "vffINurdqkA",
-   "title": "【ライブ】最新天気ニュース・地震情報 2026年11月10日(火) ／北日本は厳しい寒さ　関東以西の天気は回復傾向〈ウェザーニュースLiVEコーヒータイム・駒木結衣／飯島栄一〉",
-   "embedUrl": "https://www.youtube.com/embed/vffINurdqkA",
-   "watchUrl": "https://www.youtube.com/watch?v=vffINurdqkA",
-   "thumb": "https://i.ytimg.com/vi/vffINurdqkA/hqdefault_live.jpg"
+   "videoId": "oMHYuElC5i8",
+   "title": "【ライブ】最新天気ニュース・地震情報 2026年11月10日(火)20:00〜 ／明日 北日本は、日本海側を中心に雲が広がりやすい〈ウェザーニュースLiVEムーン・戸北美月／宇野沢達也〉",
+   "embedUrl": "https://www.youtube.com/embed/oMHYuElC5i8",
+   "watchUrl": "https://www.youtube.com/watch?v=oMHYuElC5i8",
+   "thumb": "https://i.ytimg.com/vi/oMHYuElC5i8/hqdefault_live.jpg"
   },
   "quake": {
    "live": true,
@@ -60,19 +64,19 @@
   },
   "rcc": {
    "live": true,
-   "videoId": "fFjVclXAYKk",
+   "videoId": "uKZAB-EWw8E",
    "title": "【24h LIVE】広島最新ニュース　～24時間ライブ配信中～【RCC NEWS DIG】",
-   "embedUrl": "https://www.youtube.com/embed/fFjVclXAYKk",
-   "watchUrl": "https://www.youtube.com/watch?v=fFjVclXAYKk",
-   "thumb": "https://i.ytimg.com/vi/fFjVclXAYKk/hqdefault_live.jpg"
+   "embedUrl": "https://www.youtube.com/embed/uKZAB-EWw8E",
+   "watchUrl": "https://www.youtube.com/watch?v=uKZAB-EWw8E",
+   "thumb": "https://i.ytimg.com/vi/uKZAB-EWw8E/hqdefault_live.jpg"
   },
   "tbs": {
    "live": true,
-   "videoId": "bU5VuCH3FQ8",
-   "title": "【ニュースライブ】昼のニュース（Japan News Digest Live）最新情報など（11月10日）｜TBS NEWS DIG",
-   "embedUrl": "https://www.youtube.com/embed/bU5VuCH3FQ8",
-   "watchUrl": "https://www.youtube.com/watch?v=bU5VuCH3FQ8",
-   "thumb": "https://i.ytimg.com/vi/bU5VuCH3FQ8/hqdefault_live.jpg"
+   "videoId": "pqula4ZuTcI",
+   "title": "【ニュースライブ】夜のニュース（Japan News Digest Live）最新情報など（11月10日）｜TBS NEWS DIG",
+   "embedUrl": "https://www.youtube.com/embed/pqula4ZuTcI",
+   "watchUrl": "https://www.youtube.com/watch?v=pqula4ZuTcI",
+   "thumb": "https://i.ytimg.com/vi/pqula4ZuTcI/hqdefault_live.jpg"
   },
   "sapporo": {
    "live": true,
@@ -92,11 +96,11 @@
   },
   "tokyo-fuji": {
    "live": true,
-   "videoId": "zDYkjiQ0qI0",
-   "title": "【東京ライブカメラ】TOKYO LIVE CAMERA.  Mt'Fuji from Tokyo  富士山 紅富士 赤富士 東京からの富士山    #東京ライブカメラ #富士山東京 #東京夜景",
-   "embedUrl": "https://www.youtube.com/embed/zDYkjiQ0qI0",
-   "watchUrl": "https://www.youtube.com/watch?v=zDYkjiQ0qI0",
-   "thumb": "https://i.ytimg.com/vi/zDYkjiQ0qI0/hqdefault_live.jpg"
+   "videoId": "_egqtpSUGck",
+   "title": "＃おうし座流星群極大日【星空と東京ライブカメラ】TOKYO STARRY SKY LIVE CAMERA 東京ライブカメラ 　#おうし座流星群#taurid meteor shower",
+   "embedUrl": "https://www.youtube.com/embed/_egqtpSUGck",
+   "watchUrl": "https://www.youtube.com/watch?v=_egqtpSUGck",
+   "thumb": "https://i.ytimg.com/vi/_egqtpSUGck/hqdefault_live.jpg"
   },
   "oshino": {
    "live": true,
