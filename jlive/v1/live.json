@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-10T19:39:59Z",
- "checked": "2026-11-10T19:39:59Z",
+ "updated": "2026-11-11T00:37:37Z",
+ "checked": "2026-11-11T00:37:37Z",
  "streams": {
   "tvasahi24": {
    "live": true,
@@ -12,19 +12,19 @@
   },
   "ntvlive": {
    "live": true,
-   "videoId": "jmqF3cjsvJ8",
-   "title": "【夜ニュースライブ】最新ニュースと生活情報（11月10日） ──THE LATEST NEWS SUMMARY（日テレNEWS LIVE）",
-   "embedUrl": "https://www.youtube.com/embed/jmqF3cjsvJ8",
-   "watchUrl": "https://www.youtube.com/watch?v=jmqF3cjsvJ8",
-   "thumb": "https://i.ytimg.com/vi/jmqF3cjsvJ8/hqdefault_live.jpg"
+   "videoId": "P5_gGZEO6LQ",
+   "title": "【アメリカライブ】“中国スパイ女性と親密”エヌビディアCEO…FBIが疑惑調査　トランプ大統領が明らかに── 国際ニュースライブ（日テレNEWS LIVE）",
+   "embedUrl": "https://www.youtube.com/embed/P5_gGZEO6LQ",
+   "watchUrl": "https://www.youtube.com/watch?v=P5_gGZEO6LQ",
+   "thumb": "https://i.ytimg.com/vi/P5_gGZEO6LQ/hqdefault_live.jpg"
   },
   "weathernews": {
    "live": true,
-   "videoId": "U_XoJJ8D1GI",
-   "title": "【ライブ】最新天気ニュース・地震情報 2026年11月11日(水)／〈ウェザーニュースLiVEモーニング・魚住茉由／飯島栄一〉",
-   "embedUrl": "https://www.youtube.com/embed/U_XoJJ8D1GI",
-   "watchUrl": "https://www.youtube.com/watch?v=U_XoJJ8D1GI",
-   "thumb": "https://i.ytimg.com/vi/U_XoJJ8D1GI/hqdefault_live.jpg"
+   "videoId": "PpDWE8mD4WM",
+   "title": "【ライブ】最新天気ニュース・地震情報 2026年11月11日(水) ／朝は強い冷え込みに 日中は穏やかに晴れるところが多い 〈ウェザーニュースLiVEサンシャイン・田辺真南葉／飯島栄一〉",
+   "embedUrl": "https://www.youtube.com/embed/PpDWE8mD4WM",
+   "watchUrl": "https://www.youtube.com/watch?v=PpDWE8mD4WM",
+   "thumb": "https://i.ytimg.com/vi/PpDWE8mD4WM/hqdefault_live.jpg"
   },
   "quake": {
    "live": true,
@@ -72,11 +72,11 @@
   },
   "tbs": {
    "live": true,
-   "videoId": "x6m7ok5ILA0",
-   "title": "【ニュースライブ】最新ニュースまとめ（Japan News Digest）（11月10日）｜TBS NEWS DIG",
-   "embedUrl": "https://www.youtube.com/embed/x6m7ok5ILA0",
-   "watchUrl": "https://www.youtube.com/watch?v=x6m7ok5ILA0",
-   "thumb": "https://i.ytimg.com/vi/x6m7ok5ILA0/hqdefault_live.jpg"
+   "videoId": "8NZw0d-8vJI",
+   "title": "【ニュースライブ】朝のニュース（Japan News Digest Live）最新情報など（11月11日）｜TBS NEWS DIG",
+   "embedUrl": "https://www.youtube.com/embed/8NZw0d-8vJI",
+   "watchUrl": "https://www.youtube.com/watch?v=8NZw0d-8vJI",
+   "thumb": "https://i.ytimg.com/vi/8NZw0d-8vJI/hqdefault_live.jpg"
   },
   "sapporo": {
    "live": true,
@@ -96,11 +96,11 @@
   },
   "tokyo-fuji": {
    "live": true,
-   "videoId": "_egqtpSUGck",
-   "title": "＃おうし座流星群極大日【星空と東京ライブカメラ】TOKYO STARRY SKY LIVE CAMERA 東京ライブカメラ 　#おうし座流星群#taurid meteor shower",
-   "embedUrl": "https://www.youtube.com/embed/_egqtpSUGck",
-   "watchUrl": "https://www.youtube.com/watch?v=_egqtpSUGck",
-   "thumb": "https://i.ytimg.com/vi/_egqtpSUGck/hqdefault_live.jpg"
+   "videoId": "aFG05bU1-eM",
+   "title": "【東京ライブカメラ】TOKYO LIVE CAMERA.  Mt'Fuji from Tokyo  富士山 紅富士 赤富士 東京からの富士山    #東京ライブカメラ #富士山東京 #東京夜景",
+   "embedUrl": "https://www.youtube.com/embed/aFG05bU1-eM",
+   "watchUrl": "https://www.youtube.com/watch?v=aFG05bU1-eM",
+   "thumb": "https://i.ytimg.com/vi/aFG05bU1-eM/hqdefault_live.jpg"
   },
   "oshino": {
    "live": true,
