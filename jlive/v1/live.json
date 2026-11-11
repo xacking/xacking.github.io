@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-11T15:36:14Z",
- "checked": "2026-11-11T15:36:14Z",
+ "updated": "2026-11-11T22:16:03Z",
+ "checked": "2026-11-11T22:16:03Z",
  "streams": {
   "tvasahi24": {
    "live": true,
@@ -12,27 +12,27 @@
   },
   "ntvlive": {
    "live": true,
-   "videoId": "3ZIRwnjkKo0",
-   "title": "【夜ニュースライブ】最新ニュースと生活情報（11月11日） ──THE LATEST NEWS SUMMARY（日テレNEWS LIVE）",
-   "embedUrl": "https://www.youtube.com/embed/3ZIRwnjkKo0",
-   "watchUrl": "https://www.youtube.com/watch?v=3ZIRwnjkKo0",
-   "thumb": "https://i.ytimg.com/vi/3ZIRwnjkKo0/hqdefault_live.jpg"
+   "videoId": "wPN2JpT5yqE",
+   "title": "【朝ニュースライブ】最新ニュースと生活情報（11月12日） ──THE LATEST NEWS SUMMARY（日テレNEWS LIVE）",
+   "embedUrl": "https://www.youtube.com/embed/wPN2JpT5yqE",
+   "watchUrl": "https://www.youtube.com/watch?v=wPN2JpT5yqE",
+   "thumb": "https://i.ytimg.com/vi/wPN2JpT5yqE/hqdefault_live.jpg"
   },
   "weathernews": {
    "live": true,
-   "videoId": "RBVMLeMN_Sc",
-   "title": "【ライブ】最新天気ニュース・地震情報 2026年11月11日(水)23:00〜 ／西・東日本は穏やかな晴天　北日本は寒さ和らぐ〈ウェザーニュースLiVE〉",
-   "embedUrl": "https://www.youtube.com/embed/RBVMLeMN_Sc",
-   "watchUrl": "https://www.youtube.com/watch?v=RBVMLeMN_Sc",
-   "thumb": "https://i.ytimg.com/vi/RBVMLeMN_Sc/hqdefault_live.jpg"
+   "videoId": "MG0Jey7V9bs",
+   "title": "【ライブ】最新天気ニュース・地震情報 2026年11月12日(木)／西日本、東日本は穏やかな晴天　北日本は寒さ和らぐ〈ウェザーニュースLiVEモーニング・田辺真南葉／山口剛央〉",
+   "embedUrl": "https://www.youtube.com/embed/MG0Jey7V9bs",
+   "watchUrl": "https://www.youtube.com/watch?v=MG0Jey7V9bs",
+   "thumb": "https://i.ytimg.com/vi/MG0Jey7V9bs/hqdefault_live.jpg"
   },
   "quake": {
    "live": true,
-   "videoId": "fwKWZS7wFFg",
+   "videoId": "m8HaKnm5v2E",
    "title": "【地震ライブ】緊急地震速報 24時間リアルタイム配信中 ウェザーニュース／Earthquake Alert Japan Live",
-   "embedUrl": "https://www.youtube.com/embed/fwKWZS7wFFg",
-   "watchUrl": "https://www.youtube.com/watch?v=fwKWZS7wFFg",
-   "thumb": "https://i.ytimg.com/vi/fwKWZS7wFFg/hqdefault_live.jpg"
+   "embedUrl": "https://www.youtube.com/embed/m8HaKnm5v2E",
+   "watchUrl": "https://www.youtube.com/watch?v=m8HaKnm5v2E",
+   "thumb": "https://i.ytimg.com/vi/m8HaKnm5v2E/hqdefault_live.jpg"
   },
   "dotonbori": {
    "live": true,
@@ -76,11 +76,11 @@
   },
   "tbs": {
    "live": true,
-   "videoId": "_ugNEc5RTkM",
-   "title": "【ニュースライブ】最新ニュースまとめ（Japan News Digest）（11月11日）｜TBS NEWS DIG",
-   "embedUrl": "https://www.youtube.com/embed/_ugNEc5RTkM",
-   "watchUrl": "https://www.youtube.com/watch?v=_ugNEc5RTkM",
-   "thumb": "https://i.ytimg.com/vi/_ugNEc5RTkM/hqdefault_live.jpg"
+   "videoId": "4HYfpyWpuo4",
+   "title": "【ニュースライブ】朝のニュース（Japan News Digest Live）最新情報など（11月12日）｜TBS NEWS DIG",
+   "embedUrl": "https://www.youtube.com/embed/4HYfpyWpuo4",
+   "watchUrl": "https://www.youtube.com/watch?v=4HYfpyWpuo4",
+   "thumb": "https://i.ytimg.com/vi/4HYfpyWpuo4/hqdefault_live.jpg"
   },
   "sapporo": {
    "live": true,
@@ -100,11 +100,11 @@
   },
   "tokyo-fuji": {
    "live": true,
-   "videoId": "lhDcHXeddzU",
-   "title": "＃おうし座流星群極大日【星空と東京ライブカメラ】TOKYO STARRY SKY LIVE CAMERA 東京ライブカメラ 　#おうし座流星群#taurid meteor shower",
-   "embedUrl": "https://www.youtube.com/embed/lhDcHXeddzU",
-   "watchUrl": "https://www.youtube.com/watch?v=lhDcHXeddzU",
-   "thumb": "https://i.ytimg.com/vi/lhDcHXeddzU/hqdefault_live.jpg"
+   "videoId": "dxkIJxaEALA",
+   "title": "【東京ライブカメラ】TOKYO LIVE CAMERA.  Mt'Fuji from Tokyo  富士山 紅富士 赤富士 東京からの富士山    #東京ライブカメラ #富士山東京 #東京夜景",
+   "embedUrl": "https://www.youtube.com/embed/dxkIJxaEALA",
+   "watchUrl": "https://www.youtube.com/watch?v=dxkIJxaEALA",
+   "thumb": "https://i.ytimg.com/vi/dxkIJxaEALA/hqdefault_live.jpg"
   },
   "oshino": {
    "live": true,
@@ -127,8 +127,12 @@
    "reason": "not-live"
   },
   "kurushima": {
-   "live": false,
-   "reason": "not-live"
+   "live": true,
+   "videoId": "EAkfCe5VNFc",
+   "title": "【LIVE】来島海峡南側・今治港付近ライブカメラ｜船名・速力AIS｜Japan Ship Watching | Kurushima, Imabari | Ship Names & Speed",
+   "embedUrl": "https://www.youtube.com/embed/EAkfCe5VNFc",
+   "watchUrl": "https://www.youtube.com/watch?v=EAkfCe5VNFc",
+   "thumb": "https://i.ytimg.com/vi/EAkfCe5VNFc/hqdefault_live.jpg"
   },
   "r-nhkworld": {
    "live": true,
