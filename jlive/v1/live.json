@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-11T07:09:51Z",
- "checked": "2026-11-11T07:09:51Z",
+ "updated": "2026-11-11T15:36:14Z",
+ "checked": "2026-11-11T15:36:14Z",
  "streams": {
   "tvasahi24": {
    "live": true,
@@ -12,19 +12,19 @@
   },
   "ntvlive": {
    "live": true,
-   "videoId": "PTbrw-rduqM",
-   "title": "【夕ニュースライブ】最新ニュースと生活情報（11月11日） ──THE LATEST NEWS SUMMARY（日テレNEWS LIVE）",
-   "embedUrl": "https://www.youtube.com/embed/PTbrw-rduqM",
-   "watchUrl": "https://www.youtube.com/watch?v=PTbrw-rduqM",
-   "thumb": "https://i.ytimg.com/vi/PTbrw-rduqM/hqdefault_live.jpg"
+   "videoId": "3ZIRwnjkKo0",
+   "title": "【夜ニュースライブ】最新ニュースと生活情報（11月11日） ──THE LATEST NEWS SUMMARY（日テレNEWS LIVE）",
+   "embedUrl": "https://www.youtube.com/embed/3ZIRwnjkKo0",
+   "watchUrl": "https://www.youtube.com/watch?v=3ZIRwnjkKo0",
+   "thumb": "https://i.ytimg.com/vi/3ZIRwnjkKo0/hqdefault_live.jpg"
   },
   "weathernews": {
    "live": true,
-   "videoId": "TGJeRMKdMeo",
-   "title": "【ライブ】最新天気ニュース・地震情報 2026年11月11日(水)／北日本日本海側は雪の所も 関東東海は晴れて気温上昇〈ウェザーニュースLiVEアフタヌーン・小川千奈／宇野沢達也〉",
-   "embedUrl": "https://www.youtube.com/embed/TGJeRMKdMeo",
-   "watchUrl": "https://www.youtube.com/watch?v=TGJeRMKdMeo",
-   "thumb": "https://i.ytimg.com/vi/TGJeRMKdMeo/hqdefault_live.jpg"
+   "videoId": "RBVMLeMN_Sc",
+   "title": "【ライブ】最新天気ニュース・地震情報 2026年11月11日(水)23:00〜 ／西・東日本は穏やかな晴天　北日本は寒さ和らぐ〈ウェザーニュースLiVE〉",
+   "embedUrl": "https://www.youtube.com/embed/RBVMLeMN_Sc",
+   "watchUrl": "https://www.youtube.com/watch?v=RBVMLeMN_Sc",
+   "thumb": "https://i.ytimg.com/vi/RBVMLeMN_Sc/hqdefault_live.jpg"
   },
   "quake": {
    "live": true,
@@ -76,11 +76,11 @@
   },
   "tbs": {
    "live": true,
-   "videoId": "qTeflX88wD0",
-   "title": "【ニュースライブ】昼のニュース（Japan News Digest Live）最新情報など（11月11日）｜TBS NEWS DIG",
-   "embedUrl": "https://www.youtube.com/embed/qTeflX88wD0",
-   "watchUrl": "https://www.youtube.com/watch?v=qTeflX88wD0",
-   "thumb": "https://i.ytimg.com/vi/qTeflX88wD0/hqdefault_live.jpg"
+   "videoId": "_ugNEc5RTkM",
+   "title": "【ニュースライブ】最新ニュースまとめ（Japan News Digest）（11月11日）｜TBS NEWS DIG",
+   "embedUrl": "https://www.youtube.com/embed/_ugNEc5RTkM",
+   "watchUrl": "https://www.youtube.com/watch?v=_ugNEc5RTkM",
+   "thumb": "https://i.ytimg.com/vi/_ugNEc5RTkM/hqdefault_live.jpg"
   },
   "sapporo": {
    "live": true,
@@ -100,11 +100,11 @@
   },
   "tokyo-fuji": {
    "live": true,
-   "videoId": "aFG05bU1-eM",
-   "title": "【東京ライブカメラ】TOKYO LIVE CAMERA.  Mt'Fuji from Tokyo  富士山 紅富士 赤富士 東京からの富士山    #東京ライブカメラ #富士山東京 #東京夜景",
-   "embedUrl": "https://www.youtube.com/embed/aFG05bU1-eM",
-   "watchUrl": "https://www.youtube.com/watch?v=aFG05bU1-eM",
-   "thumb": "https://i.ytimg.com/vi/aFG05bU1-eM/hqdefault_live.jpg"
+   "videoId": "lhDcHXeddzU",
+   "title": "＃おうし座流星群極大日【星空と東京ライブカメラ】TOKYO STARRY SKY LIVE CAMERA 東京ライブカメラ 　#おうし座流星群#taurid meteor shower",
+   "embedUrl": "https://www.youtube.com/embed/lhDcHXeddzU",
+   "watchUrl": "https://www.youtube.com/watch?v=lhDcHXeddzU",
+   "thumb": "https://i.ytimg.com/vi/lhDcHXeddzU/hqdefault_live.jpg"
   },
   "oshino": {
    "live": true,
@@ -123,20 +123,12 @@
    "thumb": "https://i.ytimg.com/vi/CeSitkT_nbw/hqdefault_live.jpg"
   },
   "tottori": {
-   "live": true,
-   "videoId": "0ZN0CW-IpVk",
-   "title": "鳥取市伏野海岸ライブカメラ　The Sea of Japan live camera.",
-   "embedUrl": "https://www.youtube.com/embed/0ZN0CW-IpVk",
-   "watchUrl": "https://www.youtube.com/watch?v=0ZN0CW-IpVk",
-   "thumb": "https://i.ytimg.com/vi/0ZN0CW-IpVk/hqdefault_live.jpg"
+   "live": false,
+   "reason": "not-live"
   },
   "kurushima": {
-   "live": true,
-   "videoId": "EAkfCe5VNFc",
-   "title": "【LIVE】来島海峡南側・今治港付近ライブカメラ｜船名・速力AIS｜Japan Ship Watching | Kurushima, Imabari | Ship Names & Speed",
-   "embedUrl": "https://www.youtube.com/embed/EAkfCe5VNFc",
-   "watchUrl": "https://www.youtube.com/watch?v=EAkfCe5VNFc",
-   "thumb": "https://i.ytimg.com/vi/EAkfCe5VNFc/hqdefault_live.jpg"
+   "live": false,
+   "reason": "not-live"
   },
   "r-nhkworld": {
    "live": true,
