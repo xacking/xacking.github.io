@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-11T00:37:37Z",
- "checked": "2026-11-11T00:37:37Z",
+ "updated": "2026-11-11T07:09:51Z",
+ "checked": "2026-11-11T07:09:51Z",
  "streams": {
   "tvasahi24": {
    "live": true,
@@ -12,19 +12,19 @@
   },
   "ntvlive": {
    "live": true,
-   "videoId": "P5_gGZEO6LQ",
-   "title": "【アメリカライブ】“中国スパイ女性と親密”エヌビディアCEO…FBIが疑惑調査　トランプ大統領が明らかに── 国際ニュースライブ（日テレNEWS LIVE）",
-   "embedUrl": "https://www.youtube.com/embed/P5_gGZEO6LQ",
-   "watchUrl": "https://www.youtube.com/watch?v=P5_gGZEO6LQ",
-   "thumb": "https://i.ytimg.com/vi/P5_gGZEO6LQ/hqdefault_live.jpg"
+   "videoId": "PTbrw-rduqM",
+   "title": "【夕ニュースライブ】最新ニュースと生活情報（11月11日） ──THE LATEST NEWS SUMMARY（日テレNEWS LIVE）",
+   "embedUrl": "https://www.youtube.com/embed/PTbrw-rduqM",
+   "watchUrl": "https://www.youtube.com/watch?v=PTbrw-rduqM",
+   "thumb": "https://i.ytimg.com/vi/PTbrw-rduqM/hqdefault_live.jpg"
   },
   "weathernews": {
    "live": true,
-   "videoId": "PpDWE8mD4WM",
-   "title": "【ライブ】最新天気ニュース・地震情報 2026年11月11日(水) ／朝は強い冷え込みに 日中は穏やかに晴れるところが多い 〈ウェザーニュースLiVEサンシャイン・田辺真南葉／飯島栄一〉",
-   "embedUrl": "https://www.youtube.com/embed/PpDWE8mD4WM",
-   "watchUrl": "https://www.youtube.com/watch?v=PpDWE8mD4WM",
-   "thumb": "https://i.ytimg.com/vi/PpDWE8mD4WM/hqdefault_live.jpg"
+   "videoId": "TGJeRMKdMeo",
+   "title": "【ライブ】最新天気ニュース・地震情報 2026年11月11日(水)／北日本日本海側は雪の所も 関東東海は晴れて気温上昇〈ウェザーニュースLiVEアフタヌーン・小川千奈／宇野沢達也〉",
+   "embedUrl": "https://www.youtube.com/embed/TGJeRMKdMeo",
+   "watchUrl": "https://www.youtube.com/watch?v=TGJeRMKdMeo",
+   "thumb": "https://i.ytimg.com/vi/TGJeRMKdMeo/hqdefault_live.jpg"
   },
   "quake": {
    "live": true,
@@ -51,8 +51,12 @@
    "thumb": "https://i.ytimg.com/vi/PMNZW_A5Zis/hqdefault_live.jpg"
   },
   "sakurajima": {
-   "live": false,
-   "reason": "not-live"
+   "live": true,
+   "videoId": "UV_nthB3QM0",
+   "title": "ライブカメラ",
+   "embedUrl": "https://www.youtube.com/embed/UV_nthB3QM0",
+   "watchUrl": "https://www.youtube.com/watch?v=UV_nthB3QM0",
+   "thumb": "https://i.ytimg.com/vi/UV_nthB3QM0/hqdefault_live.jpg"
   },
   "toba-otters": {
    "live": true,
@@ -72,11 +76,11 @@
   },
   "tbs": {
    "live": true,
-   "videoId": "8NZw0d-8vJI",
-   "title": "【ニュースライブ】朝のニュース（Japan News Digest Live）最新情報など（11月11日）｜TBS NEWS DIG",
-   "embedUrl": "https://www.youtube.com/embed/8NZw0d-8vJI",
-   "watchUrl": "https://www.youtube.com/watch?v=8NZw0d-8vJI",
-   "thumb": "https://i.ytimg.com/vi/8NZw0d-8vJI/hqdefault_live.jpg"
+   "videoId": "qTeflX88wD0",
+   "title": "【ニュースライブ】昼のニュース（Japan News Digest Live）最新情報など（11月11日）｜TBS NEWS DIG",
+   "embedUrl": "https://www.youtube.com/embed/qTeflX88wD0",
+   "watchUrl": "https://www.youtube.com/watch?v=qTeflX88wD0",
+   "thumb": "https://i.ytimg.com/vi/qTeflX88wD0/hqdefault_live.jpg"
   },
   "sapporo": {
    "live": true,
