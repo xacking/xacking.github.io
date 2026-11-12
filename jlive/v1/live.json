@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-12T03:20:20Z",
- "checked": "2026-11-12T03:20:20Z",
+ "updated": "2026-11-12T11:47:29Z",
+ "checked": "2026-11-12T11:47:29Z",
  "streams": {
   "tvasahi24": {
    "live": true,
@@ -12,19 +12,19 @@
   },
   "ntvlive": {
    "live": true,
-   "videoId": "aA7Vs5gGlJ4",
-   "title": "【アメリカライブ】米露ウクライナ3者協議  過去最大規模の「捕虜交換」実施することで合意── 国際ニュースライブ（日テレNEWS LIVE）",
-   "embedUrl": "https://www.youtube.com/embed/aA7Vs5gGlJ4",
-   "watchUrl": "https://www.youtube.com/watch?v=aA7Vs5gGlJ4",
-   "thumb": "https://i.ytimg.com/vi/aA7Vs5gGlJ4/hqdefault_live.jpg"
+   "videoId": "XLnWLgaiwqs",
+   "title": "【情報漏えい】「無印良品」展開の良品計画社長らが謝罪　“破棄すべき情報”保管し続け流出か ──社会ニュースライブ（日テレNEWS LIVE）",
+   "embedUrl": "https://www.youtube.com/embed/XLnWLgaiwqs",
+   "watchUrl": "https://www.youtube.com/watch?v=XLnWLgaiwqs",
+   "thumb": "https://i.ytimg.com/vi/XLnWLgaiwqs/hqdefault_live.jpg"
   },
   "weathernews": {
    "live": true,
-   "videoId": "7lJpohP3Zgw",
-   "title": "【ライブ】最新天気ニュース・地震情報 2026年11月12日(木) ／西日本、東日本は穏やかな晴天　北日本は寒さ和らぐ〈ウェザーニュースLiVEコーヒータイム・青原桃香／山口剛央〉",
-   "embedUrl": "https://www.youtube.com/embed/7lJpohP3Zgw",
-   "watchUrl": "https://www.youtube.com/watch?v=7lJpohP3Zgw",
-   "thumb": "https://i.ytimg.com/vi/7lJpohP3Zgw/hqdefault_live.jpg"
+   "videoId": "ytekrYSDGnE",
+   "title": "【ライブ】最新天気ニュース・地震情報 2026年11月12日(木)20:00〜 ／明日は広い範囲で晴れて気温上昇〈ウェザーニュースLiVEムーン・戸北美月／宇野沢達也〉",
+   "embedUrl": "https://www.youtube.com/embed/ytekrYSDGnE",
+   "watchUrl": "https://www.youtube.com/watch?v=ytekrYSDGnE",
+   "thumb": "https://i.ytimg.com/vi/ytekrYSDGnE/hqdefault_live.jpg"
   },
   "quake": {
    "live": true,
@@ -76,11 +76,11 @@
   },
   "tbs": {
    "live": true,
-   "videoId": "gvUi-FLEaIU",
-   "title": "【ライブ】無印良品運営の「良品計画」不正アクセス拡大で清水社長ら会見へ “リスト型攻撃”の可能性は？ 約2700万件超の情報流出 ECサイトの再開延期 対策など説明（2026年11月12日）",
-   "embedUrl": "https://www.youtube.com/embed/gvUi-FLEaIU",
-   "watchUrl": "https://www.youtube.com/watch?v=gvUi-FLEaIU",
-   "thumb": "https://i.ytimg.com/vi/gvUi-FLEaIU/hqdefault_live.jpg"
+   "videoId": "a2nBR68UmZM",
+   "title": "【エヌビディアCEO解任準備か】ジェンスン・フアン氏「部下とも不倫関係」と報道/“後継者存在しない”との見方も/ハニートラップ？中国の女性スパイと“親密関係”か【ニュースライブ】",
+   "embedUrl": "https://www.youtube.com/embed/a2nBR68UmZM",
+   "watchUrl": "https://www.youtube.com/watch?v=a2nBR68UmZM",
+   "thumb": "https://i.ytimg.com/vi/a2nBR68UmZM/hqdefault_live.jpg"
   },
   "sapporo": {
    "live": true,
@@ -100,11 +100,11 @@
   },
   "tokyo-fuji": {
    "live": true,
-   "videoId": "dxkIJxaEALA",
-   "title": "【東京ライブカメラ】TOKYO LIVE CAMERA.  Mt'Fuji from Tokyo  富士山 紅富士 赤富士 東京からの富士山    #東京ライブカメラ #富士山東京 #東京夜景",
-   "embedUrl": "https://www.youtube.com/embed/dxkIJxaEALA",
-   "watchUrl": "https://www.youtube.com/watch?v=dxkIJxaEALA",
-   "thumb": "https://i.ytimg.com/vi/dxkIJxaEALA/hqdefault_live.jpg"
+   "videoId": "58M_f4khikM",
+   "title": "＃おうし座流星群極大日【星空と東京ライブカメラ】TOKYO STARRY SKY LIVE CAMERA 東京ライブカメラ 　#おうし座流星群#taurid meteor shower",
+   "embedUrl": "https://www.youtube.com/embed/58M_f4khikM",
+   "watchUrl": "https://www.youtube.com/watch?v=58M_f4khikM",
+   "thumb": "https://i.ytimg.com/vi/58M_f4khikM/hqdefault_live.jpg"
   },
   "oshino": {
    "live": true,
@@ -184,8 +184,9 @@
    "url": "https://kathy.torontocast.com:3330/"
   },
   "r-ashiya": {
-   "live": false,
-   "reason": "unreachable"
+   "live": true,
+   "type": "audio",
+   "url": "https://s3.radio.co/sc8d895604/listen"
   },
   "r-cyberforest": {
    "live": true,
