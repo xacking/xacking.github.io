@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-13T07:51:37Z",
- "checked": "2026-11-13T07:51:37Z",
+ "updated": "2026-11-13T16:13:42Z",
+ "checked": "2026-11-13T16:13:42Z",
  "streams": {
   "tvasahi24": {
    "live": true,
@@ -12,35 +12,31 @@
   },
   "ntvlive": {
    "live": true,
-   "videoId": "DsBkmW8F2go",
-   "title": "【夕ニュースライブ】最新ニュースと生活情報（11月13日） ──THE LATEST NEWS SUMMARY（日テレNEWS LIVE）",
-   "embedUrl": "https://www.youtube.com/embed/DsBkmW8F2go",
-   "watchUrl": "https://www.youtube.com/watch?v=DsBkmW8F2go",
-   "thumb": "https://i.ytimg.com/vi/DsBkmW8F2go/hqdefault_live.jpg"
+   "videoId": "yBB7IIs5bIk",
+   "title": "【アメリカライブ】「エヌビディア」フアン氏　CEOを辞任　“中国のスパイ”らとの不倫問題受け　ラトニック米商務長官の“更迭議論”報道も ── 国際ニュースライブ（日テレNEWS LIVE）",
+   "embedUrl": "https://www.youtube.com/embed/yBB7IIs5bIk",
+   "watchUrl": "https://www.youtube.com/watch?v=yBB7IIs5bIk",
+   "thumb": "https://i.ytimg.com/vi/yBB7IIs5bIk/hqdefault_live.jpg"
   },
   "weathernews": {
    "live": true,
-   "videoId": "yCu64AY2rVI",
-   "title": "【ライブ】最新天気ニュース・地震情報 2026年11月13日(金) ／明日は西から天気下り坂〈ウェザーニュースLiVEイブニング・小川千奈／宇野沢達也〉",
-   "embedUrl": "https://www.youtube.com/embed/yCu64AY2rVI",
-   "watchUrl": "https://www.youtube.com/watch?v=yCu64AY2rVI",
-   "thumb": "https://i.ytimg.com/vi/yCu64AY2rVI/hqdefault_live.jpg"
+   "videoId": "A3eB5VqFLjo",
+   "title": "【ライブ】最新天気ニュース・地震情報 2026年11月13日(金)23:00〜 ／あす西から雨エリア拡大　北日本はお出かけ日和〈ウェザーニュースLiVE〉",
+   "embedUrl": "https://www.youtube.com/embed/A3eB5VqFLjo",
+   "watchUrl": "https://www.youtube.com/watch?v=A3eB5VqFLjo",
+   "thumb": "https://i.ytimg.com/vi/A3eB5VqFLjo/hqdefault_live.jpg"
   },
   "quake": {
    "live": true,
-   "videoId": "CmPqfbFLMv4",
+   "videoId": "36BlvNSR7l8",
    "title": "【地震ライブ】緊急地震速報 24時間リアルタイム配信中 ウェザーニュース／Earthquake Alert Japan Live",
-   "embedUrl": "https://www.youtube.com/embed/CmPqfbFLMv4",
-   "watchUrl": "https://www.youtube.com/watch?v=CmPqfbFLMv4",
-   "thumb": "https://i.ytimg.com/vi/CmPqfbFLMv4/hqdefault_live.jpg"
+   "embedUrl": "https://www.youtube.com/embed/36BlvNSR7l8",
+   "watchUrl": "https://www.youtube.com/watch?v=36BlvNSR7l8",
+   "thumb": "https://i.ytimg.com/vi/36BlvNSR7l8/hqdefault_live.jpg"
   },
   "dotonbori": {
-   "live": true,
-   "videoId": "6OgYfTMOmhY",
-   "title": "【LIVE】大阪・道頓堀ライブカメラ　グリコ看板前の様子は？ Osaka Dotonbori #道頓堀 #ライブカメラ",
-   "embedUrl": "https://www.youtube.com/embed/6OgYfTMOmhY",
-   "watchUrl": "https://www.youtube.com/watch?v=6OgYfTMOmhY",
-   "thumb": "https://i.ytimg.com/vi/6OgYfTMOmhY/hqdefault_live.jpg"
+   "live": false,
+   "reason": "not-live"
   },
   "fuji-shizuoka": {
    "live": true,
@@ -76,11 +72,11 @@
   },
   "tbs": {
    "live": true,
-   "videoId": "1dydu7RGDeo",
-   "title": "【エヌビディアCEO辞任】株価一時14％超急落 /フアン氏“中国女性スパイと不倫関係”暫定CEOにコレット・クレス氏 アメリカで動揺広がる【ニュースライブ】",
-   "embedUrl": "https://www.youtube.com/embed/1dydu7RGDeo",
-   "watchUrl": "https://www.youtube.com/watch?v=1dydu7RGDeo",
-   "thumb": "https://i.ytimg.com/vi/1dydu7RGDeo/hqdefault_live.jpg"
+   "videoId": "sKOQnaT0rqI",
+   "title": "【ニュースライブ】最新ニュースまとめ（Japan News Digest）（11月13日）｜TBS NEWS DIG",
+   "embedUrl": "https://www.youtube.com/embed/sKOQnaT0rqI",
+   "watchUrl": "https://www.youtube.com/watch?v=sKOQnaT0rqI",
+   "thumb": "https://i.ytimg.com/vi/sKOQnaT0rqI/hqdefault_live.jpg"
   },
   "sapporo": {
    "live": true,
@@ -100,11 +96,11 @@
   },
   "tokyo-fuji": {
    "live": true,
-   "videoId": "xWpwkwZ4fik",
-   "title": "【東京ライブカメラ】TOKYO LIVE CAMERA.  Mt'Fuji from Tokyo  富士山 紅富士 赤富士 東京からの富士山    #東京ライブカメラ #富士山東京 #東京夜景",
-   "embedUrl": "https://www.youtube.com/embed/xWpwkwZ4fik",
-   "watchUrl": "https://www.youtube.com/watch?v=xWpwkwZ4fik",
-   "thumb": "https://i.ytimg.com/vi/xWpwkwZ4fik/hqdefault_live.jpg"
+   "videoId": "P9Idff7cVuA",
+   "title": "＃おうし座流星群極大日【星空と東京ライブカメラ】TOKYO STARRY SKY LIVE CAMERA 東京ライブカメラ 　#おうし座流星群#taurid meteor shower",
+   "embedUrl": "https://www.youtube.com/embed/P9Idff7cVuA",
+   "watchUrl": "https://www.youtube.com/watch?v=P9Idff7cVuA",
+   "thumb": "https://i.ytimg.com/vi/P9Idff7cVuA/hqdefault_live.jpg"
   },
   "oshino": {
    "live": true,
