@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-14T10:13:27Z",
- "checked": "2026-11-14T10:13:27Z",
+ "updated": "2026-11-14T16:43:09Z",
+ "checked": "2026-11-14T16:43:09Z",
  "streams": {
   "tvasahi24": {
    "live": true,
@@ -12,19 +12,19 @@
   },
   "ntvlive": {
    "live": true,
-   "videoId": "o_Pxapyk93I",
-   "title": "【夜ニュースライブ】最新ニュースと生活情報（11月14日） ──THE LATEST NEWS SUMMARY（日テレNEWS LIVE）",
-   "embedUrl": "https://www.youtube.com/embed/o_Pxapyk93I",
-   "watchUrl": "https://www.youtube.com/watch?v=o_Pxapyk93I",
-   "thumb": "https://i.ytimg.com/vi/o_Pxapyk93I/hqdefault_live.jpg"
+   "videoId": "33tHrsziExs",
+   "title": "【アメリカライブ】全米の航空機に一時地上待機命令　欠航・遅延…“約150万人足止め”── 国際ニュースライブ（日テレNEWS LIVE）",
+   "embedUrl": "https://www.youtube.com/embed/33tHrsziExs",
+   "watchUrl": "https://www.youtube.com/watch?v=33tHrsziExs",
+   "thumb": "https://i.ytimg.com/vi/33tHrsziExs/hqdefault_live.jpg"
   },
   "weathernews": {
    "live": true,
-   "videoId": "DNcFitRH2-8",
-   "title": "【ライブ】最新天気ニュース・地震情報 2026年11月14日(土) ／明日は全国の広い範囲で雨　局地的に激しい雨が降るおそれ〈ウェザーニュースLiVEイブニング・山岸愛梨／本田竜也〉",
-   "embedUrl": "https://www.youtube.com/embed/DNcFitRH2-8",
-   "watchUrl": "https://www.youtube.com/watch?v=DNcFitRH2-8",
-   "thumb": "https://i.ytimg.com/vi/DNcFitRH2-8/hqdefault_live.jpg"
+   "videoId": "18babMvpdLw",
+   "title": "【ライブ】最新天気ニュース・地震情報 2026年11月14日(土)23:00〜 ／全国的に雨の日曜日　局地的に激しく降る所も〈ウェザーニュースLiVE〉",
+   "embedUrl": "https://www.youtube.com/embed/18babMvpdLw",
+   "watchUrl": "https://www.youtube.com/watch?v=18babMvpdLw",
+   "thumb": "https://i.ytimg.com/vi/18babMvpdLw/hqdefault_live.jpg"
   },
   "quake": {
    "live": true,
@@ -76,11 +76,11 @@
   },
   "tbs": {
    "live": true,
-   "videoId": "m1EV4M9GoVk",
-   "title": "【ニュースライブ】夜のニュース（Japan News Digest Live）最新情報など（11月14日）｜TBS NEWS DIG",
-   "embedUrl": "https://www.youtube.com/embed/m1EV4M9GoVk",
-   "watchUrl": "https://www.youtube.com/watch?v=m1EV4M9GoVk",
-   "thumb": "https://i.ytimg.com/vi/m1EV4M9GoVk/hqdefault_live.jpg"
+   "videoId": "u7kCTaCX_J4",
+   "title": "【ライブ】新宿駅前のライブカメラ 現在の様子は？ Shinjuku, Tokyo JAPAN | TBS NEWS DIG",
+   "embedUrl": "https://www.youtube.com/embed/u7kCTaCX_J4",
+   "watchUrl": "https://www.youtube.com/watch?v=u7kCTaCX_J4",
+   "thumb": "https://i.ytimg.com/vi/u7kCTaCX_J4/hqdefault_live.jpg"
   },
   "sapporo": {
    "live": true,
@@ -101,7 +101,7 @@
   "tokyo-fuji": {
    "live": true,
    "videoId": "bQrYBqQDQcE",
-   "title": "＃おうし座流星群極大日【星空と東京ライブカメラ】TOKYO STARRY SKY LIVE CAMERA 東京ライブカメラ 　#おうし座流星群#taurid meteor shower",
+   "title": "＃おうし座流星群【星空と東京ライブカメラ】TOKYO STARRY SKY LIVE CAMERA 東京ライブカメラ 　#おうし座流星群#taurid meteor shower",
    "embedUrl": "https://www.youtube.com/embed/bQrYBqQDQcE",
    "watchUrl": "https://www.youtube.com/watch?v=bQrYBqQDQcE",
    "thumb": "https://i.ytimg.com/vi/bQrYBqQDQcE/hqdefault_live.jpg"
