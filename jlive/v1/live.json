@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-14T02:40:41Z",
- "checked": "2026-11-14T02:40:41Z",
+ "updated": "2026-11-14T10:13:27Z",
+ "checked": "2026-11-14T10:13:27Z",
  "streams": {
   "tvasahi24": {
    "live": true,
@@ -12,19 +12,19 @@
   },
   "ntvlive": {
    "live": true,
-   "videoId": "_YMPcH25XCc",
-   "title": "【大規模障害】「完全復旧めど未定」マイクロソフトの大規模システム障害 ──国際ニュースライブ（日テレNEWS LIVE）",
-   "embedUrl": "https://www.youtube.com/embed/_YMPcH25XCc",
-   "watchUrl": "https://www.youtube.com/watch?v=_YMPcH25XCc",
-   "thumb": "https://i.ytimg.com/vi/_YMPcH25XCc/hqdefault_live.jpg"
+   "videoId": "o_Pxapyk93I",
+   "title": "【夜ニュースライブ】最新ニュースと生活情報（11月14日） ──THE LATEST NEWS SUMMARY（日テレNEWS LIVE）",
+   "embedUrl": "https://www.youtube.com/embed/o_Pxapyk93I",
+   "watchUrl": "https://www.youtube.com/watch?v=o_Pxapyk93I",
+   "thumb": "https://i.ytimg.com/vi/o_Pxapyk93I/hqdefault_live.jpg"
   },
   "weathernews": {
    "live": true,
-   "videoId": "HQPrfvXZkYQ",
-   "title": "【ライブ】最新天気ニュース・地震情報 2026年11月14日(土) ／九州などで雨が降り出す　夜は西日本の広範囲で本降りに〈ウェザーニュースLiVEコーヒータイム・魚住茉由／山口剛央〉",
-   "embedUrl": "https://www.youtube.com/embed/HQPrfvXZkYQ",
-   "watchUrl": "https://www.youtube.com/watch?v=HQPrfvXZkYQ",
-   "thumb": "https://i.ytimg.com/vi/HQPrfvXZkYQ/hqdefault_live.jpg"
+   "videoId": "DNcFitRH2-8",
+   "title": "【ライブ】最新天気ニュース・地震情報 2026年11月14日(土) ／明日は全国の広い範囲で雨　局地的に激しい雨が降るおそれ〈ウェザーニュースLiVEイブニング・山岸愛梨／本田竜也〉",
+   "embedUrl": "https://www.youtube.com/embed/DNcFitRH2-8",
+   "watchUrl": "https://www.youtube.com/watch?v=DNcFitRH2-8",
+   "thumb": "https://i.ytimg.com/vi/DNcFitRH2-8/hqdefault_live.jpg"
   },
   "quake": {
    "live": true,
@@ -76,19 +76,19 @@
   },
   "tbs": {
    "live": true,
-   "videoId": "jLbDAErZXTE",
-   "title": "【ニュースライブ】朝のニュース（Japan News Digest Live）最新情報など（11月14日）｜TBS NEWS DIG",
-   "embedUrl": "https://www.youtube.com/embed/jLbDAErZXTE",
-   "watchUrl": "https://www.youtube.com/watch?v=jLbDAErZXTE",
-   "thumb": "https://i.ytimg.com/vi/jLbDAErZXTE/hqdefault_live.jpg"
+   "videoId": "m1EV4M9GoVk",
+   "title": "【ニュースライブ】夜のニュース（Japan News Digest Live）最新情報など（11月14日）｜TBS NEWS DIG",
+   "embedUrl": "https://www.youtube.com/embed/m1EV4M9GoVk",
+   "watchUrl": "https://www.youtube.com/watch?v=m1EV4M9GoVk",
+   "thumb": "https://i.ytimg.com/vi/m1EV4M9GoVk/hqdefault_live.jpg"
   },
   "sapporo": {
    "live": true,
-   "videoId": "Lh77fsvfiAs",
+   "videoId": "sZcic7dlIsg",
    "title": "［LIVE CAMERA］札幌 狸小路 ライブカメラ（４丁目） Tanukikoji Shopping Street in Sapporo, Hokkaido, Japan.",
-   "embedUrl": "https://www.youtube.com/embed/Lh77fsvfiAs",
-   "watchUrl": "https://www.youtube.com/watch?v=Lh77fsvfiAs",
-   "thumb": "https://i.ytimg.com/vi/Lh77fsvfiAs/hqdefault_live.jpg"
+   "embedUrl": "https://www.youtube.com/embed/sZcic7dlIsg",
+   "watchUrl": "https://www.youtube.com/watch?v=sZcic7dlIsg",
+   "thumb": "https://i.ytimg.com/vi/sZcic7dlIsg/hqdefault_live.jpg"
   },
   "niigata": {
    "live": true,
@@ -100,11 +100,11 @@
   },
   "tokyo-fuji": {
    "live": true,
-   "videoId": "AWP_I1Ph3mk",
-   "title": "【東京ライブカメラ】TOKYO LIVE CAMERA.  Mt'Fuji from Tokyo  富士山 紅富士 赤富士 東京からの富士山    #東京ライブカメラ #富士山東京 #東京夜景",
-   "embedUrl": "https://www.youtube.com/embed/AWP_I1Ph3mk",
-   "watchUrl": "https://www.youtube.com/watch?v=AWP_I1Ph3mk",
-   "thumb": "https://i.ytimg.com/vi/AWP_I1Ph3mk/hqdefault_live.jpg"
+   "videoId": "bQrYBqQDQcE",
+   "title": "＃おうし座流星群極大日【星空と東京ライブカメラ】TOKYO STARRY SKY LIVE CAMERA 東京ライブカメラ 　#おうし座流星群#taurid meteor shower",
+   "embedUrl": "https://www.youtube.com/embed/bQrYBqQDQcE",
+   "watchUrl": "https://www.youtube.com/watch?v=bQrYBqQDQcE",
+   "thumb": "https://i.ytimg.com/vi/bQrYBqQDQcE/hqdefault_live.jpg"
   },
   "oshino": {
    "live": true,
