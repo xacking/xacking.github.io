@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-13T22:09:06Z",
- "checked": "2026-11-13T22:09:06Z",
+ "updated": "2026-11-14T02:40:41Z",
+ "checked": "2026-11-14T02:40:41Z",
  "streams": {
   "tvasahi24": {
    "live": true,
@@ -12,19 +12,19 @@
   },
   "ntvlive": {
    "live": true,
-   "videoId": "ckbMx1MgY-k",
-   "title": "【朝ニュースライブ】最新ニュースと生活情報（11月14日） ──THE LATEST NEWS SUMMARY（日テレNEWS LIVE）",
-   "embedUrl": "https://www.youtube.com/embed/ckbMx1MgY-k",
-   "watchUrl": "https://www.youtube.com/watch?v=ckbMx1MgY-k",
-   "thumb": "https://i.ytimg.com/vi/ckbMx1MgY-k/hqdefault_live.jpg"
+   "videoId": "_YMPcH25XCc",
+   "title": "【大規模障害】「完全復旧めど未定」マイクロソフトの大規模システム障害 ──国際ニュースライブ（日テレNEWS LIVE）",
+   "embedUrl": "https://www.youtube.com/embed/_YMPcH25XCc",
+   "watchUrl": "https://www.youtube.com/watch?v=_YMPcH25XCc",
+   "thumb": "https://i.ytimg.com/vi/_YMPcH25XCc/hqdefault_live.jpg"
   },
   "weathernews": {
    "live": true,
-   "videoId": "tB0MIk6qA8I",
-   "title": "【ライブ】最新天気ニュース・地震情報 2026年11月14日(土)／西日本は雨エリアが拡大〈ウェザーニュースLiVEモーニング・福吉貴文／山口剛央〉",
-   "embedUrl": "https://www.youtube.com/embed/tB0MIk6qA8I",
-   "watchUrl": "https://www.youtube.com/watch?v=tB0MIk6qA8I",
-   "thumb": "https://i.ytimg.com/vi/tB0MIk6qA8I/hqdefault_live.jpg"
+   "videoId": "HQPrfvXZkYQ",
+   "title": "【ライブ】最新天気ニュース・地震情報 2026年11月14日(土) ／九州などで雨が降り出す　夜は西日本の広範囲で本降りに〈ウェザーニュースLiVEコーヒータイム・魚住茉由／山口剛央〉",
+   "embedUrl": "https://www.youtube.com/embed/HQPrfvXZkYQ",
+   "watchUrl": "https://www.youtube.com/watch?v=HQPrfvXZkYQ",
+   "thumb": "https://i.ytimg.com/vi/HQPrfvXZkYQ/hqdefault_live.jpg"
   },
   "quake": {
    "live": true,
@@ -51,8 +51,12 @@
    "thumb": "https://i.ytimg.com/vi/PMNZW_A5Zis/hqdefault_live.jpg"
   },
   "sakurajima": {
-   "live": false,
-   "reason": "not-live"
+   "live": true,
+   "videoId": "UV_nthB3QM0",
+   "title": "ライブカメラ",
+   "embedUrl": "https://www.youtube.com/embed/UV_nthB3QM0",
+   "watchUrl": "https://www.youtube.com/watch?v=UV_nthB3QM0",
+   "thumb": "https://i.ytimg.com/vi/UV_nthB3QM0/hqdefault_live.jpg"
   },
   "toba-otters": {
    "live": true,
