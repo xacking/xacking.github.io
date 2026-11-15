@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-14T21:24:51Z",
- "checked": "2026-11-14T21:24:51Z",
+ "updated": "2026-11-15T01:17:19Z",
+ "checked": "2026-11-15T01:17:19Z",
  "streams": {
   "tvasahi24": {
    "live": true,
@@ -12,19 +12,19 @@
   },
   "ntvlive": {
    "live": true,
-   "videoId": "gjvQeQgcy_0",
-   "title": "【朝ニュースライブ】最新ニュースと生活情報（11月15日） ──THE LATEST NEWS SUMMARY（日テレNEWS LIVE）",
-   "embedUrl": "https://www.youtube.com/embed/gjvQeQgcy_0",
-   "watchUrl": "https://www.youtube.com/watch?v=gjvQeQgcy_0",
-   "thumb": "https://i.ytimg.com/vi/gjvQeQgcy_0/hqdefault_live.jpg"
+   "videoId": "iBn6DFyf3JY",
+   "title": "【アメリカライブ】全米の航空機に一時地上待機命令　欠航・遅延…“約150万人足止め”── 国際ニュースライブ（日テレNEWS LIVE）",
+   "embedUrl": "https://www.youtube.com/embed/iBn6DFyf3JY",
+   "watchUrl": "https://www.youtube.com/watch?v=iBn6DFyf3JY",
+   "thumb": "https://i.ytimg.com/vi/iBn6DFyf3JY/hqdefault_live.jpg"
   },
   "weathernews": {
    "live": true,
-   "videoId": "UuTd5mKasCI",
-   "title": "【ライブ】最新天気ニュース・地震情報 2026年11月15日(日)／低気圧や前線が通過 全国的に雨〈ウェザーニュースLiVEモーニング・魚住茉由／山口剛央〉",
-   "embedUrl": "https://www.youtube.com/embed/UuTd5mKasCI",
-   "watchUrl": "https://www.youtube.com/watch?v=UuTd5mKasCI",
-   "thumb": "https://i.ytimg.com/vi/UuTd5mKasCI/hqdefault_live.jpg"
+   "videoId": "DEW-IEN1U_E",
+   "title": "【ライブ】最新天気ニュース・地震情報 2026年11月15日(日) ／低気圧や前線が通過 全国的に雨 〈ウェザーニュースLiVEサンシャイン・松本真央／山口剛央〉",
+   "embedUrl": "https://www.youtube.com/embed/DEW-IEN1U_E",
+   "watchUrl": "https://www.youtube.com/watch?v=DEW-IEN1U_E",
+   "thumb": "https://i.ytimg.com/vi/DEW-IEN1U_E/hqdefault_live.jpg"
   },
   "quake": {
    "live": true,
