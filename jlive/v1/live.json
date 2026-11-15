@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-15T01:17:19Z",
- "checked": "2026-11-15T01:17:19Z",
+ "updated": "2026-11-15T08:25:35Z",
+ "checked": "2026-11-15T08:25:35Z",
  "streams": {
   "tvasahi24": {
    "live": true,
@@ -12,19 +12,19 @@
   },
   "ntvlive": {
    "live": true,
-   "videoId": "iBn6DFyf3JY",
+   "videoId": "Aexr6JmKN8w",
    "title": "【アメリカライブ】全米の航空機に一時地上待機命令　欠航・遅延…“約150万人足止め”── 国際ニュースライブ（日テレNEWS LIVE）",
-   "embedUrl": "https://www.youtube.com/embed/iBn6DFyf3JY",
-   "watchUrl": "https://www.youtube.com/watch?v=iBn6DFyf3JY",
-   "thumb": "https://i.ytimg.com/vi/iBn6DFyf3JY/hqdefault_live.jpg"
+   "embedUrl": "https://www.youtube.com/embed/Aexr6JmKN8w",
+   "watchUrl": "https://www.youtube.com/watch?v=Aexr6JmKN8w",
+   "thumb": "https://i.ytimg.com/vi/Aexr6JmKN8w/hqdefault_live.jpg"
   },
   "weathernews": {
    "live": true,
-   "videoId": "DEW-IEN1U_E",
-   "title": "【ライブ】最新天気ニュース・地震情報 2026年11月15日(日) ／低気圧や前線が通過 全国的に雨 〈ウェザーニュースLiVEサンシャイン・松本真央／山口剛央〉",
-   "embedUrl": "https://www.youtube.com/embed/DEW-IEN1U_E",
-   "watchUrl": "https://www.youtube.com/watch?v=DEW-IEN1U_E",
-   "thumb": "https://i.ytimg.com/vi/DEW-IEN1U_E/hqdefault_live.jpg"
+   "videoId": "G20x_7lWykQ",
+   "title": "【ライブ】最新天気ニュース・地震情報 2026年11月15日(日) ／北海道は南の地域から雨が降り出す　夜は内陸部や山沿いで雪に〈ウェザーニュースLiVEイブニング・戸北美月／内藤邦裕〉",
+   "embedUrl": "https://www.youtube.com/embed/G20x_7lWykQ",
+   "watchUrl": "https://www.youtube.com/watch?v=G20x_7lWykQ",
+   "thumb": "https://i.ytimg.com/vi/G20x_7lWykQ/hqdefault_live.jpg"
   },
   "quake": {
    "live": true,
@@ -76,11 +76,11 @@
   },
   "tbs": {
    "live": true,
-   "videoId": "kHq7CSXa3Jg",
-   "title": "【ニュースライブ】朝のニュース（Japan News Digest Live）最新情報など（11月15日）｜TBS NEWS DIG",
-   "embedUrl": "https://www.youtube.com/embed/kHq7CSXa3Jg",
-   "watchUrl": "https://www.youtube.com/watch?v=kHq7CSXa3Jg",
-   "thumb": "https://i.ytimg.com/vi/kHq7CSXa3Jg/hqdefault_live.jpg"
+   "videoId": "eJb72UC9pOY",
+   "title": "【ニュースライブ】昼のニュース（Japan News Digest Live）最新情報など（11月15日）｜TBS NEWS DIG",
+   "embedUrl": "https://www.youtube.com/embed/eJb72UC9pOY",
+   "watchUrl": "https://www.youtube.com/watch?v=eJb72UC9pOY",
+   "thumb": "https://i.ytimg.com/vi/eJb72UC9pOY/hqdefault_live.jpg"
   },
   "sapporo": {
    "live": true,
