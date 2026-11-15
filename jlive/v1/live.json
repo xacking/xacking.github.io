@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-15T15:51:45Z",
- "checked": "2026-11-15T15:51:45Z",
+ "updated": "2026-11-15T21:00:05Z",
+ "checked": "2026-11-15T21:00:05Z",
  "streams": {
   "tvasahi24": {
    "live": true,
@@ -12,19 +12,19 @@
   },
   "ntvlive": {
    "live": true,
-   "videoId": "iDwoJcNEgs4",
-   "title": "【アメリカライブ】全米の航空機に一時地上待機命令　欠航・遅延…“約150万人足止め”── 国際ニュースライブ（日テレNEWS LIVE）",
-   "embedUrl": "https://www.youtube.com/embed/iDwoJcNEgs4",
-   "watchUrl": "https://www.youtube.com/watch?v=iDwoJcNEgs4",
-   "thumb": "https://i.ytimg.com/vi/iDwoJcNEgs4/hqdefault_live.jpg"
+   "videoId": "oCEjpbB-dBA",
+   "title": "【朝ニュースライブ】最新ニュースと生活情報（11月16日） ──THE LATEST NEWS SUMMARY（日テレNEWS LIVE）",
+   "embedUrl": "https://www.youtube.com/embed/oCEjpbB-dBA",
+   "watchUrl": "https://www.youtube.com/watch?v=oCEjpbB-dBA",
+   "thumb": "https://i.ytimg.com/vi/oCEjpbB-dBA/hqdefault_live.jpg"
   },
   "weathernews": {
    "live": true,
-   "videoId": "B6AirFHHb9I",
-   "title": "【ライブ】最新天気ニュース・地震情報 2026年11月15日(日)23:00〜 あす北海道は雨や雪で風も強まる／〈ウェザーニュースLiVE〉",
-   "embedUrl": "https://www.youtube.com/embed/B6AirFHHb9I",
-   "watchUrl": "https://www.youtube.com/watch?v=B6AirFHHb9I",
-   "thumb": "https://i.ytimg.com/vi/B6AirFHHb9I/hqdefault_live.jpg"
+   "videoId": "IfBklvlgbyY",
+   "title": "【ライブ】最新天気ニュース・地震情報 2026年11月16日(月)／北海道は雨や雪で風も強まる　関東以西は晴れ間が多い〈ウェザーニュースLiVEモーニング・福吉貴文／有賀哲夫〉",
+   "embedUrl": "https://www.youtube.com/embed/IfBklvlgbyY",
+   "watchUrl": "https://www.youtube.com/watch?v=IfBklvlgbyY",
+   "thumb": "https://i.ytimg.com/vi/IfBklvlgbyY/hqdefault_live.jpg"
   },
   "quake": {
    "live": true,
@@ -76,11 +76,11 @@
   },
   "tbs": {
    "live": true,
-   "videoId": "oKKa9FDXWyE",
-   "title": "【ニュースライブ】最新ニュースまとめ（Japan News Digest）（11月15日）｜TBS NEWS DIG",
-   "embedUrl": "https://www.youtube.com/embed/oKKa9FDXWyE",
-   "watchUrl": "https://www.youtube.com/watch?v=oKKa9FDXWyE",
-   "thumb": "https://i.ytimg.com/vi/oKKa9FDXWyE/hqdefault_live.jpg"
+   "videoId": "1Dy3L_LPl_U",
+   "title": "【ニュースライブ】朝のニュース（Japan News Digest Live）最新情報など（11月16日）｜TBS NEWS DIG",
+   "embedUrl": "https://www.youtube.com/embed/1Dy3L_LPl_U",
+   "watchUrl": "https://www.youtube.com/watch?v=1Dy3L_LPl_U",
+   "thumb": "https://i.ytimg.com/vi/1Dy3L_LPl_U/hqdefault_live.jpg"
   },
   "sapporo": {
    "live": true,
@@ -100,11 +100,11 @@
   },
   "tokyo-fuji": {
    "live": true,
-   "videoId": "AjqyKtx9hVo",
-   "title": "【星空と東京ライブカメラ】TOKYO STARRY SKY LIVE CAMERA 東京ライブカメラ 　#しし座流星群 #leonidmeteorshower",
-   "embedUrl": "https://www.youtube.com/embed/AjqyKtx9hVo",
-   "watchUrl": "https://www.youtube.com/watch?v=AjqyKtx9hVo",
-   "thumb": "https://i.ytimg.com/vi/AjqyKtx9hVo/hqdefault_live.jpg"
+   "videoId": "GgXM5x9g-yw",
+   "title": "【東京ライブカメラ】TOKYO LIVE CAMERA.  Mt'Fuji from Tokyo  富士山 紅富士 赤富士 東京からの富士山    #東京ライブカメラ #富士山東京 #東京夜景",
+   "embedUrl": "https://www.youtube.com/embed/GgXM5x9g-yw",
+   "watchUrl": "https://www.youtube.com/watch?v=GgXM5x9g-yw",
+   "thumb": "https://i.ytimg.com/vi/GgXM5x9g-yw/hqdefault_live.jpg"
   },
   "oshino": {
    "live": true,
