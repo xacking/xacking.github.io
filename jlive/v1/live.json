@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T07:54:47Z",
- "checked": "2026-11-16T07:54:47Z",
+ "updated": "2026-11-16T18:24:58Z",
+ "checked": "2026-11-16T18:24:58Z",
  "streams": {
   "tvasahi24": {
    "live": true,
@@ -12,27 +12,27 @@
   },
   "ntvlive": {
    "live": true,
-   "videoId": "wBJuQpZ2fmY",
-   "title": "【夕ニュースライブ】最新ニュースと生活情報（11月16日） ──THE LATEST NEWS SUMMARY（日テレNEWS LIVE）",
-   "embedUrl": "https://www.youtube.com/embed/wBJuQpZ2fmY",
-   "watchUrl": "https://www.youtube.com/watch?v=wBJuQpZ2fmY",
-   "thumb": "https://i.ytimg.com/vi/wBJuQpZ2fmY/hqdefault_live.jpg"
+   "videoId": "mS5d858V8nI",
+   "title": "【アメリカライブ】フアン氏、エヌビディアCEO復帰を側近らと協議…フィナンシャル・タイムズ　復帰求める署名にマスク氏も“賛同”── 国際ニュースライブ（日テレNEWS LIVE）",
+   "embedUrl": "https://www.youtube.com/embed/mS5d858V8nI",
+   "watchUrl": "https://www.youtube.com/watch?v=mS5d858V8nI",
+   "thumb": "https://i.ytimg.com/vi/mS5d858V8nI/hqdefault_live.jpg"
   },
   "weathernews": {
    "live": true,
-   "videoId": "P1wbekkCljw",
-   "title": "【ライブ】最新天気ニュース・地震情報 2026年11月16日(月) ／北海道は雨や雪で積雪増加 風も強まる〈ウェザーニュースLiVEイブニング・駒木結衣／宇野沢達也〉",
-   "embedUrl": "https://www.youtube.com/embed/P1wbekkCljw",
-   "watchUrl": "https://www.youtube.com/watch?v=P1wbekkCljw",
-   "thumb": "https://i.ytimg.com/vi/P1wbekkCljw/hqdefault_live.jpg"
+   "videoId": "O-TRWIOfiOg",
+   "title": "【ライブ】最新天気ニュース・地震情報 2026年11月16日(月)23:00〜／西日本、東日本は次第に雨の範囲が拡大〈ウェザーニュースLiVE〉",
+   "embedUrl": "https://www.youtube.com/embed/O-TRWIOfiOg",
+   "watchUrl": "https://www.youtube.com/watch?v=O-TRWIOfiOg",
+   "thumb": "https://i.ytimg.com/vi/O-TRWIOfiOg/hqdefault_live.jpg"
   },
   "quake": {
    "live": true,
-   "videoId": "nIdaETdIdhI",
+   "videoId": "PfdECiY0hes",
    "title": "【地震ライブ】緊急地震速報 24時間リアルタイム配信中 ウェザーニュース／Earthquake Alert Japan Live",
-   "embedUrl": "https://www.youtube.com/embed/nIdaETdIdhI",
-   "watchUrl": "https://www.youtube.com/watch?v=nIdaETdIdhI",
-   "thumb": "https://i.ytimg.com/vi/nIdaETdIdhI/hqdefault_live.jpg"
+   "embedUrl": "https://www.youtube.com/embed/PfdECiY0hes",
+   "watchUrl": "https://www.youtube.com/watch?v=PfdECiY0hes",
+   "thumb": "https://i.ytimg.com/vi/PfdECiY0hes/hqdefault_live.jpg"
   },
   "dotonbori": {
    "live": true,
@@ -76,11 +76,11 @@
   },
   "tbs": {
    "live": true,
-   "videoId": "O8Bsqx34LFY",
-   "title": "【ニュースライブ】昼のニュース（Japan News Digest Live）最新情報など（11月16日）｜TBS NEWS DIG",
-   "embedUrl": "https://www.youtube.com/embed/O8Bsqx34LFY",
-   "watchUrl": "https://www.youtube.com/watch?v=O8Bsqx34LFY",
-   "thumb": "https://i.ytimg.com/vi/O8Bsqx34LFY/hqdefault_live.jpg"
+   "videoId": "Jb7TeBBsR48",
+   "title": "【ニュースライブ】最新ニュースまとめ（Japan News Digest）（11月16日）｜TBS NEWS DIG",
+   "embedUrl": "https://www.youtube.com/embed/Jb7TeBBsR48",
+   "watchUrl": "https://www.youtube.com/watch?v=Jb7TeBBsR48",
+   "thumb": "https://i.ytimg.com/vi/Jb7TeBBsR48/hqdefault_live.jpg"
   },
   "sapporo": {
    "live": true,
@@ -100,11 +100,11 @@
   },
   "tokyo-fuji": {
    "live": true,
-   "videoId": "GgXM5x9g-yw",
-   "title": "【東京ライブカメラ】TOKYO LIVE CAMERA.  Mt'Fuji from Tokyo  富士山 紅富士 赤富士 東京からの富士山    #東京ライブカメラ #富士山東京 #東京夜景",
-   "embedUrl": "https://www.youtube.com/embed/GgXM5x9g-yw",
-   "watchUrl": "https://www.youtube.com/watch?v=GgXM5x9g-yw",
-   "thumb": "https://i.ytimg.com/vi/GgXM5x9g-yw/hqdefault_live.jpg"
+   "videoId": "az-xFgyqWuY",
+   "title": "【星空と東京ライブカメラ】TOKYO STARRY SKY LIVE CAMERA 東京ライブカメラ 　#しし座流星群 #leonidmeteorshower",
+   "embedUrl": "https://www.youtube.com/embed/az-xFgyqWuY",
+   "watchUrl": "https://www.youtube.com/watch?v=az-xFgyqWuY",
+   "thumb": "https://i.ytimg.com/vi/az-xFgyqWuY/hqdefault_live.jpg"
   },
   "oshino": {
    "live": true,
