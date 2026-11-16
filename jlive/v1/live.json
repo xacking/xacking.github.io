@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-15T21:00:05Z",
- "checked": "2026-11-15T21:00:05Z",
+ "updated": "2026-11-16T00:58:02Z",
+ "checked": "2026-11-16T00:58:02Z",
  "streams": {
   "tvasahi24": {
    "live": true,
@@ -12,19 +12,19 @@
   },
   "ntvlive": {
    "live": true,
-   "videoId": "oCEjpbB-dBA",
-   "title": "【朝ニュースライブ】最新ニュースと生活情報（11月16日） ──THE LATEST NEWS SUMMARY（日テレNEWS LIVE）",
-   "embedUrl": "https://www.youtube.com/embed/oCEjpbB-dBA",
-   "watchUrl": "https://www.youtube.com/watch?v=oCEjpbB-dBA",
-   "thumb": "https://i.ytimg.com/vi/oCEjpbB-dBA/hqdefault_live.jpg"
+   "videoId": "NkqZlrfg84Q",
+   "title": "【アメリカライブ】フアン氏、エヌビディアCEO復帰を側近らと協議…フィナンシャル・タイムズ　復帰求める署名にマスク氏も“賛同”── 国際ニュースライブ（日テレNEWS LIVE）",
+   "embedUrl": "https://www.youtube.com/embed/NkqZlrfg84Q",
+   "watchUrl": "https://www.youtube.com/watch?v=NkqZlrfg84Q",
+   "thumb": "https://i.ytimg.com/vi/NkqZlrfg84Q/hqdefault_live.jpg"
   },
   "weathernews": {
    "live": true,
-   "videoId": "IfBklvlgbyY",
-   "title": "【ライブ】最新天気ニュース・地震情報 2026年11月16日(月)／北海道は雨や雪で風も強まる　関東以西は晴れ間が多い〈ウェザーニュースLiVEモーニング・福吉貴文／有賀哲夫〉",
-   "embedUrl": "https://www.youtube.com/embed/IfBklvlgbyY",
-   "watchUrl": "https://www.youtube.com/watch?v=IfBklvlgbyY",
-   "thumb": "https://i.ytimg.com/vi/IfBklvlgbyY/hqdefault_live.jpg"
+   "videoId": "3p9QVb2RxaA",
+   "title": "【ライブ】最新天気ニュース・地震情報 2026年11月16日(月) ／北海道は雨や雪で風も強まる　関東以西は晴れ間が多い〈ウェザーニュースLiVEサンシャイン・佐藤剣慎／有賀哲夫〉",
+   "embedUrl": "https://www.youtube.com/embed/3p9QVb2RxaA",
+   "watchUrl": "https://www.youtube.com/watch?v=3p9QVb2RxaA",
+   "thumb": "https://i.ytimg.com/vi/3p9QVb2RxaA/hqdefault_live.jpg"
   },
   "quake": {
    "live": true,
