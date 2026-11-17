@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-17T02:04:17Z",
- "checked": "2026-11-17T02:04:17Z",
+ "updated": "2026-11-17T10:38:17Z",
+ "checked": "2026-11-17T10:38:17Z",
  "streams": {
   "tvasahi24": {
    "live": true,
@@ -12,19 +12,19 @@
   },
   "ntvlive": {
    "live": true,
-   "videoId": "E8DohcgEusI",
-   "title": "【アメリカライブ】トランプ大統領「金総書記と会談の可能性」　米中露3か国首脳会談にも言及── 国際ニュースライブ（日テレNEWS LIVE）",
-   "embedUrl": "https://www.youtube.com/embed/E8DohcgEusI",
-   "watchUrl": "https://www.youtube.com/watch?v=E8DohcgEusI",
-   "thumb": "https://i.ytimg.com/vi/E8DohcgEusI/hqdefault_live.jpg"
+   "videoId": "Qh18WO7EiMI",
+   "title": "【アメリカライブ】フィリピンに到着　トランプ大統領、日米豪印首脳会合へ　日本など中露への懸念が焦点 ── 国際ニュースライブ（日テレNEWS LIVE）",
+   "embedUrl": "https://www.youtube.com/embed/Qh18WO7EiMI",
+   "watchUrl": "https://www.youtube.com/watch?v=Qh18WO7EiMI",
+   "thumb": "https://i.ytimg.com/vi/Qh18WO7EiMI/hqdefault_live.jpg"
   },
   "weathernews": {
    "live": true,
-   "videoId": "2v06uyfSIoE",
-   "title": "【ライブ】最新天気ニュース・地震情報 2026年11月17日(火)／西日本・東日本は天気下り坂　強雨や雷雨に注意〈ウェザーニュースLiVEコーヒータイム・白井ゆかり／飯島栄一〉",
-   "embedUrl": "https://www.youtube.com/embed/2v06uyfSIoE",
-   "watchUrl": "https://www.youtube.com/watch?v=2v06uyfSIoE",
-   "thumb": "https://i.ytimg.com/vi/2v06uyfSIoE/hqdefault_live.jpg"
+   "videoId": "s14MnbRVVxg",
+   "title": "【ライブ】最新天気ニュース・地震情報 2026年11月17日(火) ／夕方以降は東海関東も強雨雷雨に注意　明日は全国的に雨〈ウェザーニュースLiVEイブニング・戸北美月／宇野沢達也〉",
+   "embedUrl": "https://www.youtube.com/embed/s14MnbRVVxg",
+   "watchUrl": "https://www.youtube.com/watch?v=s14MnbRVVxg",
+   "thumb": "https://i.ytimg.com/vi/s14MnbRVVxg/hqdefault_live.jpg"
   },
   "quake": {
    "live": true,
@@ -76,11 +76,11 @@
   },
   "tbs": {
    "live": true,
-   "videoId": "gpVJ49ldUII",
-   "title": "【ニュースライブ】昼のニュース（Japan News Digest Live）最新情報など（11月17日）｜TBS NEWS DIG",
-   "embedUrl": "https://www.youtube.com/embed/gpVJ49ldUII",
-   "watchUrl": "https://www.youtube.com/watch?v=gpVJ49ldUII",
-   "thumb": "https://i.ytimg.com/vi/gpVJ49ldUII/hqdefault_live.jpg"
+   "videoId": "wronY_RcHu8",
+   "title": "【問われる高市総理外交】まもなくQUAD＝クアッド首脳会合へ/日ロ首脳の接触は「実現しそう」/トランプ大統領「金正恩氏とも会談するかも」/米中ロ首脳会談後には“共同声明”発表見込みも【ニュースライブ】",
+   "embedUrl": "https://www.youtube.com/embed/wronY_RcHu8",
+   "watchUrl": "https://www.youtube.com/watch?v=wronY_RcHu8",
+   "thumb": "https://i.ytimg.com/vi/wronY_RcHu8/hqdefault_live.jpg"
   },
   "sapporo": {
    "live": true,
@@ -100,11 +100,11 @@
   },
   "tokyo-fuji": {
    "live": true,
-   "videoId": "jj1pz3futug",
-   "title": "【東京ライブカメラ】TOKYO LIVE CAMERA.  Mt'Fuji from Tokyo  富士山 紅富士 赤富士 東京からの富士山    #東京ライブカメラ #富士山東京 #東京夜景",
-   "embedUrl": "https://www.youtube.com/embed/jj1pz3futug",
-   "watchUrl": "https://www.youtube.com/watch?v=jj1pz3futug",
-   "thumb": "https://i.ytimg.com/vi/jj1pz3futug/hqdefault_live.jpg"
+   "videoId": "YSnAPHos5S8",
+   "title": "【星空と東京ライブカメラ】TOKYO STARRY SKY LIVE CAMERA 東京ライブカメラ 　#しし座流星群 #leonidmeteorshower",
+   "embedUrl": "https://www.youtube.com/embed/YSnAPHos5S8",
+   "watchUrl": "https://www.youtube.com/watch?v=YSnAPHos5S8",
+   "thumb": "https://i.ytimg.com/vi/YSnAPHos5S8/hqdefault_live.jpg"
   },
   "oshino": {
    "live": true,
