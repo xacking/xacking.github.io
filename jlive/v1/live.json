@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-17T10:38:17Z",
- "checked": "2026-11-17T10:38:17Z",
+ "updated": "2026-11-17T19:47:16Z",
+ "checked": "2026-11-17T19:47:16Z",
  "streams": {
   "tvasahi24": {
    "live": true,
@@ -12,27 +12,27 @@
   },
   "ntvlive": {
    "live": true,
-   "videoId": "Qh18WO7EiMI",
+   "videoId": "8hJDj7RBQ3I",
    "title": "【アメリカライブ】フィリピンに到着　トランプ大統領、日米豪印首脳会合へ　日本など中露への懸念が焦点 ── 国際ニュースライブ（日テレNEWS LIVE）",
-   "embedUrl": "https://www.youtube.com/embed/Qh18WO7EiMI",
-   "watchUrl": "https://www.youtube.com/watch?v=Qh18WO7EiMI",
-   "thumb": "https://i.ytimg.com/vi/Qh18WO7EiMI/hqdefault_live.jpg"
+   "embedUrl": "https://www.youtube.com/embed/8hJDj7RBQ3I",
+   "watchUrl": "https://www.youtube.com/watch?v=8hJDj7RBQ3I",
+   "thumb": "https://i.ytimg.com/vi/8hJDj7RBQ3I/hqdefault_live.jpg"
   },
   "weathernews": {
    "live": true,
-   "videoId": "s14MnbRVVxg",
-   "title": "【ライブ】最新天気ニュース・地震情報 2026年11月17日(火) ／夕方以降は東海関東も強雨雷雨に注意　明日は全国的に雨〈ウェザーニュースLiVEイブニング・戸北美月／宇野沢達也〉",
-   "embedUrl": "https://www.youtube.com/embed/s14MnbRVVxg",
-   "watchUrl": "https://www.youtube.com/watch?v=s14MnbRVVxg",
-   "thumb": "https://i.ytimg.com/vi/s14MnbRVVxg/hqdefault_live.jpg"
+   "videoId": "fK-ujT70yFg",
+   "title": "【ライブ】最新天気ニュース・地震情報 2026年11月18日(水)／低気圧の通過で広い範囲で雨　夜は風も強まる〈ウェザーニュースLiVEモーニング・田辺真南葉／飯島栄一〉",
+   "embedUrl": "https://www.youtube.com/embed/fK-ujT70yFg",
+   "watchUrl": "https://www.youtube.com/watch?v=fK-ujT70yFg",
+   "thumb": "https://i.ytimg.com/vi/fK-ujT70yFg/hqdefault_live.jpg"
   },
   "quake": {
    "live": true,
-   "videoId": "PfdECiY0hes",
+   "videoId": "j4EpBMgO1ag",
    "title": "【地震ライブ】緊急地震速報 24時間リアルタイム配信中 ウェザーニュース／Earthquake Alert Japan Live",
-   "embedUrl": "https://www.youtube.com/embed/PfdECiY0hes",
-   "watchUrl": "https://www.youtube.com/watch?v=PfdECiY0hes",
-   "thumb": "https://i.ytimg.com/vi/PfdECiY0hes/hqdefault_live.jpg"
+   "embedUrl": "https://www.youtube.com/embed/j4EpBMgO1ag",
+   "watchUrl": "https://www.youtube.com/watch?v=j4EpBMgO1ag",
+   "thumb": "https://i.ytimg.com/vi/j4EpBMgO1ag/hqdefault_live.jpg"
   },
   "dotonbori": {
    "live": true,
@@ -76,11 +76,11 @@
   },
   "tbs": {
    "live": true,
-   "videoId": "wronY_RcHu8",
-   "title": "【問われる高市総理外交】まもなくQUAD＝クアッド首脳会合へ/日ロ首脳の接触は「実現しそう」/トランプ大統領「金正恩氏とも会談するかも」/米中ロ首脳会談後には“共同声明”発表見込みも【ニュースライブ】",
-   "embedUrl": "https://www.youtube.com/embed/wronY_RcHu8",
-   "watchUrl": "https://www.youtube.com/watch?v=wronY_RcHu8",
-   "thumb": "https://i.ytimg.com/vi/wronY_RcHu8/hqdefault_live.jpg"
+   "videoId": "VbS2eMmbs9A",
+   "title": "【ニュースライブ】最新ニュースまとめ（Japan News Digest）（11月17日）｜TBS NEWS DIG",
+   "embedUrl": "https://www.youtube.com/embed/VbS2eMmbs9A",
+   "watchUrl": "https://www.youtube.com/watch?v=VbS2eMmbs9A",
+   "thumb": "https://i.ytimg.com/vi/VbS2eMmbs9A/hqdefault_live.jpg"
   },
   "sapporo": {
    "live": true,
