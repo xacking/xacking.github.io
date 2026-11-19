@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T01:27:45Z",
- "checked": "2026-11-19T01:27:45Z",
+ "updated": "2026-11-19T09:28:37Z",
+ "checked": "2026-11-19T09:28:37Z",
  "streams": {
   "tvasahi24": {
    "live": true,
@@ -12,19 +12,19 @@
   },
   "ntvlive": {
    "live": true,
-   "videoId": "i2r6fqtYLLM",
-   "title": "【国会中継】参議院・外交防衛委員会 ──政治ニュースライブ［2026年11月19日午前］（日テレNEWS LIVE）",
-   "embedUrl": "https://www.youtube.com/embed/i2r6fqtYLLM",
-   "watchUrl": "https://www.youtube.com/watch?v=i2r6fqtYLLM",
-   "thumb": "https://i.ytimg.com/vi/i2r6fqtYLLM/hqdefault_live.jpg"
+   "videoId": "OTw-sRQbexA",
+   "title": "【夜ニュースライブ】最新ニュースと生活情報（11月19日） ──THE LATEST NEWS SUMMARY（日テレNEWS LIVE）",
+   "embedUrl": "https://www.youtube.com/embed/OTw-sRQbexA",
+   "watchUrl": "https://www.youtube.com/watch?v=OTw-sRQbexA",
+   "thumb": "https://i.ytimg.com/vi/OTw-sRQbexA/hqdefault_live.jpg"
   },
   "weathernews": {
    "live": true,
-   "videoId": "lLSt5jaCoK0",
-   "title": "【ライブ】最新天気ニュース・地震情報 2026年11月19日(木) ／日本海側は雨や雪　夜は各地で気温ダウン〈ウェザーニュースLiVEサンシャイン・白井ゆかり／山口剛央〉",
-   "embedUrl": "https://www.youtube.com/embed/lLSt5jaCoK0",
-   "watchUrl": "https://www.youtube.com/watch?v=lLSt5jaCoK0",
-   "thumb": "https://i.ytimg.com/vi/lLSt5jaCoK0/hqdefault_live.jpg"
+   "videoId": "cQIYCenoMic",
+   "title": "【ライブ】最新天気ニュース・地震情報 2026年11月19日(木) ／〈ウェザーニュースLiVEイブニング・戸北美月／宇野沢達也〉",
+   "embedUrl": "https://www.youtube.com/embed/cQIYCenoMic",
+   "watchUrl": "https://www.youtube.com/watch?v=cQIYCenoMic",
+   "thumb": "https://i.ytimg.com/vi/cQIYCenoMic/hqdefault_live.jpg"
   },
   "quake": {
    "live": true,
@@ -52,11 +52,11 @@
   },
   "sakurajima": {
    "live": true,
-   "videoId": "UV_nthB3QM0",
+   "videoId": "X4S7fwVO1w4",
    "title": "ライブカメラ",
-   "embedUrl": "https://www.youtube.com/embed/UV_nthB3QM0",
-   "watchUrl": "https://www.youtube.com/watch?v=UV_nthB3QM0",
-   "thumb": "https://i.ytimg.com/vi/UV_nthB3QM0/hqdefault_live.jpg"
+   "embedUrl": "https://www.youtube.com/embed/X4S7fwVO1w4",
+   "watchUrl": "https://www.youtube.com/watch?v=X4S7fwVO1w4",
+   "thumb": "https://i.ytimg.com/vi/X4S7fwVO1w4/hqdefault_live.jpg"
   },
   "toba-otters": {
    "live": true,
@@ -76,15 +76,19 @@
   },
   "tbs": {
    "live": true,
-   "videoId": "SldEwQ_9Gjs",
-   "title": "【ニュースライブ】朝のニュース（Japan News Digest Live）最新情報など（11月19日）｜TBS NEWS DIG",
-   "embedUrl": "https://www.youtube.com/embed/SldEwQ_9Gjs",
-   "watchUrl": "https://www.youtube.com/watch?v=SldEwQ_9Gjs",
-   "thumb": "https://i.ytimg.com/vi/SldEwQ_9Gjs/hqdefault_live.jpg"
+   "videoId": "Q74S2oZ12n8",
+   "title": "【ニュースライブ】夜のニュース（Japan News Digest Live）最新情報など（11月19日）｜TBS NEWS DIG",
+   "embedUrl": "https://www.youtube.com/embed/Q74S2oZ12n8",
+   "watchUrl": "https://www.youtube.com/watch?v=Q74S2oZ12n8",
+   "thumb": "https://i.ytimg.com/vi/Q74S2oZ12n8/hqdefault_live.jpg"
   },
   "sapporo": {
-   "live": false,
-   "reason": "not-live"
+   "live": true,
+   "videoId": "tN_khO1foeA",
+   "title": "［LIVE CAMERA］札幌 狸小路 ライブカメラ（４丁目） Tanukikoji Shopping Street in Sapporo, Hokkaido, Japan.",
+   "embedUrl": "https://www.youtube.com/embed/tN_khO1foeA",
+   "watchUrl": "https://www.youtube.com/watch?v=tN_khO1foeA",
+   "thumb": "https://i.ytimg.com/vi/tN_khO1foeA/hqdefault_live.jpg"
   },
   "niigata": {
    "live": true,
@@ -96,11 +100,11 @@
   },
   "tokyo-fuji": {
    "live": true,
-   "videoId": "XkxGK0W2wKY",
-   "title": "【東京ライブカメラ】TOKYO LIVE CAMERA.  Mt'Fuji from Tokyo  富士山 紅富士 赤富士 東京からの富士山    #東京ライブカメラ #富士山東京 #東京夜景",
-   "embedUrl": "https://www.youtube.com/embed/XkxGK0W2wKY",
-   "watchUrl": "https://www.youtube.com/watch?v=XkxGK0W2wKY",
-   "thumb": "https://i.ytimg.com/vi/XkxGK0W2wKY/hqdefault_live.jpg"
+   "videoId": "Vnxv3iRPBEQ",
+   "title": "【星空と東京ライブカメラ】TOKYO STARRY SKY LIVE CAMERA 東京ライブカメラ 　#しし座流星群 #leonidmeteorshower",
+   "embedUrl": "https://www.youtube.com/embed/Vnxv3iRPBEQ",
+   "watchUrl": "https://www.youtube.com/watch?v=Vnxv3iRPBEQ",
+   "thumb": "https://i.ytimg.com/vi/Vnxv3iRPBEQ/hqdefault_live.jpg"
   },
   "oshino": {
    "live": true,
@@ -127,12 +131,8 @@
    "thumb": "https://i.ytimg.com/vi/TNJONTtZpPM/hqdefault_live.jpg"
   },
   "kurushima": {
-   "live": true,
-   "videoId": "EAkfCe5VNFc",
-   "title": "【LIVE】来島海峡南側・今治港付近ライブカメラ｜船名・速力AIS｜Japan Ship Watching | Kurushima, Imabari | Ship Names & Speed",
-   "embedUrl": "https://www.youtube.com/embed/EAkfCe5VNFc",
-   "watchUrl": "https://www.youtube.com/watch?v=EAkfCe5VNFc",
-   "thumb": "https://i.ytimg.com/vi/EAkfCe5VNFc/hqdefault_live.jpg"
+   "live": false,
+   "reason": "not-live"
   },
   "r-nhkworld": {
    "live": true,
