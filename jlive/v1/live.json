@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-18T19:22:35Z",
- "checked": "2026-11-18T19:22:35Z",
+ "updated": "2026-11-19T01:27:45Z",
+ "checked": "2026-11-19T01:27:45Z",
  "streams": {
   "tvasahi24": {
    "live": true,
@@ -12,19 +12,19 @@
   },
   "ntvlive": {
    "live": true,
-   "videoId": "DhABGP43F8k",
-   "title": "【夜ニュースライブ】最新ニュースと生活情報（11月18日） ──THE LATEST NEWS SUMMARY（日テレNEWS LIVE）",
-   "embedUrl": "https://www.youtube.com/embed/DhABGP43F8k",
-   "watchUrl": "https://www.youtube.com/watch?v=DhABGP43F8k",
-   "thumb": "https://i.ytimg.com/vi/DhABGP43F8k/hqdefault_live.jpg"
+   "videoId": "i2r6fqtYLLM",
+   "title": "【国会中継】参議院・外交防衛委員会 ──政治ニュースライブ［2026年11月19日午前］（日テレNEWS LIVE）",
+   "embedUrl": "https://www.youtube.com/embed/i2r6fqtYLLM",
+   "watchUrl": "https://www.youtube.com/watch?v=i2r6fqtYLLM",
+   "thumb": "https://i.ytimg.com/vi/i2r6fqtYLLM/hqdefault_live.jpg"
   },
   "weathernews": {
    "live": true,
-   "videoId": "aYyCivhSL8Y",
-   "title": "【熊本 最大震度5弱】熊本県天草・芦北地方でM5.7の地震・最新天気ニュース・地震情報 2026年11月18日(水)23:00〜／〈ウェザーニュースLiVE〉",
-   "embedUrl": "https://www.youtube.com/embed/aYyCivhSL8Y",
-   "watchUrl": "https://www.youtube.com/watch?v=aYyCivhSL8Y",
-   "thumb": "https://i.ytimg.com/vi/aYyCivhSL8Y/hqdefault_live.jpg"
+   "videoId": "lLSt5jaCoK0",
+   "title": "【ライブ】最新天気ニュース・地震情報 2026年11月19日(木) ／日本海側は雨や雪　夜は各地で気温ダウン〈ウェザーニュースLiVEサンシャイン・白井ゆかり／山口剛央〉",
+   "embedUrl": "https://www.youtube.com/embed/lLSt5jaCoK0",
+   "watchUrl": "https://www.youtube.com/watch?v=lLSt5jaCoK0",
+   "thumb": "https://i.ytimg.com/vi/lLSt5jaCoK0/hqdefault_live.jpg"
   },
   "quake": {
    "live": true,
@@ -76,19 +76,15 @@
   },
   "tbs": {
    "live": true,
-   "videoId": "ignRizLhly8",
-   "title": "【史上初･米中ロ首脳会談へ】トランプ大統領が中国到着/習近平国家主席が出迎え 抱き合う場面も/高市総理に“歓迎”なく…/「歴史観」論点になるか/高市総理 今夜プーチン大統領と接触へ【ニュースライブ】",
-   "embedUrl": "https://www.youtube.com/embed/ignRizLhly8",
-   "watchUrl": "https://www.youtube.com/watch?v=ignRizLhly8",
-   "thumb": "https://i.ytimg.com/vi/ignRizLhly8/hqdefault_live.jpg"
+   "videoId": "SldEwQ_9Gjs",
+   "title": "【ニュースライブ】朝のニュース（Japan News Digest Live）最新情報など（11月19日）｜TBS NEWS DIG",
+   "embedUrl": "https://www.youtube.com/embed/SldEwQ_9Gjs",
+   "watchUrl": "https://www.youtube.com/watch?v=SldEwQ_9Gjs",
+   "thumb": "https://i.ytimg.com/vi/SldEwQ_9Gjs/hqdefault_live.jpg"
   },
   "sapporo": {
-   "live": true,
-   "videoId": "sZcic7dlIsg",
-   "title": "［LIVE CAMERA］札幌 狸小路 ライブカメラ（４丁目） Tanukikoji Shopping Street in Sapporo, Hokkaido, Japan.",
-   "embedUrl": "https://www.youtube.com/embed/sZcic7dlIsg",
-   "watchUrl": "https://www.youtube.com/watch?v=sZcic7dlIsg",
-   "thumb": "https://i.ytimg.com/vi/sZcic7dlIsg/hqdefault_live.jpg"
+   "live": false,
+   "reason": "not-live"
   },
   "niigata": {
    "live": true,
@@ -100,11 +96,11 @@
   },
   "tokyo-fuji": {
    "live": true,
-   "videoId": "lemRqgmee9w",
-   "title": "【星空と東京ライブカメラ】TOKYO STARRY SKY LIVE CAMERA 東京ライブカメラ 　#しし座流星群 #leonidmeteorshower",
-   "embedUrl": "https://www.youtube.com/embed/lemRqgmee9w",
-   "watchUrl": "https://www.youtube.com/watch?v=lemRqgmee9w",
-   "thumb": "https://i.ytimg.com/vi/lemRqgmee9w/hqdefault_live.jpg"
+   "videoId": "XkxGK0W2wKY",
+   "title": "【東京ライブカメラ】TOKYO LIVE CAMERA.  Mt'Fuji from Tokyo  富士山 紅富士 赤富士 東京からの富士山    #東京ライブカメラ #富士山東京 #東京夜景",
+   "embedUrl": "https://www.youtube.com/embed/XkxGK0W2wKY",
+   "watchUrl": "https://www.youtube.com/watch?v=XkxGK0W2wKY",
+   "thumb": "https://i.ytimg.com/vi/XkxGK0W2wKY/hqdefault_live.jpg"
   },
   "oshino": {
    "live": true,
