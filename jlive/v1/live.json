@@ -1,38 +1,38 @@
 {
- "updated": "2026-11-19T09:28:37Z",
- "checked": "2026-11-19T09:28:37Z",
+ "updated": "2026-11-19T18:38:57Z",
+ "checked": "2026-11-19T18:38:57Z",
  "streams": {
   "tvasahi24": {
    "live": true,
    "videoId": "coYw-eVU0Ks",
-   "title": "【ライブ】日本の最新ニュースを24時間ライブ配信｜テレ朝NEWS24（Japan News LIVE）【チャットアンケート実施中！あなたの意見は？】",
+   "title": "【ライブ】日本の最新ニュースを24時間ライブ配信｜テレ朝NEWS24（Japan News LIVE）",
    "embedUrl": "https://www.youtube.com/embed/coYw-eVU0Ks",
    "watchUrl": "https://www.youtube.com/watch?v=coYw-eVU0Ks",
    "thumb": "https://i.ytimg.com/vi/coYw-eVU0Ks/hqdefault_live.jpg"
   },
   "ntvlive": {
    "live": true,
-   "videoId": "OTw-sRQbexA",
+   "videoId": "vJXZIBV3LeA",
    "title": "【夜ニュースライブ】最新ニュースと生活情報（11月19日） ──THE LATEST NEWS SUMMARY（日テレNEWS LIVE）",
-   "embedUrl": "https://www.youtube.com/embed/OTw-sRQbexA",
-   "watchUrl": "https://www.youtube.com/watch?v=OTw-sRQbexA",
-   "thumb": "https://i.ytimg.com/vi/OTw-sRQbexA/hqdefault_live.jpg"
+   "embedUrl": "https://www.youtube.com/embed/vJXZIBV3LeA",
+   "watchUrl": "https://www.youtube.com/watch?v=vJXZIBV3LeA",
+   "thumb": "https://i.ytimg.com/vi/vJXZIBV3LeA/hqdefault_live.jpg"
   },
   "weathernews": {
    "live": true,
-   "videoId": "cQIYCenoMic",
-   "title": "【ライブ】最新天気ニュース・地震情報 2026年11月19日(木) ／〈ウェザーニュースLiVEイブニング・戸北美月／宇野沢達也〉",
-   "embedUrl": "https://www.youtube.com/embed/cQIYCenoMic",
-   "watchUrl": "https://www.youtube.com/watch?v=cQIYCenoMic",
-   "thumb": "https://i.ytimg.com/vi/cQIYCenoMic/hqdefault_live.jpg"
+   "videoId": "Y0R951O2_28",
+   "title": "【ライブ】最新天気ニュース・地震情報 2026年11月19日(木)23:00〜／〈ウェザーニュースLiVE〉",
+   "embedUrl": "https://www.youtube.com/embed/Y0R951O2_28",
+   "watchUrl": "https://www.youtube.com/watch?v=Y0R951O2_28",
+   "thumb": "https://i.ytimg.com/vi/Y0R951O2_28/hqdefault_live.jpg"
   },
   "quake": {
    "live": true,
-   "videoId": "c0a2AKH9iUE",
+   "videoId": "3-TuFc_i6lo",
    "title": "【地震ライブ】緊急地震速報 24時間リアルタイム配信中 ウェザーニュース／Earthquake Alert Japan Live",
-   "embedUrl": "https://www.youtube.com/embed/c0a2AKH9iUE",
-   "watchUrl": "https://www.youtube.com/watch?v=c0a2AKH9iUE",
-   "thumb": "https://i.ytimg.com/vi/c0a2AKH9iUE/hqdefault_live.jpg"
+   "embedUrl": "https://www.youtube.com/embed/3-TuFc_i6lo",
+   "watchUrl": "https://www.youtube.com/watch?v=3-TuFc_i6lo",
+   "thumb": "https://i.ytimg.com/vi/3-TuFc_i6lo/hqdefault_live.jpg"
   },
   "dotonbori": {
    "live": true,
@@ -76,11 +76,11 @@
   },
   "tbs": {
    "live": true,
-   "videoId": "Q74S2oZ12n8",
-   "title": "【ニュースライブ】夜のニュース（Japan News Digest Live）最新情報など（11月19日）｜TBS NEWS DIG",
-   "embedUrl": "https://www.youtube.com/embed/Q74S2oZ12n8",
-   "watchUrl": "https://www.youtube.com/watch?v=Q74S2oZ12n8",
-   "thumb": "https://i.ytimg.com/vi/Q74S2oZ12n8/hqdefault_live.jpg"
+   "videoId": "cK_aKbDPALU",
+   "title": "【ニュースライブ】最新ニュースまとめ（Japan News Digest）（11月19日）｜TBS NEWS DIG",
+   "embedUrl": "https://www.youtube.com/embed/cK_aKbDPALU",
+   "watchUrl": "https://www.youtube.com/watch?v=cK_aKbDPALU",
+   "thumb": "https://i.ytimg.com/vi/cK_aKbDPALU/hqdefault_live.jpg"
   },
   "sapporo": {
    "live": true,
@@ -123,16 +123,16 @@
    "thumb": "https://i.ytimg.com/vi/CeSitkT_nbw/hqdefault_live.jpg"
   },
   "tottori": {
-   "live": true,
-   "videoId": "TNJONTtZpPM",
-   "title": "鳥取市伏野海岸ライブカメラ　The Sea of Japan live camera.",
-   "embedUrl": "https://www.youtube.com/embed/TNJONTtZpPM",
-   "watchUrl": "https://www.youtube.com/watch?v=TNJONTtZpPM",
-   "thumb": "https://i.ytimg.com/vi/TNJONTtZpPM/hqdefault_live.jpg"
-  },
-  "kurushima": {
    "live": false,
    "reason": "not-live"
+  },
+  "kurushima": {
+   "live": true,
+   "videoId": "EAkfCe5VNFc",
+   "title": "【LIVE】来島海峡南側・今治港付近ライブカメラ｜船名・速力AIS｜Japan Ship Watching | Kurushima, Imabari | Ship Names & Speed",
+   "embedUrl": "https://www.youtube.com/embed/EAkfCe5VNFc",
+   "watchUrl": "https://www.youtube.com/watch?v=EAkfCe5VNFc",
+   "thumb": "https://i.ytimg.com/vi/EAkfCe5VNFc/hqdefault_live.jpg"
   },
   "r-nhkworld": {
    "live": true,
