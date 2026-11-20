@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-20T01:14:04Z",
- "checked": "2026-11-20T01:14:04Z",
+ "updated": "2026-11-20T09:08:21Z",
+ "checked": "2026-11-20T09:08:21Z",
  "streams": {
   "tvasahi24": {
    "live": true,
@@ -12,19 +12,19 @@
   },
   "ntvlive": {
    "live": true,
-   "videoId": "ee2Nhfie9yg",
-   "title": "【国会中継】衆議院・政治改革特別委員会 ── 政治ニュースライブ［2026年11月20日午前］（日テレNEWS LIVE）",
-   "embedUrl": "https://www.youtube.com/embed/ee2Nhfie9yg",
-   "watchUrl": "https://www.youtube.com/watch?v=ee2Nhfie9yg",
-   "thumb": "https://i.ytimg.com/vi/ee2Nhfie9yg/hqdefault_live.jpg"
+   "videoId": "wgucSDQMWJE",
+   "title": "【夜ニュースライブ】最新ニュースと生活情報（11月20日） ──THE LATEST NEWS SUMMARY（日テレNEWS LIVE）",
+   "embedUrl": "https://www.youtube.com/embed/wgucSDQMWJE",
+   "watchUrl": "https://www.youtube.com/watch?v=wgucSDQMWJE",
+   "thumb": "https://i.ytimg.com/vi/wgucSDQMWJE/hqdefault_live.jpg"
   },
   "weathernews": {
    "live": true,
-   "videoId": "DlJ9NE13eFY",
-   "title": "【ライブ】最新天気ニュース・地震情報 2026年11月20日(金)／TVCブラックフライデー1日ジャック〈ウェザーニュースLiVEサンシャイン・佐藤剣慎／有賀哲夫〉",
-   "embedUrl": "https://www.youtube.com/embed/DlJ9NE13eFY",
-   "watchUrl": "https://www.youtube.com/watch?v=DlJ9NE13eFY",
-   "thumb": "https://i.ytimg.com/vi/DlJ9NE13eFY/hqdefault_live.jpg"
+   "videoId": "fsXblLlNldE",
+   "title": "【ライブ】最新天気ニュース・地震情報 2026年11月20日(金) ／TVCブラックフライデー1日ジャック〈ウェザーニュースLiVEイブニング・戸北美月／宇野沢達也〉",
+   "embedUrl": "https://www.youtube.com/embed/fsXblLlNldE",
+   "watchUrl": "https://www.youtube.com/watch?v=fsXblLlNldE",
+   "thumb": "https://i.ytimg.com/vi/fsXblLlNldE/hqdefault_live.jpg"
   },
   "quake": {
    "live": true,
@@ -76,11 +76,11 @@
   },
   "tbs": {
    "live": true,
-   "videoId": "Q58845BIa8U",
-   "title": "【ニュースライブ】朝のニュース（Japan News Digest Live）最新情報など（11月20日）｜TBS NEWS DIG",
-   "embedUrl": "https://www.youtube.com/embed/Q58845BIa8U",
-   "watchUrl": "https://www.youtube.com/watch?v=Q58845BIa8U",
-   "thumb": "https://i.ytimg.com/vi/Q58845BIa8U/hqdefault_live.jpg"
+   "videoId": "-gqi6yeVQ5Q",
+   "title": "【ニュースライブ】夜のニュース（Japan News Digest Live）最新情報など（11月20日）｜TBS NEWS DIG",
+   "embedUrl": "https://www.youtube.com/embed/-gqi6yeVQ5Q",
+   "watchUrl": "https://www.youtube.com/watch?v=-gqi6yeVQ5Q",
+   "thumb": "https://i.ytimg.com/vi/-gqi6yeVQ5Q/hqdefault_live.jpg"
   },
   "sapporo": {
    "live": true,
@@ -100,11 +100,11 @@
   },
   "tokyo-fuji": {
    "live": true,
-   "videoId": "GR1R3R_ZeDA",
-   "title": "【東京ライブカメラ】TOKYO LIVE CAMERA.  Mt'Fuji from Tokyo  富士山 紅富士 赤富士 東京からの富士山    #東京ライブカメラ #富士山東京 #東京夜景",
-   "embedUrl": "https://www.youtube.com/embed/GR1R3R_ZeDA",
-   "watchUrl": "https://www.youtube.com/watch?v=GR1R3R_ZeDA",
-   "thumb": "https://i.ytimg.com/vi/GR1R3R_ZeDA/hqdefault_live.jpg"
+   "videoId": "H0n_7kv3M0I",
+   "title": "【星空と東京ライブカメラ】TOKYO STARRY SKY LIVE CAMERA 東京ライブカメラ 　#しし座流星群 #leonidmeteorshower",
+   "embedUrl": "https://www.youtube.com/embed/H0n_7kv3M0I",
+   "watchUrl": "https://www.youtube.com/watch?v=H0n_7kv3M0I",
+   "thumb": "https://i.ytimg.com/vi/H0n_7kv3M0I/hqdefault_live.jpg"
   },
   "oshino": {
    "live": true,
