@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T18:38:57Z",
- "checked": "2026-11-19T18:38:57Z",
+ "updated": "2026-11-20T01:14:04Z",
+ "checked": "2026-11-20T01:14:04Z",
  "streams": {
   "tvasahi24": {
    "live": true,
@@ -12,19 +12,19 @@
   },
   "ntvlive": {
    "live": true,
-   "videoId": "vJXZIBV3LeA",
-   "title": "【夜ニュースライブ】最新ニュースと生活情報（11月19日） ──THE LATEST NEWS SUMMARY（日テレNEWS LIVE）",
-   "embedUrl": "https://www.youtube.com/embed/vJXZIBV3LeA",
-   "watchUrl": "https://www.youtube.com/watch?v=vJXZIBV3LeA",
-   "thumb": "https://i.ytimg.com/vi/vJXZIBV3LeA/hqdefault_live.jpg"
+   "videoId": "ee2Nhfie9yg",
+   "title": "【国会中継】衆議院・政治改革特別委員会 ── 政治ニュースライブ［2026年11月20日午前］（日テレNEWS LIVE）",
+   "embedUrl": "https://www.youtube.com/embed/ee2Nhfie9yg",
+   "watchUrl": "https://www.youtube.com/watch?v=ee2Nhfie9yg",
+   "thumb": "https://i.ytimg.com/vi/ee2Nhfie9yg/hqdefault_live.jpg"
   },
   "weathernews": {
    "live": true,
-   "videoId": "Y0R951O2_28",
-   "title": "【ライブ】最新天気ニュース・地震情報 2026年11月19日(木)23:00〜／〈ウェザーニュースLiVE〉",
-   "embedUrl": "https://www.youtube.com/embed/Y0R951O2_28",
-   "watchUrl": "https://www.youtube.com/watch?v=Y0R951O2_28",
-   "thumb": "https://i.ytimg.com/vi/Y0R951O2_28/hqdefault_live.jpg"
+   "videoId": "DlJ9NE13eFY",
+   "title": "【ライブ】最新天気ニュース・地震情報 2026年11月20日(金)／TVCブラックフライデー1日ジャック〈ウェザーニュースLiVEサンシャイン・佐藤剣慎／有賀哲夫〉",
+   "embedUrl": "https://www.youtube.com/embed/DlJ9NE13eFY",
+   "watchUrl": "https://www.youtube.com/watch?v=DlJ9NE13eFY",
+   "thumb": "https://i.ytimg.com/vi/DlJ9NE13eFY/hqdefault_live.jpg"
   },
   "quake": {
    "live": true,
@@ -76,11 +76,11 @@
   },
   "tbs": {
    "live": true,
-   "videoId": "cK_aKbDPALU",
-   "title": "【ニュースライブ】最新ニュースまとめ（Japan News Digest）（11月19日）｜TBS NEWS DIG",
-   "embedUrl": "https://www.youtube.com/embed/cK_aKbDPALU",
-   "watchUrl": "https://www.youtube.com/watch?v=cK_aKbDPALU",
-   "thumb": "https://i.ytimg.com/vi/cK_aKbDPALU/hqdefault_live.jpg"
+   "videoId": "Q58845BIa8U",
+   "title": "【ニュースライブ】朝のニュース（Japan News Digest Live）最新情報など（11月20日）｜TBS NEWS DIG",
+   "embedUrl": "https://www.youtube.com/embed/Q58845BIa8U",
+   "watchUrl": "https://www.youtube.com/watch?v=Q58845BIa8U",
+   "thumb": "https://i.ytimg.com/vi/Q58845BIa8U/hqdefault_live.jpg"
   },
   "sapporo": {
    "live": true,
@@ -100,11 +100,11 @@
   },
   "tokyo-fuji": {
    "live": true,
-   "videoId": "Vnxv3iRPBEQ",
-   "title": "【星空と東京ライブカメラ】TOKYO STARRY SKY LIVE CAMERA 東京ライブカメラ 　#しし座流星群 #leonidmeteorshower",
-   "embedUrl": "https://www.youtube.com/embed/Vnxv3iRPBEQ",
-   "watchUrl": "https://www.youtube.com/watch?v=Vnxv3iRPBEQ",
-   "thumb": "https://i.ytimg.com/vi/Vnxv3iRPBEQ/hqdefault_live.jpg"
+   "videoId": "GR1R3R_ZeDA",
+   "title": "【東京ライブカメラ】TOKYO LIVE CAMERA.  Mt'Fuji from Tokyo  富士山 紅富士 赤富士 東京からの富士山    #東京ライブカメラ #富士山東京 #東京夜景",
+   "embedUrl": "https://www.youtube.com/embed/GR1R3R_ZeDA",
+   "watchUrl": "https://www.youtube.com/watch?v=GR1R3R_ZeDA",
+   "thumb": "https://i.ytimg.com/vi/GR1R3R_ZeDA/hqdefault_live.jpg"
   },
   "oshino": {
    "live": true,
@@ -123,8 +123,12 @@
    "thumb": "https://i.ytimg.com/vi/CeSitkT_nbw/hqdefault_live.jpg"
   },
   "tottori": {
-   "live": false,
-   "reason": "not-live"
+   "live": true,
+   "videoId": "WiH4eqhNbAE",
+   "title": "鳥取市伏野海岸ライブカメラ　The Sea of Japan live camera.",
+   "embedUrl": "https://www.youtube.com/embed/WiH4eqhNbAE",
+   "watchUrl": "https://www.youtube.com/watch?v=WiH4eqhNbAE",
+   "thumb": "https://i.ytimg.com/vi/WiH4eqhNbAE/hqdefault_live.jpg"
   },
   "kurushima": {
    "live": true,
