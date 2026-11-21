@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-21T06:57:22Z",
- "checked": "2026-11-21T06:57:22Z",
+ "updated": "2026-11-21T15:17:35Z",
+ "checked": "2026-11-21T15:17:35Z",
  "streams": {
   "tvasahi24": {
    "live": true,
@@ -12,19 +12,19 @@
   },
   "ntvlive": {
    "live": true,
-   "videoId": "dg0np901ugc",
-   "title": "【昼ニュースライブ】最新ニュースと生活情報（11月21日） ──THE LATEST NEWS SUMMARY（日テレNEWS LIVE）",
-   "embedUrl": "https://www.youtube.com/embed/dg0np901ugc",
-   "watchUrl": "https://www.youtube.com/watch?v=dg0np901ugc",
-   "thumb": "https://i.ytimg.com/vi/dg0np901ugc/hqdefault_live.jpg"
+   "videoId": "qYARIyX5vgI",
+   "title": "【夜ニュースライブ】最新ニュースと生活情報（11月21日） ──THE LATEST NEWS SUMMARY（日テレNEWS LIVE）",
+   "embedUrl": "https://www.youtube.com/embed/qYARIyX5vgI",
+   "watchUrl": "https://www.youtube.com/watch?v=qYARIyX5vgI",
+   "thumb": "https://i.ytimg.com/vi/qYARIyX5vgI/hqdefault_live.jpg"
   },
   "weathernews": {
    "live": true,
-   "videoId": "_tr7jnNUuFE",
-   "title": "【ライブ】最新天気ニュース・地震情報 2026年11月21日(土)／日本海側は雪や雨　全国的に寒さ続く〈ウェザーニュースLiVEアフタヌーン・小林李衣奈／芳野達郎〉",
-   "embedUrl": "https://www.youtube.com/embed/_tr7jnNUuFE",
-   "watchUrl": "https://www.youtube.com/watch?v=_tr7jnNUuFE",
-   "thumb": "https://i.ytimg.com/vi/_tr7jnNUuFE/hqdefault_live.jpg"
+   "videoId": "jOqcMa_S6FA",
+   "title": "【ライブ】最新天気ニュース・地震情報 2026年11月21日(土)23:00〜／〈ウェザーニュースLiVE〉",
+   "embedUrl": "https://www.youtube.com/embed/jOqcMa_S6FA",
+   "watchUrl": "https://www.youtube.com/watch?v=jOqcMa_S6FA",
+   "thumb": "https://i.ytimg.com/vi/jOqcMa_S6FA/hqdefault_live.jpg"
   },
   "quake": {
    "live": true,
@@ -76,11 +76,11 @@
   },
   "tbs": {
    "live": true,
-   "videoId": "PJASxgbPwAI",
-   "title": "【ニュースライブ】昼のニュース（Japan News Digest Live）最新情報など（11月21日）｜TBS NEWS DIG",
-   "embedUrl": "https://www.youtube.com/embed/PJASxgbPwAI",
-   "watchUrl": "https://www.youtube.com/watch?v=PJASxgbPwAI",
-   "thumb": "https://i.ytimg.com/vi/PJASxgbPwAI/hqdefault_live.jpg"
+   "videoId": "7JTk-eloPdA",
+   "title": "【ニュースライブ】最新ニュースまとめ（Japan News Digest）（11月21日）｜TBS NEWS DIG",
+   "embedUrl": "https://www.youtube.com/embed/7JTk-eloPdA",
+   "watchUrl": "https://www.youtube.com/watch?v=7JTk-eloPdA",
+   "thumb": "https://i.ytimg.com/vi/7JTk-eloPdA/hqdefault_live.jpg"
   },
   "sapporo": {
    "live": true,
@@ -100,11 +100,11 @@
   },
   "tokyo-fuji": {
    "live": true,
-   "videoId": "6boXz4DBoCY",
-   "title": "【東京ライブカメラ】TOKYO LIVE CAMERA.  Mt'Fuji from Tokyo  富士山 紅富士 赤富士 東京からの富士山    #東京ライブカメラ #富士山東京 #東京夜景",
-   "embedUrl": "https://www.youtube.com/embed/6boXz4DBoCY",
-   "watchUrl": "https://www.youtube.com/watch?v=6boXz4DBoCY",
-   "thumb": "https://i.ytimg.com/vi/6boXz4DBoCY/hqdefault_live.jpg"
+   "videoId": "O6oHC7fEFPw",
+   "title": "【星空と東京ライブカメラ】TOKYO STARRY SKY LIVE CAMERA 東京ライブカメラ 　#しし座流星群 #leonidmeteorshower",
+   "embedUrl": "https://www.youtube.com/embed/O6oHC7fEFPw",
+   "watchUrl": "https://www.youtube.com/watch?v=O6oHC7fEFPw",
+   "thumb": "https://i.ytimg.com/vi/O6oHC7fEFPw/hqdefault_live.jpg"
   },
   "oshino": {
    "live": true,
