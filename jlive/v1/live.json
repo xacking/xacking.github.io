@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-21T15:17:35Z",
- "checked": "2026-11-21T15:17:35Z",
+ "updated": "2026-11-21T21:05:57Z",
+ "checked": "2026-11-21T21:05:57Z",
  "streams": {
   "tvasahi24": {
    "live": true,
@@ -12,27 +12,27 @@
   },
   "ntvlive": {
    "live": true,
-   "videoId": "qYARIyX5vgI",
-   "title": "【夜ニュースライブ】最新ニュースと生活情報（11月21日） ──THE LATEST NEWS SUMMARY（日テレNEWS LIVE）",
-   "embedUrl": "https://www.youtube.com/embed/qYARIyX5vgI",
-   "watchUrl": "https://www.youtube.com/watch?v=qYARIyX5vgI",
-   "thumb": "https://i.ytimg.com/vi/qYARIyX5vgI/hqdefault_live.jpg"
+   "videoId": "gRh7pk3X4n0",
+   "title": "【政治ライブ】自民・鈴木幹事長、関文科相交代の可能性示唆　“法案成立を最優先” ── 政治ニュースまとめ （日テレNEWS LIVE）",
+   "embedUrl": "https://www.youtube.com/embed/gRh7pk3X4n0",
+   "watchUrl": "https://www.youtube.com/watch?v=gRh7pk3X4n0",
+   "thumb": "https://i.ytimg.com/vi/gRh7pk3X4n0/hqdefault_live.jpg"
   },
   "weathernews": {
    "live": true,
-   "videoId": "jOqcMa_S6FA",
-   "title": "【ライブ】最新天気ニュース・地震情報 2026年11月21日(土)23:00〜／〈ウェザーニュースLiVE〉",
-   "embedUrl": "https://www.youtube.com/embed/jOqcMa_S6FA",
-   "watchUrl": "https://www.youtube.com/watch?v=jOqcMa_S6FA",
-   "thumb": "https://i.ytimg.com/vi/jOqcMa_S6FA/hqdefault_live.jpg"
+   "videoId": "TNXuUFV-Ehg",
+   "title": "【ライブ】最新天気ニュース・地震情報 2026年11月22日(日) ／日本海側は雪や雨　全国的に寒さ続く〈ウェザーニュースLiVEモーニング・魚住茉由／山口剛央〉",
+   "embedUrl": "https://www.youtube.com/embed/TNXuUFV-Ehg",
+   "watchUrl": "https://www.youtube.com/watch?v=TNXuUFV-Ehg",
+   "thumb": "https://i.ytimg.com/vi/TNXuUFV-Ehg/hqdefault_live.jpg"
   },
   "quake": {
    "live": true,
-   "videoId": "G67jhUXO948",
+   "videoId": "BFpEpX5XZDc",
    "title": "【地震ライブ】緊急地震速報 24時間リアルタイム配信中 ウェザーニュース／Earthquake Alert Japan Live",
-   "embedUrl": "https://www.youtube.com/embed/G67jhUXO948",
-   "watchUrl": "https://www.youtube.com/watch?v=G67jhUXO948",
-   "thumb": "https://i.ytimg.com/vi/G67jhUXO948/hqdefault_live.jpg"
+   "embedUrl": "https://www.youtube.com/embed/BFpEpX5XZDc",
+   "watchUrl": "https://www.youtube.com/watch?v=BFpEpX5XZDc",
+   "thumb": "https://i.ytimg.com/vi/BFpEpX5XZDc/hqdefault_live.jpg"
   },
   "dotonbori": {
    "live": true,
@@ -76,11 +76,11 @@
   },
   "tbs": {
    "live": true,
-   "videoId": "7JTk-eloPdA",
-   "title": "【ニュースライブ】最新ニュースまとめ（Japan News Digest）（11月21日）｜TBS NEWS DIG",
-   "embedUrl": "https://www.youtube.com/embed/7JTk-eloPdA",
-   "watchUrl": "https://www.youtube.com/watch?v=7JTk-eloPdA",
-   "thumb": "https://i.ytimg.com/vi/7JTk-eloPdA/hqdefault_live.jpg"
+   "videoId": "2YQBOk5bZrc",
+   "title": "【ニュースライブ】朝のニュース（Japan News Digest Live）最新情報など（11月22日）｜TBS NEWS DIG",
+   "embedUrl": "https://www.youtube.com/embed/2YQBOk5bZrc",
+   "watchUrl": "https://www.youtube.com/watch?v=2YQBOk5bZrc",
+   "thumb": "https://i.ytimg.com/vi/2YQBOk5bZrc/hqdefault_live.jpg"
   },
   "sapporo": {
    "live": true,
@@ -100,11 +100,11 @@
   },
   "tokyo-fuji": {
    "live": true,
-   "videoId": "O6oHC7fEFPw",
-   "title": "【星空と東京ライブカメラ】TOKYO STARRY SKY LIVE CAMERA 東京ライブカメラ 　#しし座流星群 #leonidmeteorshower",
-   "embedUrl": "https://www.youtube.com/embed/O6oHC7fEFPw",
-   "watchUrl": "https://www.youtube.com/watch?v=O6oHC7fEFPw",
-   "thumb": "https://i.ytimg.com/vi/O6oHC7fEFPw/hqdefault_live.jpg"
+   "videoId": "7ZOBuwrN6Bs",
+   "title": "【東京ライブカメラ】TOKYO LIVE CAMERA.  Mt'Fuji from Tokyo  富士山 紅富士 赤富士 東京からの富士山    #東京ライブカメラ #富士山東京 #東京夜景",
+   "embedUrl": "https://www.youtube.com/embed/7ZOBuwrN6Bs",
+   "watchUrl": "https://www.youtube.com/watch?v=7ZOBuwrN6Bs",
+   "thumb": "https://i.ytimg.com/vi/7ZOBuwrN6Bs/hqdefault_live.jpg"
   },
   "oshino": {
    "live": true,
