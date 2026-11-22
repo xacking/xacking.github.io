@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-22T08:46:38Z",
- "checked": "2026-11-22T08:46:38Z",
+ "updated": "2026-11-22T17:05:03Z",
+ "checked": "2026-11-22T17:05:03Z",
  "streams": {
   "tvasahi24": {
    "live": true,
@@ -12,27 +12,27 @@
   },
   "ntvlive": {
    "live": true,
-   "videoId": "3LlbSt8dTr0",
-   "title": "【昼ニュースライブ】最新ニュースと生活情報（11月22日） ──THE LATEST NEWS SUMMARY（日テレNEWS LIVE）",
-   "embedUrl": "https://www.youtube.com/embed/3LlbSt8dTr0",
-   "watchUrl": "https://www.youtube.com/watch?v=3LlbSt8dTr0",
-   "thumb": "https://i.ytimg.com/vi/3LlbSt8dTr0/hqdefault_live.jpg"
+   "videoId": "aWRSH7bRvvU",
+   "title": "【夜ニュースライブ】最新ニュースと生活情報（11月22日） ──THE LATEST NEWS SUMMARY（日テレNEWS LIVE）",
+   "embedUrl": "https://www.youtube.com/embed/aWRSH7bRvvU",
+   "watchUrl": "https://www.youtube.com/watch?v=aWRSH7bRvvU",
+   "thumb": "https://i.ytimg.com/vi/aWRSH7bRvvU/hqdefault_live.jpg"
   },
   "weathernews": {
    "live": true,
-   "videoId": "rln3LwxbFFw",
-   "title": "【ライブ】最新天気ニュース・地震情報 2026年11月22日(日) ／三連休最終日は広範囲で晴れ　北日本は天気下り坂〈ウェザーニュースLiVEイブニング・本田竜也〉",
-   "embedUrl": "https://www.youtube.com/embed/rln3LwxbFFw",
-   "watchUrl": "https://www.youtube.com/watch?v=rln3LwxbFFw",
-   "thumb": "https://i.ytimg.com/vi/rln3LwxbFFw/hqdefault_live.jpg"
+   "videoId": "GeFNAMu0-rA",
+   "title": "【ライブ】最新天気ニュース・地震情報 2026年11月22日(日)23:00〜／三連休最終日は広範囲で晴れ 北日本は天気下り坂〈ウェザーニュースLiVE〉",
+   "embedUrl": "https://www.youtube.com/embed/GeFNAMu0-rA",
+   "watchUrl": "https://www.youtube.com/watch?v=GeFNAMu0-rA",
+   "thumb": "https://i.ytimg.com/vi/GeFNAMu0-rA/hqdefault_live.jpg"
   },
   "quake": {
    "live": true,
-   "videoId": "BFpEpX5XZDc",
+   "videoId": "S_Yx9IIQADY",
    "title": "【地震ライブ】緊急地震速報 24時間リアルタイム配信中 ウェザーニュース／Earthquake Alert Japan Live",
-   "embedUrl": "https://www.youtube.com/embed/BFpEpX5XZDc",
-   "watchUrl": "https://www.youtube.com/watch?v=BFpEpX5XZDc",
-   "thumb": "https://i.ytimg.com/vi/BFpEpX5XZDc/hqdefault_live.jpg"
+   "embedUrl": "https://www.youtube.com/embed/S_Yx9IIQADY",
+   "watchUrl": "https://www.youtube.com/watch?v=S_Yx9IIQADY",
+   "thumb": "https://i.ytimg.com/vi/S_Yx9IIQADY/hqdefault_live.jpg"
   },
   "dotonbori": {
    "live": true,
@@ -76,11 +76,11 @@
   },
   "tbs": {
    "live": true,
-   "videoId": "TT-DgogD39Y",
-   "title": "【ニュースライブ】昼のニュース（Japan News Digest Live）最新情報など（11月22日）｜TBS NEWS DIG",
-   "embedUrl": "https://www.youtube.com/embed/TT-DgogD39Y",
-   "watchUrl": "https://www.youtube.com/watch?v=TT-DgogD39Y",
-   "thumb": "https://i.ytimg.com/vi/TT-DgogD39Y/hqdefault_live.jpg"
+   "videoId": "AlBY-RZGkSA",
+   "title": "【ニュースライブ】最新ニュースまとめ（Japan News Digest）（11月22日）｜TBS NEWS DIG",
+   "embedUrl": "https://www.youtube.com/embed/AlBY-RZGkSA",
+   "watchUrl": "https://www.youtube.com/watch?v=AlBY-RZGkSA",
+   "thumb": "https://i.ytimg.com/vi/AlBY-RZGkSA/hqdefault_live.jpg"
   },
   "sapporo": {
    "live": true,
@@ -100,11 +100,11 @@
   },
   "tokyo-fuji": {
    "live": true,
-   "videoId": "7ZOBuwrN6Bs",
-   "title": "【東京ライブカメラ】TOKYO LIVE CAMERA.  Mt'Fuji from Tokyo  富士山 紅富士 赤富士 東京からの富士山    #東京ライブカメラ #富士山東京 #東京夜景",
-   "embedUrl": "https://www.youtube.com/embed/7ZOBuwrN6Bs",
-   "watchUrl": "https://www.youtube.com/watch?v=7ZOBuwrN6Bs",
-   "thumb": "https://i.ytimg.com/vi/7ZOBuwrN6Bs/hqdefault_live.jpg"
+   "videoId": "hOEWKlDTlWw",
+   "title": "【星空と東京ライブカメラ】TOKYO STARRY SKY LIVE CAMERA 東京ライブカメラ 　#しし座流星群 #leonidmeteorshower",
+   "embedUrl": "https://www.youtube.com/embed/hOEWKlDTlWw",
+   "watchUrl": "https://www.youtube.com/watch?v=hOEWKlDTlWw",
+   "thumb": "https://i.ytimg.com/vi/hOEWKlDTlWw/hqdefault_live.jpg"
   },
   "oshino": {
    "live": true,
