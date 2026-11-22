@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-22T01:14:08Z",
- "checked": "2026-11-22T01:14:08Z",
+ "updated": "2026-11-22T08:46:38Z",
+ "checked": "2026-11-22T08:46:38Z",
  "streams": {
   "tvasahi24": {
    "live": true,
@@ -12,19 +12,19 @@
   },
   "ntvlive": {
    "live": true,
-   "videoId": "SayM69MDUBU",
-   "title": "【朝ニュースライブ】最新ニュースと生活情報（11月22日） ──THE LATEST NEWS SUMMARY（日テレNEWS LIVE）",
-   "embedUrl": "https://www.youtube.com/embed/SayM69MDUBU",
-   "watchUrl": "https://www.youtube.com/watch?v=SayM69MDUBU",
-   "thumb": "https://i.ytimg.com/vi/SayM69MDUBU/hqdefault_live.jpg"
+   "videoId": "3LlbSt8dTr0",
+   "title": "【昼ニュースライブ】最新ニュースと生活情報（11月22日） ──THE LATEST NEWS SUMMARY（日テレNEWS LIVE）",
+   "embedUrl": "https://www.youtube.com/embed/3LlbSt8dTr0",
+   "watchUrl": "https://www.youtube.com/watch?v=3LlbSt8dTr0",
+   "thumb": "https://i.ytimg.com/vi/3LlbSt8dTr0/hqdefault_live.jpg"
   },
   "weathernews": {
    "live": true,
-   "videoId": "XmUhE6Nzbt0",
-   "title": "【ライブ】最新天気ニュース・地震情報 2026年11月22日(日)／日本海側は雪や雨　全国的に寒さ続く〈ウェザーニュースLiVEサンシャイン・岡本結子リサ／山口剛央〉",
-   "embedUrl": "https://www.youtube.com/embed/XmUhE6Nzbt0",
-   "watchUrl": "https://www.youtube.com/watch?v=XmUhE6Nzbt0",
-   "thumb": "https://i.ytimg.com/vi/XmUhE6Nzbt0/hqdefault_live.jpg"
+   "videoId": "rln3LwxbFFw",
+   "title": "【ライブ】最新天気ニュース・地震情報 2026年11月22日(日) ／三連休最終日は広範囲で晴れ　北日本は天気下り坂〈ウェザーニュースLiVEイブニング・本田竜也〉",
+   "embedUrl": "https://www.youtube.com/embed/rln3LwxbFFw",
+   "watchUrl": "https://www.youtube.com/watch?v=rln3LwxbFFw",
+   "thumb": "https://i.ytimg.com/vi/rln3LwxbFFw/hqdefault_live.jpg"
   },
   "quake": {
    "live": true,
@@ -76,11 +76,11 @@
   },
   "tbs": {
    "live": true,
-   "videoId": "2YQBOk5bZrc",
-   "title": "【ニュースライブ】朝のニュース（Japan News Digest Live）最新情報など（11月22日）｜TBS NEWS DIG",
-   "embedUrl": "https://www.youtube.com/embed/2YQBOk5bZrc",
-   "watchUrl": "https://www.youtube.com/watch?v=2YQBOk5bZrc",
-   "thumb": "https://i.ytimg.com/vi/2YQBOk5bZrc/hqdefault_live.jpg"
+   "videoId": "TT-DgogD39Y",
+   "title": "【ニュースライブ】昼のニュース（Japan News Digest Live）最新情報など（11月22日）｜TBS NEWS DIG",
+   "embedUrl": "https://www.youtube.com/embed/TT-DgogD39Y",
+   "watchUrl": "https://www.youtube.com/watch?v=TT-DgogD39Y",
+   "thumb": "https://i.ytimg.com/vi/TT-DgogD39Y/hqdefault_live.jpg"
   },
   "sapporo": {
    "live": true,
