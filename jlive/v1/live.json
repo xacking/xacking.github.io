@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-23T03:04:24Z",
- "checked": "2026-11-23T03:04:24Z",
+ "updated": "2026-11-23T12:22:11Z",
+ "checked": "2026-11-23T12:22:11Z",
  "streams": {
   "tvasahi24": {
    "live": true,
@@ -12,19 +12,19 @@
   },
   "ntvlive": {
    "live": true,
-   "videoId": "e_XIfQUnD5E",
-   "title": "【昼ニュースライブ】最新ニュースと生活情報（11月23日） ──THE LATEST NEWS SUMMARY（日テレNEWS LIVE）",
-   "embedUrl": "https://www.youtube.com/embed/e_XIfQUnD5E",
-   "watchUrl": "https://www.youtube.com/watch?v=e_XIfQUnD5E",
-   "thumb": "https://i.ytimg.com/vi/e_XIfQUnD5E/hqdefault_live.jpg"
+   "videoId": "MM4tGXe60Cc",
+   "title": "【夜ニュースライブ】最新ニュースと生活情報（11月23日） ──THE LATEST NEWS SUMMARY（日テレNEWS LIVE）",
+   "embedUrl": "https://www.youtube.com/embed/MM4tGXe60Cc",
+   "watchUrl": "https://www.youtube.com/watch?v=MM4tGXe60Cc",
+   "thumb": "https://i.ytimg.com/vi/MM4tGXe60Cc/hqdefault_live.jpg"
   },
   "weathernews": {
    "live": true,
-   "videoId": "ly8igfaagN4",
-   "title": "【ライブ】最新天気ニュース・地震情報 2026年11月23日(月) ／連休最終日は晴れる所が多い　北日本は次第に天気崩れる〈ウェザーニュースLiVEコーヒータイム・岡本結子リサ／有賀哲夫〉",
-   "embedUrl": "https://www.youtube.com/embed/ly8igfaagN4",
-   "watchUrl": "https://www.youtube.com/watch?v=ly8igfaagN4",
-   "thumb": "https://i.ytimg.com/vi/ly8igfaagN4/hqdefault_live.jpg"
+   "videoId": "craQylHtSO4",
+   "title": "【ライブ】最新天気ニュース・地震情報 2026年11月23日(月)20:00〜 ／北日本は次第に天気崩れる 明日は広範囲で雨に〈ウェザーニュースLiVEムーン・戸北美月／本田竜也〉",
+   "embedUrl": "https://www.youtube.com/embed/craQylHtSO4",
+   "watchUrl": "https://www.youtube.com/watch?v=craQylHtSO4",
+   "thumb": "https://i.ytimg.com/vi/craQylHtSO4/hqdefault_live.jpg"
   },
   "quake": {
    "live": true,
@@ -76,11 +76,11 @@
   },
   "tbs": {
    "live": true,
-   "videoId": "ueCPjS-o8Jo",
-   "title": "【ニュースライブ】昼のニュース（Japan News Digest Live）最新情報など（11月23日）｜TBS NEWS DIG",
-   "embedUrl": "https://www.youtube.com/embed/ueCPjS-o8Jo",
-   "watchUrl": "https://www.youtube.com/watch?v=ueCPjS-o8Jo",
-   "thumb": "https://i.ytimg.com/vi/ueCPjS-o8Jo/hqdefault_live.jpg"
+   "videoId": "6CPgsLYKyRs",
+   "title": "【ニュースライブ】最新ニュースまとめ（Japan News Digest）（11月23日）｜TBS NEWS DIG",
+   "embedUrl": "https://www.youtube.com/embed/6CPgsLYKyRs",
+   "watchUrl": "https://www.youtube.com/watch?v=6CPgsLYKyRs",
+   "thumb": "https://i.ytimg.com/vi/6CPgsLYKyRs/hqdefault_live.jpg"
   },
   "sapporo": {
    "live": true,
@@ -100,11 +100,11 @@
   },
   "tokyo-fuji": {
    "live": true,
-   "videoId": "aDq-Kocbgio",
-   "title": "【東京ライブカメラ】TOKYO LIVE CAMERA.  Mt'Fuji from Tokyo  富士山 紅富士 赤富士 東京からの富士山    #東京ライブカメラ #富士山東京 #東京夜景",
-   "embedUrl": "https://www.youtube.com/embed/aDq-Kocbgio",
-   "watchUrl": "https://www.youtube.com/watch?v=aDq-Kocbgio",
-   "thumb": "https://i.ytimg.com/vi/aDq-Kocbgio/hqdefault_live.jpg"
+   "videoId": "6m-uQynwFRI",
+   "title": "【星空と東京ライブカメラ】TOKYO STARRY SKY LIVE CAMERA 東京ライブカメラ 　#しし座流星群 #leonidmeteorshower",
+   "embedUrl": "https://www.youtube.com/embed/6m-uQynwFRI",
+   "watchUrl": "https://www.youtube.com/watch?v=6m-uQynwFRI",
+   "thumb": "https://i.ytimg.com/vi/6m-uQynwFRI/hqdefault_live.jpg"
   },
   "oshino": {
    "live": true,
