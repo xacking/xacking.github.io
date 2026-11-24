@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-24T00:19:15Z",
- "checked": "2026-11-24T00:19:15Z",
+ "updated": "2026-11-24T10:22:57Z",
+ "checked": "2026-11-24T10:22:57Z",
  "streams": {
   "tvasahi24": {
    "live": true,
@@ -12,19 +12,19 @@
   },
   "ntvlive": {
    "live": true,
-   "videoId": "SUN8vkl3Ico",
-   "title": "【朝ニュースライブ】最新ニュースと生活情報（11月24日） ──THE LATEST NEWS SUMMARY（日テレNEWS LIVE）",
-   "embedUrl": "https://www.youtube.com/embed/SUN8vkl3Ico",
-   "watchUrl": "https://www.youtube.com/watch?v=SUN8vkl3Ico",
-   "thumb": "https://i.ytimg.com/vi/SUN8vkl3Ico/hqdefault_live.jpg"
+   "videoId": "GmT8OIcgibY",
+   "title": "【夜ニュースライブ】最新ニュースと生活情報（11月24日） ──THE LATEST NEWS SUMMARY（日テレNEWS LIVE）",
+   "embedUrl": "https://www.youtube.com/embed/GmT8OIcgibY",
+   "watchUrl": "https://www.youtube.com/watch?v=GmT8OIcgibY",
+   "thumb": "https://i.ytimg.com/vi/GmT8OIcgibY/hqdefault_live.jpg"
   },
   "weathernews": {
    "live": true,
-   "videoId": "jMvYyyKxHR8",
-   "title": "【ライブ】最新天気ニュース・地震情報 2026年11月24日(火)／三連休明けは全国的に雨〈ウェザーニュースLiVEサンシャイン・田辺真南葉／飯島栄一〉",
-   "embedUrl": "https://www.youtube.com/embed/jMvYyyKxHR8",
-   "watchUrl": "https://www.youtube.com/watch?v=jMvYyyKxHR8",
-   "thumb": "https://i.ytimg.com/vi/jMvYyyKxHR8/hqdefault_live.jpg"
+   "videoId": "OHa3Z_so-3g",
+   "title": "【ライブ】最新天気ニュース・地震情報 2026年11月24日(火) ／明日北日本は大雪や吹雪に警戒〈ウェザーニュースLiVEイブニング・戸北美月・宇野沢達也〉",
+   "embedUrl": "https://www.youtube.com/embed/OHa3Z_so-3g",
+   "watchUrl": "https://www.youtube.com/watch?v=OHa3Z_so-3g",
+   "thumb": "https://i.ytimg.com/vi/OHa3Z_so-3g/hqdefault_live.jpg"
   },
   "quake": {
    "live": true,
@@ -51,12 +51,20 @@
    "thumb": "https://i.ytimg.com/vi/PMNZW_A5Zis/hqdefault_live.jpg"
   },
   "sakurajima": {
-   "live": false,
-   "reason": "not-live"
+   "live": true,
+   "videoId": "F9TNaR3eCSw",
+   "title": "ライブカメラ",
+   "embedUrl": "https://www.youtube.com/embed/F9TNaR3eCSw",
+   "watchUrl": "https://www.youtube.com/watch?v=F9TNaR3eCSw",
+   "thumb": "https://i.ytimg.com/vi/F9TNaR3eCSw/hqdefault_live.jpg"
   },
   "toba-otters": {
-   "live": false,
-   "reason": "not-live"
+   "live": true,
+   "videoId": "YonXVFE9C3g",
+   "title": "鳥羽水族館ラッコ水槽ライブカメラ　TOBA AQUARIUM SEA OTTER LIVE CAMERA",
+   "embedUrl": "https://www.youtube.com/embed/YonXVFE9C3g",
+   "watchUrl": "https://www.youtube.com/watch?v=YonXVFE9C3g",
+   "thumb": "https://i.ytimg.com/vi/YonXVFE9C3g/hqdefault_live.jpg"
   },
   "rcc": {
    "live": true,
@@ -68,15 +76,19 @@
   },
   "tbs": {
    "live": true,
-   "videoId": "e_5tuADb4_o",
-   "title": "【ニュースライブ】朝のニュース（Japan News Digest Live）最新情報など（11月24日）｜TBS NEWS DIG",
-   "embedUrl": "https://www.youtube.com/embed/e_5tuADb4_o",
-   "watchUrl": "https://www.youtube.com/watch?v=e_5tuADb4_o",
-   "thumb": "https://i.ytimg.com/vi/e_5tuADb4_o/hqdefault_live.jpg"
+   "videoId": "-O5qtAupZms",
+   "title": "【ニュースライブ】夜のニュース（Japan News Digest Live）最新情報など（11月24日）｜TBS NEWS DIG",
+   "embedUrl": "https://www.youtube.com/embed/-O5qtAupZms",
+   "watchUrl": "https://www.youtube.com/watch?v=-O5qtAupZms",
+   "thumb": "https://i.ytimg.com/vi/-O5qtAupZms/hqdefault_live.jpg"
   },
   "sapporo": {
-   "live": false,
-   "reason": "not-live"
+   "live": true,
+   "videoId": "cmmzyGISccs",
+   "title": "［LIVE CAMERA］札幌 狸小路 ライブカメラ（４丁目） Tanukikoji Shopping Street in Sapporo, Hokkaido, Japan.",
+   "embedUrl": "https://www.youtube.com/embed/cmmzyGISccs",
+   "watchUrl": "https://www.youtube.com/watch?v=cmmzyGISccs",
+   "thumb": "https://i.ytimg.com/vi/cmmzyGISccs/hqdefault_live.jpg"
   },
   "niigata": {
    "live": true,
@@ -88,11 +100,11 @@
   },
   "tokyo-fuji": {
    "live": true,
-   "videoId": "bmpGSCPoW_U",
-   "title": "【東京ライブカメラ】TOKYO LIVE CAMERA.  Mt'Fuji from Tokyo  富士山 紅富士 赤富士 東京からの富士山    #東京ライブカメラ #富士山東京 #東京夜景",
-   "embedUrl": "https://www.youtube.com/embed/bmpGSCPoW_U",
-   "watchUrl": "https://www.youtube.com/watch?v=bmpGSCPoW_U",
-   "thumb": "https://i.ytimg.com/vi/bmpGSCPoW_U/hqdefault_live.jpg"
+   "videoId": "rG8fCv2KM0M",
+   "title": "【星空と東京ライブカメラ】TOKYO STARRY SKY LIVE CAMERA 東京ライブカメラ 　#しし座流星群 #leonidmeteorshower",
+   "embedUrl": "https://www.youtube.com/embed/rG8fCv2KM0M",
+   "watchUrl": "https://www.youtube.com/watch?v=rG8fCv2KM0M",
+   "thumb": "https://i.ytimg.com/vi/rG8fCv2KM0M/hqdefault_live.jpg"
   },
   "oshino": {
    "live": true,
