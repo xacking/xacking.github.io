@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-25T14:17:25Z",
- "checked": "2026-11-25T14:17:25Z",
+ "updated": "2026-11-25T23:16:56Z",
+ "checked": "2026-11-25T23:16:56Z",
  "streams": {
   "tvasahi24": {
    "live": true,
@@ -12,27 +12,27 @@
   },
   "ntvlive": {
    "live": true,
-   "videoId": "aOlAS7r67pk",
-   "title": "【夜ニュースライブ】最新ニュースと生活情報（11月25日） ──THE LATEST NEWS SUMMARY（日テレNEWS LIVE）",
-   "embedUrl": "https://www.youtube.com/embed/aOlAS7r67pk",
-   "watchUrl": "https://www.youtube.com/watch?v=aOlAS7r67pk",
-   "thumb": "https://i.ytimg.com/vi/aOlAS7r67pk/hqdefault_live.jpg"
+   "videoId": "xF4mUihdNaQ",
+   "title": "【朝ニュースライブ】最新ニュースと生活情報（11月26日） ──THE LATEST NEWS SUMMARY（日テレNEWS LIVE）",
+   "embedUrl": "https://www.youtube.com/embed/xF4mUihdNaQ",
+   "watchUrl": "https://www.youtube.com/watch?v=xF4mUihdNaQ",
+   "thumb": "https://i.ytimg.com/vi/xF4mUihdNaQ/hqdefault_live.jpg"
   },
   "weathernews": {
    "live": true,
-   "videoId": "tVo-E-lCwEM",
-   "title": "【ライブ】最新天気ニュース・地震情報 2026年11月25日(水)23:00〜／〈ウェザーニュースLiVE〉",
-   "embedUrl": "https://www.youtube.com/embed/tVo-E-lCwEM",
-   "watchUrl": "https://www.youtube.com/watch?v=tVo-E-lCwEM",
-   "thumb": "https://i.ytimg.com/vi/tVo-E-lCwEM/hqdefault_live.jpg"
+   "videoId": "9Ch3RjSYctE",
+   "title": "【ライブ】最新天気ニュース・地震情報 2026年11月26日(木) ／北日本は雨や雪　関東から近畿は日差し届く〈ウェザーニュースLiVEサンシャイン・田辺真南葉／芳野達郎〉",
+   "embedUrl": "https://www.youtube.com/embed/9Ch3RjSYctE",
+   "watchUrl": "https://www.youtube.com/watch?v=9Ch3RjSYctE",
+   "thumb": "https://i.ytimg.com/vi/9Ch3RjSYctE/hqdefault_live.jpg"
   },
   "quake": {
    "live": true,
-   "videoId": "r8arrQyehLM",
+   "videoId": "hKg92PFKxWY",
    "title": "【地震ライブ】緊急地震速報 24時間リアルタイム配信中 ウェザーニュース／Earthquake Alert Japan Live",
-   "embedUrl": "https://www.youtube.com/embed/r8arrQyehLM",
-   "watchUrl": "https://www.youtube.com/watch?v=r8arrQyehLM",
-   "thumb": "https://i.ytimg.com/vi/r8arrQyehLM/hqdefault_live.jpg"
+   "embedUrl": "https://www.youtube.com/embed/hKg92PFKxWY",
+   "watchUrl": "https://www.youtube.com/watch?v=hKg92PFKxWY",
+   "thumb": "https://i.ytimg.com/vi/hKg92PFKxWY/hqdefault_live.jpg"
   },
   "dotonbori": {
    "live": true,
@@ -76,11 +76,11 @@
   },
   "tbs": {
    "live": true,
-   "videoId": "yMCHBxxLmP4",
-   "title": "【ニュースライブ】最新ニュースまとめ（Japan News Digest）（11月25日）｜TBS NEWS DIG",
-   "embedUrl": "https://www.youtube.com/embed/yMCHBxxLmP4",
-   "watchUrl": "https://www.youtube.com/watch?v=yMCHBxxLmP4",
-   "thumb": "https://i.ytimg.com/vi/yMCHBxxLmP4/hqdefault_live.jpg"
+   "videoId": "8ZIiYNIeTlU",
+   "title": "【ニュースライブ】朝のニュース（Japan News Digest Live）最新情報など（11月26日）｜TBS NEWS DIG",
+   "embedUrl": "https://www.youtube.com/embed/8ZIiYNIeTlU",
+   "watchUrl": "https://www.youtube.com/watch?v=8ZIiYNIeTlU",
+   "thumb": "https://i.ytimg.com/vi/8ZIiYNIeTlU/hqdefault_live.jpg"
   },
   "sapporo": {
    "live": true,
@@ -100,11 +100,11 @@
   },
   "tokyo-fuji": {
    "live": true,
-   "videoId": "nZqGCx3smjE",
-   "title": "【星空と東京ライブカメラ】TOKYO STARRY SKY LIVE CAMERA 東京ライブカメラ 　#しし座流星群 #leonidmeteorshower",
-   "embedUrl": "https://www.youtube.com/embed/nZqGCx3smjE",
-   "watchUrl": "https://www.youtube.com/watch?v=nZqGCx3smjE",
-   "thumb": "https://i.ytimg.com/vi/nZqGCx3smjE/hqdefault_live.jpg"
+   "videoId": "plSiL7t0eSw",
+   "title": "【東京ライブカメラ】TOKYO LIVE CAMERA.  Mt'Fuji from Tokyo  富士山 紅富士 赤富士 東京からの富士山    #東京ライブカメラ #富士山東京 #東京夜景",
+   "embedUrl": "https://www.youtube.com/embed/plSiL7t0eSw",
+   "watchUrl": "https://www.youtube.com/watch?v=plSiL7t0eSw",
+   "thumb": "https://i.ytimg.com/vi/plSiL7t0eSw/hqdefault_live.jpg"
   },
   "oshino": {
    "live": true,
@@ -123,8 +123,12 @@
    "thumb": "https://i.ytimg.com/vi/CeSitkT_nbw/hqdefault_live.jpg"
   },
   "tottori": {
-   "live": false,
-   "reason": "not-live"
+   "live": true,
+   "videoId": "WiH4eqhNbAE",
+   "title": "鳥取市伏野海岸ライブカメラ　The Sea of Japan live camera.",
+   "embedUrl": "https://www.youtube.com/embed/WiH4eqhNbAE",
+   "watchUrl": "https://www.youtube.com/watch?v=WiH4eqhNbAE",
+   "thumb": "https://i.ytimg.com/vi/WiH4eqhNbAE/hqdefault_live.jpg"
   },
   "kurushima": {
    "live": true,
