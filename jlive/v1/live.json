@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-26T05:25:38Z",
- "checked": "2026-11-26T05:25:38Z",
+ "updated": "2026-11-26T15:43:57Z",
+ "checked": "2026-11-26T15:43:57Z",
  "streams": {
   "tvasahi24": {
    "live": true,
@@ -12,19 +12,19 @@
   },
   "ntvlive": {
    "live": true,
-   "videoId": "JY4GviLHVgg",
-   "title": "【ライブ】日銀・田村審議委員 記者会見　山梨県金融経済懇談会をおえて ──経済ニュースライブ（日テレNEWS LIVE）",
-   "embedUrl": "https://www.youtube.com/embed/JY4GviLHVgg",
-   "watchUrl": "https://www.youtube.com/watch?v=JY4GviLHVgg",
-   "thumb": "https://i.ytimg.com/vi/JY4GviLHVgg/hqdefault_live.jpg"
+   "videoId": "8ITOZV3QDdI",
+   "title": "【夜ニュースライブ】最新ニュースと生活情報（11月26日） ──THE LATEST NEWS SUMMARY（日テレNEWS LIVE）",
+   "embedUrl": "https://www.youtube.com/embed/8ITOZV3QDdI",
+   "watchUrl": "https://www.youtube.com/watch?v=8ITOZV3QDdI",
+   "thumb": "https://i.ytimg.com/vi/8ITOZV3QDdI/hqdefault_live.jpg"
   },
   "weathernews": {
    "live": true,
-   "videoId": "KwLUqJUI13I",
-   "title": "【ライブ】最新天気ニュース・地震情報 2026年11月26日(木)／沖縄は夕方以降雨の強まりに注意　明日は西から天気下り坂〈ウェザーニュースLiVEアフタヌーン・白井ゆかり／宇野沢達也〉",
-   "embedUrl": "https://www.youtube.com/embed/KwLUqJUI13I",
-   "watchUrl": "https://www.youtube.com/watch?v=KwLUqJUI13I",
-   "thumb": "https://i.ytimg.com/vi/KwLUqJUI13I/hqdefault_live.jpg"
+   "videoId": "GNm1tnrREPM",
+   "title": "【ライブ】最新天気ニュース・地震情報 2026年11月26日(木)23:00〜／西から雨エリア拡大　日中は季節外れの暖かさ〈ウェザーニュースLiVE〉",
+   "embedUrl": "https://www.youtube.com/embed/GNm1tnrREPM",
+   "watchUrl": "https://www.youtube.com/watch?v=GNm1tnrREPM",
+   "thumb": "https://i.ytimg.com/vi/GNm1tnrREPM/hqdefault_live.jpg"
   },
   "quake": {
    "live": true,
@@ -76,11 +76,11 @@
   },
   "tbs": {
    "live": true,
-   "videoId": "oUQo6tkTnWI",
-   "title": "【ニュースライブ】昼のニュース（Japan News Digest Live）最新情報など（11月26日）｜TBS NEWS DIG",
-   "embedUrl": "https://www.youtube.com/embed/oUQo6tkTnWI",
-   "watchUrl": "https://www.youtube.com/watch?v=oUQo6tkTnWI",
-   "thumb": "https://i.ytimg.com/vi/oUQo6tkTnWI/hqdefault_live.jpg"
+   "videoId": "y-23N-_JGUk",
+   "title": "【ニュースライブ】最新ニュースまとめ（Japan News Digest）（11月26日）｜TBS NEWS DIG",
+   "embedUrl": "https://www.youtube.com/embed/y-23N-_JGUk",
+   "watchUrl": "https://www.youtube.com/watch?v=y-23N-_JGUk",
+   "thumb": "https://i.ytimg.com/vi/y-23N-_JGUk/hqdefault_live.jpg"
   },
   "sapporo": {
    "live": true,
@@ -100,11 +100,11 @@
   },
   "tokyo-fuji": {
    "live": true,
-   "videoId": "plSiL7t0eSw",
-   "title": "【東京ライブカメラ】TOKYO LIVE CAMERA.  Mt'Fuji from Tokyo  富士山 紅富士 赤富士 東京からの富士山    #東京ライブカメラ #富士山東京 #東京夜景",
-   "embedUrl": "https://www.youtube.com/embed/plSiL7t0eSw",
-   "watchUrl": "https://www.youtube.com/watch?v=plSiL7t0eSw",
-   "thumb": "https://i.ytimg.com/vi/plSiL7t0eSw/hqdefault_live.jpg"
+   "videoId": "xODU1P5YW_U",
+   "title": "【星空と東京ライブカメラ】TOKYO STARRY SKY LIVE CAMERA 東京ライブカメラ 　#しし座流星群 #leonidmeteorshower",
+   "embedUrl": "https://www.youtube.com/embed/xODU1P5YW_U",
+   "watchUrl": "https://www.youtube.com/watch?v=xODU1P5YW_U",
+   "thumb": "https://i.ytimg.com/vi/xODU1P5YW_U/hqdefault_live.jpg"
   },
   "oshino": {
    "live": true,
