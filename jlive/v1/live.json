@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-25T23:16:56Z",
- "checked": "2026-11-25T23:16:56Z",
+ "updated": "2026-11-26T05:25:38Z",
+ "checked": "2026-11-26T05:25:38Z",
  "streams": {
   "tvasahi24": {
    "live": true,
@@ -12,19 +12,19 @@
   },
   "ntvlive": {
    "live": true,
-   "videoId": "xF4mUihdNaQ",
-   "title": "【朝ニュースライブ】最新ニュースと生活情報（11月26日） ──THE LATEST NEWS SUMMARY（日テレNEWS LIVE）",
-   "embedUrl": "https://www.youtube.com/embed/xF4mUihdNaQ",
-   "watchUrl": "https://www.youtube.com/watch?v=xF4mUihdNaQ",
-   "thumb": "https://i.ytimg.com/vi/xF4mUihdNaQ/hqdefault_live.jpg"
+   "videoId": "JY4GviLHVgg",
+   "title": "【ライブ】日銀・田村審議委員 記者会見　山梨県金融経済懇談会をおえて ──経済ニュースライブ（日テレNEWS LIVE）",
+   "embedUrl": "https://www.youtube.com/embed/JY4GviLHVgg",
+   "watchUrl": "https://www.youtube.com/watch?v=JY4GviLHVgg",
+   "thumb": "https://i.ytimg.com/vi/JY4GviLHVgg/hqdefault_live.jpg"
   },
   "weathernews": {
    "live": true,
-   "videoId": "9Ch3RjSYctE",
-   "title": "【ライブ】最新天気ニュース・地震情報 2026年11月26日(木) ／北日本は雨や雪　関東から近畿は日差し届く〈ウェザーニュースLiVEサンシャイン・田辺真南葉／芳野達郎〉",
-   "embedUrl": "https://www.youtube.com/embed/9Ch3RjSYctE",
-   "watchUrl": "https://www.youtube.com/watch?v=9Ch3RjSYctE",
-   "thumb": "https://i.ytimg.com/vi/9Ch3RjSYctE/hqdefault_live.jpg"
+   "videoId": "KwLUqJUI13I",
+   "title": "【ライブ】最新天気ニュース・地震情報 2026年11月26日(木)／沖縄は夕方以降雨の強まりに注意　明日は西から天気下り坂〈ウェザーニュースLiVEアフタヌーン・白井ゆかり／宇野沢達也〉",
+   "embedUrl": "https://www.youtube.com/embed/KwLUqJUI13I",
+   "watchUrl": "https://www.youtube.com/watch?v=KwLUqJUI13I",
+   "thumb": "https://i.ytimg.com/vi/KwLUqJUI13I/hqdefault_live.jpg"
   },
   "quake": {
    "live": true,
@@ -76,11 +76,11 @@
   },
   "tbs": {
    "live": true,
-   "videoId": "8ZIiYNIeTlU",
-   "title": "【ニュースライブ】朝のニュース（Japan News Digest Live）最新情報など（11月26日）｜TBS NEWS DIG",
-   "embedUrl": "https://www.youtube.com/embed/8ZIiYNIeTlU",
-   "watchUrl": "https://www.youtube.com/watch?v=8ZIiYNIeTlU",
-   "thumb": "https://i.ytimg.com/vi/8ZIiYNIeTlU/hqdefault_live.jpg"
+   "videoId": "oUQo6tkTnWI",
+   "title": "【ニュースライブ】昼のニュース（Japan News Digest Live）最新情報など（11月26日）｜TBS NEWS DIG",
+   "embedUrl": "https://www.youtube.com/embed/oUQo6tkTnWI",
+   "watchUrl": "https://www.youtube.com/watch?v=oUQo6tkTnWI",
+   "thumb": "https://i.ytimg.com/vi/oUQo6tkTnWI/hqdefault_live.jpg"
   },
   "sapporo": {
    "live": true,
