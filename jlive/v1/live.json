@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-27T09:01:50Z",
- "checked": "2026-11-27T09:01:50Z",
+ "updated": "2026-11-27T18:53:32Z",
+ "checked": "2026-11-27T18:53:32Z",
  "streams": {
   "tvasahi24": {
    "live": true,
@@ -12,27 +12,27 @@
   },
   "ntvlive": {
    "live": true,
-   "videoId": "Oggz41WR__Y",
-   "title": "【夕ニュースライブ】最新ニュースと生活情報（11月27日） ──THE LATEST NEWS SUMMARY（日テレNEWS LIVE）",
-   "embedUrl": "https://www.youtube.com/embed/Oggz41WR__Y",
-   "watchUrl": "https://www.youtube.com/watch?v=Oggz41WR__Y",
-   "thumb": "https://i.ytimg.com/vi/Oggz41WR__Y/hqdefault_live.jpg"
+   "videoId": "M0M6QV8SQkU",
+   "title": "【夜ニュースライブ】最新ニュースと生活情報（11月27日） ──THE LATEST NEWS SUMMARY（日テレNEWS LIVE）",
+   "embedUrl": "https://www.youtube.com/embed/M0M6QV8SQkU",
+   "watchUrl": "https://www.youtube.com/watch?v=M0M6QV8SQkU",
+   "thumb": "https://i.ytimg.com/vi/M0M6QV8SQkU/hqdefault_live.jpg"
   },
   "weathernews": {
    "live": true,
-   "videoId": "o5bkfJhSsxM",
-   "title": "【ライブ】最新天気ニュース・地震情報 2026年11月27日(金) ／関東夜から天気崩れる　明日は全国的に雨〈ウェザーニュースLiVEイブニング・駒木結衣／宇野沢達也〉",
-   "embedUrl": "https://www.youtube.com/embed/o5bkfJhSsxM",
-   "watchUrl": "https://www.youtube.com/watch?v=o5bkfJhSsxM",
-   "thumb": "https://i.ytimg.com/vi/o5bkfJhSsxM/hqdefault_live.jpg"
+   "videoId": "X7T5b35wARs",
+   "title": "【ライブ】最新天気ニュース・地震情報 2026年11月27日(金)23:00〜／全国的に広く雨　朝は関東南岸で強雨の可能性〈ウェザーニュースLiVE〉",
+   "embedUrl": "https://www.youtube.com/embed/X7T5b35wARs",
+   "watchUrl": "https://www.youtube.com/watch?v=X7T5b35wARs",
+   "thumb": "https://i.ytimg.com/vi/X7T5b35wARs/hqdefault_live.jpg"
   },
   "quake": {
    "live": true,
-   "videoId": "yRcQODehJxA",
+   "videoId": "dMhISwoGsjI",
    "title": "【地震ライブ】緊急地震速報 24時間リアルタイム配信中 ウェザーニュース／Earthquake Alert Japan Live",
-   "embedUrl": "https://www.youtube.com/embed/yRcQODehJxA",
-   "watchUrl": "https://www.youtube.com/watch?v=yRcQODehJxA",
-   "thumb": "https://i.ytimg.com/vi/yRcQODehJxA/hqdefault_live.jpg"
+   "embedUrl": "https://www.youtube.com/embed/dMhISwoGsjI",
+   "watchUrl": "https://www.youtube.com/watch?v=dMhISwoGsjI",
+   "thumb": "https://i.ytimg.com/vi/dMhISwoGsjI/hqdefault_live.jpg"
   },
   "dotonbori": {
    "live": true,
@@ -76,11 +76,11 @@
   },
   "tbs": {
    "live": true,
-   "videoId": "jzyS9PG_Iiw",
-   "title": "【ニュースライブ】夜のニュース（Japan News Digest Live）最新情報など（11月27日）｜TBS NEWS DIG",
-   "embedUrl": "https://www.youtube.com/embed/jzyS9PG_Iiw",
-   "watchUrl": "https://www.youtube.com/watch?v=jzyS9PG_Iiw",
-   "thumb": "https://i.ytimg.com/vi/jzyS9PG_Iiw/hqdefault_live.jpg"
+   "videoId": "rXLzsP5wouM",
+   "title": "【ニュースライブ】最新ニュースまとめ（Japan News Digest）（11月27日）｜TBS NEWS DIG",
+   "embedUrl": "https://www.youtube.com/embed/rXLzsP5wouM",
+   "watchUrl": "https://www.youtube.com/watch?v=rXLzsP5wouM",
+   "thumb": "https://i.ytimg.com/vi/rXLzsP5wouM/hqdefault_live.jpg"
   },
   "sapporo": {
    "live": true,
