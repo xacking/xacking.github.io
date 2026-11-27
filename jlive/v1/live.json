@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-26T15:43:57Z",
- "checked": "2026-11-26T15:43:57Z",
+ "updated": "2026-11-27T00:32:08Z",
+ "checked": "2026-11-27T00:32:08Z",
  "streams": {
   "tvasahi24": {
    "live": true,
@@ -12,27 +12,27 @@
   },
   "ntvlive": {
    "live": true,
-   "videoId": "8ITOZV3QDdI",
-   "title": "【夜ニュースライブ】最新ニュースと生活情報（11月26日） ──THE LATEST NEWS SUMMARY（日テレNEWS LIVE）",
-   "embedUrl": "https://www.youtube.com/embed/8ITOZV3QDdI",
-   "watchUrl": "https://www.youtube.com/watch?v=8ITOZV3QDdI",
-   "thumb": "https://i.ytimg.com/vi/8ITOZV3QDdI/hqdefault_live.jpg"
+   "videoId": "5pvwdy3cOm0",
+   "title": "【朝ニュースライブ】最新ニュースと生活情報（11月27日） ──THE LATEST NEWS SUMMARY（日テレNEWS LIVE）",
+   "embedUrl": "https://www.youtube.com/embed/5pvwdy3cOm0",
+   "watchUrl": "https://www.youtube.com/watch?v=5pvwdy3cOm0",
+   "thumb": "https://i.ytimg.com/vi/5pvwdy3cOm0/hqdefault_live.jpg"
   },
   "weathernews": {
    "live": true,
-   "videoId": "GNm1tnrREPM",
-   "title": "【ライブ】最新天気ニュース・地震情報 2026年11月26日(木)23:00〜／西から雨エリア拡大　日中は季節外れの暖かさ〈ウェザーニュースLiVE〉",
-   "embedUrl": "https://www.youtube.com/embed/GNm1tnrREPM",
-   "watchUrl": "https://www.youtube.com/watch?v=GNm1tnrREPM",
-   "thumb": "https://i.ytimg.com/vi/GNm1tnrREPM/hqdefault_live.jpg"
+   "videoId": "z6Qa8q8oI08",
+   "title": "【ライブ】最新天気ニュース・地震情報 2026年11月27日(金) ／西日本は西から雨エリア拡大 全国的に季節外れの暖かさ〈ウェザーニュースLiVEサンシャイン・青原桃香／山口剛央〉",
+   "embedUrl": "https://www.youtube.com/embed/z6Qa8q8oI08",
+   "watchUrl": "https://www.youtube.com/watch?v=z6Qa8q8oI08",
+   "thumb": "https://i.ytimg.com/vi/z6Qa8q8oI08/hqdefault_live.jpg"
   },
   "quake": {
    "live": true,
-   "videoId": "hKg92PFKxWY",
+   "videoId": "yRcQODehJxA",
    "title": "【地震ライブ】緊急地震速報 24時間リアルタイム配信中 ウェザーニュース／Earthquake Alert Japan Live",
-   "embedUrl": "https://www.youtube.com/embed/hKg92PFKxWY",
-   "watchUrl": "https://www.youtube.com/watch?v=hKg92PFKxWY",
-   "thumb": "https://i.ytimg.com/vi/hKg92PFKxWY/hqdefault_live.jpg"
+   "embedUrl": "https://www.youtube.com/embed/yRcQODehJxA",
+   "watchUrl": "https://www.youtube.com/watch?v=yRcQODehJxA",
+   "thumb": "https://i.ytimg.com/vi/yRcQODehJxA/hqdefault_live.jpg"
   },
   "dotonbori": {
    "live": true,
@@ -76,11 +76,11 @@
   },
   "tbs": {
    "live": true,
-   "videoId": "y-23N-_JGUk",
-   "title": "【ニュースライブ】最新ニュースまとめ（Japan News Digest）（11月26日）｜TBS NEWS DIG",
-   "embedUrl": "https://www.youtube.com/embed/y-23N-_JGUk",
-   "watchUrl": "https://www.youtube.com/watch?v=y-23N-_JGUk",
-   "thumb": "https://i.ytimg.com/vi/y-23N-_JGUk/hqdefault_live.jpg"
+   "videoId": "ovBKcExPk2g",
+   "title": "【関芳弘 文科大臣】閣議後会見 野党が提出の問責決議案きょう採決へ 政治資金パーティーめぐり追及（2026年11月27日午前 LIVE配信）｜TBS NEWS DIG",
+   "embedUrl": "https://www.youtube.com/embed/ovBKcExPk2g",
+   "watchUrl": "https://www.youtube.com/watch?v=ovBKcExPk2g",
+   "thumb": "https://i.ytimg.com/vi/ovBKcExPk2g/hqdefault_live.jpg"
   },
   "sapporo": {
    "live": true,
@@ -100,11 +100,11 @@
   },
   "tokyo-fuji": {
    "live": true,
-   "videoId": "xODU1P5YW_U",
-   "title": "【星空と東京ライブカメラ】TOKYO STARRY SKY LIVE CAMERA 東京ライブカメラ 　#しし座流星群 #leonidmeteorshower",
-   "embedUrl": "https://www.youtube.com/embed/xODU1P5YW_U",
-   "watchUrl": "https://www.youtube.com/watch?v=xODU1P5YW_U",
-   "thumb": "https://i.ytimg.com/vi/xODU1P5YW_U/hqdefault_live.jpg"
+   "videoId": "SGuO3DKDazQ",
+   "title": "【東京ライブカメラ】TOKYO LIVE CAMERA.  Mt'Fuji from Tokyo  富士山 紅富士 赤富士 東京からの富士山    #東京ライブカメラ #富士山東京 #東京夜景",
+   "embedUrl": "https://www.youtube.com/embed/SGuO3DKDazQ",
+   "watchUrl": "https://www.youtube.com/watch?v=SGuO3DKDazQ",
+   "thumb": "https://i.ytimg.com/vi/SGuO3DKDazQ/hqdefault_live.jpg"
   },
   "oshino": {
    "live": true,
