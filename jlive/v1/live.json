@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-28T01:55:19Z",
- "checked": "2026-11-28T01:55:19Z",
+ "updated": "2026-11-28T10:16:23Z",
+ "checked": "2026-11-28T10:16:23Z",
  "streams": {
   "tvasahi24": {
    "live": true,
@@ -12,19 +12,19 @@
   },
   "ntvlive": {
    "live": true,
-   "videoId": "wFCXkVLyQr4",
-   "title": "【朝ニュースライブ】最新ニュースと生活情報（11月28日） ──THE LATEST NEWS SUMMARY（日テレNEWS LIVE）",
-   "embedUrl": "https://www.youtube.com/embed/wFCXkVLyQr4",
-   "watchUrl": "https://www.youtube.com/watch?v=wFCXkVLyQr4",
-   "thumb": "https://i.ytimg.com/vi/wFCXkVLyQr4/hqdefault_live.jpg"
+   "videoId": "CExGvLSRghg",
+   "title": "【昼ニュースライブ】最新ニュースと生活情報（11月28日） ──THE LATEST NEWS SUMMARY（日テレNEWS LIVE）",
+   "embedUrl": "https://www.youtube.com/embed/CExGvLSRghg",
+   "watchUrl": "https://www.youtube.com/watch?v=CExGvLSRghg",
+   "thumb": "https://i.ytimg.com/vi/CExGvLSRghg/hqdefault_live.jpg"
   },
   "weathernews": {
    "live": true,
-   "videoId": "r8r6iCFHY1U",
-   "title": "【ライブ】最新天気ニュース・地震情報 2026年11月28日(土)／低気圧と前線で広く雨や雷　夜は朝より冷える〈ウェザーニュースLiVEコーヒータイム・松本真央／山口剛央〉",
-   "embedUrl": "https://www.youtube.com/embed/r8r6iCFHY1U",
-   "watchUrl": "https://www.youtube.com/watch?v=r8r6iCFHY1U",
-   "thumb": "https://i.ytimg.com/vi/r8r6iCFHY1U/hqdefault_live.jpg"
+   "videoId": "43pVk7dvuO8",
+   "title": "【ライブ】最新天気ニュース・地震情報 2026年11月28日(土) ／低気圧と前線で広く雨や雷　夜は朝より冷える〈ウェザーニュースLiVEイブニング・駒木結衣／内藤邦裕〉",
+   "embedUrl": "https://www.youtube.com/embed/43pVk7dvuO8",
+   "watchUrl": "https://www.youtube.com/watch?v=43pVk7dvuO8",
+   "thumb": "https://i.ytimg.com/vi/43pVk7dvuO8/hqdefault_live.jpg"
   },
   "quake": {
    "live": true,
@@ -43,12 +43,8 @@
    "thumb": "https://i.ytimg.com/vi/6OgYfTMOmhY/hqdefault_live.jpg"
   },
   "fuji-shizuoka": {
-   "live": true,
-   "videoId": "PMNZW_A5Zis",
-   "title": "『静岡各地情報カメラ』Daiichi-TV LIVE配信（緊急時にはニュースを配信）",
-   "embedUrl": "https://www.youtube.com/embed/PMNZW_A5Zis",
-   "watchUrl": "https://www.youtube.com/watch?v=PMNZW_A5Zis",
-   "thumb": "https://i.ytimg.com/vi/PMNZW_A5Zis/hqdefault_live.jpg"
+   "live": false,
+   "reason": "not-live"
   },
   "sakurajima": {
    "live": true,
@@ -76,19 +72,15 @@
   },
   "tbs": {
    "live": true,
-   "videoId": "8U-tBagQD-0",
-   "title": "【ニュースライブ】朝のニュース（Japan News Digest Live）最新情報など（11月28日）｜TBS NEWS DIG",
-   "embedUrl": "https://www.youtube.com/embed/8U-tBagQD-0",
-   "watchUrl": "https://www.youtube.com/watch?v=8U-tBagQD-0",
-   "thumb": "https://i.ytimg.com/vi/8U-tBagQD-0/hqdefault_live.jpg"
+   "videoId": "g08_T4loJ_I",
+   "title": "【ニュースライブ】夜のニュース（Japan News Digest Live）最新情報など（11月28日）｜TBS NEWS DIG",
+   "embedUrl": "https://www.youtube.com/embed/g08_T4loJ_I",
+   "watchUrl": "https://www.youtube.com/watch?v=g08_T4loJ_I",
+   "thumb": "https://i.ytimg.com/vi/g08_T4loJ_I/hqdefault_live.jpg"
   },
   "sapporo": {
-   "live": true,
-   "videoId": "cmmzyGISccs",
-   "title": "［LIVE CAMERA］札幌 狸小路 ライブカメラ（４丁目） Tanukikoji Shopping Street in Sapporo, Hokkaido, Japan.",
-   "embedUrl": "https://www.youtube.com/embed/cmmzyGISccs",
-   "watchUrl": "https://www.youtube.com/watch?v=cmmzyGISccs",
-   "thumb": "https://i.ytimg.com/vi/cmmzyGISccs/hqdefault_live.jpg"
+   "live": false,
+   "reason": "not-live"
   },
   "niigata": {
    "live": true,
@@ -100,11 +92,11 @@
   },
   "tokyo-fuji": {
    "live": true,
-   "videoId": "ouhUAYo-Vfg",
-   "title": "【東京ライブカメラ】TOKYO LIVE CAMERA.  Mt'Fuji from Tokyo  富士山 紅富士 赤富士 東京からの富士山    #東京ライブカメラ #富士山東京 #東京夜景",
-   "embedUrl": "https://www.youtube.com/embed/ouhUAYo-Vfg",
-   "watchUrl": "https://www.youtube.com/watch?v=ouhUAYo-Vfg",
-   "thumb": "https://i.ytimg.com/vi/ouhUAYo-Vfg/hqdefault_live.jpg"
+   "videoId": "LWoKdfCheUw",
+   "title": "【星空と東京ライブカメラ】TOKYO STARRY SKY LIVE CAMERA 東京ライブカメラ 　#しし座流星群 #leonidmeteorshower",
+   "embedUrl": "https://www.youtube.com/embed/LWoKdfCheUw",
+   "watchUrl": "https://www.youtube.com/watch?v=LWoKdfCheUw",
+   "thumb": "https://i.ytimg.com/vi/LWoKdfCheUw/hqdefault_live.jpg"
   },
   "oshino": {
    "live": true,
